@@ -52,6 +52,8 @@ export default {
       axios.get("/db/sections.json")
     ]);
 
+    console.log(params)
+
     const comedian = comedians.data.find(c => c.id == params.id);
 
     if (comedian == undefined) {
