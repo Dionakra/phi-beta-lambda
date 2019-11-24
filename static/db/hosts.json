@@ -1,0 +1,31 @@
+[
+  {
+    "id": "antonio-castelo",
+    "name": "Antonio Castelo",
+    "twitter": "SrCastelo",
+    "instagram": "srcastelo",
+    "description": "hosts.antonio-castelo.description",
+    "sections": []
+  },{
+    "id": "miguel-campos",
+    "name": "Miguel Campos",
+    "twitter": "mcamposgalan",
+    "instagram": "mcamposgalan",
+    "description": "hosts.miguel-campos.description",
+    "sections": ["sections.miguel-campos.roast.title", "sections.miguel-campos.penamora.title"]
+  },{
+    "id": "iggy-rubin",
+    "name": "Iggy Rubín",
+    "twitter": "iggyrubin",
+    "instagram": "iggyrubin",
+    "description": "hosts.iggy-rubin.description",
+    "sections": ["sections.iggy-rubin.thankyou.title", "sections.iggy-rubin.festivales.title"]
+  },{
+    "id": "jorge-yorya",
+    "name": "Jorge Yorya",
+    "twitter": "JorgeYorya",
+    "instagram": "jorgeyorya",
+    "description": "hosts.jorge-yorya.description",
+    "sections": ["sections.jorge-yorya.giorgio.name"]
+  }
+]

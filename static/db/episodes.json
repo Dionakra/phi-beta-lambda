@@ -1,0 +1,744 @@
+[
+  {
+    "id": "s01e01",
+    "season": 1,
+    "episode": 1,
+    "title": "Nos reimos todos",
+    "link": "https://www.youtube.com/watch?v=gk8Uo5ZZ0sk",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "george-carlin"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "hannah-gadsby"
+          ],
+          "show": {
+            "name": "Nanette",
+            "platform": "Netflix"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "rober-bodegas",
+      "hovik",
+      "kaco-forns",
+      "miki-dkai",
+      "alberto-casado",
+      "dani-rovira",
+      "borja-sumozas",
+      "nacho-garcia",
+      "louis-ck",
+      "chris-rock",
+      "danny-boy",
+      "david-broncano",
+      "sarah-silverman",
+      "bill-maher"
+    ],
+    "special": "juan-carlos-cordoba"
+  },
+  {
+    "id": "s01e02",
+    "season": 1,
+    "episode": 2,
+    "title": "El ocaso",
+    "link": "https://www.youtube.com/watch?v=lScVJT2ihr8",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "dave-chappelle"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "drew-michael"
+          ],
+          "show": {
+            "name": "Drew Michael",
+            "platform": "HBO"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "ignatius-farray",
+      "garry-shandling",
+      "judd-apatow",
+      "jim-carrey",
+      "andy-kaufman",
+      "john-oliver",
+      "kamau-bell",
+      "tiffany-haddish",
+      "katt-williams",
+      "angel-garo",
+      "rober-bodegas",
+      "antonio-lorente",
+      "donald-glover",
+      "valeria-ros",
+      "elsa-ruiz",
+      "joaquin-reyes",
+      "ernesto-sevilla",
+      "penny-jay",
+      "martin-lawrence",
+      "chris-rock",
+      "miguel-noguera",
+      "leo-harlem",
+      "diego-pena",
+      "dani-mateo",
+      "hannah-gadsby",
+      "hannibal-buress",
+      "cameron-esposito",
+      "kyle-kinane",
+      "dan-ronan",
+      "maria-bandford",
+      "jerrod-carmichael",
+      "drew-carey",
+      "jorge-ponce",
+      "conan-obrien"
+    ],
+    "shows": [
+      "rick-and-morty",
+      "the-zen-diaries",
+      "saturday-night-live",
+      "man-on-the-moon",
+      "united-shades-of-america",
+      "jim-and-andy",
+      "conan-without-borders",
+      "atlanta",
+      "capitulo-0",
+      "def-comedy-jam"
+    ]
+  },
+  {
+    "id": "s01e03",
+    "season": 1,
+    "episode": 3,
+    "title": "La broma se hace larga",
+    "link": "https://www.youtube.com/watch?v=ySmMfFiBraw",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "norm-macdonald"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "iliza-shlesinger"
+          ],
+          "show": {
+            "name": "Elder Millenial",
+            "platform": "Netflix"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "david-letterman",
+      "jay-leno",
+      "roseanne-barr",
+      "louis-ck",
+      "whoopi-goldberg",
+      "david-spade",
+      "hannah-gadsby",
+      "eddie-murphy",
+      "bill-cosby",
+      "seth-meyers",
+      "bob-saget",
+      "ignatius-farray",
+      "katt-williams",
+      "michael-che",
+      "colin-jost",
+      "miguel-esteban",
+      "john-mulaney",
+      "nick-kroll",
+      "michelle-wolf",
+      "patton-oswalt",
+      "steve-martin",
+      "martin-short",
+      "lorne-michaels",
+      "edu-galan",
+      "joaquin-reyes",
+      "ernesto-sevilla",
+      "doug-stanhope",
+      "chris-duffy",
+      "aziz-ansari",
+      "joe-rogan",
+      "jorge-ponce",
+      "rober-bodegas",
+      "carmen-romero",
+      "david-suarez"
+    ],
+    "shows": [
+      "norm-macdonald-has-a-show",
+      "roseanne",
+      "el-fin-de-la-comedia",
+      "kid-gorgeous",
+      "the-comeback-kid",
+      "saturday-night-live"
+    ]
+  },
+  {
+    "id": "s01e04",
+    "season": 1,
+    "episode": 4,
+    "title": "Con Miguel Lago",
+    "link": "https://www.youtube.com/watch?v=lH9fUGs9ogQ",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [
+      "miguel-lago"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "sam-kinison"
+          ]
+        }
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "judah-friedlander"
+          ],
+          "show": {
+            "name": "America Is the Greatest Country in the United States",
+            "platform": "Netflix"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "bill-hicks",
+      "joe-rogan",
+      "greg-giraldo",
+      "gilbert-gottfried",
+      "gran-wyoming",
+      "jeff-ross",
+      "anthony-jeselnik",
+      "david-suarez",
+      "chevy-chase",
+      "patrice-oneal",
+      "lisa-lampanelli",
+      "jeff-foxworthy",
+      "larry-the-cable-guy",
+      "bill-engvall",
+      "katt-williams",
+      "carrot-top",
+      "bob-saget",
+      "norm-macdonald",
+      "cheech-and-chong",
+      "ralphie-may",
+      "joan-rivers",
+      "juan-carlos-cordoba",
+      "jj-vaquero",
+      "alex-clavero",
+      "quique-matilla",
+      "nacho-garcia",
+      "fran-el-chavo",
+      "chris-rock",
+      "dave-chappelle",
+      "louis-ck",
+      "jerry-seinfeld",
+      "joaquin-reyes",
+      "monique",
+      "ignatius-farray",
+      "arevalo",
+      "berto-romero",
+      "paco-calavera",
+      "toni-moog",
+      "miky-mc-phantom",
+      "dani-mateo",
+      "jim-jefferies",
+      "david-letterman",
+      "jaime-muela",
+      "kaco-forns",
+      "moncho-borrajo",
+      "mitch-hedberg"
+    ],
+    "shows": [
+      "show-david-letterman",
+      "just-for-laughs",
+      "30-rock",
+      "el-fin-de-la-comedia"
+    ],
+    "books": [
+      "gamberro-y-caballero"
+    ]
+  },
+  {
+    "id": "s01e05",
+    "season": 1,
+    "episode": 5,
+    "title": "El que no hace gracia es buenísimo",
+    "link": "https://www.youtube.com/watch?v=yL67emOpvtE",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "jerry-seinfeld"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "cameron-esposito"
+          ],
+          "show": {
+            "name": "Rape Jokes",
+            "platform": "Netflix"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "larry-david",
+      "jj-vaquero",
+      "denny-horror",
+      "miguel-esteban",
+      "anthony-jeselnik",
+      "david-letterman",
+      "steve-martin",
+      "john-mulaney",
+      "conan-obrien",
+      "jay-leno",
+      "andreu-buenafuente",
+      "lorne-michaels",
+      "jimmy-fallon",
+      "garry-shandling",
+      "craig-ferguson",
+      "tomas-fuentes",
+      "david-broncano",
+      "leo-harlem",
+      "marc-maron",
+      "berto-romero",
+      "eva-hache",
+      "valeria-ros",
+      "urko-vazquez",
+      "adolfo-valor",
+      "pilar-de-francisco",
+      "alvaro-carmona",
+      "mike-birbiglia",
+      "bill-burr",
+      "norm-macdonald",
+      "ignatius-farray",
+      "jorge-ponce",
+      "pilar-de-francisco",
+      "jorge-segura",
+      "craig-ferguson",
+      "louis-ck",
+      "lenny-bruce",
+      "dave-chappelle",
+      "dave-attell",
+      "katt-williams"
+    ],
+    "shows": [
+      "seinfeld",
+      "show-david-letterman",
+      "comedians-in-cars-getting-coffee",
+      "the-tonight-show",
+      "la-resistencia",
+      "late-motiv",
+      "the-simpsons",
+      "saturday-night-live",
+      "wtf-with-marc-maron",
+      "papanatos"
+    ],
+    "books": [
+      "the late-shift",
+      "the-war-for-late-night"
+    ]
+  },
+  {
+    "id": "s01e06",
+    "season": 1,
+    "episode": 6,
+    "title": "El programa con burlete",
+    "link": "https://www.youtube.com/watch?v=B7jqh7ggRqs",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "eddie-izzard"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "natasha-leggero",
+            "moshe-kasher"
+          ],
+          "show": {
+            "name": "The Honeymoon Standup Special",
+            "platform": "Netflix"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "john-cleese",
+      "kaco-forns",
+      "patricia-espejo",
+      "andreu-buenafuente",
+      "pete-holmes",
+      "michelle-wolf",
+      "simon-palomares",
+      "xavi-castells",
+      "miguel-iribar",
+      "luis-alvaro",
+      "valeria-ros",
+      "susi-caramelo",
+      "woody-allen",
+      "javi-bravo",
+      "nene",
+      "ignatius-farray",
+      "juanma-dupley",
+      "urko-vazquez",
+      "galder-varas",
+      "jaime-caravaca",
+      "marco-antonio",
+      "elsa-ruiz",
+      "more-mero",
+      "dani-piqueras",
+      "pilar-de-francisco",
+      "borja-sumozas",
+      "albert-floyd",
+      "charlie-pee",
+      "susi-caramelo",
+      "todd-barry",
+      "todd-glass",
+      "jerry-seinfeld",
+      "pablo-ibarburu"
+    ],
+    "shows": [
+      "crashing"
+    ],
+    "books": [
+      "how-to-beat-up-anybody-judah",
+      "pussy-diamond"
+    ]
+  },
+  {
+    "id": "s01e07",
+    "season": 1,
+    "episode": 7,
+    "title": "Con Kaco Forns",
+    "link": "https://www.youtube.com/watch?v=pKVBGCxVzkY",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [
+      "kaco-forns"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "richard-pryor"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "todd-glass"
+          ],
+          "show": {
+            "name": "Act Happy",
+            "platform": "Netflix"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "jerry-seinfeld",
+      "tiffany-haddish",
+      "kevin-hart",
+      "pablo-ibarburu",
+      "patricia-sornosa",
+      "javier-cansado",
+      "carlos-faemino",
+      "pete-davidson",
+      "david-suarez",
+      "russel-brand",
+      "colin-jost",
+      "ellen-degeneres",
+      "roseanne-barr",
+      "norm-macdonald",
+      "joe-rogan",
+      "doug-stanhope",
+      "susi-caramelo",
+      "david-broncano",
+      "raquel-sastre",
+      "rory-scovel",
+      "brian-regan",
+      "mitch-hedberg",
+      "rodney-dangerfield",
+      "marc-maron",
+      "sarah-silverman",
+      "jeff-ross"
+    ],
+    "shows": [
+      "saturday-night-live",
+      "jimmy-fallon-show",
+      "roseanne",
+      "marvelous-mrs-maisel"
+    ],
+    "books": []
+  },
+  {
+    "id": "s01e08",
+    "season": 1,
+    "episode": 8,
+    "title": "El viajesito de Iggy",
+    "link": "https://www.youtube.com/watch?v=NdltN0f78OM",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "joan-rivers"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "roeast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "bo-burnham"
+          ],
+          "show": {
+            "name": "Make Happy",
+            "platform": "Netflix"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "lenny-bruce",
+      "zach-myers",
+      "jimmy-fallon",
+      "dick-gautier",
+      "louis-ck",
+      "johnny-carson",
+      "andreu-buenafuente",
+      "raul-perez",
+      "pablo-ibarburu",
+      "dave-chappelle",
+      "john-stewart",
+      "mo-amer",
+      "michelle-wolf",
+      "katherine-ryan",
+      "judah-friedlander",
+      "pete-davidson",
+      "roseanne-barr",
+      "patricia-sornosa",
+      "queque",
+      "conan-obrien",
+      "chris-rock",
+      "jerrod-carmichael",
+      "adolfo-valor",
+      "jeff-foxworthy",
+      "ron-white",
+      "larry-the-cable-guy"
+    ],
+    "shows": [
+      "saturday-night-live",
+      "fashion-police",
+      "louie",
+      "the-jimmy-fallon-show",
+      "roseanne",
+      "chris-rock-tamborine",
+      "jerrod-carmichael-8ht",
+      "good-one-podcast",
+      "blue-collar-comedy"
+    ],
+    "books": []
+  },
+  {
+    "id": "s01e09",
+    "season": 1,
+    "episode": 9,
+    "title": "Programa Zapata... Si no gana, empata",
+    "link": "https://www.youtube.com/watch?v=8-NhH1QWaBs",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "bill-hicks"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "roeast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "katherine-ryan"
+          ],
+          "show": {
+            "name": "In Trouble",
+            "platform": "Netflix"
+          }
+        }
+      }
+    ],
+    "comedians": [
+      "sam-kinison",
+      "george-carlin",
+      "woody-allen",
+      "richard-pryor",
+      "roseanne-barr",
+      "denis-leary",
+      "rodney-dangerfield",
+      "nacho-garcia",
+      "bob-saget",
+      "jandro",
+      "luis-piedrahita",
+      "kaco-forns",
+      "santi-alveru",
+      "rowan-atkinson",
+      "hugh-laurie",
+      "stephen-fry",
+      "paul-provenza",
+      "don-mauro",
+      "juan-solo",
+      "ignatius-farray",
+      "alfredo-diaz",
+      "pepe-rubianes",
+      "virginia-riezu",
+      "pablo-ibarburu",
+      "dave-chappelle",
+      "john-stewart",
+      "jimmy-carr",
+      "russel-brand",
+      "doug-stanhope",
+      "dani-rovira",
+      "tig-notaro",
+      "cameron-esposito",
+      "judah-friedlander"
+    ],
+    "shows": [
+      "bill-hicks-revelations",
+      "its-just-a-ride",
+      "blackadder"
+    ],
+    "books": [
+      "american-scream-the-bill-hicks-story"
+    ]
+  }
+]
