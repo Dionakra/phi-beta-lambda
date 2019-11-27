@@ -1,8 +1,10 @@
 <template>
-  <div class="container">
-    <h1 class="title">{{ $t("menu.hosts") }}</h1>
-    <div class="columns" v-if="hosts != undefined && hosts.length != 0">
-      <HostCard :host="host" :key="host.id" v-for="host in hosts" />
+  <div>
+    <p class="text-center text-5xl mb-4 -mt-4">Presentadores</p>
+    <div class="px-2">
+      <div class="flex flex-wrap -mx-2" v-if="hosts != undefined && hosts.length != 0">
+        <HostCard :host="host" :key="host.id" v-for="host in hosts" />
+      </div>
     </div>
   </div>
 </template>
@@ -20,8 +22,10 @@ export default {
       return { hosts: res.data };
     });
   },
-  data: {
-    hosts: []
+  data() {
+    return {
+      hosts: []
+    };
   }
 };
 </script>

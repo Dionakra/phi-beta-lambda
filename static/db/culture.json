@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nanette",
+    "title": "Nanette",
+    "platform": "Netflix"
+  },
+  {
+    "id": "drew-michael",
+    "title": "Drew Michael",
+    "platform": "HBO"
+  },
+  {
+    "id": "elder-millenial",
+    "title": "Elder Millenial",
+    "platform": "Netflix"
+  },
+  {
+    "id": "america-is-the-greatest",
+    "title": "America Is the Greatest Country in the United States",
+    "platform": "Netflix"
+  },
+  {
+    "id": "rape-jokes",
+    "title": "Rape Jokes",
+    "platform": "Web"
+  },
+  {
+    "id": "the-honeymoon-standup-special",
+    "title": "The Honeymoon Standup Special",
+    "platform": "Netflix"
+  },
+  {
+    "id": "act-happy",
+    "title": "Act Happy",
+    "platform": "Netflix"
+  },
+  {
+    "id": "make-happy",
+    "title": "Make Happy",
+    "platform": "Netflix"
+  },
+  {
+    "id": "in-trouble",
+    "title": "In Trouble",
+    "platform": " Netflix"
+  }
+]

@@ -7,7 +7,7 @@
           type="text"
           v-model="searchTerm"
           @keyup="updateList()"
-          :placeholder="$t('comedian.searchTerm')"
+          placeholder="Buscar cómica/o"
         />
       </div>
     </div>
@@ -21,9 +21,7 @@
             updateList();
           "
           :class="{ 'is-danger': orderByName }"
-        >
-          {{ $t("comedian.sort.name") }}
-        </button>
+        >Nombre }}</button>
         <button
           class="button is-small is-rounded"
           @click="
@@ -31,12 +29,10 @@
             updateList();
           "
           :class="{ 'is-danger': !orderByName }"
-        >
-          {{ $t("comedian.sort.appeareances") }}
-        </button>
+        >Nombramientos</button>
       </div>
       <div class="column is-3 is-offset-2">
-        <div class=" buttons is-pulled-right">
+        <div class="buttons is-pulled-right">
           <button
             class="button is-small is-rounded"
             @click="
@@ -44,9 +40,7 @@
               updateList();
             "
             :class="{ 'is-danger': ascending }"
-          >
-            {{ $t("comedian.sort.ascendent") }}
-          </button>
+          >Ascendente</button>
           <button
             class="button is-small is-rounded"
             @click="
@@ -54,9 +48,7 @@
               updateList();
             "
             :class="{ 'is-danger': !ascending }"
-          >
-            {{ $t("comedian.sort.descendent") }}
-          </button>
+          >Descendente</button>
         </div>
       </div>
     </div>
@@ -67,11 +59,7 @@
       infinite-scroll-distance="200"
     >
       <template>
-          <ComedianCard
-            :comedian="comedian"
-            :key="comedian.id"
-            v-for="comedian in showing"
-          />
+        <ComedianCard :comedian="comedian" :key="comedian.id" v-for="comedian in showing" />
       </template>
     </div>
   </div>

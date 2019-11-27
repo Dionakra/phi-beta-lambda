@@ -1,6 +1,25 @@
 [{
   "id": "roast-to-the-people",
   "name": "Roast to the people",
-  "host": "Miguel Campos Galán",
+  "host": "miguel-campos",
   "description": ""
-}]
+},
+{
+  "id": "comedian-of-the-day",
+  "name": "Cómico del día",
+  "host": "antonio-castelo",
+  "description": ""
+},
+{
+  "id": "thank-you",
+  "name": "Thank you for this beautiful comedy",
+  "host": "iggy-rubin",
+  "description": ""
+},
+{
+  "id": "corazon-de-comedia",
+  "name": "Corazón de comedia",
+  "host": "mer",
+  "description": ""
+}
+]

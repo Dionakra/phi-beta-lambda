@@ -1,6 +1,6 @@
-# cope
+# copebele
 
-> Comedia Perpetua | Phi Beta Lambda
+> Comedia Perpetua - Phi Beta Lambda
 
 ## Build Setup
 
@@ -20,7 +20,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
-
-red: '#92250e',
-beige: '#cccab3'

@@ -4,28 +4,27 @@
     "name": "Antonio Castelo",
     "twitter": "SrCastelo",
     "instagram": "srcastelo",
-    "description": "hosts.antonio-castelo.description",
-    "sections": []
-  },{
+    "description": "Antonio Castelo AKA <i class='text-red'>Mr. Fattie</i> AKA <i class='text-red'>Odamae Brown</i>, is the conductor of the show and one of the owners. He also works as a side host at <i class='text-red'>Todo es Mentira</i>, a Spanish TV Show aired on Cuatro."
+  },
+  {
     "id": "miguel-campos",
     "name": "Miguel Campos",
     "twitter": "mcamposgalan",
     "instagram": "mcamposgalan",
-    "description": "hosts.miguel-campos.description",
-    "sections": ["sections.miguel-campos.roast.title", "sections.miguel-campos.penamora.title"]
-  },{
+    "description": "Miguel Campos AKA <i class='text-red'>The other one</i> is one of the owners of the project. He is responsible of the sections <i><strong class='text-red'>Roast to the people</strong></i> and <i><strong class='text-red'>Pena mora</strong></i>, two sections based on the viewers' participation. He also works as a script coordinator at <i class='text-red'>La Resistencia</i>, a famous spanish late night."
+  },
+  {
     "id": "iggy-rubin",
     "name": "Iggy Rubín",
     "twitter": "iggyrubin",
     "instagram": "iggyrubin",
-    "description": "hosts.iggy-rubin.description",
-    "sections": ["sections.iggy-rubin.thankyou.title", "sections.iggy-rubin.festivales.title"]
-  },{
+    "description": "Iggy Rubin es el empollón de comedia del programa. Es responsable de las secciones <i><strong class='text-red'>Thank you for this beautiful comedy</strong></i> y <i><strong class='text-red'>Gira de festivales</strong></i>."
+  },
+  {
     "id": "jorge-yorya",
     "name": "Jorge Yorya",
     "twitter": "JorgeYorya",
     "instagram": "jorgeyorya",
-    "description": "hosts.jorge-yorya.description",
-    "sections": ["sections.jorge-yorya.giorgio.name"]
+    "description": "Jorge Yorya es un elemento clave en el programa. Hace, básicamente, lo que le apetece en <i><strong class='text-red'>My name is Giovani Giorgio, but everybody calls me Yorya</strong></i> de unas formas un poco rarunas. Es como un accidente de coche, no es agradable de ver pero no puedes dejar de mirarlo. <i class='text-red'>#Yoryer</i>"
   }
 ]

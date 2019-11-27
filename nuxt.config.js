@@ -10,9 +10,9 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Página no oficial sobre Comedia Perpetua AKA Phi Beta Lambda' },
-      { name: 'msapplication-TileColor', content: '#ffffff' },
+      { name: 'msapplication-TileColor', content: '#91230D' },
       { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' },
-      { name: 'theme-color', content: '#ffffff' }
+      { name: 'theme-color', content: '#91230D' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/icons/favicon.ico' },
@@ -35,11 +35,12 @@ export default {
   /*
   ** Customize the progress-bar color
   */
-  loading: { color: '#fff' },
+  loading: { color: '#91230D' },
   /*
   ** Global CSS
   */
-  css: [{ src: '~/assets/main.scss', lang: 'scss' }],
+  css: [
+  ],
   /*
   ** Plugins to load before mounting the App
   */
@@ -50,37 +51,16 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
+    // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
+    '@nuxtjs/tailwindcss',
   ],
   /*
   ** Nuxt.js modules
   */
   modules: [
-    '@nuxtjs/style-resources',
-    'nuxt-fontawesome',
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
-    [
-      'nuxt-i18n',
-      {
-        lazy: true,
-        locales: [
-          {
-            name: 'English',
-            code: 'en',
-            iso: 'en-US',
-            file: 'en-US.js'
-          },
-          {
-            name: 'Español',
-            code: 'es',
-            iso: 'es-ES',
-            file: 'es-ES.js'
-          }
-        ],
-        defaultLocale: 'es',
-        langDir: 'lang/',
-      }
-    ]
+    '@nuxtjs/pwa'
   ],
   /*
   ** Axios module configuration
@@ -88,29 +68,10 @@ export default {
   */
   axios: {
   },
-  fontawesome: {
-    imports: [
-      {
-        set: '@fortawesome/free-solid-svg-icons', // Solid icons
-        icons: ['faGlobe']
-      },
-      {
-        set: '@fortawesome/free-brands-svg-icons', // Brand icons
-        icons: ['faFacebook', 'faTwitter', 'faInstagram', 'faYoutube']
-      }
-    ]
-  },
   /*
   ** Build configuration
   */
   build: {
-    postcss: {
-      preset: {
-        features: {
-          customProperties: false
-        }
-      }
-    },
     /*
     ** You can extend webpack config here
     */

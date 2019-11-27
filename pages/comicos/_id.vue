@@ -2,17 +2,13 @@
   <div class="container">
     <div class="columns">
       <div class="column is-3">
-        <img
-          :src="'/images/comedians/' + comedian.id + '.jpg'"
-          :alt="comedian.name"
-        />
+        <img :src="'/images/comedians/' + comedian.id + '.jpg'" :alt="comedian.name" />
       </div>
       <div class="column is-9">
         <h1 class="title">{{ comedian.name }}</h1>
 
         <h2 class="subtitle">
           Aparece en:
-
           <div v-for="mention in mentions" :key="mention.id">
             Temporada {{ mention.season }} Episodio
             {{ mention.episode }} Nombre: {{ mention.title }}
@@ -21,14 +17,10 @@
 
         <div v-if="vip != undefined && vip.length > 0">
           Especiales:
-
           <div v-for="v in vip" :key="v.id">
             Temporada {{ v.season }} Episodio {{ v.episode }} Nombre:
             {{ v.title }} Seccion: {{ v.section.section }}
-
-            <div v-if="v.section == 'comedian-of-the-day'">
-              Comico del que se presenta el capitulo
-            </div>
+            <div v-if="v.section == 'comedian-of-the-day'">Comico del que se presenta el capitulo</div>
 
             <div v-if="v.section.section == 'thank-you'">
               Especial: {{ v.section.extra.show.name }} Plataforma:
@@ -52,7 +44,7 @@ export default {
       axios.get("/db/sections.json")
     ]);
 
-    console.log(params)
+    console.log(params);
 
     const comedian = comedians.data.find(c => c.id == params.id);
 

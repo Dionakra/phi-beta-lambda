@@ -1,33 +1,85 @@
 <template>
-  <div class="container">
-    <div class="columns">
-      <!-- Programas -->
-      <div class="column">a</div>
-
-      <!-- Secciones -->
-      <div class="column">b</div>
-
-      <!-- Info para añadir a las secciones -->
-      <div class="column">c</div>
-
-      <!-- Info para añadir a las secciones -->
-      <div class="column">d</div>
-    </div>
+  <div class="mt-8 lg:flex lg:flex-wrap lg:-pl-4">
+    <template v-for="episode in episodes">
+      <EpisodeCard :episode="episode" :key="episode.id" />
+    </template>
   </div>
 </template>
 
 <script>
 import axios from "axios";
+import EpisodeCard from "~/components/EpisodeCard";
 
 export default {
-  asyncData() {
+  components: {
+    EpisodeCard
+  },
+  async asyncData() {
+    const [episodes, comedians, sections, hosts, culture] = await Promise.all([
+      axios.get("/db/episodes.json"),
+      axios.get("/db/comedians.json"),
+      axios.get("/db/sections.json"),
+      axios.get("/db/hosts.json"),
+      axios.get("/db/culture.json")
+    ]);
+
+    const info = episodes.data
+      .sort((a, b) => {
+        let res = b.season - a.season;
+
+        if (res == 0) {
+          res = b.episode - a.episode;
+        }
+
+        return res;
+      })
+      .map(e => {
+        const hostsInfo = e.hosts.map(h => hosts.data.find(x => x.id == h));
+        const comediansInfo = e.guests.map(g =>
+          comedians.data.find(c => c.id == g)
+        );
+        const sectionsInfo = e.sections
+          .filter(
+            s => s.extra && s.extra.comedians && s.extra.comedians.length > 0
+          )
+          .map(s => {
+            s.section = sections.data.find(x => x.id == s.section);
+            if (s.extra && s.extra.comedians && s.extra.comedians.length != 0) {
+              s.extra.comedians = s.extra.comedians.map(c => {
+                return comedians.data.find(x => x.id == c);
+              });
+            }
+
+            if (s.extra && s.extra.shows && s.extra.shows.length != 0) {
+              s.extra.shows = s.extra.shows.map(s => {
+                return culture.data.find(x => x.id == s);
+              });
+            }
+
+            return {
+              section: sections.data.find(x => x.id == s.section)
+            };
+          });
+
+        return {
+          id: e.id,
+          season: e.season,
+          episode: e.episode,
+          title: e.title,
+          link: e.link,
+          hosts: hostsInfo,
+          special: e.special,
+          sections: e.sections,
+          guests: comediansInfo
+        };
+      });
     return {
-      cope: []
-    }
+      episodes: info
+    };
   },
   data() {
     return {
-      cope: []
+      episodes: []
     };
   }
 };
