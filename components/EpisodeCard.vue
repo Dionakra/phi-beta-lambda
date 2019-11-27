@@ -1,7 +1,7 @@
 <template>
   <div class="sm:w-full lg:w-1/2 mt-4 mb-4 pl-4">
     <div
-      class="h-48 lg:h-64 lg:w-auto f bg-cover rounded-t  lg:rounded-l text-center overflow-hidden"
+      class="h-48 lg:h-64 lg:w-auto f bg-cover rounded-t text-center overflow-hidden"
     >
       <iframe
         width="100%"
@@ -13,7 +13,7 @@
       ></iframe>
     </div>
     <div
-      class="border-r border-b border-l border-gray-400 border-l-0 border-t border-gray-400 bg-white rounded-b rounded-b-none rounded-r p-4 flex flex-col justify-between leading-normal"
+      class="border-r border-b border-l border-gray-400 border-l-0 border-t border-gray-400 bg-white rounded-b p-4 flex flex-col justify-between leading-normal"
     >
       <div class="inline-block align-top">
         <div class="text-gray-900 font-bold text-red text-xl flex flex-inline">
@@ -27,7 +27,7 @@
                 v-for="host in episode.hosts"
                 :key="host.id"
                 class="rounded-full h-16 w-16 ml-3"
-                :src="'/images/comedians/' + host.id+ '.jpg'"
+                :src="'/images/comedians/' + host.id+ '_128.jpg'"
                 :alt="host.name"
                 :title="host.name"
               />
@@ -40,7 +40,7 @@
                 v-for="guest in episode.guests"
                 :key="guest.id"
                 class="rounded-full h-16 w-16 ml-3"
-                :src="'/images/comedians/' + guest.id+ '.jpg'"
+                :src="'/images/comedians/' + guest.id+ '_128.jpg'"
                 :alt="guest.name"
                 :title="guest.name"
               />

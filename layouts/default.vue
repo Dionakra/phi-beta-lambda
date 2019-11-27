@@ -4,7 +4,7 @@
       <!-- START LOGO -->
       <div class="items-center text-white mr-6">
         <nuxt-link to="/">
-          <img src="/icons/logo-desc.png" class="h-12" />
+          <img src="/icons/logo-desc-min.webp" class="h-12" />
         </nuxt-link>
       </div>
       <!-- END LOGO -->
