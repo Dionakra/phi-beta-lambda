@@ -1,5 +1,10 @@
 <template>
-  <div class="mt-8 lg:flex lg:flex-wrap lg:-pl-2 ">
+  <div
+    class="mt-8 lg:flex lg:flex-wrap lg:-pl-2"
+    v-infinite-scroll="loadMore"
+    infinite-scroll-disabled="busy"
+    infinite-scroll-distance="200"
+  >
     <template v-for="episode in episodes">
       <EpisodeCard :episode="episode" :key="episode.id" />
     </template>
@@ -9,6 +14,7 @@
 <script>
 import axios from "axios";
 import EpisodeCard from "~/components/EpisodeCard";
+const PAGE_SIZE = 4;
 
 export default {
   components: {
@@ -82,13 +88,26 @@ export default {
         };
       });
     return {
-      episodes: info
+      episodes: info,
+      curPage: 1,
+      showing: info.slice(0, PAGE_SIZE)
     };
   },
   data() {
     return {
-      episodes: []
+      episodes: [],
+      curPage: 1,
+      showing: []
     };
+  },
+  mounted() {
+    this.showing = this.episodes.slice(0, PAGE_SIZE * this.curPage);
+  },
+  methods: {
+    loadMore() {
+      this.curPage++;
+      this.showing = this.episodes.slice(0, PAGE * this.curPage);
+    }
   }
 };
 </script>
