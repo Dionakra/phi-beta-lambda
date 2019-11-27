@@ -1,25 +1,38 @@
-[{
-  "id": "roast-to-the-people",
-  "name": "Roast to the people",
-  "host": "miguel-campos",
-  "description": ""
-},
-{
-  "id": "comedian-of-the-day",
-  "name": "Cómico del día",
-  "host": "antonio-castelo",
-  "description": ""
-},
-{
-  "id": "thank-you",
-  "name": "Thank you for this beautiful comedy",
-  "host": "iggy-rubin",
-  "description": ""
-},
-{
-  "id": "corazon-de-comedia",
-  "name": "Corazón de comedia",
-  "host": "mer",
-  "description": ""
-}
+[
+  {
+    "id": "roast-to-the-people",
+    "name": "Roast to the people",
+    "host": "miguel-campos",
+    "description": "Espectadores del programa piden a Miguel que les hagan un <span class='text-red italic'>roast</span> en base a sus perfiles de Instagram, es decir, solicitan ser insultados de forma totalmente voluntaria. <p class='text-red italic'>#WeOnlyRoastTheOnesWeLove</p>"
+  },
+  {
+    "id": "comedian-of-the-day",
+    "name": "Cómico del día",
+    "host": "antonio-castelo",
+    "description": "Sección que abre los programas con un corte de un monólogo de algún cómico, doblado por Castelo sobre la marcha. Tras el corte, se hace un pequeño foro sobre el cómico, especial o corte elegido."
+  },
+  {
+    "id": "thank-you",
+    "name": "Thank you for this beautiful comedy",
+    "host": "iggy-rubin",
+    "description": "Iggy selecciona cada semana un especial de comedia a analizar, al cual se le suelen dedicar 10 - 15 minutos a desgranar aspectos técnicos y formales del especial, diagnosticando por qué el especial es bueno o malo (aunque Iggy solo habla amor)."
+  },
+  {
+    "id": "corazon-de-comedia",
+    "name": "Corazón de comedia",
+    "host": "mer",
+    "description": "El <span class='text-red italic'>Aquí hay tomate</span> de los chistes. En esta sección se comentan aspectos más personales de las principales entidades de la comedia dado que, al final del día, los cómicos también son personas. Sí, también."
+  },
+  {
+    "id": "pena-mora",
+    "name": "Pena mora",
+    "host": "miguel-campos",
+    "description": "La sección del bajón. Los espectadores envían a Miguel historias (presuntamente reales) tristes, depresivas, rehuyendo cualquier conato de comedia."
+  },
+  {
+    "id": "giorgio",
+    "name": "My name is Giovani Giorgio, but everybody calls me Yorya",
+    "host": "jorge-yorya",
+    "description": "El <a href='https://es.wikipedia.org/wiki/Problema_de_los_tres_cuerpos' target='_blank' class='text-red underline'>problema de los tres cuerpos</a> del programa. Nuestro accidente de coche particular. En términos generales, Yorya trae informe de redes, concursos, aportaciones de las <span class='text-red italic'>phienas</span> y entropía. <p class='text-red'>#Yoryer</p>"
+  }
 ]
