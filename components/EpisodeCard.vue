@@ -1,16 +1,9 @@
 <template>
   <div class="sm:w-full lg:w-1/2 mt-4 mb-4 pl-2 pr-2">
     <div
-      class="h-48 lg:h-64 lg:w-auto f bg-cover rounded-t text-center overflow-hidden"
+      class="w-auto bg-cover rounded-t text-center overflow-hidden"
     >
-      <iframe
-        width="100%"
-        height="100%"
-        :src="episode.link"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+      <img class="-mt-16 -mb-16" :src="'https://i.ytimg.com/vi_webp/' + episode.link + '/sddefault.webp'" />
     </div>
     <div
       class="border-r border-b border-l border-gray-400 border-l-0 border-t border-gray-400 bg-white rounded-b p-4 flex flex-col justify-between leading-normal"
