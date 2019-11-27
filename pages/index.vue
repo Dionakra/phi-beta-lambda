@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-8 lg:flex lg:flex-wrap lg:-pl-4">
+  <div class="mt-8 lg:flex lg:flex-wrap lg:-pl-2 ">
     <template v-for="episode in episodes">
       <EpisodeCard :episode="episode" :key="episode.id" />
     </template>
@@ -34,16 +34,26 @@ export default {
         return res;
       })
       .map(e => {
-        const hostsInfo = e.hosts.map(h => hosts.data.find(x => x.id == h));
-        const comediansInfo = e.guests.map(g =>
-          comedians.data.find(c => c.id == g)
-        );
+        // Hosts Info
+        const hostsInfo = e.hosts.map(h => {
+          const info = hosts.data.find(x => x.id == h);
+          return {
+            id: info.id,
+            name: info.name
+          };
+        });
+
+        // Guests comedians info
+        const guests = e.guests.map(g => comedians.data.find(c => c.id == g));
+
+        // Info about sections
         const sectionsInfo = e.sections
           .filter(
             s => s.extra && s.extra.comedians && s.extra.comedians.length > 0
           )
           .map(s => {
-            s.section = sections.data.find(x => x.id == s.section);
+            s.section = sections.data.find(x => x.id == s.section).name;
+
             if (s.extra && s.extra.comedians && s.extra.comedians.length != 0) {
               s.extra.comedians = s.extra.comedians.map(c => {
                 return comedians.data.find(x => x.id == c);
@@ -56,9 +66,7 @@ export default {
               });
             }
 
-            return {
-              section: sections.data.find(x => x.id == s.section)
-            };
+            return s;
           });
 
         return {
@@ -69,8 +77,8 @@ export default {
           link: e.link,
           hosts: hostsInfo,
           special: e.special,
-          sections: e.sections,
-          guests: comediansInfo
+          sections: sectionsInfo,
+          guests: guests
         };
       });
     return {

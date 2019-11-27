@@ -1,5 +1,5 @@
 <template>
-  <div class="sm:w-full lg:w-1/2 mt-4 mb-4 pl-4">
+  <div class="sm:w-full lg:w-1/2 mt-4 mb-4 pl-2 pr-2">
     <div
       class="h-48 lg:h-64 lg:w-auto f bg-cover rounded-t text-center overflow-hidden"
     >
@@ -49,9 +49,9 @@
         </div>
 
         <div class="flex flex-inline align-top mt-4">
-          <div class="align-top ml-3 -pl-4" v-for="section in episode.sections" :key="section.id">
+          <div class="align-top ml-3 -pl-4" v-for="section in episode.sections" :key="section.section">
             <div class="pl-4">
-            <p class="text-red align-top text-center">{{section.section.name}}</p>
+            <p class="text-red align-top text-center">{{section.section}}</p>
             <div
               v-if="section.extra && section.extra.comedians && section.extra.comedians.length > 0"
                class="flex flex-inline mx-auto -pl-4"
