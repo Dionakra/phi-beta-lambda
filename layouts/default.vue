@@ -4,7 +4,7 @@
       <!-- START LOGO -->
       <div class="items-center text-white mr-6">
         <nuxt-link to="/">
-          <img src="/icons/logo-desc-min.webp" class="h-12" />
+          <img src="/icons/logo-desc-min.webp" class="h-12" title="Comedia Perpetua Logo" alt="Comedia Perpetua Logo" />
         </nuxt-link>
       </div>
       <!-- END LOGO -->
@@ -51,7 +51,7 @@
 
         <!-- START SOCIAL NETWORKS -->
         <div>
-          <a target="_blank" href="https://www.youtube.com/channel/UCFKcIYyLxfQBAD4r0Bq1RfA">
+          <a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCFKcIYyLxfQBAD4r0Bq1RfA">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 20 20"
@@ -63,7 +63,7 @@
             </svg>
           </a>
 
-          <a target="_blank" href="https://twitter.com/ComediaPerpetua">
+          <a target="_blank" rel="noopener" href="https://twitter.com/ComediaPerpetua">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 20 20"
@@ -74,7 +74,7 @@
               />
             </svg>
           </a>
-          <a target="_blank" href="https://www.instagram.com/phi.beta.lambda/">
+          <a target="_blank" rel="noopener" href="https://www.instagram.com/phi.beta.lambda/">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 18 18"
@@ -85,7 +85,7 @@
               />
             </svg>
           </a>
-          <a target="_blank" href="https://www.facebook.com/PhiBetaLambda.Comedy/">
+          <a target="_blank" rel="noopener" href="https://www.facebook.com/PhiBetaLambda.Comedy/">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 20 20"

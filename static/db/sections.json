@@ -33,6 +33,6 @@
     "id": "giorgio",
     "name": "My name is Giovani Giorgio, but everybody calls me Yorya",
     "host": "jorge-yorya",
-    "description": "El <a href='https://es.wikipedia.org/wiki/Problema_de_los_tres_cuerpos' target='_blank' class='text-red underline'>problema de los tres cuerpos</a> del programa. Nuestro accidente de coche particular. En términos generales, Yorya trae informe de redes, concursos, aportaciones de las <span class='text-red italic'>phienas</span> y entropía. <p class='text-red'>#Yoryer</p>"
+    "description": "El <a href='https://es.wikipedia.org/wiki/Problema_de_los_tres_cuerpos' target='_blank' rel='noopener' class='text-red underline'>problema de los tres cuerpos</a> del programa. Nuestro accidente de coche particular. En términos generales, Yorya trae informe de redes, concursos, aportaciones de las <span class='text-red italic'>phienas</span> y entropía. <p class='text-red'>#Yoryer</p>"
   }
 ]

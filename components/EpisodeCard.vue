@@ -5,6 +5,8 @@
         <img
           class="w-full -mt-16 -mb-16"
           :src="'https://i.ytimg.com/vi_webp/' + episode.link + '/sddefault.webp'"
+          :title="'Portada' + episode.title"
+          :alt="'Portada' + episode.title"
         />
       </div>
       <div
