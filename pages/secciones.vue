@@ -1,6 +1,6 @@
 <template>
-  <div class="flex flex-inline flex-wrap sm:ml-4 sm:mr-4 md:ml-12 md:mr-12 -pl-6">
-    <div v-for="section in sections" :key="section.id" class="flex flex-inline mt-10 sm:max-w-full sm:w-full md:w-1/2 pl-6 pr-6">
+  <div class="flex flex-inline flex-wrap mx-4 sm:-px-1 sm:-px-3">
+    <div v-for="section in sections" :key="section.id" class="flex flex-inline mt-10 sm:max-w-full sm:w-full md:w-1/2 sm:px-1 md:px-3">
       <img
         :src="'/images/comedians/'+ section.host.id + '.jpg'"
         :title="section.host.name"
