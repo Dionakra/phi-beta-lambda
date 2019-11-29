@@ -3,7 +3,7 @@
     "id": "roast-to-the-people",
     "name": "Roast to the people",
     "host": "miguel-campos",
-    "description": "Espectadores del programa piden a Miguel que les hagan un <span class='text-red italic'>roast</span> en base a sus perfiles de Instagram, es decir, solicitan ser insultados de forma totalmente voluntaria. <p class='text-red italic'>#WeOnlyRoastTheOnesWeLove</p>"
+    "description": "Espectadores del programa piden a Miguel que les hagan un <span class='text-red italic'>roast</span> en base a sus perfiles de Instagram, es decir, solicitan ser insultados de forma totalmente voluntaria. <span class='text-red italic'>#WeOnlyRoastTheOnesWeLove</span>"
   },
   {
     "id": "comedian-of-the-day",
@@ -33,6 +33,6 @@
     "id": "giorgio",
     "name": "My name is Giovani Giorgio, but everybody calls me Yorya",
     "host": "jorge-yorya",
-    "description": "El <a href='https://es.wikipedia.org/wiki/Problema_de_los_tres_cuerpos' target='_blank' rel='noopener' class='text-red underline'>problema de los tres cuerpos</a> del programa. Nuestro accidente de coche particular. En términos generales, Yorya trae informe de redes, concursos, aportaciones de las <span class='text-red italic'>phienas</span> y entropía. <p class='text-red'>#Yoryer</p>"
+    "description": "El <a href='https://es.wikipedia.org/wiki/Problema_de_los_tres_cuerpos' target='_blank' rel='noopener' class='text-red underline'>problema de los tres cuerpos</a> del programa. Nuestro accidente de coche particular. En términos generales, Yorya trae informe de redes, concursos, aportaciones de las <span class='text-red italic'>phienas</span> y entropía. <span class='text-red'>#Yoryer</span>"
   }
 ]

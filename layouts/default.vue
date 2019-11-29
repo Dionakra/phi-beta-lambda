@@ -1,10 +1,15 @@
 <template>
-  <div class="mx-auto sm:px-4 md:px-16">
-    <nav class="flex items-center justify-between flex-wrap  pt-3">
+  <div class="mx-auto sm:px-4 md:px-16 font-sans antialiased">
+    <nav class="flex items-center justify-between flex-wrap pt-3">
       <!-- START LOGO -->
       <div class="items-center text-white mr-3">
         <nuxt-link to="/">
-          <img src="/icons/logo-desc-min.webp" class="h-12" title="Comedia Perpetua Logo" alt="Comedia Perpetua Logo" />
+          <img
+            src="/icons/logo-desc-min.webp"
+            class="h-12"
+            title="Comedia Perpetua Logo"
+            alt="Comedia Perpetua Logo"
+          />
         </nuxt-link>
       </div>
       <!-- END LOGO -->
@@ -51,7 +56,11 @@
 
         <!-- START SOCIAL NETWORKS -->
         <div>
-          <a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCFKcIYyLxfQBAD4r0Bq1RfA">
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://www.youtube.com/channel/UCFKcIYyLxfQBAD4r0Bq1RfA"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 20 20"

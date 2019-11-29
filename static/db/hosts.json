@@ -4,28 +4,28 @@
     "name": "Antonio Castelo",
     "twitter": "SrCastelo",
     "instagram": "srcastelo",
-    "description": "Antonio Castelo AKA <i class='text-red'>Mr. Fattie</i> AKA <i class='text-red'>Odamae Brown</i>, is the conductor of the show and one of the owners. He also works as a side host at <i class='text-red'>Todo es Mentira</i>, a Spanish TV Show aired on Cuatro."
+    "description": "Antonio Castelo AKA <span class='text-red italic'>Don Gordo</span> AKA <span class='text-red italic'>Odamae Brown</span>, es el presentador del programa y uno de los dueños. También trabaja como copresentador en <span class='text-red italic'>Todo es Mentira</span>, un programa de TV emitido en Cuatro."
   },
   {
     "id": "miguel-campos",
     "name": "Miguel Campos",
     "twitter": "mcamposgalan",
     "instagram": "mcamposgalan",
-    "description": "Miguel Campos AKA <i class='text-red'>The other one</i> is one of the owners of the project. He is responsible of the sections <i><strong class='text-red'>Roast to the people</strong></i> and <i><strong class='text-red'>Pena mora</strong></i>, two sections based on the viewers' participation. He also works as a script coordinator at <i class='text-red'>La Resistencia</i>, a famous spanish late night."
+    "description": "Miguel Campos AKA <i class='pbl-red'>El otro</i> es uno de los dueños del proyecto. Es responsable de la sección <span class='text-red italic font-medium'>Roast to the people</span> y <span class='text-red italic font-medium'>Pena mora</span>, dos secciones basadas en la participación de los espectadores. También trabaja como coordinador de guiones en <span class='text-red italic'>La Resistencia</span>."
   },
   {
     "id": "iggy-rubin",
     "name": "Iggy Rubín",
     "twitter": "iggyrubin",
     "instagram": "iggyrubin",
-    "description": "Iggy Rubin es el empollón de comedia del programa. Es responsable de las secciones <i><strong class='text-red'>Thank you for this beautiful comedy</strong></i> y <i><strong class='text-red'>Gira de festivales</strong></i>."
+    "description": "Iggy Rubin es el empollón de comedia del programa. Es responsable de las secciones <span class='text-red italic font-medium'>Thank you for this beautiful comedy</span> y <span class='text-red italic font-medium'>Gira de festivales</span>."
   },
   {
     "id": "jorge-yorya",
     "name": "Jorge Yorya",
     "twitter": "JorgeYorya",
     "instagram": "jorgeyorya",
-    "description": "Jorge Yorya es un elemento clave en el programa. Hace, básicamente, lo que le apetece en <i><strong class='text-red'>My name is Giovani Giorgio, but everybody calls me Yorya</strong></i> de unas formas un poco rarunas. Es como un accidente de coche, no es agradable de ver pero no puedes dejar de mirarlo. <i class='text-red'>#Yoryer</i>"
+    "description": "Jorge Yorya es un elemento clave en el programa. Hace, básicamente, lo que le apetece en <span class='text-red italic font-medium'>My name is Giovani Giorgio, but everybody calls me Yorya</span> de unas formas un poco rarunas. Es como un accidente de coche, no es agradable de ver pero no puedes dejar de mirarlo. <i class='text-red'>#Yoryer</i>"
   },
   {
     "id": "mer",

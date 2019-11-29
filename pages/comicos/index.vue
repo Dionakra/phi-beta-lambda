@@ -1,66 +1,66 @@
 <template>
-  <div class="container">
-    <div class="columns is-centered">
-      <div class="column is-8">
-        <input
-          class="input"
-          type="text"
-          v-model="searchTerm"
-          @keyup="updateList()"
-          placeholder="Buscar cómica/o"
-        />
-      </div>
+  <div class="mx-auto">
+    <div class="md:w-full lg:w-1/2 mx-auto my-3">
+      <input
+        class="transition focus:outline-0 border border-transparent focus:bg-white focus:border-gray-300 placeholder-gray-600 rounded-lg bg-gray-200 py-2 pr-4 pl-10 block w-full appearance-none leading-normal ds-input"
+        type="text"
+        placeholder="Busca un/a comíco/a"
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="search input"
+        v-model="searchTerm"
+        @keyup="updateList()"
+      />
     </div>
 
-    <div class="columns">
-      <div class="column buttons is-offset-2 is-3">
-        <button
-          class="button is-small is-rounded"
-          @click="
+    <div class="md:w-full lg:w-1/2 mx-auto flex justify-between md:justify-around text-sm">
+      <div>
+          <button
+            class="hover:bg-red text-white py-2 px-4 rounded-full"
+            :class="orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+            @click="
             orderByName = true;
             updateList();
           "
-          :class="{ 'is-danger': orderByName }"
-        >Nombre }}</button>
-        <button
-          class="button is-small is-rounded"
-          @click="
+          >Nombre</button>
+          <button
+            class="hover:bg-red text-white py-2 px-4 rounded-full"
+            :class="!orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+            @click="
             orderByName = false;
             updateList();
           "
-          :class="{ 'is-danger': !orderByName }"
-        >Nombramientos</button>
+          >Menciones</button>
       </div>
-      <div class="column is-3 is-offset-2">
-        <div class="buttons is-pulled-right">
+      <div>
           <button
-            class="button is-small is-rounded"
+            class="hover:bg-red text-white py-2 px-4 rounded-full"
+            :class="ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
             @click="
               ascending = true;
               updateList();
             "
-            :class="{ 'is-danger': ascending }"
           >Ascendente</button>
           <button
-            class="button is-small is-rounded"
+            class="hover:bg-red text-white py-2 px-4 rounded-full"
+            :class="!ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
             @click="
               ascending = false;
               updateList();
             "
-            :class="{ 'is-danger': !ascending }"
           >Descendente</button>
-        </div>
       </div>
     </div>
+
     <div
-      class="columns is-multiline"
+      class="mx-auto"
       v-infinite-scroll="loadMore"
       infinite-scroll-disabled="busy"
       infinite-scroll-distance="200"
     >
-      <template>
+      <div class="flex flex-inline flex-wrap mx-auto">
         <ComedianCard :comedian="comedian" :key="comedian.id" v-for="comedian in showing" />
-      </template>
+      </div>
     </div>
   </div>
 </template>
@@ -69,7 +69,7 @@
 import axios from "axios";
 import ComedianCard from "~/components/ComedianCard";
 import countBy from "lodash/countBy";
-const PAGE = 42;
+const PAGE = 20;
 
 export default {
   components: {
@@ -86,29 +86,30 @@ export default {
       return e.sections
         .flatMap(s => {
           if (s.extra != undefined && s.extra.comedians != undefined) {
+            return s.extra.comedians.map(c => {
+              const comedian = comedians.data.find(x => x.id == c);
+
+              comedian.thank = s.section == "thank-you";
+              comedian.day = s.section == "comedian-of-the-day";
+
+              return comedian;
+            });
             return s.extra.comedians;
           } else {
             return [];
           }
         })
-        .concat(e.comedians)
-        .concat(e.guests);
+        .concat(e.comedians.map(c => comedians.data.find(x => x.id == c)))
+        .concat(e.guests.map(c => comedians.data.find(x => x.id == c)));
     });
 
     // Count occurrences per comedian
-    const stats = countBy(comediansOnEpisodes);
-
-    // Turn the comedians collections to a Key-Value for easier indexing
-    const keyedComedians = [];
-    comedians.data.forEach(comedian => {
-      keyedComedians[comedian.id] = comedian.name;
-    });
+    const stats = countBy(comediansOnEpisodes, "id");
 
     // Add info with comedian names and appearences
     const comediansInfo = Object.keys(stats).map(k => {
       return {
-        id: k,
-        name: keyedComedians[k] || k,
+        details: comediansOnEpisodes.find(c => c.id == k),
         appeareances: stats[k]
       };
     });
@@ -136,7 +137,9 @@ export default {
       const res = this.comedians
         .filter(x => {
           if (this.searchTerm.trim().length != 0) {
-            return x.name.toLowerCase().includes(this.searchTerm.toLowerCase());
+            return x.details.name
+              .toLowerCase()
+              .includes(this.searchTerm.toLowerCase());
           } else {
             return true;
           }
@@ -144,9 +147,9 @@ export default {
         .sort((a, b) => {
           if (this.orderByName) {
             if (this.ascending) {
-              return a.name.localeCompare(b.name);
+              return a.details.name.localeCompare(b.details.name);
             } else {
-              return b.name.localeCompare(a.name);
+              return b.details.name.localeCompare(a.details.name);
             }
           } else {
             if (this.ascending) {

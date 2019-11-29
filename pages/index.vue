@@ -76,9 +76,9 @@ export default {
           title: e.title,
           link: e.link,
           hosts: hostsInfo,
-          special: e.special,
+          special: comedians.data.find(c => c.id == e.special),
           sections: sectionsInfo,
-          guests: guests
+          guests: guests,
         };
       });
     return {

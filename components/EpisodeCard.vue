@@ -73,6 +73,31 @@
                 </div>
               </div>
             </div>
+
+            <div v-if="episode.special != undefined">
+              <div
+                class="align-top ml-3 -pl-4"
+              >
+                <div class="pl-4">
+                  <p class="text-red align-top text-center">In Memoriam</p>
+                  <div
+                    class="flex flex-inline mx-auto -pl-4"
+                  >
+                    <div
+                      class="mx-auto w-full"
+                    >
+                      <img
+                        class="rounded-full h-16 w-16 mx-auto bg-gray-100"
+                        :src="'/images/comedians/' + episode.special.id+ '_128.jpg'"
+                        :alt="episode.special.name"
+                        :title="episode.special.name"
+                      />
+                      <p class="text-sm text-gray-600 text-center">{{episode.special.name}}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
