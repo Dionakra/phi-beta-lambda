@@ -90,3 +90,7 @@ sw.*
 *.swp
 
 .firebase
+
+static/api/*.json
+static/api/comedians/*.json
+static/api/episodes/*.json

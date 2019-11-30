@@ -1,12 +1,12 @@
 <template>
-  <div class="w-full lg:w-1/2 mt-4 mb-4 pl-2 pr-2">
+  <div class="w-full lg:w-1/2 mb-4 px-2">
     <nuxt-link :to="'/programas/' + episode.id" :key="episode.id">
       <div class="w-full bg-cover rounded-t text-center overflow-hidden">
         <img
           class="w-full -mt-16 -mb-16"
           :src="'https://i.ytimg.com/vi_webp/' + episode.link + '/sddefault.webp'"
-          :title="'Portada' + episode.title"
-          :alt="'Portada' + episode.title"
+          :title="'Portada ' + episode.title"
+          :alt="'Portada ' + episode.title"
         />
       </div>
       <div

@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="">
     <div class="columns">
       <div class="column is-3">
         <img :src="'/images/comedians/' + comedian.id + '.jpg'" :alt="comedian.name" />
@@ -37,10 +37,15 @@
 import axios from "axios";
 
 export default {
-  asyncData({ params }) {
-    return axios.get(`/api/comedians/${params.id}.json`).then(x => {
-      return x.data;
-    });
+  asyncData({ params, error }) {
+    return axios
+      .get(`/api/comedians/${params.id}.json`)
+      .then(x => {
+        return x.data;
+      })
+      .catch(e => {
+        error({ statusCode: 404, message: "Post not found" });
+      });
   },
   data() {
     return {
