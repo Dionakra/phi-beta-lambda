@@ -51,12 +51,12 @@
               v-for="section in episode.sections"
               :key="section.section"
             >
-              <div class="pl-4">
+              <div
+                class="pl-4"
+                v-if="section.extra && section.extra.comedians && section.extra.comedians.length > 0"
+              >
                 <p class="text-red align-top text-center">{{section.section}}</p>
-                <div
-                  v-if="section.extra && section.extra.comedians && section.extra.comedians.length > 0"
-                  class="flex flex-inline mx-auto -pl-4"
-                >
+                <div class="flex flex-inline mx-auto -pl-4">
                   <div
                     v-for="comedian in section.extra.comedians"
                     :key="comedian.id"
@@ -75,17 +75,11 @@
             </div>
 
             <div v-if="episode.special != undefined">
-              <div
-                class="align-top ml-3 -pl-4"
-              >
+              <div class="align-top ml-3 -pl-4">
                 <div class="pl-4">
                   <p class="text-red align-top text-center">In Memoriam</p>
-                  <div
-                    class="flex flex-inline mx-auto -pl-4"
-                  >
-                    <div
-                      class="mx-auto w-full"
-                    >
+                  <div class="flex flex-inline mx-auto -pl-4">
+                    <div class="mx-auto w-full">
                       <img
                         class="rounded-full h-16 w-16 mx-auto bg-gray-100"
                         :src="'/images/comedians/' + episode.special.id+ '_128.jpg'"

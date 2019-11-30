@@ -29,7 +29,7 @@
           "comedians": [
             "hannah-gadsby"
           ],
-          "shows": [
+          "culture": [
             "nanette"
           ]
         }
@@ -83,7 +83,7 @@
           "comedians": [
             "drew-michael"
           ],
-          "shows": [
+          "culture": [
             "drew-michael"
           ]
         }
@@ -125,7 +125,7 @@
       "jorge-ponce",
       "conan-obrien"
     ],
-    "shows": [
+    "culture": [
       "rick-and-morty",
       "the-zen-diaries",
       "saturday-night-live",
@@ -169,7 +169,7 @@
           "comedians": [
             "iliza-shlesinger"
           ],
-          "shows": [
+          "culture": [
             "Elder Millenial"
           ]
         }
@@ -211,7 +211,7 @@
       "carmen-romero",
       "david-suarez"
     ],
-    "shows": [
+    "culture": [
       "norm-macdonald-has-a-show",
       "roseanne",
       "el-fin-de-la-comedia",
@@ -249,7 +249,7 @@
           "comedians": [
             "judah-friedlander"
           ],
-          "shows": [
+          "culture": [
             "america-is-the-greatest"
           ]
         }
@@ -303,13 +303,11 @@
       "moncho-borrajo",
       "mitch-hedberg"
     ],
-    "shows": [
+    "culture": [
       "show-david-letterman",
       "just-for-laughs",
       "30-rock",
-      "el-fin-de-la-comedia"
-    ],
-    "books": [
+      "el-fin-de-la-comedia",
       "gamberro-y-caballero"
     ]
   },
@@ -344,7 +342,7 @@
           "comedians": [
             "cameron-esposito"
           ],
-          "shows": [
+          "culture": [
             "rape-jokes"
           ]
         }
@@ -391,7 +389,7 @@
       "dave-attell",
       "katt-williams"
     ],
-    "shows": [
+    "culture": [
       "seinfeld",
       "show-david-letterman",
       "comedians-in-cars-getting-coffee",
@@ -401,9 +399,7 @@
       "the-simpsons",
       "saturday-night-live",
       "wtf-with-marc-maron",
-      "papanatos"
-    ],
-    "books": [
+      "papanatos",
       "the late-shift",
       "the-war-for-late-night"
     ]
@@ -440,7 +436,7 @@
             "natasha-leggero",
             "moshe-kasher"
           ],
-          "shows": [
+          "culture": [
             "the-honeymoon-standup-special"
           ]
         }
@@ -481,10 +477,8 @@
       "jerry-seinfeld",
       "pablo-ibarburu"
     ],
-    "shows": [
-      "crashing"
-    ],
-    "books": [
+    "culture": [
+      "crashing",
       "how-to-beat-up-anybody-judah",
       "pussy-diamond"
     ]
@@ -524,7 +518,7 @@
           "comedians": [
             "todd-glass"
           ],
-          "shows": [
+          "culture": [
             "act-happy"
           ]
         }
@@ -558,13 +552,12 @@
       "sarah-silverman",
       "jeff-ross"
     ],
-    "shows": [
+    "culture": [
       "saturday-night-live",
       "jimmy-fallon-show",
       "roseanne",
       "marvelous-mrs-maisel"
-    ],
-    "books": []
+    ]
   },
   {
     "id": "s01e08",
@@ -600,7 +593,7 @@
           "comedians": [
             "bo-burnham"
           ],
-          "shows": [
+          "culture": [
             "make-happy"
           ]
         }
@@ -634,7 +627,7 @@
       "ron-white",
       "larry-the-cable-guy"
     ],
-    "shows": [
+    "culture": [
       "saturday-night-live",
       "fashion-police",
       "louie",
@@ -644,8 +637,7 @@
       "jerrod-carmichael-8ht",
       "good-one-podcast",
       "blue-collar-comedy"
-    ],
-    "books": []
+    ]
   },
   {
     "id": "s01e09",
@@ -681,7 +673,7 @@
           "comedians": [
             "katherine-ryan"
           ],
-          "shows": [
+          "culture": [
             "in-trouble"
           ]
         }
@@ -722,12 +714,10 @@
       "cameron-esposito",
       "judah-friedlander"
     ],
-    "shows": [
+    "culture": [
       "bill-hicks-revelations",
       "its-just-a-ride",
-      "blackadder"
-    ],
-    "books": [
+      "blackadder",
       "american-scream-the-bill-hicks-story"
     ]
   }
