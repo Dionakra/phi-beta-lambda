@@ -1,7 +1,7 @@
 <template>
-  <div class="mx-auto sm:w-1/2 md:w-1/2 lg:w-1/4 xl:w-1/5 px-2 pb-2">
+  <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 px-2 pb-2">
     <nuxt-link :to="'/comicos/' + comedian.details.id">
-      <div class="max-w-sm rounded overflow-hidden shadow-lg bm--card-equal-height">
+      <div class="rounded overflow-hidden shadow-lg bm--card-equal-height">
         <img
           class="w-full"
           :src="'/images/comedians/' + comedian.details.id + '.jpg'"

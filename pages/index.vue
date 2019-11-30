@@ -1,5 +1,5 @@
 <template>
-  <div class=" lg:flex lg:flex-wrap lg:-pl-2">
+  <div class=" md:flex md:flex-wrap md:-pl-2">
     <template v-for="episode in episodes">
       <EpisodeCard :episode="episode" :key="episode.id" />
     </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-4">
+  <div class="">
     <div class="sm:flex sm:flex-inline justify-center sm:flex-none">
       <div class="rounded-l text-center overflow-hidden my-auto sm:block">
         <img
@@ -102,7 +102,7 @@
     <div class>
       <span class="text-lg text-red">Cómic@s mencionados ({{episode.comedians.length}})</span>
       <div class="flex flex-inline flex-wrap">
-        <div v-for="comedian in episode.comedians" :key="comedian.id" class="w-24 -mt-2">
+        <div v-for="comedian in episode.comedians" :key="comedian.id" class="w-24 -mt-2  mx-auto sm:mx-0">
           <img
             class="rounded-full h-20 w-20 mx-auto mt-4"
             :src="'/images/comedians/' + comedian.id+ '_128.jpg'"

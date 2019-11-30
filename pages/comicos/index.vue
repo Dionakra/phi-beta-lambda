@@ -15,6 +15,7 @@
 
     <div class="md:w-full lg:w-1/2 mx-auto flex justify-between md:justify-around text-sm mb-3">
       <div>
+        <p class="text-red text-xs -mt-1">Ordenar por</p>
         <button
           class="hover:bg-red text-white py-1 px-2 rounded-full"
           :class="orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
@@ -33,6 +34,7 @@
         >Menciones</button>
       </div>
       <div>
+        <p class="text-red text-xs -mt-1">Órden</p>
         <button
           class="hover:bg-red text-white py-1 px-2 rounded-full"
           :class="ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
@@ -58,7 +60,7 @@
       infinite-scroll-disabled="busy"
       infinite-scroll-distance="200"
     >
-      <div class="flex flex-inline flex-wrap mx-auto">
+      <div class="flex flex-inline flex-wrap mx-auto justify-between">
         <ComedianCard :comedian="comedian" :key="comedian.id" v-for="comedian in showing" />
       </div>
     </div>
