@@ -16,7 +16,7 @@
     <div class="md:w-full lg:w-1/2 mx-auto flex justify-between md:justify-around text-sm">
       <div>
           <button
-            class="hover:bg-red text-white py-2 px-4 rounded-full"
+            class="hover:bg-red text-white py-1 px-2 rounded-full"
             :class="orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
             @click="
             orderByName = true;
@@ -24,7 +24,7 @@
           "
           >Nombre</button>
           <button
-            class="hover:bg-red text-white py-2 px-4 rounded-full"
+            class="hover:bg-red text-white py-1 px-2 rounded-full"
             :class="!orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
             @click="
             orderByName = false;
@@ -32,9 +32,9 @@
           "
           >Menciones</button>
       </div>
-      <div>
+      <div class="justify-end">
           <button
-            class="hover:bg-red text-white py-2 px-4 rounded-full"
+            class="hover:bg-red text-white py-1 px-2 rounded-full"
             :class="ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
             @click="
               ascending = true;
@@ -42,7 +42,7 @@
             "
           >Ascendente</button>
           <button
-            class="hover:bg-red text-white py-2 px-4 rounded-full"
+            class="hover:bg-red text-white py-1 px-2 rounded-full"
             :class="!ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
             @click="
               ascending = false;
