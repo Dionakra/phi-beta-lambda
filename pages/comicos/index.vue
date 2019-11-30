@@ -4,7 +4,7 @@
       <input
         class="transition focus:outline-0 border border-transparent focus:bg-white focus:border-red placeholder-gray-600 rounded-lg bg-gray-200 py-2 pr-4 pl-10 block w-full appearance-none leading-normal ds-input"
         type="text"
-        placeholder="Busca un/a comíco/a"
+        placeholder="Busca un/a cómico/a"
         autocomplete="off"
         spellcheck="false"
         aria-label="search input"
@@ -60,7 +60,7 @@
       infinite-scroll-disabled="busy"
       infinite-scroll-distance="200"
     >
-      <div class="flex flex-inline flex-wrap mx-auto justify-between">
+      <div class="flex flex-inline flex-wrap mx-auto justify-center">
         <ComedianCard :comedian="comedian" :key="comedian.id" v-for="comedian in showing" />
       </div>
     </div>
