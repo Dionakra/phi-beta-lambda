@@ -17,8 +17,8 @@ export default {
   components: {
     HostCard
   },
-  asyncData({ params }) {
-    return axios.get(`/db/hosts.json`).then(res => {
+  asyncData() {
+    return axios.get(`/api/hosts.json`).then(res => {
       return { hosts: res.data };
     });
   },

@@ -15,40 +15,40 @@
 
     <div class="md:w-full lg:w-1/2 mx-auto flex justify-between md:justify-around text-sm mb-3">
       <div>
-          <button
-            class="hover:bg-red text-white py-1 px-2 rounded-full"
-            :class="orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
-            @click="
+        <button
+          class="hover:bg-red text-white py-1 px-2 rounded-full"
+          :class="orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="
             orderByName = true;
             updateList();
           "
-          >Nombre</button>
-          <button
-            class="hover:bg-red text-white py-1 px-2 rounded-full"
-            :class="!orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
-            @click="
+        >Nombre</button>
+        <button
+          class="hover:bg-red text-white py-1 px-2 rounded-full"
+          :class="!orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="
             orderByName = false;
             updateList();
           "
-          >Menciones</button>
+        >Menciones</button>
       </div>
       <div>
-          <button
-            class="hover:bg-red text-white py-1 px-2 rounded-full"
-            :class="ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
-            @click="
+        <button
+          class="hover:bg-red text-white py-1 px-2 rounded-full"
+          :class="ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="
               ascending = true;
               updateList();
             "
-          >Ascendente</button>
-          <button
-            class="hover:bg-red text-white py-1 px-2 rounded-full"
-            :class="!ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
-            @click="
+        >Ascendente</button>
+        <button
+          class="hover:bg-red text-white py-1 px-2 rounded-full"
+          :class="!ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="
               ascending = false;
               updateList();
             "
-          >Descendente</button>
+        >Descendente</button>
       </div>
     </div>
 
@@ -76,46 +76,9 @@ export default {
     ComedianCard
   },
   async asyncData() {
-    const [episodes, comedians] = await Promise.all([
-      axios.get(`/db/episodes.json`),
-      axios.get(`/db/comedians.json`)
-    ]);
-
-    // Get comedians mentioned on each episode
-    const comediansOnEpisodes = episodes.data.flatMap(e => {
-      return e.sections
-        .flatMap(s => {
-          if (s.extra != undefined && s.extra.comedians != undefined) {
-            return s.extra.comedians.map(c => {
-              const comedian = comedians.data.find(x => x.id == c);
-
-              comedian.thank = s.section == "thank-you";
-              comedian.day = s.section == "comedian-of-the-day";
-
-              return comedian;
-            });
-            return s.extra.comedians;
-          } else {
-            return [];
-          }
-        })
-        .concat(e.comedians.map(c => comedians.data.find(x => x.id == c)))
-        //.concat(e.guests.map(c => comedians.data.find(x => x.id == c)));
-        // If it is a guest, do not count on "mentions"
+    return axios.get("/api/comedians.json").then(x => {
+      return { comedians: x.data };
     });
-
-    // Count occurrences per comedian
-    const stats = countBy(comediansOnEpisodes, "id");
-
-    // Add info with comedian names and appearences
-    const comediansInfo = Object.keys(stats).map(k => {
-      return {
-        details: comediansOnEpisodes.find(c => c.id == k),
-        appeareances: stats[k]
-      };
-    });
-
-    return { comedians: comediansInfo };
   },
   data() {
     return {

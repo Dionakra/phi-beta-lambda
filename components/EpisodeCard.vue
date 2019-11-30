@@ -49,13 +49,13 @@
             <div
               class="align-top ml-3 -pl-4"
               v-for="section in episode.sections"
-              :key="section.section"
+              :key="section.section.id"
             >
               <div
                 class="pl-4"
                 v-if="section.extra && section.extra.comedians && section.extra.comedians.length > 0"
               >
-                <p class="text-red align-top text-center">{{section.section}}</p>
+                <p class="text-red align-top text-center">{{section.section.name}}</p>
                 <div class="flex flex-inline mx-auto -pl-4">
                   <div
                     v-for="comedian in section.extra.comedians"

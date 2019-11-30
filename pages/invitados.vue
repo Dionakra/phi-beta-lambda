@@ -18,43 +18,10 @@ export default {
   components: {
     GuestCard
   },
-  async asyncData() {
-    const [episodes, comedians] = await Promise.all([
-      axios.get("/db/episodes.json"),
-      axios.get("/db/comedians.json")
-    ]);
-
-    const guests = episodes.data
-      .filter(e => e.guests && e.guests.length > 0)
-      .flatMap(e => {
-        return e.guests.map(g => {
-          const comedian = comedians.data.find(c => c.id == g);
-
-          return {
-            id: comedian.id,
-            name: comedian.name,
-            episode: {
-              id: e.id,
-              season: e.season,
-              episode: e.episode,
-              title: e.title
-            }
-          };
-        });
-      })
-      .sort((a, b) => {
-        let res = b.episode.season - a.episode.season;
-
-        if (res == 0) {
-          res = b.episode.episode - a.episode.episode;
-        }
-
-        return res;
-      });
-
-    return {
-      guests: guests
-    };
+  asyncData() {
+    return axios.get("/api/guests.json").then(x => {
+      return { guests: x.data };
+    });
   },
   data() {
     return {
