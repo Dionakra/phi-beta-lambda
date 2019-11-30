@@ -1,4 +1,3 @@
-
 export default {
   mode: 'spa',
   /*
@@ -6,13 +5,27 @@ export default {
   */
   head: {
     title: 'Comedia Perpetua - Phi Beta Lambda',
+    htmlAttrs: {
+      lang: 'es'
+    },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Página no oficial sobre Comedia Perpetua AKA Phi Beta Lambda' },
       { name: 'msapplication-TileColor', content: '#91230D' },
       { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' },
-      { name: 'theme-color', content: '#91230D' }
+      { name: 'theme-color', content: '#91230D' },
+      { name: 'apple-mobile-web-app-title', content: 'Comedia Perpetua - Phi Beta Lambda' },
+      {
+        property: 'og:title',
+        content: 'Comedia Perpetua - Phi Beta Lambda',
+        vmid: 'og:title'
+      },
+      {
+        property: 'og:site_name',
+        content: 'Comedia Perpetua - Phi Beta Lambda',
+        vmid: 'og:site_name'
+      }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/icons/favicon.ico' },

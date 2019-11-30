@@ -32,7 +32,7 @@
           "
           >Menciones</button>
       </div>
-      <div class="justify-end">
+      <div>
           <button
             class="hover:bg-red text-white py-1 px-2 rounded-full"
             :class="ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"

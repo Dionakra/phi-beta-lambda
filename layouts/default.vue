@@ -37,22 +37,22 @@
         <div class="text-sm md:flex-grow">
           <nuxt-link
             class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
-            to="presentadores"
+            to="/presentadores"
             v-on:click.native="toggle()"
           >Presentadores</nuxt-link>
           <nuxt-link
             class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
-            to="secciones"
+            to="/secciones"
             v-on:click.native="toggle()"
           >Secciones</nuxt-link>
           <nuxt-link
             class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
-            to="invitados"
+            to="/invitados"
             v-on:click.native="toggle()"
           >Invitados</nuxt-link>
           <nuxt-link
             class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
-            to="comicos"
+            to="/comicos"
             v-on:click.native="toggle()"
           >Cómicos</nuxt-link>
         </div>
