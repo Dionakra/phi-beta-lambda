@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto">
-    <div class="md:w-full lg:w-1/2 mx-auto my-3">
+    <div class="md:w-full lg:w-1/2 mx-auto mt-3 mb-2">
       <input
         class="transition focus:outline-0 border border-transparent focus:bg-white focus:border-red placeholder-gray-600 rounded-lg bg-gray-200 py-2 pr-4 pl-10 block w-full appearance-none leading-normal ds-input"
         type="text"
@@ -13,7 +13,7 @@
       />
     </div>
 
-    <div class="md:w-full lg:w-1/2 mx-auto flex justify-between md:justify-around text-sm">
+    <div class="md:w-full lg:w-1/2 mx-auto flex justify-between md:justify-around text-sm mb-3">
       <div>
           <button
             class="hover:bg-red text-white py-1 px-2 rounded-full"
