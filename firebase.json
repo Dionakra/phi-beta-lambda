@@ -3,6 +3,26 @@
     {
       "site": "comediaperpetua",
       "public": "dist",
+      "headers": [
+        {
+          "source": "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
+          "headers": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "*"
+            }
+          ]
+        },
+        {
+          "source": "**/*.@(jpg|jpeg|gif|png|webp|js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "max-age=31557600  "
+            }
+          ]
+        }
+      ],
       "ignore": [
         "firebase.json",
         "**/.*",
@@ -18,6 +38,26 @@
     {
       "site": "phibetalambda",
       "public": "dist",
+      "headers": [
+        {
+          "source": "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
+          "headers": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "*"
+            }
+          ]
+        },
+        {
+          "source": "**/*.@(jpg|jpeg|gif|png|webp|js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "max-age=31557600  "
+            }
+          ]
+        }
+      ],
       "ignore": [
         "firebase.json",
         "**/.*",
@@ -33,6 +73,26 @@
     {
       "site": "cope-57bf6",
       "public": "dist",
+      "headers": [
+        {
+          "source": "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
+          "headers": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "*"
+            }
+          ]
+        },
+        {
+          "source": "**/*.@(jpg|jpeg|gif|png|webp|js|css)",
+          "headers": [
+            {
+              "key": "Cache-Control",
+              "value": "max-age=31557600  "
+            }
+          ]
+        }
+      ],
       "ignore": [
         "firebase.json",
         "**/.*",

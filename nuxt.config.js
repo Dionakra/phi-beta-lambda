@@ -13,7 +13,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Página no oficial sobre Comedia Perpetua AKA Phi Beta Lambda' },
       { name: 'msapplication-TileColor', content: '#91230D' },
-      { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' },
+      { name: 'msapplication-TileImage', content: '/icons/ms-icon-144x144.png' },
       { name: 'theme-color', content: '#91230D' },
       { name: 'apple-mobile-web-app-title', content: 'Comedia Perpetua - Phi Beta Lambda' },
       {
@@ -25,6 +25,21 @@ export default {
         property: 'og:site_name',
         content: 'Comedia Perpetua - Phi Beta Lambda',
         vmid: 'og:site_name'
+      },
+      {
+        property: 'og:image',
+        content: '/icons/logo.png',
+        vmid: 'og:image'
+      },
+      {
+        property: 'og:locale',
+        content: 'es_ES',
+        vmid: 'og:locale'
+      },
+      {
+        property: 'og:description',
+        content: 'Comedia Perpetua - Phi Beta Lambda | Página no oficial',
+        vmid: 'og:description'
       }
     ],
     link: [
@@ -72,8 +87,7 @@ export default {
   */
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/axios',
-    '@nuxtjs/pwa'
+    '@nuxtjs/axios'
   ],
   /*
   ** Axios module configuration
