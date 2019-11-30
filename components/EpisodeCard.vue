@@ -56,6 +56,11 @@
                 v-if="section.extra && section.extra.comedians && section.extra.comedians.length > 0"
               >
                 <p class="text-red align-top text-center">{{section.section.name}}</p>
+                <p
+                  v-if="section.section.id == 'thank-you' && section.extra && section.extra.culture && section.extra.culture.length > 0"
+                  class="text-sm text-red text-center"
+                >{{section.extra.culture[0].title}}</p>
+                <p v-else>&nbsp;</p>
                 <div class="flex flex-inline mx-auto -pl-4">
                   <div
                     v-for="comedian in section.extra.comedians"
@@ -78,6 +83,7 @@
               <div class="align-top ml-3 -pl-4">
                 <div class="pl-4">
                   <p class="text-red align-top text-center">In Memoriam</p>
+                  <p>&nbsp;</p>
                   <div class="flex flex-inline mx-auto -pl-4">
                     <div class="mx-auto w-full">
                       <img

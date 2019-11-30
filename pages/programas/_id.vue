@@ -1,6 +1,6 @@
 <template>
   <div class="mx-4">
-    <div class="sm:flex sm:flex-inline mx-auto flex-none">
+    <div class="sm:flex sm:flex-inline justify-center sm:flex-none">
       <div class="rounded-l text-center overflow-hidden my-auto sm:block">
         <img
           class="w-full"
@@ -21,7 +21,7 @@
                 <img
                   v-for="host in episode.hosts"
                   :key="host.id"
-                  class="rounded-full h-16 w-16 ml-3"
+                  class="rounded-full h-20 w-20 ml-3"
                   :src="'/images/comedians/' + host.id+ '_128.jpg'"
                   :alt="host.name"
                   :title="host.name"
@@ -34,7 +34,7 @@
                 <img
                   v-for="guest in episode.guests"
                   :key="guest.id"
-                  class="rounded-full h-16 w-16 ml-3"
+                  class="rounded-full h-20 w-20 ml-3"
                   :src="'/images/comedians/' + guest.id+ '_128.jpg'"
                   :alt="guest.name"
                   :title="guest.name"
@@ -54,6 +54,11 @@
                 v-if="section.extra && section.extra.comedians && section.extra.comedians.length > 0"
               >
                 <p class="text-red align-top text-center">{{section.section.name}}</p>
+                <p
+                  v-if="section.section.id == 'thank-you'"
+                  class="text-sm text-red text-center"
+                >{{section.extra.culture[0].title}}</p>
+                <p v-else>&nbsp;</p>
                 <div class="flex flex-inline mx-auto -pl-4">
                   <div
                     v-for="comedian in section.extra.comedians"
@@ -61,7 +66,7 @@
                     class="mx-auto w-full"
                   >
                     <img
-                      class="rounded-full h-16 w-16 mx-auto"
+                      class="rounded-full h-20 w-20 mx-auto"
                       :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
                       :alt="comedian.name"
                       :title="comedian.name"
@@ -79,7 +84,7 @@
                   <div class="flex flex-inline mx-auto -pl-4">
                     <div class="mx-auto w-full">
                       <img
-                        class="rounded-full h-16 w-16 mx-auto bg-gray-100"
+                        class="rounded-full h-20 w-20 mx-auto bg-gray-100"
                         :src="'/images/comedians/' + episode.special.id+ '_128.jpg'"
                         :alt="episode.special.name"
                         :title="episode.special.name"
@@ -108,6 +113,21 @@
         </div>
       </div>
     </div>
+
+    <div v-if="episode.culture && episode.culture.length > 0" class="mt-6">
+      <span class="text-lg text-red">Cultura ({{episode.culture.length}})</span>
+      <div class="flex flex-inline flex-wrap mx-4">
+        <div v-for="culture in episode.culture" :key="culture.id" class="h-auto w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/5 my-2">
+          <img
+            class="h-40 mx-auto mt-px mt-6"
+            :src="'/images/culture/' + culture.id+ '.jpg'"
+            :alt="culture.title"
+            :title="culture.title"
+          />
+          <p class="text-sm text-gray-700 text-center mt-1">{{culture.title}}</p>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -119,7 +139,9 @@ export default {
     return axios
       .get(`/api/episodes/${params.id}.json`)
       .then(x => {
-        return { episode: x.data };
+        return {
+          episode: x.data
+        };
       })
       .catch(e => {
         error({ statusCode: 404, message: "Post not found" });

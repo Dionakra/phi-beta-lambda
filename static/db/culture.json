@@ -1,38 +1,257 @@
 [
   {
     "id": "nanette",
-    "title": "Nanette"
+    "title": "Nanette",
+    "type": "comedy-special"
   },
   {
     "id": "drew-michael",
-    "title": "Drew Michael"
+    "title": "Drew Michael",
+    "type": "comedy-special"
   },
   {
     "id": "elder-millenial",
-    "title": "Elder Millenial"
+    "title": "Elder Millenial",
+    "type": "comedy-special"
   },
   {
     "id": "america-is-the-greatest",
-    "title": "America Is the Greatest Country in the United States"
+    "title": "America Is the Greatest Country in the United States",
+    "type": "comedy-special"
   },
   {
     "id": "rape-jokes",
-    "title": "Rape Jokes"
+    "title": "Rape Jokes",
+    "type": "comedy-special"
   },
   {
     "id": "the-honeymoon-standup-special",
-    "title": "The Honeymoon Standup Special"
+    "title": "The Honeymoon Standup Special",
+    "type": "comedy-special"
   },
   {
     "id": "act-happy",
-    "title": "Act Happy"
+    "title": "Act Happy",
+    "type": "comedy-special"
   },
   {
     "id": "make-happy",
-    "title": "Make Happy"
+    "title": "Make Happy",
+    "type": "comedy-special"
   },
   {
     "id": "in-trouble",
-    "title": "In Trouble"
+    "title": "In Trouble",
+    "type": "comedy-special"
+  },
+  {
+    "id": "rick-and-morty",
+    "title": "Rick and Morty",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-zen-diaries",
+    "title": "The Zen Diaries",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "saturday-night-live",
+    "title": "Saturday Night Live",
+    "type": "tv-show"
+  },
+  {
+    "id": "man-on-the-moon",
+    "title": "Man On The Moon",
+    "type": "movie"
+  },
+  {
+    "id": "united-shades-of-america",
+    "title": "United Shades Of America",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "jim-and-andy",
+    "title": "Jim and Andy",
+    "type": "documentary"
+  },
+  {
+    "id": "conan-without-borders",
+    "title": "Conan Without Borders",
+    "type": "tv-show"
+  },
+  {
+    "id": "atlanta",
+    "title": "Atlanta",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "capitulo-0",
+    "title": "Capitulo 0",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "def-comedy-jam",
+    "title": "Def Comedy Jam",
+    "type": "tv-show"
+  },
+  {
+    "id": "norm-macdonald-has-a-show",
+    "title": "Norm MacDonald Has A Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "roseanne",
+    "title": "Roseanne",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "el-fin-de-la-comedia",
+    "title": "El Fin De La Comedia",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "kid-gorgeous",
+    "title": "John Mulaney: Kid Gorgeous at Radio City",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-comeback-kid",
+    "title": "John Mulaney: The Comeback Kid",
+    "type": "tv-show"
+  },
+  {
+    "id": "show-david-letterman",
+    "title": "Late Show with David Letterman",
+    "type": "tv-show"
+  },
+  {
+    "id": "just-for-laughs",
+    "title": "Just For Laughs",
+    "type": "tv-show"
+  },
+  {
+    "id": "30-rock",
+    "title": "30 Rock",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "gamberro-y-caballero",
+    "title": "Gamberro y Caballero",
+    "type": "book"
+  },
+  {
+    "id": "seinfeld",
+    "title": "Seinfeld",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "comedians-in-cars-getting-coffee",
+    "title": "Comedians In Cars Getting Coffee",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-tonight-show",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "type": "tv-show"
+  },
+  {
+    "id": "la-resistencia",
+    "title": "La Resistencia",
+    "type": "tv-show"
+  },
+  {
+    "id": "late-motiv",
+    "title": "Late Motiv",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-simpsons",
+    "title": "The Simpsons",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "wtf-with-marc-maron",
+    "title": "WTF With Marc Maron",
+    "type": "podcast"
+  },
+  {
+    "id": "papanatos",
+    "title": "Papanatos",
+    "type": "yt-show"
+  },
+  {
+    "id": "the-late-shift",
+    "title": "The Late Shift",
+    "type": "book"
+  },
+  {
+    "id": "the-war-for-late-night",
+    "title": "The War For Late Night",
+    "type": "book"
+  },
+  {
+    "id": "crashing",
+    "title": "Crashing",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "how-to-beat-up-anybody-judah",
+    "title": "How to Beat Up Anybody: An Instructional and Inspirational Karate Book by the World Champion",
+    "type": "book"
+  },
+  {
+    "id": "pussy-diamond",
+    "title": "Natasha Leggero: Live at Bimbo's - Diamond Pussy",
+    "type": "sketch"
+  },
+  {
+    "id": "marvelous-mrs-maisel",
+    "title": "Marvelous Mrs Maisel",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "fashion-police",
+    "title": "Fashion Police",
+    "type": "tv-show"
+  },
+  {
+    "id": "louie",
+    "title": "Louie",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "chris-rock-tamborine",
+    "title": "Chris Rock: Tamborine",
+    "type": "comedy-special"
+  },
+  {
+    "id": "jerrod-carmichael-8",
+    "title": "Jerrod Carmichael: 8",
+    "type": "comedy-special"
+  },
+  {
+    "id": "good-one-podcast",
+    "title": "Good One: A Podcast About Jokes",
+    "type": "podcast"
+  },
+  {
+    "id": "blue-collar-comedy",
+    "title": "Blue Collar Comedy Tour: The Movie",
+    "type": "movie"
+  },
+  {
+    "id": "bill-hicks-revelations",
+    "title": "Bill Hicks: Revelations",
+    "type": "comedy-special"
+  },
+  {
+    "id": "blackadder",
+    "title": "Blackadder",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "american-scream-the-bill-hicks-story",
+    "title": "American Scream: The Bill Hicks Story",
+    "type": "book"
   }
 ]

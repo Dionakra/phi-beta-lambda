@@ -170,7 +170,7 @@
             "iliza-shlesinger"
           ],
           "culture": [
-            "Elder Millenial"
+            "elder-millenial"
           ]
         }
       }
@@ -400,7 +400,7 @@
       "saturday-night-live",
       "wtf-with-marc-maron",
       "papanatos",
-      "the late-shift",
+      "the-late-shift",
       "the-war-for-late-night"
     ]
   },
@@ -554,7 +554,7 @@
     ],
     "culture": [
       "saturday-night-live",
-      "jimmy-fallon-show",
+      "the-tonight-show",
       "roseanne",
       "marvelous-mrs-maisel"
     ]
@@ -631,10 +631,10 @@
       "saturday-night-live",
       "fashion-police",
       "louie",
-      "the-jimmy-fallon-show",
+      "the-tonight-show",
       "roseanne",
       "chris-rock-tamborine",
-      "jerrod-carmichael-8ht",
+      "jerrod-carmichael-8",
       "good-one-podcast",
       "blue-collar-comedy"
     ]
@@ -716,7 +716,6 @@
     ],
     "culture": [
       "bill-hicks-revelations",
-      "its-just-a-ride",
       "blackadder",
       "american-scream-the-bill-hicks-story"
     ]
