@@ -2,7 +2,7 @@
   <div class="mx-auto">
     <div class="md:w-full lg:w-1/2 mx-auto my-3">
       <input
-        class="transition focus:outline-0 border border-transparent focus:bg-white focus:border-gray-300 placeholder-gray-600 rounded-lg bg-gray-200 py-2 pr-4 pl-10 block w-full appearance-none leading-normal ds-input"
+        class="transition focus:outline-0 border border-transparent focus:bg-white focus:border-red placeholder-gray-600 rounded-lg bg-gray-200 py-2 pr-4 pl-10 block w-full appearance-none leading-normal ds-input"
         type="text"
         placeholder="Busca un/a comíco/a"
         autocomplete="off"
@@ -100,7 +100,8 @@ export default {
           }
         })
         .concat(e.comedians.map(c => comedians.data.find(x => x.id == c)))
-        .concat(e.guests.map(c => comedians.data.find(x => x.id == c)));
+        //.concat(e.guests.map(c => comedians.data.find(x => x.id == c)));
+        // If it is a guest, do not count on "mentions"
     });
 
     // Count occurrences per comedian
