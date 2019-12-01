@@ -12,20 +12,26 @@
 
       <div class="ml-1 md:ml-2">
         <span class="text-lg">Programas en que se le menciona</span>
-        <div v-for="mention in mentions" :key="mention.id" class="ml-1 md:ml-2">
-          {{mention.id.toUpperCase()}} - {{mention.title}}
-        </div>
+        <div
+          v-for="mention in mentions"
+          :key="mention.id"
+          class="ml-1 md:ml-2"
+        >{{mention.id.toUpperCase()}} - {{mention.title}}</div>
       </div>
       <div class="mt-4 ml-1 md:ml-2">
         <div v-if="vip != undefined && vip.length > 0">
           <span class="text-lg">Destacad@</span>
           <div v-for="v in vip" :key="v.id" class="ml-1 md:ml-2">
             {{v.id.toUpperCase()}} - {{v.title}}
-            <div v-if="v.section.section.id == 'comedian-of-the-day'" class="ml-1 md:ml-2">Cómic@ del día</div>
+            <div
+              v-if="v.section.section.id == 'comedian-of-the-day'"
+              class="ml-1 md:ml-2"
+            >Cómic@ del día</div>
 
-            <div v-if="v.section.section.id == 'thank-you'" class="ml-1 md:ml-2">
-              {{v.section.section.name}} - {{v.section.extra.culture[0].title}}
-            </div>
+            <div
+              v-if="v.section.section.id == 'thank-you'"
+              class="ml-1 md:ml-2"
+            >{{v.section.section.name}} - {{v.section.extra.culture[0].title}}</div>
           </div>
         </div>
       </div>

@@ -11,7 +11,9 @@
         <div class="font-bold text-xl mb-2">{{ guest.name }}</div>
       </div>
 
-      <div class="text-sm pl-6 -mt-4 mb-2">{{guest.episode.id.toUpperCase()}} - {{guest.episode.title}}</div>
+      <div
+        class="text-sm pl-6 -mt-4 mb-2"
+      >{{guest.episode.id.toUpperCase()}} - {{guest.episode.title}}</div>
     </div>
   </div>
 </template>

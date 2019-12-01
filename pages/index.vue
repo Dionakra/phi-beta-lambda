@@ -1,5 +1,5 @@
 <template>
-  <div class=" md:flex md:flex-wrap md:-pl-2">
+  <div class="md:flex md:flex-wrap md:-pl-2">
     <template v-for="episode in episodes">
       <EpisodeCard :episode="episode" :key="episode.id" />
     </template>
@@ -16,7 +16,7 @@ export default {
   },
   async asyncData() {
     return axios.get("/api/main.json").then(x => {
-      return {episodes: x.data};
+      return { episodes: x.data };
     });
   },
   data() {
