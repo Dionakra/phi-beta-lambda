@@ -1,30 +1,30 @@
 <template>
-  <div class="">
-    <div class="columns">
-      <div class="column is-3">
-        <img :src="'/images/comedians/' + comedian.id + '.jpg'" :alt="comedian.name" />
+  <div class="ml-2 sm:ml-4 sm:flex sm:flex-inline mx-auto">
+    <img
+      :src="'/images/comedians/' + comedian.id + '.jpg'"
+      :alt="comedian.name"
+      :title="comedian.name"
+      class="rounded-full mx-auto sm:mx-0"
+    />
+
+    <div class="ml-1 md:ml-2">
+      <span class="text-2xl text-red text-bold">{{comedian.name}}</span>
+
+      <div class="ml-1 md:ml-2">
+        <span class="text-lg">Programas en que se le menciona</span>
+        <div v-for="mention in mentions" :key="mention.id" class="ml-1 md:ml-2">
+          {{mention.id.toUpperCase()}} - {{mention.title}}
+        </div>
       </div>
-      <div class="column is-9">
-        <h1 class="title">{{ comedian.name }}</h1>
-
-        <h2 class="subtitle">
-          Aparece en:
-          <div v-for="mention in mentions" :key="mention.id">
-            Temporada {{ mention.season }} Episodio
-            {{ mention.episode }} Nombre: {{ mention.title }}
-          </div>
-        </h2>
-
+      <div class="mt-4 ml-1 md:ml-2">
         <div v-if="vip != undefined && vip.length > 0">
-          Especiales:
-          <div v-for="v in vip" :key="v.id">
-            Temporada {{ v.season }} Episodio {{ v.episode }} Nombre:
-            {{ v.title }} Seccion: {{ v.section.section.name }}
-            <div v-if="v.section == 'comedian-of-the-day'">Comico del que se presenta el capitulo</div>
+          <span class="text-lg">Destacad@</span>
+          <div v-for="v in vip" :key="v.id" class="ml-1 md:ml-2">
+            {{v.id.toUpperCase()}} - {{v.title}}
+            <div v-if="v.section.section.id == 'comedian-of-the-day'" class="ml-1 md:ml-2">Cómic@ del día</div>
 
-            <div v-if="v.section.section == 'thank-you'">
-              Especial: {{ v.section.extra.show.name }} Plataforma:
-              {{ v.section.extra.show.platform }}
+            <div v-if="v.section.section.id == 'thank-you'" class="ml-1 md:ml-2">
+              {{v.section.section.name}} - {{v.section.extra.culture[0].title}}
             </div>
           </div>
         </div>

@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto sm:px-4 md:px-16 font-sans antialiased">
-    <nav class="flex items-center justify-between flex-wrap py-3">
+    <nav class="flex items-center justify-between flex-wrap pt-3 pb-6">
       <!-- START LOGO -->
       <div class="items-center text-white mr-3">
         <nuxt-link to="/">

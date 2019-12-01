@@ -128,7 +128,7 @@
         >
           <div
             v-if="culture.section"
-            class="absolute top-0 mx-3 -mt-5  px-1 py-1 bg-red text-xs text-white text-center rounded-full"
+            class="absolute top-0 mx-3 -mt-4 px-1 py-1 bg-red text-xs text-white text-center rounded-full"
           >{{culture.section}}</div>
           <img
             class="h-40 mx-auto mt-px mt-6"
