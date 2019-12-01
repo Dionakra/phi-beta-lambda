@@ -23,13 +23,17 @@
           <span class="text-lg">Destacad@</span>
           <div v-for="v in vip" :key="v.id" class="ml-1 md:ml-2">
             {{v.id.toUpperCase()}} - {{v.title}}
+            <div v-if="v.special" class="ml-1 md:ml-2">
+              Mención especial
+            </div>
+
             <div
-              v-if="v.section.section.id == 'comedian-of-the-day'"
+              v-else-if="v.section.section.id == 'comedian-of-the-day'"
               class="ml-1 md:ml-2"
             >Cómic@ del día</div>
 
             <div
-              v-if="v.section.section.id == 'thank-you'"
+              v-else-if="v.section.section.id == 'thank-you'"
               class="ml-1 md:ml-2"
             >{{v.section.section.name}} - {{v.section.extra.culture[0].title}}</div>
           </div>
@@ -47,6 +51,7 @@ export default {
     return axios
       .get(`/api/comedians/${params.id}.json`)
       .then(x => {
+        console.log(x.data)
         return x.data;
       })
       .catch(e => {
