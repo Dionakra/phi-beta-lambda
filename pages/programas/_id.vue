@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class>
     <div class="sm:flex sm:flex-inline justify-center sm:flex-none">
       <div class="rounded-l text-center overflow-hidden my-auto sm:block">
         <img
@@ -102,7 +102,11 @@
     <div class>
       <span class="text-lg text-red">Cómic@s mencionados ({{episode.comedians.length}})</span>
       <div class="flex flex-inline flex-wrap">
-        <div v-for="comedian in episode.comedians" :key="comedian.id" class="w-24 -mt-2  mx-auto sm:mx-0">
+        <div
+          v-for="comedian in episode.comedians"
+          :key="comedian.id"
+          class="w-24 -mt-2 mx-auto sm:mx-0"
+        >
           <img
             class="rounded-full h-20 w-20 mx-auto mt-4"
             :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
@@ -117,7 +121,15 @@
     <div v-if="episode.culture && episode.culture.length > 0" class="mt-6">
       <span class="text-lg text-red">Cultura ({{episode.culture.length}})</span>
       <div class="flex flex-inline flex-wrap mx-4">
-        <div v-for="culture in episode.culture" :key="culture.id" class="h-auto w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/5 my-2">
+        <div
+          v-for="culture in episode.culture"
+          :key="culture.id"
+          class="h-auto w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 my-2 relative"
+        >
+          <div
+            v-if="culture.section"
+            class="absolute top-0 mx-3 -mt-5  px-1 py-1 bg-red text-xs text-white text-center rounded-full"
+          >{{culture.section}}</div>
           <img
             class="h-40 mx-auto mt-px mt-6"
             :src="'/images/culture/' + culture.id+ '.jpg'"

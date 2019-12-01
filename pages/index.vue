@@ -1,5 +1,5 @@
 <template>
-  <div class=" md:flex md:flex-wrap md:-pl-2 bm--card-equal-height">
+  <div class=" md:flex md:flex-wrap md:-pl-2">
     <template v-for="episode in episodes">
       <EpisodeCard :episode="episode" :key="episode.id" />
     </template>
