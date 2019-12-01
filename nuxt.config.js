@@ -13,7 +13,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Página no oficial sobre Comedia Perpetua AKA Phi Beta Lambda' },
       { name: 'msapplication-TileColor', content: '#91230D' },
-      { name: 'msapplication-TileImage', content: '/icons/ms-icon-144x144.png' },
+      { name: 'msapplication-TileImage', content: '~/icons/ms-icon-144x144.png' },
       { name: 'theme-color', content: '#91230D' },
       { name: 'apple-mobile-web-app-title', content: 'Comedia Perpetua - Phi Beta Lambda' },
       {
@@ -27,8 +27,9 @@ export default {
         vmid: 'og:site_name'
       },
       {
+        hid: 'og:image',
         property: 'og:image',
-        content: '/icons/logo.png',
+        content: 'https://yt3.ggpht.com/a/AGF-l79G11X7KAKflc4QSHemd4NddDGKeoocidle=s288-c-k-c0xffffffff-no-rj-mo',
         vmid: 'og:image'
       },
       {
@@ -58,7 +59,8 @@ export default {
       { rel: 'icon', type: 'image/png', sizes: '96x96', href: '/icons/favicon-96x96.png' },
       { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/icons/favicon-16x16.png' },
       { rel: 'manifest', href: '/icons/manifest.json' },
-      {rel: 'preconnect', href: 'https://i.ytimg.com'}
+      { rel: 'preconnect', href: 'https://i.ytimg.com' },
+      { rel: 'preconnect', href: 'https://yt3.ggpht.com/' }
     ]
   },
   /*
