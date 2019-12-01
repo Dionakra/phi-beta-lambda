@@ -31,14 +31,18 @@
             <div v-if="episode.guests && episode.guests.length > 0" class="ml-10">
               <p class="text-sm text-gray-600">Invitados</p>
               <div class="flex flex-inline -ml-2">
-                <img
+                <nuxt-link
+                  :to="'/comicos/' + guest.id"
                   v-for="guest in episode.guests"
                   :key="guest.id"
-                  class="rounded-full h-20 w-20 ml-3"
-                  :src="'/images/comedians/' + guest.id+ '_128.jpg'"
-                  :alt="guest.name"
-                  :title="guest.name"
-                />
+                >
+                  <img
+                    class="rounded-full h-20 w-20 ml-3"
+                    :src="'/images/comedians/' + guest.id+ '_128.jpg'"
+                    :alt="guest.name"
+                    :title="guest.name"
+                  />
+                </nuxt-link>
               </div>
             </div>
           </div>
@@ -65,13 +69,16 @@
                     :key="comedian.id"
                     class="mx-auto w-full"
                   >
-                    <img
-                      class="rounded-full h-20 w-20 mx-auto"
-                      :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
-                      :alt="comedian.name"
-                      :title="comedian.name"
-                    />
-                    <p class="text-sm text-gray-600 text-center">{{comedian.name}}</p>
+                    <nuxt-link :to="'/comicos/' + comedian.id">
+                      <img
+                        class="rounded-full h-20 w-20 mx-auto"
+                        :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
+                        :alt="comedian.name"
+                        :title="comedian.name"
+                      />
+
+                      <p class="text-sm text-gray-600 text-center">{{comedian.name}}</p>
+                    </nuxt-link>
                   </div>
                 </div>
               </div>
@@ -83,13 +90,15 @@
                   <p class="text-red align-top text-center">In Memoriam</p>
                   <div class="flex flex-inline mx-auto -pl-4">
                     <div class="mx-auto w-full">
-                      <img
-                        class="rounded-full h-20 w-20 mx-auto bg-gray-100"
-                        :src="'/images/comedians/' + episode.special.id+ '_128.jpg'"
-                        :alt="episode.special.name"
-                        :title="episode.special.name"
-                      />
-                      <p class="text-sm text-gray-600 text-center">{{episode.special.name}}</p>
+                      <nuxt-link :to="'/comicos/' + episode.special.id">
+                        <img
+                          class="rounded-full h-20 w-20 mx-auto bg-gray-100"
+                          :src="'/images/comedians/' + episode.special.id+ '_128.jpg'"
+                          :alt="episode.special.name"
+                          :title="episode.special.name"
+                        />
+                        <p class="text-sm text-gray-600 text-center">{{episode.special.name}}</p>
+                      </nuxt-link>
                     </div>
                   </div>
                 </div>
@@ -107,24 +116,26 @@
           :key="comedian.id"
           class="w-24 -mt-2 mx-auto sm:mx-0"
         >
-          <img
-            class="rounded-full h-20 w-20 mx-auto mt-4"
-            :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
-            :alt="comedian.name"
-            :title="comedian.name"
-          />
-          <p class="text-sm text-gray-700 text-center">{{comedian.name}}</p>
+          <nuxt-link :to="'/comicos/' + comedian.id">
+            <img
+              class="rounded-full h-20 w-20 mx-auto mt-4"
+              :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
+              :alt="comedian.name"
+              :title="comedian.name"
+            />
+            <p class="text-sm text-gray-700 text-center">{{comedian.name}}</p>
+          </nuxt-link>
         </div>
       </div>
     </div>
 
-    <div v-if="episode.culture && episode.culture.length > 0" class="mt-6">
+    <div v-if="episode.culture && episode.culture.length > 0" class="mt-s">
       <span class="text-lg text-red">Cultura ({{episode.culture.length}})</span>
       <div class="flex flex-inline flex-wrap mx-4">
         <div
           v-for="culture in episode.culture"
           :key="culture.id"
-          class="h-auto w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 my-2 relative"
+          class="h-auto w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 mb-2 mt-6 relative"
         >
           <div
             v-if="culture.section"

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 px-2 pb-2">
+  <div class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 px-1 pb-2">
     <nuxt-link :to="'/comicos/' + comedian.details.id">
       <div class="rounded overflow-hidden shadow-lg bm--card-equal-height">
         <img
@@ -8,20 +8,20 @@
           :alt="comedian.details.name"
           :title="comedian.details.name"
         />
-        <div class="px-6 py-2">
+        <div class="px-2  py-2">
           <div class="font-bold text-xl mb-2">{{ comedian.details.name }}</div>
         </div>
 
-        <div class="text-sm pl-8 -mt-4 mb-2">Menciones: {{comedian.appeareances}}</div>
+        <div class="text-sm pl-4 -mt-4 mb-2">Menciones: {{comedian.appeareances}}</div>
 
-        <div class="px-6 pb-2 text-xs">
+        <div class=" pb-2 text-xs">
           <span
             v-if="comedian.details.day"
-            class="inline-block bg-gray-200 rounded-full px-3 py-1 font-semibold text-gray-700 mr-2"
+            class="inline-block bg-gray-200 rounded-full px-1 py-1 font-semibold text-gray-700 mr-2"
           >#CómicoDelDía</span>
           <span
             v-if="comedian.details.thank"
-            class="inline-block bg-gray-200 rounded-full px-3 py-1 font-semibold text-gray-700 mr-2"
+            class="inline-block bg-gray-200 rounded-full px-1 py-1 font-semibold text-gray-700 mr-2"
           >#ThankYouForThisBeautifulComedy</span>
         </div>
       </div>
