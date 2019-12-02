@@ -301,7 +301,8 @@
       "jaime-muela",
       "kaco-forns",
       "moncho-borrajo",
-      "mitch-hedberg"
+      "mitch-hedberg",
+      "helena-pozuelo"
     ],
     "culture": [
       "show-david-letterman",
@@ -741,7 +742,9 @@
           ]
         }
       },
-      {"section": "corazon-de-comedia"},
+      {
+        "section": "corazon-de-comedia"
+      },
       {
         "section": "roast-to-the-people"
       },
@@ -913,6 +916,126 @@
       "the-machine-bert-kreischer",
       "somethings-burning",
       "curb-your-enthusiasm"
+    ]
+  },
+  {
+    "id": "s01e12",
+    "season": 1,
+    "episode": 12,
+    "title": "El cumplesito",
+    "link": "zTt_zpcLnFQ",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "sarah-silverman"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "michelle-wolf"
+          ],
+          "culture": [
+            "nice-lady"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "jorge-ponce",
+      "conan-obrien",
+      "jimmy-kimmel",
+      "dave-attell",
+      "jeff-ross",
+      "yunez-chaib",
+      "garry-shandling",
+      "sacha-baron-cohen",
+      "judd-apatow",
+      "johnny-carson",
+      "jay-leno",
+      "david-letterman",
+      "helena-pozuelo",
+      "miguel-esteban",
+      "sergio-bezos",
+      "lalo-tenorio",
+      "pablo-ibarburu",
+      "kaco-forns",
+      "diego-fabiano",
+      "enrique-el-grande",
+      "moraño",
+      "ruinas-planchuelo",
+      "david-broncano",
+      "raquel-sastre",
+      "joe-rogan",
+      "carlos-mencia",
+      "joan-rivers",
+      "jimmy-carr",
+      "robin-williams",
+      "louis-ck",
+      "dane-cook",
+      "manu-sanchez",
+      "david-guapo",
+      "eddie-izzard",
+      "amy-schumer",
+      "tammy-pescatelli",
+      "kathleen-madigan",
+      "wendy-liebman",
+      "patrice-oneal",
+      "marcos-mas",
+      "andreu-buenafuente",
+      "salomon",
+      "diego-pena",
+      "the-break",
+      "hasan-minhaj",
+      "dave-chappelle",
+      "neal-brennan",
+      "eddie-murphy",
+      "kevin-hart",
+      "dani-mateo",
+      "percebes-y-grelos",
+      "arturo-valls"
+
+
+
+
+    ],
+    "culture": [
+      "the-bedwetter",
+      "jesus-is-magic-sarah-silverman",
+      "goonies",
+      "i-love-you-america-with-sarah-silverman",
+      "saturday-night-live",
+      "show-garry-shandling",
+      "show-jimmy-kimmel",
+      "bumping-mics",
+      "the-zen-diaries",
+      "its-garry-shandling-book",
+      "la-vida-moderna",
+      "louie",
+      "solteros-exigentes",
+      "three-mics",
+      "the-daily-show",
+      "libro-amy-schumer"
+
+
     ]
   }
 ]
