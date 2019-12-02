@@ -718,5 +718,99 @@
       "blackadder",
       "american-scream-the-bill-hicks-story"
     ]
+  },
+  {
+    "id": "s01e10",
+    "season": 1,
+    "episode": 10,
+    "title": "El programa amargo",
+    "link": "eMzutjpMW8g",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "jim-gaffigan"
+          ]
+        }
+      },
+      {"section": "corazon-de-comedia"},
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "adam-sandler"
+          ],
+          "culture": [
+            "100-fresh"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "jandro",
+      "dave-attell",
+      "emilio-aragon",
+      "joaquin-reyes",
+      "norm-macdonald",
+      "john-mulaney",
+      "jerry-seinfeld",
+      "luis-alvaro",
+      "pepe-cespedes",
+      "dani-mateo",
+      "andy-kaufman",
+      "jim-carrey",
+      "david-cross",
+      "rober-bodegas",
+      "kathy-griffin",
+      "doug-stanhope",
+      "jorge-segura",
+      "ignatius-farray",
+      "alfredo-diaz",
+      "leo-bassi",
+      "sacha-baron-cohen",
+      "david-broncano",
+      "kaco-forns",
+      "dana-carvey",
+      "oscar-saenz",
+      "alec-baldwin",
+      "pete-davidson",
+      "lorne-michaels",
+      "richard-salamanca",
+      "bill-cosby",
+      "david-spade",
+      "rob-schneider",
+      "chris-rock",
+      "chris-farley",
+      "alvaro-carmona",
+      "miguel-iribar",
+      "john-belushi",
+      "john-candy",
+      "miguel-esteban",
+      "katherine-ryan",
+      "chico-requena"
+    ],
+    "culture": [
+      "jim-gaffigan-beyond-the-pale",
+      "the-jim-gaffigan-show",
+      "jim-gaffigan-cinco",
+      "the-comeback-kid",
+      "comedians-in-cars-getting-coffee",
+      "man-on-the-moon",
+      "bruno",
+      "borat",
+      "the-dana-carvey-show",
+      "saturday-night-live"
+    ]
   }
 ]
