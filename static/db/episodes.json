@@ -930,8 +930,7 @@
       "miguel-campos",
       "jorge-yorya"
     ],
-    "guests": [
-    ],
+    "guests": [],
     "sections": [
       {
         "section": "comedian-of-the-day",
@@ -1012,10 +1011,6 @@
       "dani-mateo",
       "percebes-y-grelos",
       "arturo-valls"
-
-
-
-
     ],
     "culture": [
       "the-bedwetter",
@@ -1034,6 +1029,107 @@
       "three-mics",
       "the-daily-show",
       "libro-amy-schumer"
+    ]
+  },
+  {
+    "id": "s01e13",
+    "season": 1,
+    "episode": 13,
+    "title": "El mánager",
+    "link": "KTszlUzbbDA",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": ["victor-ladron-de-guevara"],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "rodney-dangerfield"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "trevor-noah"
+          ],
+          "culture": [
+            "son-of-patricia"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "ignatius-farray",
+      "david-broncano",
+      "lenny-bruce",
+      "jerry-seinfeld",
+      "kaco-forns",
+      "david-navarro",
+      "miguel-miguel",
+      "jorge-ponce",
+      "raul-cimas",
+      "david-suarez",
+      "dani-mateo",
+      "jj-vaquero",
+      "alex-clavero",
+      "nacho-garcia",
+      "valeria-ros",
+      "sergio-bezos",
+      "marta-flich",
+      "inaki-urrutia",
+      "ernesto-sevilla",
+      "joaquin-reyes",
+      "manuel-huedo",
+      "lisa-lampanelli",
+      "don-rickles",
+      "dani-rovira",
+      "paco-calavera",
+      "dave-attell",
+      "greg-giraldo",
+      "fran-de-caro",
+      "patton-oswalt",
+      "jose-castro",
+      "lalo-tenorio",
+      "nene",
+      "pilar-de-francisco",
+      "amy-schumer",
+      "john-stewart",
+      "jerry-seinfeld",
+      
+
+
+
+
+
+
+
+
+    ],
+    "culture": [
+      "the-tonight-show",
+      "trevor-noah-prohibido-nacer",
+      "saturday-night-live",
+      "the-simpsons",
+      "amor-a-quemarropa",
+      "la-hora-chanante",
+      "dani-mateo-la-risa-os-hara-libres",
+      "show-howard-stern",
+      "nanette",
+      "stuff-lisa-lampanelli",
+      "the-daily-show",
+      "comedians-in-cars-getting-coffee",
+
+
 
 
     ]
