@@ -895,7 +895,7 @@
       "jeff-foxworthy",
       "pepe-cespedes",
       "paco-calavera",
-      "quiquin",
+      "kikin",
       "alvarito",
       "al-madrigal"
     ],
@@ -911,7 +911,6 @@
       "late-world-with-zach",
       "baskets",
       "comedians-in-cars-getting-coffee",
-      "la-commedia",
       "pinky-and-the-brain",
       "the-machine-bert-kreischer",
       "somethings-burning",
@@ -979,7 +978,7 @@
       "kaco-forns",
       "diego-fabiano",
       "enrique-el-grande",
-      "moraño",
+      "fernando-morano",
       "ruinas-planchuelo",
       "david-broncano",
       "raquel-sastre",
@@ -1002,7 +1001,6 @@
       "andreu-buenafuente",
       "salomon",
       "diego-pena",
-      "the-break",
       "hasan-minhaj",
       "dave-chappelle",
       "neal-brennan",
@@ -1018,14 +1016,13 @@
       "goonies",
       "i-love-you-america-with-sarah-silverman",
       "saturday-night-live",
-      "show-garry-shandling",
+      "the-tonight-show",
       "show-jimmy-kimmel",
       "bumping-mics",
       "the-zen-diaries",
       "its-garry-shandling-book",
       "la-vida-moderna",
       "louie",
-      "solteros-exigentes",
       "three-mics",
       "the-daily-show",
       "libro-amy-schumer"
@@ -1043,7 +1040,9 @@
       "miguel-campos",
       "jorge-yorya"
     ],
-    "guests": ["victor-ladron-de-guevara"],
+    "guests": [
+      "victor-ladron-de-guevara"
+    ],
     "sections": [
       {
         "section": "comedian-of-the-day",
@@ -1096,7 +1095,6 @@
       "paco-calavera",
       "dave-attell",
       "greg-giraldo",
-      "fran-de-caro",
       "patton-oswalt",
       "jose-castro",
       "lalo-tenorio",
@@ -1105,15 +1103,7 @@
       "amy-schumer",
       "john-stewart",
       "jerry-seinfeld",
-      
-
-
-
-
-
-
-
-
+      "kevin-hart"
     ],
     "culture": [
       "the-tonight-show",
@@ -1125,13 +1115,130 @@
       "dani-mateo-la-risa-os-hara-libres",
       "show-howard-stern",
       "nanette",
-      "stuff-lisa-lampanelli",
       "the-daily-show",
       "comedians-in-cars-getting-coffee",
-
-
-
-
+      "zapeando",
+      "campeones"
+    ]
+  },
+  {
+    "id": "s01e14",
+    "season": 1,
+    "episode": 14,
+    "title": "Masiel",
+    "link": "iN8V6Qe2lT0",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "victor-ladron-de-guevara"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "chris-rock"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "dave-attell",
+            "jeff-ross"
+          ],
+          "culture": [
+            "bumping-mics"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "chris-farley",
+      "eddie-murphy",
+      "adam-sandler",
+      "bo-burnham",
+      "ricky-gervais",
+      "louis-ck",
+      "demetri-martin",
+      "susi-caramelo",
+      "jaime-caravaca",
+      "danny-boy",
+      "valeria-ros",
+      "juan-carlos-cordoba",
+      "urko-vazquez",
+      "seth-macfarlane",
+      "andreu-buenafuente",
+      "silvia-abril",
+      "dani-rovira",
+      "berto-romero",
+      "david-broncano",
+      "kaco-forns",
+      "david-lillo",
+      "pilar-de-francisco",
+      "luis-fabra",
+      "david-martos",
+      "adolfo-valor",
+      "billy-crystal",
+      "garry-shandling",
+      "zach-galifianakis",
+      "david-cross",
+      "steve-martin",
+      "bob-hope",
+      "lionel-mandrake",
+      "joan-rivers",
+      "lenny-bruce",
+      "pete-holmes",
+      "chris-duffy",
+      "sarah-silverman",
+      "tj-miller",
+      "joe-rogan",
+      "johnny-carson",
+      "melissa-mccarthy",
+      "marc-maron",
+      "amy-poehler",
+      "miguel-esteban",
+      "raul-navarro",
+      "ignatius-farray",
+      "juan-y-punto",
+      "percebes-y-grelos",
+      "gilbert-gottfried",
+      "bob-saget",
+      "hasan-minhaj",
+      "dani-mateo"
+    ],
+    "culture": [
+      "chris-rock-tamborine",
+      "bring-the-pain",
+      "super-detective-hollywood-2",
+      "saturday-night-live",
+      "chris-rock-never-scared",
+      "chris-rock-kill-the-messenger",
+      "chris-rock-bigger-and-blacker",
+      "talking-funny-hbo",
+      "locomundo",
+      "la-resistencia",
+      "zapeando",
+      "marvelous-mrs-maisel",
+      "chicas-gilmore",
+      "crashing",
+      "late-motiv",
+      "im-dying-up-here",
+      "louie",
+      "nobodies",
+      "maron",
+      "difficult-people",
+      "wtf-with-marc-maron",
+      "el-fin-de-la-comedia",
+      "el-intermedio"
     ]
   }
 ]

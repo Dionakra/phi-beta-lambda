@@ -766,5 +766,321 @@
   {
     "id": "zach-myers",
     "name": "Zach Myers"
+  },
+  {
+    "id": "victor-ladron-de-guevara",
+    "name": "Victor Ladrón de Guevara"
+  },
+  {
+    "id": "emilio-aragon",
+    "name": "Emilio Aragón"
+  },
+  {
+    "id": "kathy-griffin",
+    "name": "Kathy Griffin"
+  },
+  {
+    "id": "leo-bassi",
+    "name": "Leo Bassi"
+  },
+  {
+    "id": "dana-carvey",
+    "name": "Dana Carvey"
+  },
+  {
+    "id": "oscar-saenz",
+    "name": "Oscar Sáenz"
+  },
+  {
+    "id": "alec-baldwin",
+    "name": "Alec Baldwin"
+  },
+  {
+    "id": "richard-salamanca",
+    "name": "Richard Salamanca"
+  },
+  {
+    "id": "rob-schneider",
+    "name": "Rob Schneider"
+  },
+  {
+    "id": "john-belushi",
+    "name": "John Belushi"
+  },
+  {
+    "id": "john-candy",
+    "name": "John Candy"
+  },
+  {
+    "id": "bert-kreischer",
+    "name": "Bert Kreischer"
+  },
+  {
+    "id": "manuel-burque",
+    "name": "Manuel Burque"
+  },
+  {
+    "id": "will-ferrell",
+    "name": "Will Ferrell"
+  },
+  {
+    "id": "jim-gaffigan",
+    "name": "Jim Gaffigan"
+  },
+  {
+    "id": "chico-requena",
+    "name": "Chico Requena"
+  },
+  {
+    "id": "jason-sudeikis",
+    "name": "Jason Sudeikis"
+  },
+  {
+    "id": "alberto-sierra",
+    "name": "Alberto Sierra"
+  },
+  {
+    "id": "tom-segura",
+    "name": "Tom Segura"
+  },
+  {
+    "id": "pepon-fuentes",
+    "name": "Pepón Fuentes"
+  },
+  {
+    "id": "albert-boira",
+    "name": "Albert Boira"
+  },
+  {
+    "id": "eugenio",
+    "name": "Eugenio"
+  },
+  {
+    "id": "pepe-cespedes",
+    "name": "Pepe Céspedes"
+  },
+  {
+    "id": "kikin",
+    "name": "Kikin Fernández"
+  },
+  {
+    "id": "alvarito",
+    "name": "Alvarito"
+  },
+  {
+    "id": "al-madrigal",
+    "name": "Al Madrigal"
+  },
+  {
+    "id": "jimmy-kimmel",
+    "name": "Jimmy Kimmel"
+  },
+  {
+    "id": "yunez-chaib",
+    "name": "Yunez Chaib"
+  },
+  {
+    "id": "sacha-baron-cohen",
+    "name": "Sacha Baron Cohen"
+  },
+  {
+    "id": "helena-pozuelo",
+    "name": "Helena Pozuelo"
+  },
+  {
+    "id": "diego-fabiano",
+    "name": "Diego Fabiano"
+  },
+  {
+    "id": "enrique-el-grande",
+    "name": "Enrique El Grande"
+  },
+  {
+    "id": "fernando-morano",
+    "name": "Fernando Moraño"
+  },
+  {
+    "id": "ruinas-planchuelo",
+    "name": "Ruinas Planchuelo"
+  },
+  {
+    "id": "carlos-mencia",
+    "name": "Carlos Mencia"
+  },
+  {
+    "id": "robin-williams",
+    "name": "Robin Williams"
+  },
+  {
+    "id": "dane-cook",
+    "name": "Dane Cook"
+  },
+  {
+    "id": "manu-sanchez",
+    "name": "Manu Sánchez"
+  },
+  {
+    "id": "david-guapo",
+    "name": "David Guapo"
+  },
+  {
+    "id": "tammy-pescatelli",
+    "name": "Tammy Pescatelli"
+  },
+  {
+    "id": "kathleen-madigan",
+    "name": "Kathleen Madigan"
+  },
+  {
+    "id": "wendy-liebman",
+    "name": "Wendy Liebman"
+  },
+  {
+    "id": "marcos-mas",
+    "name": "Marcos Mas"
+  },
+  {
+    "id": "salomon",
+    "name": "Salomón"
+  },
+  {
+    "id": "neal-brennan",
+    "name": "Neal Brennan"
+  },
+  {
+    "id": "arturo-valls",
+    "name": "Arturo Valls"
+  },
+  {
+    "id": "trevor-noah",
+    "name": "Trevor Noah"
+  },
+  {
+    "id": "david-navarro",
+    "name": "David Navarro"
+  },
+  {
+    "id": "miguel-miguel",
+    "name": "Miguel Miguel"
+  },
+  {
+    "id": "raul-cimas",
+    "name": "Raúl Cimas"
+  },
+  {
+    "id": "sergio-bezos",
+    "name": "Sergio Bezos"
+  },
+  {
+    "id": "marta-flich",
+    "name": "Marta Flich"
+  },
+  {
+    "id": "inaki-urrutia",
+    "name": "Iñaki Urrutia"
+  },
+  {
+    "id": "manuel-huedo",
+    "name": "Manuel Huedo"
+  },
+  {
+    "id": "don-rickles",
+    "name": "Don Rickles"
+  },
+  {
+    "id": "jose-castro",
+    "name": "Jose Castro"
+  },
+  {
+    "id": "lalo-tenorio",
+    "name": "Lalo Tenorio"
+  },
+  {
+    "id": "amy-schumer",
+    "name": "Amy Schumer"
+  },
+  {
+    "id": "chris-farley",
+    "name": "Chris Farley"
+  },
+  {
+    "id": "adam-sandler",
+    "name": "Adam Sandler"
+  },
+  {
+    "id": "ricky-gervais",
+    "name": "Ricky Gervais"
+  },
+  {
+    "id": "demetri-martin",
+    "name": "Demetri Martin"
+  },
+  {
+    "id": "seth-macfarlane",
+    "name": "Seth MacFarlane"
+  },
+  {
+    "id": "silvia-abril",
+    "name": "Silvia Abril"
+  },
+  {
+    "id": "david-lillo",
+    "name": "David Lillo"
+  },
+  {
+    "id": "luis-fabra",
+    "name": "Luis Fabra"
+  },
+  {
+    "id": "david-martos",
+    "name": "David Martos"
+  },
+  {
+    "id": "billy-crystal",
+    "name": "Billy Crystal"
+  },
+  {
+    "id": "zach-galifianakis",
+    "name": "Zach Galifianakis"
+  },
+  {
+    "id": "david-cross",
+    "name": "David Cross"
+  },
+  {
+    "id": "bob-hope",
+    "name": "Bob Hope"
+  },
+  {
+    "id": "lionel-mandrake",
+    "name": "Lionel Mandrake"
+  },
+  {
+    "id": "tj-miller",
+    "name": "TJ Miller"
+  },
+  {
+    "id": "melissa-mccarthy",
+    "name": "Melissa McCarthy"
+  },
+  {
+    "id": "amy-poehler",
+    "name": "Amy Poehler"
+  },
+  {
+    "id": "raul-navarro",
+    "name": "Raul Navarro"
+  },
+  {
+    "id": "juan-y-punto",
+    "name": "Juan Y Punto"
+  },
+  {
+    "id": "percebes-y-grelos",
+    "name": "Percebes y Grelos"
+  },
+  {
+    "id": "hasan-minhaj",
+    "name": "Hasan Minhaj"
   }
 ]

@@ -51,7 +51,7 @@
   },
   {
     "id": "the-zen-diaries",
-    "title": "The Zen Diaries",
+    "title": "The Zen Diaries of Garry Shandling",
     "type": "tv-show-series"
   },
   {
@@ -253,5 +253,275 @@
     "id": "american-scream-the-bill-hicks-story",
     "title": "American Scream: The Bill Hicks Story",
     "type": "book"
+  },
+  {
+    "id": "jim-gaffigan-beyond-the-pale",
+    "title": "Jim Gaffigan Beyond The Pale",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-jim-gaffigan-show",
+    "title": "The Jim Gaffigan Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "jim-gaffigan-cinco",
+    "title": "Jim Gaffigan Cinco",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bruno",
+    "title": "Bruno",
+    "type": "movie"
+  },
+  {
+    "id": "borat",
+    "title": "Borat",
+    "type": "movie"
+  },
+  {
+    "id": "the-dana-carvey-show",
+    "title": "The Dana Carvey Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "100-fresh",
+    "title": "100% Fresh",
+    "type": "comedy-special"
+  },
+  {
+    "id": "secret-time",
+    "title": "Secret Time",
+    "type": "comedy-special"
+  },
+  {
+    "id": "comedy-central-presents",
+    "title": "Comedy Central Presents",
+    "type": "tv-show"
+  },
+  {
+    "id": "live-at-the-purple-onion",
+    "title": "Live At The Purple Onion",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-hangover",
+    "title": "The Hangover",
+    "type": "movie"
+  },
+  {
+    "id": "between-two-ferns",
+    "title": "Between Two Ferns",
+    "type": "tv-show"
+  },
+  {
+    "id": "funny-or-die",
+    "title": "Funny Or Die",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-campaign",
+    "title": "The Campaign",
+    "type": "movie"
+  },
+  {
+    "id": "famosos-y-una-vieja",
+    "title": "Famosos Y Una Vieja",
+    "type": "tv-show"
+  },
+  {
+    "id": "late-world-with-zach",
+    "title": "Late World With Zach",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "baskets",
+    "title": "Baskets",
+    "type": "tv-show-seroes"
+  },
+  {
+    "id": "pinky-and-the-brain",
+    "title": "Pinky And The Brain",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-machine-bert-kreischer",
+    "title": "The Machine",
+    "type": "comedy-special"
+  },
+  {
+    "id": "somethings-burning",
+    "title": "Somethings Burning",
+    "type": "tv-show"
+  },
+  {
+    "id": "curb-your-enthusiasm",
+    "title": "Curb Your Enthusiasm",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "nice-lady",
+    "title": "Nice Lady",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-bedwetter",
+    "title": "The Bedwetter",
+    "type": "book"
+  },
+  {
+    "id": "jesus-is-magic-sarah-silverman",
+    "title": "Jesus Is Magic",
+    "type": "comedy-special"
+  },
+  {
+    "id": "goonies",
+    "title": "Los Goonies",
+    "type": "movie"
+  },
+  {
+    "id": "i-love-you-america-with-sarah-silverman",
+    "title": "I Love You, America with Sarah Silverman",
+    "type": "tv-show"
+  },
+  {
+    "id": "show-jimmy-kimmel",
+    "title": "Jimmy Kimmel Live!",
+    "type": "tv-show"
+  },
+  {
+    "id": "bumping-mics",
+    "title": "Bumping Mics",
+    "type": "tv-show"
+  },
+  {
+    "id": "its-garry-shandling-book",
+    "title": "It's Garry Shandling's Book",
+    "type": "book"
+  },
+  {
+    "id": "la-vida-moderna",
+    "title": "La Vida Moderna",
+    "type": "tv-show"
+  },
+  {
+    "id": "three-mics",
+    "title": "Three Mics",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-daily-show",
+    "title": "The Daily Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "libro-amy-schumer",
+    "title": "The Girl with the Lower Back Tattoo",
+    "type": "book"
+  },
+  {
+    "id": "son-of-patricia",
+    "title": "Son of Patricia",
+    "type": "comedy-special"
+  },
+  {
+    "id": "trevor-noah-prohibido-nacer",
+    "title": "Trevor Noah: Prohibido Nacer",
+    "type": "book"
+  },
+  {
+    "id": "amor-a-quemarropa",
+    "title": "Amor A Quemarropa",
+    "type": "movie"
+  },
+  {
+    "id": "la-hora-chanante",
+    "title": "La Hora Chanante",
+    "type": "tv-show"
+  },
+  {
+    "id": "dani-mateo-la-risa-os-hara-libres",
+    "title": "La risa os hará libres",
+    "type": "book"
+  },
+  {
+    "id": "show-howard-stern",
+    "title": "The Howard Stern Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "zapeando",
+    "title": "Zapeando",
+    "type": "tv-show"
+  },
+  {
+    "id": "campeones",
+    "title": "Campeones",
+    "type": "movie"
+  },
+  {
+    "id": "bring-the-pain",
+    "title": "Bring The Pain",
+    "type": "comedy-special"
+  },
+  {
+    "id": "super-detective-hollywood-2",
+    "title": "Superdetective en Hollywood II",
+    "type": "movie"
+  },
+  {
+    "id": "chris-rock-never-scared",
+    "title": "Never Scared",
+    "type": "comedy-special"
+  },
+  {
+    "id": "chris-rock-kill-the-messenger",
+    "title": "Kill the Messenger",
+    "type": "comedy-special"
+  },
+  {
+    "id": "chris-rock-bigger-and-blacker",
+    "title": "Bigger and Blacker",
+    "type": "comedy-special"
+  },
+  {
+    "id": "talking-funny-hbo",
+    "title": "Talking Funny",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "locomundo",
+    "title": "LocoMundo",
+    "type": "tv-show"
+  },
+  {
+    "id": "chicas-gilmore",
+    "title": "Chicas Gilmore",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "im-dying-up-here",
+    "title": "Im Dying Up Here",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "nobodies",
+    "title": "Nobodies",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "maron",
+    "title": "Maron",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "difficult-people",
+    "title": "Difficult People",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "el-intermedio",
+    "title": "El Intermedio",
+    "type": "tv-show"
   }
 ]
