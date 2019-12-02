@@ -37,7 +37,7 @@ cd ..
 npm run build
 firebase deploy
 ```
-## Stack Tecnológico.
+## Stack Tecnológico
 Esta web ha sido desarrollada con las siguientes tecnologías:
 * [Vue.js](https://vuejs.org/)
 * [Nuxt.js](https://nuxtjs.org/)
