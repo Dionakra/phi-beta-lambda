@@ -812,5 +812,107 @@
       "the-dana-carvey-show",
       "saturday-night-live"
     ]
+  },
+  {
+    "id": "s01e11",
+    "season": 1,
+    "episode": 11,
+    "title": "Ponche segoviano",
+    "link": "Uf-3puJXUlQ",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "mer"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "zach-galifianakis"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "bert-kreischer"
+          ],
+          "culture": [
+            "secret-time"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "manuel-burque",
+      "dani-piqueras",
+      "will-ferrell",
+      "david-suarez",
+      "jorge-ponce",
+      "louis-ck",
+      "bill-maher",
+      "jerry-seinfeld",
+      "jim-gaffigan",
+      "ignatius-farray",
+      "david-broncano",
+      "miguel-noguera",
+      "chico-requena",
+      "jason-sudeikis",
+      "ellen-degeneres",
+      "nene",
+      "pete-davidson",
+      "larry-david",
+      "seth-meyers",
+      "amy-schumer",
+      "sarah-silverman",
+      "alberto-sierra",
+      "kaco-forns",
+      "richard-pryor",
+      "demetri-martin",
+      "joe-rogan",
+      "dave-chappelle",
+      "bill-burr",
+      "tom-segura",
+      "pepon-fuentes",
+      "albert-boira",
+      "eugenio",
+      "trevor-noah",
+      "jeff-foxworthy",
+      "pepe-cespedes",
+      "paco-calavera",
+      "quiquin",
+      "alvarito",
+      "al-madrigal"
+    ],
+    "culture": [
+      "saturday-night-live",
+      "comedy-central-presents",
+      "live-at-the-purple-onion",
+      "the-hangover",
+      "between-two-ferns",
+      "funny-or-die",
+      "the-campaign",
+      "famosos-y-una-vieja",
+      "late-world-with-zach",
+      "baskets",
+      "comedians-in-cars-getting-coffee",
+      "la-commedia",
+      "pinky-and-the-brain",
+      "the-machine-bert-kreischer",
+      "somethings-burning",
+      "curb-your-enthusiasm"
+    ]
   }
 ]
