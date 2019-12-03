@@ -534,7 +534,7 @@
       "carlos-faemino",
       "pete-davidson",
       "david-suarez",
-      "russel-brand",
+      "russell-brand",
       "colin-jost",
       "ellen-degeneres",
       "roseanne-barr",
@@ -707,7 +707,7 @@
       "dave-chappelle",
       "john-stewart",
       "jimmy-carr",
-      "russel-brand",
+      "russell-brand",
       "doug-stanhope",
       "dani-rovira",
       "tig-notaro",
@@ -1351,6 +1351,104 @@
       "comedians-in-cars-getting-coffee",
       "loco-slam",
       "the-larry-sanders-show"
+    ]
+  },
+  {
+    "id": "s01e16",
+    "season": 1,
+    "episode": 16,
+    "title": "Ahora empiezan las hostilidades",
+    "link": "MHz045UQAxs",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "steven-wright"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "russell-brand"
+          ],
+          "culture": [
+            "rebirth"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "eva-soriano",
+      "amy-schumer",
+      "ricky-gervais",
+      "eugenio",
+      "ernesto-sevilla",
+      "rodney-dangerfield",
+      "janeane-garofalo",
+      "marc-maron",
+      "valeria-ros",
+      "sergio-encinas",
+      "jorge-ponce",
+      "andreu-buenafuente",
+      "pete-davidson",
+      "lorne-michaels",
+      "juan-solo",
+      "don-mauro",
+      "inaki-urrutia",
+      "artie-lange",
+      "pete-holmes",
+      "mitch-hedberg",
+      "juan-y-medio",
+      "greg-giraldo",
+      "kaco-forns",
+      "gustavo-biosca",
+      "dani-ales",
+      "millan-salcedo",
+      "txabi-franquesa",
+      "jonathan-ross",
+      "dani-mateo",
+      "woody-allen",
+      "adam-sandler",
+      "dave-chappelle",
+      "trevor-noah",
+      "chico-requena"
+    ],
+    "culture": [
+      "libro-amy-schumer",
+      "the-simpsons",
+      "the-tonight-show",
+      "steven-wright-i-have-a-pony",
+      "steven-wright-i-still-have-a-pony",
+      "louie",
+      "emoji-the-movie",
+      "saturday-night-live",
+      "la-cabeza-de-la-serpiente-juan-solo",
+      "crashing",
+      "diario-de-un-cocainomano",
+      "todo-es-mentira",
+      "roast-battle-uk",
+      "fawlty-towers",
+      "loca-academia-de-policia",
+      "la-resistencia",
+      "100-fresh",
+      "bumping-mics",
+      "son-of-patricia"
     ]
   }
 ]

@@ -704,8 +704,8 @@
     "name": "Rowan Atkinson"
   },
   {
-    "id": "russel-brand",
-    "name": "Russel Brand"
+    "id": "russell-brand",
+    "name": "Russell Brand"
   },
   {
     "id": "sam-kinison",
@@ -1130,5 +1130,45 @@
   {
     "id": "sinbad",
     "name": "Sinbad"
+  },
+  {
+    "id": "steven-wright",
+    "name": "Steven Wright"
+  },
+  {
+    "id": "eva-soriano",
+    "name": "Eva Soriano"
+  },
+  {
+    "id": "janeane-garofalo",
+    "name": "Janeane Garofalo"
+  },
+  {
+    "id": "sergio-encinas",
+    "name": "Sergio Encinas"
+  },
+  {
+    "id": "artie-lange",
+    "name": "Artie Lange"
+  },
+  {
+    "id": "juan-y-medio",
+    "name": "Juan y Medio"
+  },
+  {
+    "id": "gustavo-biosca",
+    "name": "Gustavo Biosca"
+  },
+  {
+    "id": "dani-ales",
+    "name": "Dani Alés"
+  },
+  {
+    "id": "millan-salcedo",
+    "name": "Millán Salcedo"
+  },
+  {
+    "id": "jonathan-ross",
+    "name": "Jonathan Ross"
   }
 ]

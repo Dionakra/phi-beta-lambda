@@ -598,5 +598,55 @@
     "id": "the-larry-sanders-show",
     "title": "The Larry Sanders Show",
     "type": "tv-show"
+  },
+  {
+    "id": "steven-wright-i-have-a-pony",
+    "title": "I Have a Pony",
+    "type": "comedy-special"
+  },
+  {
+    "id": "steven-wright-i-still-have-a-pony",
+    "title": "I Still Have a Pony",
+    "type": "comedy-special"
+  },
+  {
+    "id": "emoji-the-movie",
+    "title": "Emoji The Movie",
+    "type": "movie"
+  },
+  {
+    "id": "la-cabeza-de-la-serpiente-juan-solo",
+    "title": "La Cabeza De La Serpiente",
+    "type": "book"
+  },
+  {
+    "id": "diario-de-un-cocainomano",
+    "title": "Diario de un Cocainomano",
+    "type": "book"
+  },
+  {
+    "id": "todo-es-mentira",
+    "title": "Todo Es Mentira",
+    "type": "tv-show"
+  },
+  {
+    "id": "roast-battle-uk",
+    "title": "Roast Battle Uk",
+    "type": "tv-show"
+  },
+  {
+    "id": "fawlty-towers",
+    "title": "Fawlty Towers",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "loca-academia-de-policia",
+    "title": "Loca Academia de Policía",
+    "type": "movie"
+  },
+  {
+    "id": "rebirth",
+    "title": "Russell Brand: Re:Birth",
+    "type": "tv-show"
   }
 ]
