@@ -518,5 +518,85 @@
     "id": "el-intermedio",
     "title": "El Intermedio",
     "type": "tv-show"
+  },
+  {
+    "id": "eddie-murphy-delirious",
+    "title": "Eddie Murphy Delirious",
+    "type": "comedy-special"
+  },
+  {
+    "id": "eddie-murphy-raw",
+    "title": "Eddie Murphy Raw",
+    "type": "comedy-special"
+  },
+  {
+    "id": "cuerpo-de-elite",
+    "title": "Cuerpo De Élite",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "steve-martin-the-television-stuff",
+    "title": "Steve Martin: The Television Stuff",
+    "type": "tv-show"
+  },
+  {
+    "id": "born-standing-up-steve-martin",
+    "title": "Born Standing Up",
+    "type": "book"
+  },
+  {
+    "id": "late-show-with-steven-colbert",
+    "title": "The Late Show with Stephen Colbert",
+    "type": "tv-show"
+  },
+  {
+    "id": "too-funny-to-fail",
+    "title": "Too Funny to Fail",
+    "type": "documentary"
+  },
+  {
+    "id": "second-city-steve-carell",
+    "title": "Steve Carell Second City",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-late-late-show-with-james-corden",
+    "title": "The Late Late Show with James Corden",
+    "type": "tv-show"
+  },
+  {
+    "id": "late-night-with-seth-meyers",
+    "title": "Late Night with Seth Meyers",
+    "type": "tv-show"
+  },
+  {
+    "id": "last-call-with-carson-daly",
+    "title": "Last Call with Carson Daly",
+    "type": "tv-show"
+  },
+  {
+    "id": "full-frontal-with-samantha-bee",
+    "title": "Full Frontal with Samantha Bee",
+    "type": "tv-show"
+  },
+  {
+    "id": "last-week-john-oliver",
+    "title": "Last Week Tonight with John Oliver",
+    "type": "tv-show"
+  },
+  {
+    "id": "show-hasan-minhaj",
+    "title": "Patriot Act with Hasan Minhaj",
+    "type": "tv-show"
+  },
+  {
+    "id": "loco-slam",
+    "title": "Loco Slam",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-larry-sanders-show",
+    "title": "The Larry Sanders Show",
+    "type": "tv-show"
   }
 ]

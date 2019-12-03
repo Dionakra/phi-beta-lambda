@@ -1132,9 +1132,7 @@
       "miguel-campos",
       "jorge-yorya"
     ],
-    "guests": [
-      "victor-ladron-de-guevara"
-    ],
+    "guests": [],
     "sections": [
       {
         "section": "comedian-of-the-day",
@@ -1238,6 +1236,121 @@
       "wtf-with-marc-maron",
       "el-fin-de-la-comedia",
       "el-intermedio"
+    ]
+  },
+  {
+    "id": "s01e15",
+    "season": 1,
+    "episode": 15,
+    "title": "Hoy en mi cocina hay salsa",
+    "link": "_KGw4mK7i5I",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "adolfo-valor"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "eddie-murphy"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "various-artists-def-comedy-jam"
+          ],
+          "culture": [
+            "def-comedy-jam"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "txabi-franquesa",
+      "kevin-hart",
+      "frank-blanco",
+      "juan-y-punto",
+      "bob-hope",
+      "bill-cosby",
+      "richard-pryor",
+      "lorne-michaels",
+      "valeria-ros",
+      "steve-martin",
+      "jay-leno",
+      "david-letterman",
+      "alvaro-carmona",
+      "jimmy-fallon",
+      "guillermo-jimmy-kimmel",
+      "sarah-silverman",
+      "gran-wyoming",
+      "dana-carvey",
+      "john-stewart",
+      "steve-carell",
+      "steven-colbert",
+      "seth-meyers",
+      "conan-obrien",
+      "carson-daly",
+      "hasan-minhaj",
+      "michelle-wolf",
+      "norm-macdonald",
+      "trevor-noah",
+      "john-stewart",
+      "john-oliver",
+      "amy-poehler",
+      "david-broncano",
+      "cristobal-garrido",
+      "jerry-seinfeld",
+      "quique-matilla",
+      "martin-lawrence",
+      "tracy-morgan",
+      "chris-rock",
+      "dave-chappelle",
+      "dl-hughley",
+      "sinbad",
+      "louis-ck",
+      "dave-attell",
+      "jorge-ponce",
+      "kaco-forns",
+      "paco-calavera"
+    ],
+    "culture": [
+      "eddie-murphy-delirious",
+      "eddie-murphy-raw",
+      "saturday-night-live",
+      "zapeando",
+      "cuerpo-de-elite",
+      "the-war-for-late-night",
+      "steve-martin-the-television-stuff",
+      "the-late-shift",
+      "born-standing-up-steve-martin",
+      "the-tonight-show",
+      "show-jimmy-kimmel",
+      "late-show-with-steven-colbert",
+      "too-funny-to-fail",
+      "second-city-steve-carell",
+      "the-late-late-show-with-james-corden",
+      "late-night-with-seth-meyers",
+      "last-call-with-carson-daly",
+      "full-frontal-with-samantha-bee",
+      "i-love-you-america-with-sarah-silverman",
+      "the-daily-show",
+      "last-week-john-oliver",
+      "show-hasan-minhaj",
+      "comedians-in-cars-getting-coffee",
+      "loco-slam",
+      "the-larry-sanders-show"
     ]
   }
 ]

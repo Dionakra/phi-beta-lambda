@@ -16,7 +16,7 @@
           <div class="text-gray-900 font-bold text-red text-xl flex flex-inline">
             <p class="my-auto">{{episode.id.toUpperCase()}} - {{episode.title}}</p>
           </div>
-          <div class="flex flex-inline">
+          <div class="flex flex-inline flex-wrap">
             <div>
               <p class="text-sm text-gray-600">Presentado por</p>
               <div class="flex flex-inline -ml-1">
