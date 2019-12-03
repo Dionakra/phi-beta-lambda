@@ -631,7 +631,7 @@
   },
   {
     "id": "roast-battle-uk",
-    "title": "Roast Battle Uk",
+    "title": "Roast Battle UK",
     "type": "tv-show"
   },
   {
@@ -718,5 +718,130 @@
     "id": "james-acaster-repertoire",
     "title": "James Acaster: Repertoire",
     "type": "comedy-special"
+  },
+  {
+    "id": "ricky-gervais-animals",
+    "title": "Animals",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-office-uk",
+    "title": "The Office UK",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-office-us",
+    "title": "The Office USA",
+    "type": "tv-show"
+  },
+  {
+    "id": "ricky-gervais-politics",
+    "title": "Politics",
+    "type": "tv-show"
+  },
+  {
+    "id": "ricky-gervais-fame",
+    "title": "Fame",
+    "type": "tv-show"
+  },
+  {
+    "id": "ricky-gervais-science",
+    "title": "Science",
+    "type": "tv-show"
+  },
+  {
+    "id": "extras",
+    "title": "Extras",
+    "type": "tv-show"
+  },
+  {
+    "id": "life-is-short",
+    "title": "Life's Too Short",
+    "type": "tv-show"
+  },
+  {
+    "id": "meet-ricky-gervais",
+    "title": "Meet Ricky Gervais",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-ricky-gervais-show",
+    "title": "The Ricky Gervais Show",
+    "type": "radio-show"
+  },
+  {
+    "id": "joan-rivers-biography",
+    "title": "Diary Of A Mad Diva",
+    "type": "book"
+  },
+  {
+    "id": "castelo-domina-el-mundo",
+    "title": "Antonio Castelo Domina el Mundo",
+    "type": "tv-show"
+  },
+  {
+    "id": "noche-sin-tregua",
+    "title": "Noche Sin Tregua",
+    "type": "tv-show"
+  },
+  {
+    "id": "arrested-development",
+    "title": "Arrested Development",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "step-by-step-standup-comedy-book",
+    "title": "Step by Step to Stand-up Comedy",
+    "type": "book"
+  },
+  {
+    "id": "comedy-bible-book",
+    "title": "The Comedy Bible",
+    "type": "book"
+  },
+  {
+    "id": "zen-and-art-of-standup-comedy-book",
+    "title": "Zen and the Art of Stand-Up Comedy",
+    "type": "book"
+  },
+  {
+    "id": "logan-murray-be-a-great-standup",
+    "title": "Be a Great Stand-Up: Teach Yourself",
+    "type": "book"
+  },
+  {
+    "id": "chris-head-a-directors-guide-to-the-art-of-standup",
+    "title": "A Director's Guide to the Art of Stand-up",
+    "type": "book"
+  },
+  {
+    "id": "stewart-lee-how-i-escaped-my-certain-fate",
+    "title": "How I Escaped My Certain Fate",
+    "type": "book"
+  },
+  {
+    "id": "comedy-writing-for-late-night-tv",
+    "title": "Comedy Writing For Late Night Tv",
+    "type": "book"
+  },
+  {
+    "id": "friends",
+    "title": "Friends",
+    "type": "tv-show"
+  },
+  {
+    "id": "you-made-it-weird",
+    "title": "You Made It Weird with Pete Holmes",
+    "type": "podcast"
+  },
+  {
+    "id": "richard-pryor-live-in-the-sunset-street",
+    "title": "Richard Pryor: Live on the Sunset Strip",
+    "type": "comedy-special"
+  },
+  {
+    "id": "comicos-del-mundo",
+    "title": "Humoristas Del Mundo",
+    "type": "tv-show"
   }
 ]

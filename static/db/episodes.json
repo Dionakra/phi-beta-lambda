@@ -1537,12 +1537,230 @@
     "hosts": [
       "antonio-castelo",
       "iggy-rubin",
-      "miguel-campos",
       "jorge-yorya"
     ],
     "guests": [],
     "sections": [],
     "comedians": [],
     "culture": []
+  },
+  {
+    "id": "s01e19",
+    "season": 1,
+    "episode": 19,
+    "title": "UUUUY!",
+    "link": "sBQ4qejWvb0",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "pilar-de-francisco",
+      "mer"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "ricky-gervais"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "ellen-degeneres"
+          ],
+          "culture": [
+            "ellen-degeneres-relatable"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "sergio-bezos",
+      "stephen-merchant",
+      "jimmy-carr",
+      "juanra-bonet",
+      "chris-rock",
+      "louis-ck",
+      "denny-horror",
+      "alex-clavero",
+      "andy-samberg",
+      "pete-davidson",
+      "andy-richter",
+      "alvaro-carmona",
+      "jim-carrey",
+      "joe-rogan",
+      "amy-schumer",
+      "alvaro-velasco",
+      "dani-rovira",
+      "victoria-martin",
+      "esther-gimeno",
+      "santi-alveru",
+      "lalo-tenorio",
+      "yunez-chaib",
+      "ricardo-castella",
+      "dani-mateo",
+      "angel-martin",
+      "pepe-rubianes",
+      "virginia-riezu",
+      "eva-soriano",
+      "elsa-ruiz",
+      "david-lillo",
+      "andreu-buenafuente",
+      "judd-apatow",
+      "jerry-seinfeld",
+      "tig-notaro",
+      "denis-leary",
+      "neal-brennan",
+      "miguel-lago",
+      "judah-friedlander",
+      "miguel-campos",
+      "chico-requena"
+    ],
+    "culture": [
+      "ellen-degeneres-relatable",
+      "zapeando",
+      "ricky-gervais-animals",
+      "the-office-uk",
+      "the-office-us",
+      "ricky-gervais-humanity",
+      "ricky-gervais-politics",
+      "ricky-gervais-fame",
+      "ricky-gervais-science",
+      "talking-funny-hbo",
+      "extras",
+      "life-is-short",
+      "meet-ricky-gervais",
+      "the-ricky-gervais-show",
+      "saturday-night-live",
+      "the-daily-show",
+      "libro-amy-schumer",
+      "comicos-del-mundo",
+      "joan-rivers-biography",
+      "castelo-domina-el-mundo",
+      "la-hora-chanante",
+      "noche-sin-tregua",
+      "late-motiv"
+    ]
+  },
+  {
+    "id": "s01e20",
+    "season": 1,
+    "episode": 20,
+    "title": "Guarro is the new black",
+    "link": "87E5UMTpfaM",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "pablo-ibarburu"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "bob-einstein"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "pete-holmes"
+          ],
+          "culture": [
+            "pete-holmes-dirty-clean"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "jerry-seinfeld",
+      "enrique-san-francisco",
+      "tommy-cooper",
+      "miguel-iribar",
+      "louis-ck",
+      "ricardo-castella",
+      "david-navarro",
+      "miguel-lago",
+      "iliza-shlesinger",
+      "mitch-hedberg",
+      "george-carlin",
+      "stewart-lee",
+      "ellen-degeneres",
+      "lalo-tenorio",
+      "diego-fabiano",
+      "sergio-bezos",
+      "jay-leno",
+      "david-letterman",
+      "luis-alvaro",
+      "john-stewart",
+      "stephen-colbert",
+      "albert-floyd",
+      "charlie-pee",
+      "xavi-castells",
+      "jj-vaquero",
+      "berto-romero",
+      "conan-obrien",
+      "judd-apatow",
+      "lorne-michaels",
+      "john-mulaney",
+      "mike-birbiglia",
+      "richard-pryor",
+      "don-rickles",
+      "chris-rock",
+      "mark-normand",
+      "chico-requena",
+      "llimoo",
+      "tomas-fuentes",
+      "ignasi-taltavull",
+      "david-martos",
+      "alex-martinez",
+      "valeria-ros"
+    ],
+    "culture": [
+      "comedians-in-cars-getting-coffee",
+      "arrested-development",
+      "curb-your-enthusiasm",
+      "step-by-step-standup-comedy-book",
+      "comedy-bible-book",
+      "zen-and-art-of-standup-comedy-book",
+      "logan-murray-be-a-great-standup",
+      "chris-head-a-directors-guide-to-the-art-of-standup",
+      "nanette",
+      "ellen-degeneres-relatable",
+      "stewart-lee-how-i-escaped-my-certain-fate",
+      "comedy-writing-for-late-night-tv",
+      "show-david-letterman",
+      "the-tonight-show",
+      "locomundo",
+      "bumping-mics",
+      "seinfeld",
+      "friends",
+      "crashing",
+      "you-made-it-weird",
+      "richard-pryor-live-in-the-sunset-street",
+      "bring-the-pain",
+      "chris-rock-kill-the-messenger",
+      "chris-rock-tamborine",
+      "chris-rock-bigger-and-blacker",
+      "comicos-del-mundo"
+    ]
   }
 ]
