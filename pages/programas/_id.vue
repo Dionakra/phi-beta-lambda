@@ -108,7 +108,7 @@
         </div>
       </div>
     </div>
-    <div class>
+    <div class v-if="episode.comedians && episode.comedians.length > 0">
       <span class="text-lg text-red">Cómic@s mencionados ({{episode.comedians.length}})</span>
       <div class="flex flex-inline flex-wrap">
         <div

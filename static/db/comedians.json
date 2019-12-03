@@ -425,7 +425,7 @@
   },
   {
     "id": "ellen-degeneres",
-    "name": "Ellen Degeneres"
+    "name": "Ellen DeGeneres"
   },
   {
     "id": "eva-hache",
@@ -488,8 +488,8 @@
     "name": "Jerry Seinfeld"
   },
   {
-    "id": "jim-jefferies",
-    "name": "Jim Jefferies"
+    "id": "jim-jeffries",
+    "name": "Jim Jeffries"
   },
   {
     "id": "jimmy-carr",
@@ -1170,5 +1170,21 @@
   {
     "id": "jonathan-ross",
     "name": "Jonathan Ross"
+  },
+  {
+    "id": "ted-alexandro",
+    "name": "Ted Alexandro"
+  },
+  {
+    "id": "ali-wong",
+    "name": "Ali Wong"
+  },
+  {
+    "id": "john-leguizamo",
+    "name": "John Leguizamo"
+  },
+  {
+    "id": "james-acaster",
+    "name": "James Acaster"
   }
 ]

@@ -648,5 +648,75 @@
     "id": "rebirth",
     "title": "Russell Brand: Re:Birth",
     "type": "tv-show"
+  },
+  {
+    "id": "ellen-degeneres-relatable",
+    "title": "Ellen DeGeneres: Relatable",
+    "type": "comedy-special"
+  },
+  {
+    "id": "pete-holmes-dirty-clean",
+    "title": "Pete Holmes: Dirty Clean",
+    "type": "comedy-special"
+  },
+  {
+    "id": "jim-gaffigan-noble-ape",
+    "title": "Jim Gaffigan: Noble Ape",
+    "type": "comedy-special"
+  },
+  {
+    "id": "take-my-wife",
+    "title": "Take My Wife",
+    "type": "tv-show"
+  },
+  {
+    "id": "put-your-hands-together",
+    "title": "Put Your Hands Together",
+    "type": "podcast"
+  },
+  {
+    "id": "ricky-gervais-humanity",
+    "title": "Ricky Gervais: Humanity",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tig-notaro-happy-to-be-here",
+    "title": "Tig Notaro: Happy To Be Here",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tig-notaro-boyish-girl",
+    "title": "Tig Notaro: Boyish Girl Interrupted",
+    "type": "comedy-special"
+  },
+  {
+    "id": "ted-alexandro-senior-class-of-earth",
+    "title": "Ted Alexandro: Senior Class Of Earth",
+    "type": "comedy-special"
+  },
+  {
+    "id": "ali-wong-hard-knock-wife",
+    "title": "Ali Wong: Hard Knock Wife",
+    "type": "comedy-special"
+  },
+  {
+    "id": "katt-williams-great-america",
+    "title": "Katt Williams: Great America",
+    "type": "comedy-special"
+  },
+  {
+    "id": "equanimity",
+    "title": "Dave Chappelle: Equanimity",
+    "type": "comedy-special"
+  },
+  {
+    "id": "jim-jeffries-this-is-me-now",
+    "title": "Jim Jeffries: This is Me Now",
+    "type": "comedy-special"
+  },
+  {
+    "id": "james-acaster-repertoire",
+    "title": "James Acaster: Repertoire",
+    "type": "comedy-special"
   }
 ]
