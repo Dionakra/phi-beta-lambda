@@ -1,47 +1,47 @@
 [
   {
     "id": "nanette",
-    "title": "Nanette",
+    "title": "Hannah Gadsby: Nanette",
     "type": "comedy-special"
   },
   {
     "id": "drew-michael",
-    "title": "Drew Michael",
+    "title": "Drew Michael: Drew Michael",
     "type": "comedy-special"
   },
   {
     "id": "elder-millenial",
-    "title": "Elder Millenial",
+    "title": "Iliza Shlesinger: Elder Millenial",
     "type": "comedy-special"
   },
   {
     "id": "america-is-the-greatest",
-    "title": "America Is the Greatest Country in the United States",
+    "title": "Judah Friedlander: America Is the Greatest Country in the United States",
     "type": "comedy-special"
   },
   {
     "id": "rape-jokes",
-    "title": "Rape Jokes",
+    "title": "Cameron Esposito: Rape Jokes",
     "type": "comedy-special"
   },
   {
     "id": "the-honeymoon-standup-special",
-    "title": "The Honeymoon Standup Special",
+    "title": "Natasha Leggero & Moshe Kasher: The Honeymoon Standup Special",
     "type": "comedy-special"
   },
   {
     "id": "act-happy",
-    "title": "Act Happy",
+    "title": "Todd Glass: Act Happy",
     "type": "comedy-special"
   },
   {
     "id": "make-happy",
-    "title": "Make Happy",
+    "title": "Bo BurnhamMake Happy",
     "type": "comedy-special"
   },
   {
     "id": "in-trouble",
-    "title": "In Trouble",
+    "title": "Katherine Ryan: In Trouble",
     "type": "comedy-special"
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "id": "jim-gaffigan-beyond-the-pale",
-    "title": "Jim Gaffigan Beyond The Pale",
+    "title": "Jim Gaffigan: Beyond The Pale",
     "type": "comedy-special"
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "id": "jim-gaffigan-cinco",
-    "title": "Jim Gaffigan Cinco",
+    "title": "Jim Gaffigan: Cinco",
     "type": "comedy-special"
   },
   {
@@ -286,12 +286,12 @@
   },
   {
     "id": "100-fresh",
-    "title": "100% Fresh",
+    "title": "Adam Sandler: 100% Fresh",
     "type": "comedy-special"
   },
   {
     "id": "secret-time",
-    "title": "Secret Time",
+    "title": "Bert Kreischer: Secret Time",
     "type": "comedy-special"
   },
   {
@@ -301,12 +301,12 @@
   },
   {
     "id": "live-at-the-purple-onion",
-    "title": "Live At The Purple Onion",
+    "title": "Zach Galifianakis: Live At The Purple Onion",
     "type": "comedy-special"
   },
   {
     "id": "the-hangover",
-    "title": "The Hangover",
+    "title": "Resacón en Las Vegas",
     "type": "movie"
   },
   {
@@ -341,18 +341,13 @@
   },
   {
     "id": "pinky-and-the-brain",
-    "title": "Pinky And The Brain",
+    "title": "Pinky y Cerebro",
     "type": "tv-show-series"
   },
   {
     "id": "the-machine-bert-kreischer",
-    "title": "The Machine",
+    "title": "Bert Kreischer: The Machine",
     "type": "comedy-special"
-  },
-  {
-    "id": "somethings-burning",
-    "title": "Somethings Burning",
-    "type": "tv-show"
   },
   {
     "id": "curb-your-enthusiasm",
@@ -361,7 +356,7 @@
   },
   {
     "id": "nice-lady",
-    "title": "Nice Lady",
+    "title": "Michelle Wolf: Nice Lady",
     "type": "comedy-special"
   },
   {
@@ -371,7 +366,7 @@
   },
   {
     "id": "jesus-is-magic-sarah-silverman",
-    "title": "Jesus Is Magic",
+    "title": "Sarah Silverman: Jesus Is Magic",
     "type": "comedy-special"
   },
   {
@@ -421,7 +416,7 @@
   },
   {
     "id": "son-of-patricia",
-    "title": "Son of Patricia",
+    "title": "Trevor Noah: Son of Patricia",
     "type": "comedy-special"
   },
   {
@@ -461,7 +456,7 @@
   },
   {
     "id": "bring-the-pain",
-    "title": "Bring The Pain",
+    "title": "Chris Rock: Bring The Pain",
     "type": "comedy-special"
   },
   {
@@ -471,17 +466,17 @@
   },
   {
     "id": "chris-rock-never-scared",
-    "title": "Never Scared",
+    "title": "Chris Rock: Never Scared",
     "type": "comedy-special"
   },
   {
     "id": "chris-rock-kill-the-messenger",
-    "title": "Kill the Messenger",
+    "title": "Chris Rock: Kill the Messenger",
     "type": "comedy-special"
   },
   {
     "id": "chris-rock-bigger-and-blacker",
-    "title": "Bigger and Blacker",
+    "title": "Chris Rock: Bigger and Blacker",
     "type": "comedy-special"
   },
   {
