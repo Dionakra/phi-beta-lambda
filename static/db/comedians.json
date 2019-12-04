@@ -224,8 +224,8 @@
     "name": "Louis CK"
   },
   {
-    "id": "maria-bandford",
-    "name": "Maria Bandford"
+    "id": "maria-bamford",
+    "name": "Maria Bamford"
   },
   {
     "id": "martin-lawrence",
@@ -1262,5 +1262,49 @@
   {
     "id": "alex-martinez",
     "name": "Álex Martínez"
+  },
+  {
+    "id": "colin-quinn",
+    "name": "Colin Quinn"
+  },
+  {
+    "id": "andrew-dice-clay",
+    "name": "Andrew Dice Clay"
+  },
+  {
+    "id": "gary-gulman",
+    "name": "Gary Gulman"
+  },
+  {
+    "id": "ray-romano",
+    "name": "Ray Romano"
+  },
+  {
+    "id": "fran-pati",
+    "name": "Fran Pati"
+  },
+  {
+    "id": "vengamonjas",
+    "name": "Vengamonjas"
+  },
+  {
+    "id": "chris-gethard",
+    "name": "Chris Gethard"
+  },
+  {
+    "id": "malena-pichot",
+    "name": "Malena Pichot"
+  },
+  {
+    "id": "ana-carolina",
+    "name": "Ana Carolina"
+  },
+  {
+    "id": "charo-lopez",
+    "name": "Charo López"
+  },
+  {
+    "id": "vanesa-strauch",
+    "name": "Vanesa Strauch"
   }
 ]

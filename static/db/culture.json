@@ -843,5 +843,100 @@
     "id": "comicos-del-mundo",
     "title": "Humoristas Del Mundo",
     "type": "tv-show"
+  },
+  {
+    "id": "colin-quinn-one-night-stand",
+    "title": "Colin Quinn One Night Stand",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tough-crowd-with-colin-quinn",
+    "title": "Tough Crowd With Colin Quinn",
+    "type": "comedy-special"
+  },
+  {
+    "id": "colin-quinn-unconstitutional",
+    "title": "Colin Quinn Unconstitutional",
+    "type": "comedy-special"
+  },
+  {
+    "id": "colin-quinn-the-new-york-story",
+    "title": "Colin Quinn The New York Story",
+    "type": "comedy-special"
+  },
+  {
+    "id": "space-force",
+    "title": "Space Force",
+    "type": "tv-show-seroes"
+  },
+  {
+    "id": "parks-and-recreation",
+    "title": "Parks And Recreation",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "camera-cafe",
+    "title": "Camera Café",
+    "type": "tv-show"
+  },
+  {
+    "id": "gym-tony",
+    "title": "Gym Tony",
+    "type": "tv-show"
+  },
+  {
+    "id": "family-guy",
+    "title": "Family Guy",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "conan-needs-a-friend",
+    "title": "Conan Needs A Friend",
+    "type": "podcast"
+  },
+  {
+    "id": "eddie-izzard-wunderbar",
+    "title": "Eddie Izzard: Wunderbar",
+    "type": "comedy-special"
+  },
+  {
+    "id": "in-living-color",
+    "title": "In Living Color",
+    "type": "tv-show"
+  },
+  {
+    "id": "ford-fairlane-movie",
+    "title": "Ford Fairlane",
+    "type": "movie"
+  },
+  {
+    "id": "quien-se-ha-llevado-mi-master",
+    "title": "Quién se ha llevado mi master",
+    "type": "book"
+  },
+  {
+    "id": "kevin-hart-irresponsible",
+    "title": "Kevin Hart: Irresponsible",
+    "type": "tv-show"
+  },
+  {
+    "id": "everybody-loves-raymond",
+    "title": "Everybody Loves Raymond",
+    "type": "tv-show"
+  },
+  {
+    "id": "dangerous-world-of-comedy",
+    "title": "Dangerous World Of Comedy",
+    "type": "tv-show"
+  },
+  {
+    "id": "dave-chappelle-show",
+    "title": "Chappelle's Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "mox-nox-joan-cornella",
+    "title": "Mox Nox Joan Cornella",
+    "type": "tv-show"
   }
 ]

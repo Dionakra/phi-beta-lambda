@@ -119,7 +119,7 @@
       "cameron-esposito",
       "kyle-kinane",
       "dan-ronan",
-      "maria-bandford",
+      "maria-bamford",
       "jerrod-carmichael",
       "drew-carey",
       "jorge-ponce",
@@ -1553,7 +1553,6 @@
     "hosts": [
       "antonio-castelo",
       "iggy-rubin",
-      "miguel-campos",
       "jorge-yorya"
     ],
     "guests": [
@@ -1627,7 +1626,6 @@
       "chico-requena"
     ],
     "culture": [
-      "ellen-degeneres-relatable",
       "zapeando",
       "ricky-gervais-animals",
       "the-office-uk",
@@ -1761,6 +1759,203 @@
       "chris-rock-tamborine",
       "chris-rock-bigger-and-blacker",
       "comicos-del-mundo"
+    ]
+  },
+  {
+    "id": "s01e21",
+    "season": 1,
+    "episode": 21,
+    "title": "One: Se acabaron los pilotos",
+    "link": "1Au3XEuN2mk",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "jorge-ponce"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "colin-quinn"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "chris-rock"
+          ],
+          "culture": [
+            "bring-the-pain"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "norm-macdonald",
+      "david-broncano",
+      "jerry-seinfeld",
+      "miguel-campos",
+      "raul-perez",
+      "kevin-hart",
+      "pete-holmes",
+      "judd-apatow",
+      "louis-ck",
+      "steve-carell",
+      "seth-macfarlane",
+      "conan-obrien",
+      "jay-leno",
+      "john-oliver",
+      "david-letterman",
+      "eddie-izzard",
+      "miguel-miguel",
+      "raul-navarro",
+      "jorge-segura",
+      "valeria-ros",
+      "susi-caramelo",
+      "urko-vazquez",
+      "miki-dkai",
+      "john-mulaney",
+      "pablo-ibarburu",
+      "eddie-murphy",
+      "jim-carrey",
+      "andrew-dice-clay",
+      "richard-pryor",
+      "woody-allen",
+      "steve-martin",
+      "bill-cosby",
+      "adam-sandler",
+      "gary-gulman",
+      "bill-burr",
+      "tomas-fuentes",
+      "adolfo-valor"
+    ],
+    "culture": [
+      "colin-quinn-one-night-stand",
+      "tough-crowd-with-colin-quinn",
+      "colin-quinn-unconstitutional",
+      "colin-quinn-the-new-york-story",
+      "crashing",
+      "the-office-uk",
+      "the-office-us",
+      "space-force",
+      "parks-and-recreation",
+      "camera-cafe",
+      "gym-tony",
+      "family-guy",
+      "the-tonight-show",
+      "conan-without-borders",
+      "conan-needs-a-friend",
+      "la-resistencia",
+      "last-week-john-oliver",
+      "eddie-izzard-wunderbar",
+      "the-comeback-kid",
+      "saturday-night-live",
+      "in-living-color",
+      "ford-fairlane-movie",
+      "eddie-murphy-raw",
+      "quien-se-ha-llevado-mi-master"
+    ]
+  },
+  {
+    "id": "s01e22",
+    "season": 1,
+    "episode": 22,
+    "title": "N.O.G.U.E.R.A.",
+    "link": "urrKUByrLiA",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "doug-stanhope"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "neal-brennan"
+          ],
+          "culture": [
+            "three-mics"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "bill-burr",
+      "joe-rogan",
+      "dane-cook",
+      "lenny-bruce",
+      "lalo-tenorio",
+      "miguel-esteban",
+      "galder-varas",
+      "jay-leno",
+      "michelle-wolf",
+      "jim-gaffigan",
+      "kevin-hart",
+      "ray-romano",
+      "larry-david",
+      "chris-rock",
+      "joaquin-reyes",
+      "chico-requena",
+      "fran-pati",
+      "pablo-ibarburu",
+      "miguel-noguera",
+      "queque",
+      "vengamonjas",
+      "dave-chappelle",
+      "david-cross",
+      "hannah-gadsby",
+      "judd-apatow",
+      "chris-gethard",
+      "ellen-degeneres",
+      "jerry-seinfeld",
+      "malena-pichot",
+      "ana-carolina",
+      "charo-lopez",
+      "vanesa-strauch",
+      "tomas-fuentes",
+      "ricky-gervais",
+      "victoria-martin",
+      "percebes-y-grelos",
+      "miguel-iribar",
+      "urko-vazquez"
+    ],
+    "culture": [
+      "nice-lady",
+      "kevin-hart-irresponsible",
+      "everybody-loves-raymond",
+      "dangerous-world-of-comedy",
+      "seinfeld",
+      "curb-your-enthusiasm",
+      "borat",
+      "comicos-del-mundo",
+      "dave-chappelle-show",
+      "comedians-in-cars-getting-coffee",
+      "quien-se-ha-llevado-mi-master",
+      "todo-es-mentira",
+      "mox-nox-joan-cornella"
     ]
   }
 ]
