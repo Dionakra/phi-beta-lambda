@@ -917,12 +917,12 @@
   {
     "id": "kevin-hart-irresponsible",
     "title": "Kevin Hart: Irresponsible",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "everybody-loves-raymond",
     "title": "Everybody Loves Raymond",
-    "type": "tv-show"
+    "type": "tv-show-series"
   },
   {
     "id": "dangerous-world-of-comedy",
@@ -937,6 +937,216 @@
   {
     "id": "mox-nox-joan-cornella",
     "title": "Mox Nox Joan Cornella",
+    "type": "book"
+  },
+  {
+    "id": "stay-hungry",
+    "title": "Sebastian Maniscalco: Stay Hungry",
+    "type": "comedy-special"
+  },
+  {
+    "id": "hora-de-aventuras",
+    "title": "Hora De Aventuras",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "bojack-horseman",
+    "title": "Bojack Horseman",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "american-dad",
+    "title": "American Dad",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "maria-bamford-old-baby",
+    "title": "Maria Bamford: Old Baby",
+    "type": "comedy-special"
+  },
+  {
+    "id": "lady-dinamyte",
+    "title": "Lady Dinamyte",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "maria-bamford-the-special-special-special",
+    "title": "Maria Bamford: The Special Special Special",
+    "type": "comedy-special"
+  },
+  {
+    "id": "sebastian-maniscalco-stay-hungry-book",
+    "title": "Stay Hungry",
+    "type": "book"
+  },
+  {
+    "id": "joven-sheldon",
+    "title": "Joven Sheldon",
+    "type": "tv-show"
+  },
+  {
+    "id": "right-here-around-the-corner",
+    "title": "Right Here Around The Corner",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-root-of-all-evil-comedy-central",
+    "title": "The Root Of All Evil",
+    "type": "tv-show"
+  },
+  {
+    "id": "la-lengua-moderna",
+    "title": "La Lengua Moderna",
+    "type": "podcast"
+  },
+  {
+    "id": "dave-chappelle-revelations",
+    "title": "Dave Chappelle: The Bird Revelation",
+    "type": "comedy-special"
+  },
+  {
+    "id": "community",
+    "title": "Community",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "judd-apatow-sick-in-the-head",
+    "title": "Sick in the Head: Conversations about Life and Comedy",
+    "type": "book"
+  },
+  {
+    "id": "she-ready-from-the-hood-to-hollywood",
+    "title": "Tiffany Haddish: She Ready! From the Hood to Hollywood",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tiffany-haddish-the-last-black-unicorn",
+    "title": "The Last Black Unicorn",
+    "type": "book"
+  },
+  {
+    "id": "robin-williams-come-inside-my-mind",
+    "title": "Robin Williams: Come Inside My Mind",
+    "type": "documentary"
+  },
+  {
+    "id": "robin-williams-reality-what-a-concept",
+    "title": "Reality - What a Concept!",
+    "type": "comedy-special"
+  },
+  {
+    "id": "robin-williams-weapons-of-self-destruction",
+    "title": "Robin Williams: Weapons of Self-Destruction",
+    "type": "comedy-special"
+  },
+  {
+    "id": "paquita-salas",
+    "title": "Paquita Salas",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "mrs-doubtfire",
+    "title": "Mrs Doubtfire",
+    "type": "movie"
+  },
+  {
+    "id": "jack",
+    "title": "Jack",
+    "type": "movie"
+  },
+  {
+    "id": "historia-libro-el-mundo-today",
+    "title": "EL MUNDO TODAY | Historia, el libro",
+    "type": "book"
+  },
+  {
+    "id": "you-complete-me-ho",
+    "title": "Ken Jeong: You Complete Me, Ho",
+    "type": "tv-show"
+  },
+  {
+    "id": "team-america-movie",
+    "title": "Team America: World Police",
+    "type": "movie"
+  },
+  {
+    "id": "show-ben-stiller",
+    "title": "The Ben Stiller Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "jerry-maguire",
+    "title": "Jerry Maguire",
+    "type": "movie"
+  },
+  {
+    "id": "la-verdad-sobre-perros-y-gatos",
+    "title": "La verdad sobre perros y gatos",
+    "type": "movie"
+  },
+  {
+    "id": "el-ala-oeste-de-la-casa-blanca",
+    "title": "El ala oeste de la Casa Blanca",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "green-room-with-paul-provenza",
+    "title": "The Green Room with Paul Provenza",
+    "type": "tv-show"
+  },
+  {
+    "id": "libro-ana-belen-rivero-senora",
+    "title": "Señora",
+    "type": "book"
+  },
+  {
+    "id": "buenismo-bien",
+    "title": "Buenismo Bien",
+    "type": "podcast"
+  },
+  {
+    "id": "double-negative",
+    "title": "Ari Shaffir: Double Negative",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tommy-cooper-always-leave-them-laughing",
+    "title": "Tommy Cooper: Always Leave them Laughing",
+    "type": "book"
+  },
+  {
+    "id": "the-tommy-cooper-show",
+    "title": "The Tommy Cooper Hour",
+    "type": "tv-show"
+  },
+  {
+    "id": "big-mouth",
+    "title": "Big Mouth",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "funny-people-judd-apatow",
+    "title": "Funny People",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "pepe-rubianes-a-mi-no-me-calles",
+    "title": "A MÍ NO ME CALLAN",
+    "type": "book"
+  },
+  {
+    "id": "el-libro-de-gila",
+    "title": "El libro de Gila",
+    "type": "book"
+  },
+  {
+    "id": "las-legendarias-aventuras-de-chiquito-de-la-calzada",
+    "title": "Las legendarias aventuras de Chiquito",
+    "type": "book"
+  },
+  {
+    "id": "this-is-not-happening-comedy-central",
+    "title": "This Is Not Happening",
     "type": "tv-show"
   }
 ]

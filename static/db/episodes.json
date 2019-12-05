@@ -1957,5 +1957,470 @@
       "todo-es-mentira",
       "mox-nox-joan-cornella"
     ]
+  },
+  {
+    "id": "s01e23",
+    "season": 1,
+    "episode": 23,
+    "title": "Sorpresitas",
+    "link": "SgWaexPCDqE",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "maria-bamford"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "sebastian-maniscalco"
+          ],
+          "culture": [
+            "stay-hungry"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "patton-oswalt",
+      "zach-galifianakis",
+      "brian-posehn",
+      "aziz-ansari",
+      "jaime-caravaca",
+      "rober-bodegas",
+      "kaco-forns",
+      "david-lillo",
+      "pilar-de-francisco",
+      "luis-fabra",
+      "david-martos",
+      "andreu-buenafuente",
+      "silvia-abril",
+      "dani-rovira",
+      "ernesto-sevilla",
+      "joaquin-reyes",
+      "kevin-hart",
+      "maya-rudolph",
+      "tina-fey",
+      "amy-poehler",
+      "whoopi-goldberg",
+      "billy-crystal",
+      "vengamonjas",
+      "jimmy-carr",
+      "jorge-ponce",
+      "jorge-segura",
+      "mike-vecchione",
+      "tiffany-haddish",
+      "jerry-seinfeld",
+      "don-rickles",
+      "george-carlin",
+      "miguel-noguera",
+      "ignatius-farray",
+      "sam-kinison",
+      "tim-allen",
+      "gary-gulman",
+      "sam-morril",
+      "ryan-hamilton",
+      "megan-amram"
+    ],
+    "culture": [
+      "hora-de-aventuras",
+      "bojack-horseman",
+      "american-dad",
+      "maria-bamford-old-baby",
+      "lady-dinamyte",
+      "maria-bamford-the-special-special-special",
+      "la-resistencia",
+      "talking-funny-hbo",
+      "saturday-night-live",
+      "zen-and-art-of-standup-comedy-book",
+      "campeones",
+      "sebastian-maniscalco-stay-hungry-book",
+      "joven-sheldon",
+      "mox-nox-joan-cornella"
+    ]
+  },
+  {
+    "id": "s01e24",
+    "season": 1,
+    "episode": 24,
+    "title": "Solo el penitente pasará",
+    "link": "mBhN3NjxLWg",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "valeria-ros"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "lewis-black"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "ray-romano"
+          ],
+          "culture": [
+            "right-here-around-the-corner"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "miguel-iribar",
+      "nacho-garcia",
+      "ana-morgade",
+      "andreu-casanova",
+      "queque",
+      "manuel-burque",
+      "quique-peinado",
+      "ignatius-farray",
+      "nene",
+      "eva-soriano",
+      "elsa-ruiz",
+      "esther-gimeno",
+      "carolina-noriega",
+      "patricia-espejo",
+      "sandra-marchena",
+      "pablo-ibarburu",
+      "mer",
+      "judah-friedlander",
+      "ted-alexandro",
+      "jerry-seinfeld",
+      "chris-rock",
+      "adam-sandler",
+      "james-corden",
+      "sebastian-maniscalco",
+      "dave-chappelle",
+      "al-yankovic",
+      "donald-glover",
+      "bert-kreischer",
+      "bill-burr",
+      "katt-williams",
+      "lisa-lampanelli",
+      "joe-rogan",
+      "neal-brennan",
+      "chris-delia",
+      "ricky-gervais",
+      "miki-dkai",
+      "anthony-jeselnik",
+      "seth-macfarlane",
+      "judd-apatow"
+    ],
+    "culture": [
+      "the-root-of-all-evil-comedy-central",
+      "the-daily-show",
+      "friends",
+      "la-resistencia",
+      "saturday-night-live",
+      "la-vida-moderna",
+      "la-lengua-moderna",
+      "bumping-mics",
+      "louie",
+      "everybody-loves-raymond",
+      "equanimity",
+      "dave-chappelle-revelations",
+      "community",
+      "atlanta",
+      "judd-apatow-sick-in-the-head"
+    ]
+  },
+  {
+    "id": "s01e25",
+    "season": 1,
+    "episode": 25,
+    "title": "Universal Pachoche",
+    "link": "nfBLdDA5ItE",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "robin-williams"
+          ]
+        }
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "tiffany-haddish"
+          ],
+          "culture": [
+            "she-ready-from-the-hood-to-hollywood"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "dane-cook",
+      "andy-de-la-tour",
+      "los-morancos",
+      "diego-varea",
+      "pete-davidson",
+      "zach-galifianakis",
+      "john-mulaney",
+      "judd-apatow",
+      "kenan-thompson",
+      "chris-rock",
+      "jerry-seinfeld",
+      "amy-schumer",
+      "jimmy-carr",
+      "david-broncano",
+      "kaco-forns",
+      "arnau-soler",
+      "simo-marti",
+      "inaki-urrutia",
+      "pablo-ibarburu",
+      "paco-calavera",
+      "miguel-iribar",
+      "richard-pryor",
+      "eddie-murphy",
+      "monique",
+      "kevin-hart",
+      "trevor-noah",
+      "lorena-castell",
+      "mike-birbiglia",
+      "david-suarez"
+    ],
+    "culture": [
+      "tiffany-haddish-the-last-black-unicorn",
+      "the-zen-diaries",
+      "robin-williams-come-inside-my-mind",
+      "robin-williams-reality-what-a-concept",
+      "robin-williams-weapons-of-self-destruction",
+      "paquita-salas",
+      "mrs-doubtfire",
+      "jack",
+      "saturday-night-live",
+      "def-comedy-jam",
+      "the-hangover",
+      "judd-apatow-sick-in-the-head",
+      "historia-libro-el-mundo-today"
+    ]
+  },
+  {
+    "id": "s01e26",
+    "season": 1,
+    "episode": 26,
+    "title": "Codigo Yorya",
+    "link": "ArqLAquMFtU",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "victor-ladron-de-guevara"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "janeane-garofalo"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "ken-jeong"
+          ],
+          "culture": [
+            "you-complete-me-ho"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "denny-horror",
+      "dani-piqueras",
+      "pepon-fuentes",
+      "jay-leno",
+      "louis-ck",
+      "sarah-silverman",
+      "todd-barry",
+      "felisuco",
+      "ben-stiller",
+      "paul-provenza",
+      "doug-stanhope",
+      "jorge-ponce",
+      "adolfo-valor",
+      "woody-allen",
+      "dana-carvey",
+      "danny-boy",
+      "helena-pozuelo",
+      "antonio-lorente",
+      "fernando-morano",
+      "borja-sumozas",
+      "victoria-martin",
+      "dani-mateo",
+      "kevin-hart",
+      "nuria-jimenez",
+      "david-suarez",
+      "raul-cimas",
+      "jj-vaquero",
+      "sergio-bezos",
+      "ernesto-sevilla",
+      "edu-soto",
+      "yumi-nagashima",
+      "ignatius-farray",
+      "mike-lawrence",
+      "steven-brody-stevens",
+      "robin-williams",
+      "juan-carlos-cordoba",
+      "david-broncano"
+    ],
+    "culture": [
+      "team-america-movie",
+      "saturday-night-live",
+      "show-ben-stiller",
+      "jerry-maguire",
+      "la-verdad-sobre-perros-y-gatos",
+      "the-larry-sanders-show",
+      "el-ala-oeste-de-la-casa-blanca",
+      "seinfeld",
+      "green-room-with-paul-provenza",
+      "la-resistencia",
+      "community",
+      "the-hangover",
+      "la-vida-moderna",
+      "crashing",
+      "historia-libro-el-mundo-today",
+      "libro-ana-belen-rivero-senora",
+      "buenismo-bien",
+      "la-lengua-moderna"
+    ]
+  },
+  {
+    "id": "s01e27",
+    "season": 1,
+    "episode": 27,
+    "title": "Cartas y tartas",
+    "link": "3scp2atz7vs",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "tommy-cooper"
+          ]
+        }
+      },
+      {
+        "section": "el-mago-roast"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "ari-shaffir"
+          ],
+          "culture": [
+            "double-negative"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "carrot-top",
+      "steve-martin",
+      "tip-y-coll",
+      "jorge-ponce",
+      "benny-hill",
+      "eva-hache",
+      "toni-nievas",
+      "nick-kroll",
+      "john-mulaney",
+      "aubrey-plaza",
+      "steve-carell",
+      "kevin-hart",
+      "judd-apatow",
+      "adam-sandler",
+      "aziz-ansari",
+      "george-carlin",
+      "gila",
+      "dani-piqueras",
+      "jandro",
+      "joe-rogan",
+      "ralphie-may",
+      "bill-burr",
+      "bert-kreischer",
+      "roy-wood-jr",
+      "anthony-jeselnik",
+      "nate-bargatze",
+      "jimmy-carr",
+      "iliza-shlesinger",
+      "amy-schumer",
+      "mark-normand",
+      "arnau-soler"
+    ],
+    "culture": [
+      "tommy-cooper-always-leave-them-laughing",
+      "the-tommy-cooper-show",
+      "big-mouth",
+      "parks-and-recreation",
+      "the-office-us",
+      "space-force",
+      "funny-people-judd-apatow",
+      "la-resistencia",
+      "pepe-rubianes-a-mi-no-me-calles",
+      "el-libro-de-gila",
+      "las-legendarias-aventuras-de-chiquito-de-la-calzada",
+      "la-vida-moderna",
+      "this-is-not-happening-comedy-central"
+    ]
   }
 ]
