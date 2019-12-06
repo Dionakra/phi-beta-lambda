@@ -2050,7 +2050,8 @@
       "campeones",
       "sebastian-maniscalco-stay-hungry-book",
       "joven-sheldon",
-      "mox-nox-joan-cornella"
+      "mox-nox-joan-cornella",
+      "comedians-of-comedy"
     ]
   },
   {
@@ -2405,7 +2406,8 @@
       "iliza-shlesinger",
       "amy-schumer",
       "mark-normand",
-      "arnau-soler"
+      "arnau-soler",
+      "monty-python"
     ],
     "culture": [
       "tommy-cooper-always-leave-them-laughing",
@@ -2421,6 +2423,285 @@
       "las-legendarias-aventuras-de-chiquito-de-la-calzada",
       "la-vida-moderna",
       "this-is-not-happening-comedy-central"
+    ]
+  },
+  {
+    "id": "s01e28",
+    "season": 1,
+    "episode": 28,
+    "title": "Traemos un mago",
+    "link": "iWjgWg8EprA",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "luis-piedrahita"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "patton-oswalt"
+          ]
+        }
+      },
+      {
+        "section": "el-mago-roast"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "amanda-seales"
+          ],
+          "culture": [
+            "i-be-knowin"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "conan-obrien",
+      "david-letterman",
+      "zach-galifianakis",
+      "maria-bamford",
+      "eugene-mirman",
+      "brian-posehn",
+      "kaco-forns",
+      "irene-meneguzzi",
+      "modgi",
+      "gila",
+      "tip-y-coll",
+      "ignatius-farray",
+      "emilio-aragon",
+      "jj-vaquero",
+      "alex-clavero",
+      "jandro",
+      "jerry-seinfeld",
+      "bo-burnham",
+      "chris-rock",
+      "woody-allen",
+      "tommy-cooper",
+      "queque",
+      "ana-morgade",
+      "marta-flich",
+      "xose-tourinan",
+      "joaquin-reyes",
+      "yunez-chaib",
+      "tomas-fuentes",
+      "charlie-pee",
+      "lorena-castell",
+      "ricky-gervais",
+      "inaki-urrutia"
+    ],
+    "culture": [
+      "conan-obrian-show",
+      "patton-oswalt-silver-screen-fiend",
+      "comedians-of-comedy",
+      "patton-oswalt-222",
+      "patton-oswalt-feelin-kinda-patton",
+      "my-weakness-is-strong",
+      "finest-hour",
+      "tragedy-plus-comedy-equals-time-comedy",
+      "talking-for-clapping",
+      "good-one-podcast",
+      "patton-oswalt-annihilation",
+      "luis-piedrahita-libros",
+      "make-happy",
+      "after-life-ricky-gervais",
+      "desperate-business-book"
+    ]
+  },
+  {
+    "id": "s01e29",
+    "season": 1,
+    "episode": 29,
+    "title": "Basta de famosos",
+    "link": "hHKGOvl6VYw",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "berto-romero"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "margaret-cho"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "emilly-heller"
+          ],
+          "culture": [
+            "ice-thickeneres"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "jorge-ponce",
+      "luis-piedrahita",
+      "patton-oswalt",
+      "jim-gaffigan",
+      "david-broncano",
+      "bill-hicks",
+      "miki-dkai",
+      "sam-kinison",
+      "javier-cansado",
+      "carlos-faemino",
+      "miguel-noguera",
+      "adam-sandler",
+      "pepe-rubianes",
+      "bill-hicks",
+      "bill-burr",
+      "woody-allen",
+      "andy-kaufman",
+      "kaco-forns",
+      "antonio-castejo",
+      "hovik",
+      "toni-moog",
+      "jj-vaquero",
+      "miguel-esteban",
+      "patton-oswalt",
+      "marc-maron",
+      "ricky-gervais",
+      "alex-gozalo"
+    ],
+    "culture": [
+      "como-ser-bill-murray",
+      "campeones",
+      "margaret-cho-albumes",
+      "mira-lo-que-has-hecho",
+      "100-fresh",
+      "fleabag",
+      "kidding-series",
+      "after-life-ricky-gervais",
+      "master-of-none",
+      "louie",
+      "el-fin-de-la-comedia",
+      "seinfeld",
+      "capitulo-0",
+      "la-resistencia",
+      "emilly-heller-pasta"
+    ]
+  },
+  {
+    "id": "s01e30",
+    "season": 1,
+    "episode": 30,
+    "title": "Mira macho, yo qué sé",
+    "link": "5EM2-0VrAQA",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "don-rickles"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "jimmy-carr"
+          ],
+          "culture": [
+            "the-best-of-ultimate-gold-greatest-hits"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "jerry-seinfeld",
+      "dave-chappelle",
+      "miki-dkai",
+      "miguel-iribar",
+      "jeff-ross",
+      "dani-rovira",
+      "rodney-dangerfield",
+      "dani-piqueras",
+      "conan-obrien",
+      "david-letterman",
+      "jay-leno",
+      "pete-holmes",
+      "jorge-ponce",
+      "monty-python",
+      "judd-apatow",
+      "patricia-espejo",
+      "patricia-sornosa",
+      "eva-soriano",
+      "pilar-de-francisco",
+      "marta-gonzalez-de-vega",
+      "marta-flich",
+      "nene",
+      "antonio-lorente",
+      "jaime-caravaca",
+      "fernando-morano",
+      "urko-vazquez",
+      "pablo-ibarburu",
+      "valeria-ros",
+      "sergio-bezos",
+      "pepon-fuentes",
+      "anthony-jeselnik",
+      "luis-alvaro",
+      "bo-burnham",
+      "bert-kreischer",
+      "ignatius-farray",
+      "ricky-gervais",
+      "gary-gulman",
+      "chris-delia",
+      "jay-leno",
+      "john-oliver"
+    ],
+    "culture": [
+      "saturday-night-live",
+      "dean-martin-show",
+      "the-tonight-show",
+      "show-david-letterman",
+      "van-dyke-show",
+      "andy-griffith-show",
+      "hello-gummy-don-rickles",
+      "casino",
+      "conan-needs-a-friend",
+      "nadie-sabe-nada",
+      "la-vida-moderna",
+      "la-resistencia",
+      "gente-viva",
+      "las-que-faltaban",
+      "late-motiv",
+      "the-naked-jape-uncovering-the-hidden-world-of-jokes",
+      "campeones",
+      "roast-battle-uk",
+      "after-life-ricky-gervais",
+      "comedians-in-cars-getting-coffee"
     ]
   }
 ]
