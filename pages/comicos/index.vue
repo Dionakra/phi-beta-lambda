@@ -70,7 +70,6 @@
 <script>
 import axios from "axios";
 import ComedianCard from "~/components/ComedianCard";
-import countBy from "lodash/countBy";
 const PAGE = 30;
 
 export default {

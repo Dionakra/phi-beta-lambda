@@ -137,17 +137,7 @@
           :key="culture.id"
           class="h-auto w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 mb-2 mt-6 relative"
         >
-          <div
-            v-if="culture.section"
-            class="absolute top-0 mx-3 -mt-4 px-1 py-1 bg-red text-xs text-white text-center rounded-full"
-          >{{culture.section}}</div>
-          <img
-            class="h-40 mx-auto mt-px mt-6"
-            :src="'/images/culture/' + culture.id+ '.jpg'"
-            :alt="culture.title"
-            :title="culture.title"
-          />
-          <p class="text-sm text-gray-700 text-center mt-1">{{culture.title}}</p>
+          <Culture :culture="culture" />
         </div>
       </div>
     </div>
@@ -156,8 +146,12 @@
 
 <script>
 import axios from "axios";
+import Culture from "~/components/Culture";
 
 export default {
+  components: {
+    Culture
+  },
   asyncData({ params, error }) {
     return axios
       .get(`/api/episodes/${params.id}.json`)

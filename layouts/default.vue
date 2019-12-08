@@ -55,6 +55,11 @@
             to="/comicos"
             v-on:click.native="toggle()"
           >Cómicos</nuxt-link>
+          <nuxt-link
+            class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
+            to="/cultura"
+            v-on:click.native="toggle()"
+          >Cultura</nuxt-link>
         </div>
         <!-- END LOCAL PAGES -->
 

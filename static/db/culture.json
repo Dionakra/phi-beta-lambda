@@ -36,7 +36,7 @@
   },
   {
     "id": "make-happy",
-    "title": "Bo BurnhamMake Happy",
+    "title": "Bo Burnham: Make Happy",
     "type": "comedy-special"
   },
   {
@@ -92,7 +92,7 @@
   {
     "id": "def-comedy-jam",
     "title": "Def Comedy Jam",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "norm-macdonald-has-a-show",
@@ -117,7 +117,7 @@
   {
     "id": "the-comeback-kid",
     "title": "John Mulaney: The Comeback Kid",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "show-david-letterman",
@@ -172,12 +172,12 @@
   {
     "id": "wtf-with-marc-maron",
     "title": "WTF With Marc Maron",
-    "type": "podcast"
+    "type": "radio-show"
   },
   {
     "id": "papanatos",
     "title": "Papanatos",
-    "type": "yt-show"
+    "type": "tv-show"
   },
   {
     "id": "the-late-shift",
@@ -198,11 +198,6 @@
     "id": "how-to-beat-up-anybody-judah",
     "title": "How to Beat Up Anybody: An Instructional and Inspirational Karate Book by the World Champion",
     "type": "book"
-  },
-  {
-    "id": "pussy-diamond",
-    "title": "Natasha Leggero: Live at Bimbo's - Diamond Pussy",
-    "type": "sketch"
   },
   {
     "id": "marvelous-mrs-maisel",
@@ -231,8 +226,8 @@
   },
   {
     "id": "good-one-podcast",
-    "title": "Good One: A Podcast About Jokes",
-    "type": "podcast"
+    "title": "Good One: A radio-show About Jokes",
+    "type": "radio-show"
   },
   {
     "id": "blue-collar-comedy",
@@ -337,7 +332,7 @@
   {
     "id": "baskets",
     "title": "Baskets",
-    "type": "tv-show-seroes"
+    "type": "tv-show-series"
   },
   {
     "id": "pinky-and-the-brain",
@@ -387,7 +382,7 @@
   {
     "id": "bumping-mics",
     "title": "Bumping Mics",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "its-garry-shandling-book",
@@ -397,7 +392,7 @@
   {
     "id": "la-vida-moderna",
     "title": "La Vida Moderna",
-    "type": "tv-show"
+    "type": "radio-show"
   },
   {
     "id": "three-mics",
@@ -521,7 +516,7 @@
   },
   {
     "id": "eddie-murphy-delirious",
-    "title": "Eddie Murphy Delirious",
+    "title": "Eddie Murphy: Delirious",
     "type": "comedy-special"
   },
   {
@@ -537,7 +532,7 @@
   {
     "id": "steve-martin-the-television-stuff",
     "title": "Steve Martin: The Television Stuff",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "born-standing-up-steve-martin",
@@ -621,7 +616,7 @@
   },
   {
     "id": "diario-de-un-cocainomano",
-    "title": "Diario de un Cocainomano",
+    "title": "Diario de un Cocainómano",
     "type": "book"
   },
   {
@@ -647,7 +642,7 @@
   {
     "id": "rebirth",
     "title": "Russell Brand: Re:Birth",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "ellen-degeneres-relatable",
@@ -672,7 +667,7 @@
   {
     "id": "put-your-hands-together",
     "title": "Put Your Hands Together",
-    "type": "podcast"
+    "type": "radio-show"
   },
   {
     "id": "ricky-gervais-humanity",
@@ -722,37 +717,37 @@
   {
     "id": "ricky-gervais-animals",
     "title": "Animals",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "the-office-uk",
     "title": "The Office UK",
-    "type": "tv-show"
+    "type": "tv-show-series"
   },
   {
     "id": "the-office-us",
     "title": "The Office USA",
-    "type": "tv-show"
+    "type": "tv-show-series"
   },
   {
     "id": "ricky-gervais-politics",
     "title": "Politics",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "ricky-gervais-fame",
     "title": "Fame",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "ricky-gervais-science",
     "title": "Science",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "extras",
     "title": "Extras",
-    "type": "tv-show"
+    "type": "tv-show-series"
   },
   {
     "id": "life-is-short",
@@ -821,18 +816,18 @@
   },
   {
     "id": "comedy-writing-for-late-night-tv",
-    "title": "Comedy Writing For Late Night Tv",
+    "title": "Comedy Writing For Late Night TV",
     "type": "book"
   },
   {
     "id": "friends",
     "title": "Friends",
-    "type": "tv-show"
+    "type": "tv-show-series"
   },
   {
     "id": "you-made-it-weird",
     "title": "You Made It Weird with Pete Holmes",
-    "type": "podcast"
+    "type": "radio-show"
   },
   {
     "id": "richard-pryor-live-in-the-sunset-street",
@@ -846,7 +841,7 @@
   },
   {
     "id": "colin-quinn-one-night-stand",
-    "title": "Colin Quinn One Night Stand",
+    "title": "Colin Quinn: One Night Stand",
     "type": "comedy-special"
   },
   {
@@ -856,18 +851,18 @@
   },
   {
     "id": "colin-quinn-unconstitutional",
-    "title": "Colin Quinn Unconstitutional",
+    "title": "Colin Quinn: Unconstitutional",
     "type": "comedy-special"
   },
   {
     "id": "colin-quinn-the-new-york-story",
-    "title": "Colin Quinn The New York Story",
+    "title": "Colin Quinn: The New York Story",
     "type": "comedy-special"
   },
   {
     "id": "space-force",
     "title": "Space Force",
-    "type": "tv-show-seroes"
+    "type": "tv-show-series"
   },
   {
     "id": "parks-and-recreation",
@@ -892,7 +887,7 @@
   {
     "id": "conan-needs-a-friend",
     "title": "Conan Needs A Friend",
-    "type": "podcast"
+    "type": "radio-show"
   },
   {
     "id": "eddie-izzard-wunderbar",
@@ -911,7 +906,7 @@
   },
   {
     "id": "quien-se-ha-llevado-mi-master",
-    "title": "Quién se ha llevado mi master",
+    "title": "¿Quién se ha llevado mi master?",
     "type": "book"
   },
   {
@@ -982,12 +977,12 @@
   {
     "id": "joven-sheldon",
     "title": "Joven Sheldon",
-    "type": "tv-show"
+    "type": "tv-show-series"
   },
   {
     "id": "right-here-around-the-corner",
     "title": "Right Here Around The Corner",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "the-root-of-all-evil-comedy-central",
@@ -997,7 +992,7 @@
   {
     "id": "la-lengua-moderna",
     "title": "La Lengua Moderna",
-    "type": "podcast"
+    "type": "radio-show"
   },
   {
     "id": "dave-chappelle-revelations",
@@ -1062,7 +1057,7 @@
   {
     "id": "you-complete-me-ho",
     "title": "Ken Jeong: You Complete Me, Ho",
-    "type": "tv-show"
+    "type": "comedy-special"
   },
   {
     "id": "team-america-movie",
@@ -1102,7 +1097,7 @@
   {
     "id": "buenismo-bien",
     "title": "Buenismo Bien",
-    "type": "podcast"
+    "type": "radio-show"
   },
   {
     "id": "double-negative",
@@ -1131,7 +1126,7 @@
   },
   {
     "id": "pepe-rubianes-a-mi-no-me-calles",
-    "title": "A MÍ NO ME CALLAN",
+    "title": "A mí no me callan",
     "type": "book"
   },
   {
@@ -1357,7 +1352,7 @@
   {
     "id": "nadie-sabe-nada",
     "title": "Nadie Sabe Nada",
-    "type": "podcast"
+    "type": "radio-show"
   },
   {
     "id": "gente-viva",
