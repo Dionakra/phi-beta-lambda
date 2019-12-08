@@ -1548,5 +1548,85 @@
     "id": "fire-in-the-maternity-ward",
     "title": "Anthony Jeselnik: Fire in the Maternity Ward",
     "type": "comedy-special"
+  },
+  {
+    "id": "ed-sullivan-show",
+    "title": "Ed Sullivan Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "annie-hall",
+    "title": "Annie Hall",
+    "type": "movie"
+  },
+  {
+    "id": "poking-a-frog",
+    "title": "Poking A Dead Frog",
+    "type": "book"
+  },
+  {
+    "id": "hits-and-misses",
+    "title": "Hits And Misses",
+    "type": "book"
+  },
+  {
+    "id": "man-seeking-woman",
+    "title": "Man Seeking Woman",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-time-machine-did-it",
+    "title": "The Time Machine Did It",
+    "type": "book"
+  },
+  {
+    "id": "your-show-of-shows",
+    "title": "Your Show Of Shows",
+    "type": "tv-show"
+  },
+  {
+    "id": "lo-dejo-cuando-quiera",
+    "title": "Lo Dejo Cuando Quiera",
+    "type": "movie"
+  },
+  {
+    "id": "silicon-valley",
+    "title": "Silicon Valley",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "barry",
+    "title": "Barry",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-good-place",
+    "title": "The Good Place",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "i-think-you-should-leave",
+    "title": "I Think You Should Leave",
+    "type": "tv-show"
+  },
+  {
+    "id": "splunge",
+    "title": "Splunge",
+    "type": "tv-show"
+  },
+  {
+    "id": "harmontown",
+    "title": "Harmontown",
+    "type": "documentary"
+  },
+  {
+    "id": "snatch",
+    "title": "Snatch",
+    "type": "movie"
+  },
+  {
+    "id": "last-comic-standing",
+    "title": "Last Comic Standing",
+    "type": "tv-show"
   }
 ]

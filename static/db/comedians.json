@@ -1650,5 +1650,77 @@
   {
     "id": "bill-murray",
     "name": "Bill Murray"
+  },
+  {
+    "id": "robert-klein",
+    "name": "Robert Klein"
+  },
+  {
+    "id": "mel-brooks",
+    "name": "Mel Brooks"
+  },
+  {
+    "id": "carl-reiner",
+    "name": "Carl Reiner"
+  },
+  {
+    "id": "mort-sahl",
+    "name": "Mort Sahl"
+  },
+  {
+    "id": "jonathan-winters",
+    "name": "Jonathan Winters"
+  },
+  {
+    "id": "shelley-berman",
+    "name": "Shelley Berman"
+  },
+  {
+    "id": "elaine-may",
+    "name": "Elaine May"
+  },
+  {
+    "id": "simon-rich",
+    "name": "Simon Rich"
+  },
+  {
+    "id": "john-swartzwelder",
+    "name": "John Swartzwelder"
+  },
+  {
+    "id": "neil-simon",
+    "name": "Neil Simon"
+  },
+  {
+    "id": "danny-simon",
+    "name": "Danny Simon"
+  },
+  {
+    "id": "mel-tolkin",
+    "name": "Mel Tolkin"
+  },
+  {
+    "id": "alec-berg",
+    "name": "Alec Berg"
+  },
+  {
+    "id": "bill-hader",
+    "name": "Bill Hader"
+  },
+  {
+    "id": "michael-schurr",
+    "name": "Michael Schurr"
+  },
+  {
+    "id": "robert-smigel",
+    "name": "Robert Smigel"
+  },
+  {
+    "id": "tim-robinson",
+    "name": "Tim Robinson"
+  },
+  {
+    "id": "juanjo-albinana",
+    "name": "Juanjo Albiñana"
   }
 ]
