@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto">
-    <div class="md:w-full lg:w-1/2 mx-auto flex justify-between md:justify-around text-sm mb-3">
+    <div class="md:w-full lg:w-1/2 mx-auto flex flex-wrap justify-between  text-sm mb-3">
       <div v-for="category in Object.keys(culture).sort((a, b) => a.localeCompare(b))" :key="category">
         <button
           class="hover:bg-red text-white py-1 px-2 rounded-full"
