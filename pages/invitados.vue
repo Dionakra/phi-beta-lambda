@@ -1,9 +1,9 @@
 <template>
   <div>
-    <p class="text-center text-5xl mb-4 -mt-4">Invitados</p>
+    <p class="text-center text-5xl mb-4 -mt-4">Invitad@s</p>
     <div class="px-2">
       <div class="flex flex-wrap -mx-2" v-if="guests != undefined && guests.length != 0">
-        <GuestCard :guest="guest" :key="guest.id" v-for="guest in guests" />
+        <GuestCard :guest="guest" :key="guest.id + guest.episode.title" v-for="guest in guests" />
       </div>
     </div>
   </div>

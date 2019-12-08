@@ -1148,5 +1148,250 @@
     "id": "this-is-not-happening-comedy-central",
     "title": "This Is Not Happening",
     "type": "tv-show"
+  },
+  {
+    "id": "i-be-knowin",
+    "title": "Amanda Seales: I Be Knowin’",
+    "type": "comedy-special"
+  },
+  {
+    "id": "conan-obrian-show",
+    "title": "Conan O'Brien Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "patton-oswalt-silver-screen-fiend",
+    "title": "Silver Screen Fiend: Learning About Life from an Addiction to Film",
+    "type": "book"
+  },
+  {
+    "id": "comedians-of-comedy",
+    "title": "The Comedians Of Comedy",
+    "type": "tv-show"
+  },
+  {
+    "id": "patton-oswalt-222",
+    "title": "Patton Oswalt 222",
+    "type": "comedy-special"
+  },
+  {
+    "id": "patton-oswalt-feelin-kinda-patton",
+    "title": "Feelin' Kinda Patton",
+    "type": "comedy-special"
+  },
+  {
+    "id": "my-weakness-is-strong",
+    "title": "Patton Oswalt: My Weakness Is Strong",
+    "type": "comedy-special"
+  },
+  {
+    "id": "finest-hour",
+    "title": "Finest Hour",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tragedy-plus-comedy-equals-time-comedy",
+    "title": "Patton Oswalt: Tragedy Plus Comedy Equals Time",
+    "type": "comedy-special"
+  },
+  {
+    "id": "talking-for-clapping",
+    "title": "Patton Oswalt: Talking For Clapping",
+    "type": "comedy-special"
+  },
+  {
+    "id": "patton-oswalt-annihilation",
+    "title": "Patton Oswalt: Annihilation",
+    "type": "comedy-special"
+  },
+  {
+    "id": "luis-piedrahita-cacahuete-flotando",
+    "title": "Un cacahuete flotando en una piscina… ¿sigue siendo un fruto seco?",
+    "type": "book"
+  },
+  {
+    "id": "luis-piedrahita-dios-hizo-el-mundo-en-7-dias",
+    "title": "Dios hizo el mundo en siete días… y se nota",
+    "type": "book"
+  },
+  {
+    "id": "luis-piedrahita-columpios",
+    "title": "¿Por qué los mayores construyen los columpios siempre encima de un charco?",
+    "type": "book"
+  },
+  {
+    "id": "luis-piedrahita-diario-de-una-pulga",
+    "title": "Diario de una pulga",
+    "type": "book"
+  },
+  {
+    "id": "luis-piedrahita-castellano",
+    "title": "El castellano es un idioma loable, lo hable quien lo hable",
+    "type": "book"
+  },
+  {
+    "id": "luis-piedrahita-escroto",
+    "title": "Cambiando muy poco algo pasa de estar bien escrito a estar mal escroto",
+    "type": "book"
+  },
+  {
+    "id": "after-life-ricky-gervais",
+    "title": "After Life",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "desperate-business-book",
+    "title": "Modern Toss Presents Desperate Business",
+    "type": "book"
+  },
+  {
+    "id": "ice-thickeneres",
+    "title": "Emily Heller: Ice Thickeners",
+    "type": "comedy-special"
+  },
+  {
+    "id": "como-ser-bill-murray",
+    "title": "Cómo ser Bill Murray",
+    "type": "book"
+  },
+  {
+    "id": "mira-lo-que-has-hecho",
+    "title": "Mira Lo Que Has Hecho",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "fleabag",
+    "title": "Fleabag",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "kidding-series",
+    "title": "Kidding",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "master-of-none",
+    "title": "Master Of None",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "emily-heller-pasta",
+    "title": "Pasta | Emily Heller",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-drunk-with-powers",
+    "title": "Drunk with Power",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-live-in-houston",
+    "title": "Live in Houston",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-im-the-one",
+    "title": "I'm the One That I Want",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-notorious-cho",
+    "title": "Notorious C.H.O.: Live at Carnegie Hall",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-revolution",
+    "title": "Revolution",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-assassin",
+    "title": "Assassin",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-beautiful",
+    "title": "Beautiful",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-cho-dependent",
+    "title": "Cho Dependent",
+    "type": "comedy-special"
+  },
+  {
+    "id": "margaret-cho-psycho",
+    "title": "PsyCHO",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-best-of-ultimate-gold-greatest-hits",
+    "title": "Jimmy Carr: The Best of Ultimate Gold Greatest Hits",
+    "type": "comedy-special"
+  },
+  {
+    "id": "dean-martin-show",
+    "title": "The Dean Martin Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "van-dyke-show",
+    "title": "The Dick Van Dyke Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "andy-griffith-show",
+    "title": "The Andy Griffith Show",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "hello-gummy-don-rickles",
+    "title": "Hello Dummy!",
+    "type": "comedy-special"
+  },
+  {
+    "id": "casino",
+    "title": "Casino",
+    "type": "movie"
+  },
+  {
+    "id": "nadie-sabe-nada",
+    "title": "Nadie Sabe Nada",
+    "type": "podcast"
+  },
+  {
+    "id": "gente-viva",
+    "title": "Gente Viva",
+    "type": "tv-show"
+  },
+  {
+    "id": "las-que-faltaban",
+    "title": "Las Que Faltaban",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-naked-jape-uncovering-the-hidden-world-of-jokes",
+    "title": "The Naked Jape: Uncovering the Hidden World of Jokes",
+    "type": "book"
+  },
+  {
+    "id": "the-tennessee-kid",
+    "title": "Nate Bargatze: The Tennessee Kid",
+    "type": "comedy-special"
+  },
+  {
+    "id": "entourage",
+    "title": "Entourage",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "andrew-dice-clay-filth",
+    "title": "Andrew \"Dice\" Clay - Filth",
+    "type": "comedy-special"
+  },
+  {
+    "id": "blue-jasmine",
+    "title": "Blue Jasmine",
+    "type": "movie"
   }
 ]

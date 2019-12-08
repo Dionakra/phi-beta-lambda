@@ -1,11 +1,13 @@
 <template>
   <div class="ml-2 sm:ml-4 sm:flex sm:flex-inline mx-auto">
+    <div>
     <img
       :src="'/images/comedians/' + comedian.id + '.jpg'"
       :alt="comedian.name"
       :title="comedian.name"
       class="rounded-full mx-auto sm:mx-0"
     />
+    </div>
 
     <div class="ml-1 md:ml-2">
       <span class="text-2xl text-red text-bold">{{comedian.name}}</span>

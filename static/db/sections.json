@@ -7,9 +7,9 @@
   },
   {
     "id": "comedian-of-the-day",
-    "name": "Cómico del día",
+    "name": "Cómic@ del día",
     "host": "antonio-castelo",
-    "description": "Sección que abre los programas con un corte de un monólogo de algún cómico, doblado por Castelo sobre la marcha. Tras el corte, se hace un pequeño foro sobre el cómico, especial o corte elegido."
+    "description": "Sección que abre los programas con un corte de un monólogo de algún/a cómico/a, doblado por Castelo sobre la marcha. Tras el corte, se hace un pequeño foro sobre el cómico, especial o corte elegido."
   },
   {
     "id": "thank-you",
@@ -21,7 +21,7 @@
     "id": "corazon-de-comedia",
     "name": "Corazón de comedia",
     "host": "mer",
-    "description": "El <span class='text-red italic'>Aquí hay tomate</span> de los chistes. En esta sección se comentan aspectos más personales de las principales entidades de la comedia dado que, al final del día, los cómicos también son personas. Sí, también."
+    "description": "El <span class='text-red italic'>Aquí hay tomate</span> de los chistes. En esta sección se comentan aspectos más personales de las principales entidades de la comedia dado que, al final del día, l@s cómic@s también son personas. Sí, también."
   },
   {
     "id": "pena-mora",

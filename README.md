@@ -19,7 +19,7 @@ npm run dev
 ```
 
 La *base de datos* tiene dos partes diferenciadas:
-* **Ficheros fuente:** Localizados en `static/db`. Contiene la información pormenorizada de programas, cómicos, secciones, presentadores, y contenidos multimedia. Los contenidos de la web no se leen directamente de aquí, esta base de datos sirve como herramienta de control *sencilla* de la información.
+* **Ficheros fuente:** Localizados en `static/db`. Contiene la información pormenorizada de programas, cómic@s, secciones, presentadores, y contenidos multimedia. Los contenidos de la web no se leen directamente de aquí, esta base de datos sirve como herramienta de control *sencilla* de la información.
 * **Ficheros API:** Los ficheros que realmente se consumen están en `static/api`, los cuales son generados en base a los ficheros de la BD en `static/db`. Para ello, ejecuta el siguiente comando, el cual generará los ficheros necesarios para ser consumidos por la web:
 ```sh
 cd lib

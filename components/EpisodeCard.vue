@@ -3,7 +3,7 @@
     <nuxt-link :to="'/programas/' + episode.id" :key="episode.id">
       <div class="w-full bg-cover rounded-t text-center overflow-hidden">
         <img
-          class="w-full md:-my-16 lg:-my-10"
+          class="w-full md:-my-16 lg:-my-10 h-auto"
           :src="'https://i.ytimg.com/vi_webp/' + episode.link + '/sddefault.webp'"
           :title="'Portada ' + episode.title"
           :alt="'Portada ' + episode.title"
@@ -17,9 +17,9 @@
             <p class="my-auto">{{episode.id.toUpperCase()}} - {{episode.title}}</p>
           </div>
           <div class="flex flex-inline flex-wrap">
-            <div>
+            <div class="mr-8">
               <p class="text-sm text-gray-600">Presentado por</p>
-              <div class="flex flex-inline -ml-1">
+              <div class="flex flex-inline flex-wrap -ml-1">
                 <img
                   v-for="host in episode.hosts"
                   :key="host.id"
@@ -30,8 +30,8 @@
                 />
               </div>
             </div>
-            <div v-if="episode.guests && episode.guests.length > 0" class="ml-10">
-              <p class="text-sm text-gray-600">Invitados</p>
+            <div v-if="episode.guests && episode.guests.length > 0" class="ml-2">
+              <p class="text-sm text-gray-600">Invitad@s</p>
               <div class="flex flex-inline -ml-2">
                 <img
                   v-for="guest in episode.guests"

@@ -29,7 +29,7 @@
               </div>
             </div>
             <div v-if="episode.guests && episode.guests.length > 0" class="ml-10">
-              <p class="text-sm text-gray-600">Invitados</p>
+              <p class="text-sm text-gray-600">Invitad@s</p>
               <div class="flex flex-inline -ml-2">
                 <nuxt-link
                   :to="'/comicos/' + guest.id"
