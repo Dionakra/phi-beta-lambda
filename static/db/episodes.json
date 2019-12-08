@@ -2661,7 +2661,7 @@
       "rodney-dangerfield",
       "dani-piqueras",
       "conan-obrien",
-      "david-letterman",  
+      "david-letterman",
       "pete-holmes",
       "jorge-ponce",
       "monty-python",
@@ -2817,6 +2817,421 @@
       "space-force",
       "the-comeback-kid",
       "saturday-night-live"
+    ]
+  },
+  {
+    "id": "s01e32",
+    "season": 1,
+    "episode": 32,
+    "title": "El que mira al suelo no pisa un charco",
+    "link": "VG7nDY_KMVU",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "david-suarez",
+      "mer"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "marc-maron"
+          ]
+        }
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "amy-schumer"
+          ],
+          "culture": [
+            "growing"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "sarah-silverman",
+      "louis-ck",
+      "dani-rovira",
+      "berto-romero",
+      "miguel-noguera",
+      "sam-kinison",
+      "lorne-michaels",
+      "todd-glass",
+      "eugene-mirman",
+      "bill-cosby",
+      "marta-flich",
+      "danny-boy",
+      "denny-horror",
+      "nene",
+      "borja-sumozas",
+      "santi-alveru",
+      "lalo-tenorio",
+      "miguel-iribar",
+      "victoria-martin",
+      "diego-fabiano",
+      "urko-vazquez",
+      "litos",
+      "yunez-chaib",
+      "valeria-ros",
+      "ignatius-farray",
+      "david-lillo",
+      "pablo-ibarburu",
+      "alvaro-velasco",
+      "patricia-galvan",
+      "alberto-sierra",
+      "juan-davila",
+      "alberto-graupera",
+      "alvaro-carmona",
+      "luis-alvaro",
+      "will-mars",
+      "demetri-martin",
+      "anthony-jeselnik",
+      "mitch-hedberg",
+      "steven-wright",
+      "emo-philips",
+      "eddie-izzard",
+      "kalderas",
+      "judd-apatow",
+      "jim-jeffries",
+      "ali-wong",
+      "cristobal-garrido",
+      "ellen-degeneres",
+      "ray-romano",
+      "nate-bargatze",
+      "neal-brennan",
+      "chris-rock",
+      "john-mulaney",
+      "amy-poehler",
+      "jerry-seinfeld",
+      "ken-jeong",
+      "kevin-hart",
+      "alex-clavero",
+      "tomas-fuentes"
+    ],
+    "culture": [
+      "maron",
+      "louie",
+      "glow",
+      "conan-obrian-show",
+      "saturday-night-live",
+      "wtf-with-marc-maron",
+      "joker",
+      "conan-needs-a-friend",
+      "todo-es-mentira",
+      "la-resistencia",
+      "ilustres-ignorantes",
+      "libro-amy-schumer",
+      "ali-wong-baby-cobra",
+      "andreu-buenafiente-he-dicho"
+    ]
+  },
+  {
+    "id": "s01e33",
+    "season": 1,
+    "episode": 33,
+    "title": "Pascua latina",
+    "link": "sSUlVnbr5tQ",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "roberto-moldavsky"
+    ],
+    "sections": [],
+    "comedians": [
+      "chris-rock",
+      "malena-pichot",
+      "charo-lopez",
+      "santi-rodriguez",
+      "miguel-iribar",
+      "vanesa-strauch",
+      "ana-carolina",
+      "julian-lucero",
+      "julian-kartun",
+      "felix-buenaventura",
+      "woody-allen",
+      "sacha-baron-cohen",
+      "migue-granados",
+      "yayo",
+      "les-luthiers",
+      "monty-python",
+      "hermanos-marx",
+      "peter-capusotto",
+      "antonio-lorente",
+      "chico-requena",
+      "jeff-ross",
+      "steve-martin",
+      "anthony-jeselnik",
+      "miki-dkai",
+      "richard-pryor",
+      "chris-rock",
+      "george-carlin",
+      "chiquito-de-la-calzada",
+      "amy-schumer",
+      "patton-oswalt",
+      "tina-fey"
+    ],
+    "culture": [
+      "carlitos-way",
+      "ali-g"
+    ]
+  },
+  {
+    "id": "s01e34",
+    "season": 1,
+    "episode": 34,
+    "title": "Papá lo prendió",
+    "link": "f-Gi0hLFeMk",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "wanda-sykes"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "kevin-hart"
+          ],
+          "culture": [
+            "irresponsible"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "david-suarez",
+      "chris-rock",
+      "ellen-degeneres",
+      "monique",
+      "tiffany-haddish",
+      "marc-maron",
+      "michael-ian-black",
+      "miguel-iribar",
+      "ignatius-farray",
+      "zelensky",
+      "ricardo-castella",
+      "david-broncano",
+      "alvarito",
+      "ian-cognito",
+      "tommy-cooper",
+      "bob-einstein",
+      "miguel-lago",
+      "jose-cabrera",
+      "galder-varas",
+      "alvaro-velasco",
+      "joe-rogan",
+      "russell-brand",
+      "adolfo-valor",
+      "mike-birbiglia",
+      "john-mulaney",
+      "jeff-ross",
+      "norm-macdonald",
+      "richard-pryor",
+      "eddie-murphy",
+      "steve-martin",
+      "bo-burnham",
+      "luis-piedrahita",
+      "jorge-ponce",
+      "louis-ck",
+      "jerry-seinfeld",
+      "dave-chappelle",
+      "anthony-jeselnik",
+      "arevalo"
+    ],
+    "culture": [
+      "wanda-sykes-not-normal",
+      "curb-your-enthusiasm",
+      "wanda-sykes-sick-and-tired",
+      "the-chris-rock-show",
+      "roseanne",
+      "marc-maron-waiting-for-the-punch",
+      "la-vida-moderna",
+      "wtf-with-marc-maron",
+      "conan-needs-a-friend",
+      "joe-rogan-experience",
+      "the-simpsons",
+      "my-dad-wrote-a-porno",
+      "good-one-podcast",
+      "mike-birbiglia-the-old-ones",
+      "norm-macdonald-live",
+      "alec-baldwin-heres-the-thing",
+      "campeones",
+      "pedos-por-el-mundo"
+    ]
+  },
+  {
+    "id": "s01e35",
+    "season": 1,
+    "episode": 35,
+    "title": "La noche de Walpurgis",
+    "link": "zZcIrjoL34g",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "reggie-watts"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "kevin-smith"
+          ],
+          "culture": [
+            "silent-but-deadly"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "stephen-colbert",
+      "james-corden",
+      "amy-schumer",
+      "ricardo-castella",
+      "miguel-noguera",
+      "sarah-silverman",
+      "marc-maron",
+      "eugene-mirman",
+      "bobby-tisdale",
+      "john-mulaney",
+      "aziz-ansari",
+      "david-cross",
+      "nick-kroll",
+      "tim-and-eric",
+      "antonio-castejo",
+      "miki-dkai",
+      "alvaro-carmona",
+      "berto-romero",
+      "andreu-buenafuente",
+      "adolfo-valor",
+      "pete-davidson",
+      "will-ferrell",
+      "antonio-lorente",
+      "ali-wong",
+      "dani-rovira",
+      "manuel-burque",
+      "percebes-y-grelos",
+      "felisuco",
+      "cake-minuesa",
+      "ari-shaffir",
+      "chevy-chase",
+      "donald-glover",
+      "dan-harmon",
+      "bill-murray",
+      "david-suarez"
+    ],
+    "culture": [
+      "the-late-late-show-with-james-corden",
+      "late-show-with-stephen-colbert",
+      "reggie-watts-why-shit-so-crazy",
+      "reggie-watts-live-at-third-man",
+      "reggie-watts-alive-at-central-park",
+      "reggie-watts-spatial",
+      "comedy-bang-bang",
+      "alvaro-carmona-gente-hablando",
+      "atlanta",
+      "funny-or-die",
+      "la-resistencia",
+      "late-motiv",
+      "clerks",
+      "dogma",
+      "clerks-2",
+      "mallrats",
+      "chasing-amy",
+      "this-is-not-happening-comedy-central",
+      "community",
+      "saturday-night-live",
+      "pedos-por-el-mundo",
+      "andreu-buenafiente-he-dicho"
+    ]
+  },
+  {
+    "id": "s01e36",
+    "season": 1,
+    "episode": 36,
+    "title": "Luongo Ristretto",
+    "link": "gcr2JXwkZkI",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "adolfo-valor"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "woody-allen"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "corazon-de-comedia"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "anthony-jeselnik"
+          ],
+          "culture": [
+            "fire-in-the-maternity-ward"
+          ]
+        }
+      }
+    ],
+    "comedians": [],
+    "culture": [
+      "la-resistencia"
     ]
   }
 ]

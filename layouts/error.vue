@@ -4,10 +4,3 @@
     <span class="block text-red text-2xl">Nada que ver por aquí...</span>
   </div>
 </template>
-
-<script>
-export default {
-  props: ["error"],
-  layout: "blog" // you can set a custom layout for the error page
-};
-</script>

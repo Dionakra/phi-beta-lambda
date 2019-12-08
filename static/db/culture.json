@@ -1388,5 +1388,165 @@
     "id": "blue-jasmine",
     "title": "Blue Jasmine",
     "type": "movie"
+  },
+  {
+    "id": "growing",
+    "title": "Growing",
+    "type": "comedy-special"
+  },
+  {
+    "id": "glow",
+    "title": "Glow",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "joker",
+    "title": "Joker",
+    "type": "movie"
+  },
+  {
+    "id": "ilustres-ignorantes",
+    "title": "Ilustres Ignorantes",
+    "type": "tv-show"
+  },
+  {
+    "id": "ali-wong-baby-cobra",
+    "title": "Ali Wong: Baby Cobra",
+    "type": "comedy-special"
+  },
+  {
+    "id": "andreu-buenafiente-he-dicho",
+    "title": "He Dicho",
+    "type": "book"
+  },
+  {
+    "id": "carlitos-way",
+    "title": "Carlito's Way",
+    "type": "movie"
+  },
+  {
+    "id": "ali-g",
+    "title": "Ali G",
+    "type": "movie"
+  },
+  {
+    "id": "wanda-sykes-not-normal",
+    "title": "Wanda Sykes: Not Normal",
+    "type": "comedy-special"
+  },
+  {
+    "id": "wanda-sykes-sick-and-tired",
+    "title": "Wanda Sykes: Sick & Tired",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-chris-rock-show",
+    "title": "The Chris Rock Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "marc-maron-waiting-for-the-punch",
+    "title": "Marc Maron Waiting For The Punch",
+    "type": "book"
+  },
+  {
+    "id": "joe-rogan-experience",
+    "title": "Joe Rogan Experience",
+    "type": "radio-show"
+  },
+  {
+    "id": "my-dad-wrote-a-porno",
+    "title": "My Dad Wrote A Porno",
+    "type": "radio-show"
+  },
+  {
+    "id": "mike-birbiglia-the-old-ones",
+    "title": "The Old Ones with Mike Birbiglia",
+    "type": "radio-show"
+  },
+  {
+    "id": "norm-macdonald-live",
+    "title": "Norm Macdonald Live",
+    "type": "radio-show"
+  },
+  {
+    "id": "alec-baldwin-heres-the-thing",
+    "title": "Here's The Thing with Alec Baldwin",
+    "type": "radio-show"
+  },
+  {
+    "id": "irresponsible",
+    "title": "Irresponsible",
+    "type": "comedy-special"
+  },
+  {
+    "id": "pedos-por-el-mundo",
+    "title": "Pedos Por El Mundo",
+    "type": "book"
+  },
+  {
+    "id": "silent-but-deadly",
+    "title": "Silent But Deadly",
+    "type": "comedy-special"
+  },
+  {
+    "id": "reggie-watts-why-shit-so-crazy",
+    "title": "Reggie Watts - Why Shit So Crazy",
+    "type": "comedy-special"
+  },
+  {
+    "id": "reggie-watts-live-at-third-man",
+    "title": "Reggie Watts - Live At Third Man",
+    "type": "comedy-special"
+  },
+  {
+    "id": "reggie-watts-alive-at-central-park",
+    "title": "Reggie Watts - A Live At Central Park",
+    "type": "comedy-special"
+  },
+  {
+    "id": "reggie-watts-spatial",
+    "title": "Reggie Watts: Spatial",
+    "type": "comedy-special"
+  },
+  {
+    "id": "comedy-bang-bang",
+    "title": "Comedy Bang! Bang!",
+    "type": "radio-show"
+  },
+  {
+    "id": "alvaro-carmona-gente-hablando",
+    "title": "Gente Hablando",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "clerks",
+    "title": "Clerks",
+    "type": "movie"
+  },
+  {
+    "id": "dogma",
+    "title": "Dogma",
+    "type": "movie"
+  },
+  {
+    "id": "clerks-2",
+    "title": "Clerks 2",
+    "type": "movie"
+  },
+  {
+    "id": "mallrats",
+    "title": "Mallrats",
+    "type": "movie"
+  },
+  {
+    "id": "chasing-amy",
+    "title": "Chasing Amy",
+    "type": "movie"
+  },
+  {
+    "id": "fire-in-the-maternity-ward",
+    "title": "Anthony Jeselnik: Fire in the Maternity Ward",
+    "type": "comedy-special"
   }
 ]
