@@ -1628,5 +1628,125 @@
     "id": "last-comic-standing",
     "title": "Last Comic Standing",
     "type": "tv-show"
+  },
+  {
+    "id": "mitch-hedberg-strategic-grill-locations",
+    "title": "Strategic Grill Locations",
+    "type": "comedy-special"
+  },
+  {
+    "id": "mitch-hedberg-mtch-all-together",
+    "title": "Mitch All Together",
+    "type": "comedy-special"
+  },
+  {
+    "id": "mitch-hedberg-do-you-believe-in-gosh",
+    "title": "Do You Believe in Gosh?",
+    "type": "comedy-special"
+  },
+  {
+    "id": "los-enchiladas",
+    "title": "Los Enchiladas",
+    "type": "movie"
+  },
+  {
+    "id": "david-cross-oh-come-on",
+    "title": "David Cross: Oh, Come On",
+    "type": "comedy-special"
+  },
+  {
+    "id": "hibana-spark",
+    "title": "Hibana: Spark",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "amazon-caligula",
+    "title": "Amazon Prime Caligula",
+    "type": "tv-show"
+  },
+  {
+    "id": "gumption-book",
+    "title": "Gumption",
+    "type": "book"
+  },
+  {
+    "id": "another-period",
+    "title": "Another Period",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "chelsea-lately",
+    "title": "Chelsea Lately",
+    "type": "tv-show"
+  },
+  {
+    "id": "live-at-bimbos",
+    "title": "Natasha Leggero: Live at Bimbo's",
+    "type": "comedy-special"
+  },
+  {
+    "id": "thank-god-for-jokes",
+    "title": "Thank God For Jokes",
+    "type": "comedy-special"
+  },
+  {
+    "id": "succession",
+    "title": "Succession",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "mr-show",
+    "title": "Mr Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "comedy-death-ray",
+    "title": "Comedy Death Ray",
+    "type": "radio-show"
+  },
+  {
+    "id": "paul-f-tompkins-crying-and-driving",
+    "title": "Paul F. Tompkins: Crying and Driving",
+    "type": "comedy-special"
+  },
+  {
+    "id": "paul-f-tompkins-laboring-under-delusions",
+    "title": "Laboring Under Delusions: Live In Brooklyn",
+    "type": "comedy-special"
+  },
+  {
+    "id": "conoce-el-internet",
+    "title": "Conoce El Internet",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-pod-f-tompkast",
+    "title": "The Pod F. Tompkast",
+    "type": "radio-show"
+  },
+  {
+    "id": "mike-birbiglia-the-new-one",
+    "title": "Mike Birbiglia: The New One",
+    "type": "comedy-special"
+  },
+  {
+    "id": "a-vulgar-art-book",
+    "title": "A Vulgar Art: A New Approach to Stand-Up Comedy",
+    "type": "book"
+  },
+  {
+    "id": "the-beautiful-phyllis-diller-show",
+    "title": "The Beautiful Phyllis Diller Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "good-night-we-love-you-phyllis-diller",
+    "title": "Goodnight, We Love You",
+    "type": "comedy-special"
+  },
+  {
+    "id": "aristocratas-documental",
+    "title": "Aristocrats",
+    "type": "documentary"
   }
 ]

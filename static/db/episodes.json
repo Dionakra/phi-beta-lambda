@@ -3315,5 +3315,313 @@
       "last-comic-standing",
       "andreu-buenafiente-he-dicho"
     ]
+  },
+  {
+    "id": "s01e37",
+    "season": 1,
+    "episode": 37,
+    "title": "O madrugamos o meadrogamos",
+    "link": "d2fH5wzhFLE",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "mitch-hedberg"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "maria-bamford"
+          ],
+          "culture": [
+            "maria-bamford-old-baby"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "greg-giraldo",
+      "dani-rovira",
+      "cristobal-garrido",
+      "adolfo-valor",
+      "dave-attell",
+      "marc-maron",
+      "artie-lange",
+      "jerry-seinfeld",
+      "anthony-jeselnik",
+      "charlie-pee",
+      "kaco-forns",
+      "ignatius-farray",
+      "luis-alvaro",
+      "danny-boy",
+      "sarah-silverman",
+      "david-cross",
+      "laurie-kilmartin",
+      "jim-gaffigan",
+      "judah-friedlander",
+      "louis-ck",
+      "dave-chappelle",
+      "berto-romero",
+      "joe-rogan",
+      "tomas-fuentes",
+      "andreu-buenafuente",
+      "fernando-morano",
+      "antonio-lorente",
+      "enrique-el-grande",
+      "kevin-hart",
+      "hannah-gadsby",
+      "drew-michael",
+      "conan-obrien",
+      "jose-mota",
+      "cake-minuesa"
+    ],
+    "culture": [
+      "mitch-hedberg-strategic-grill-locations",
+      "mitch-hedberg-mtch-all-together",
+      "mitch-hedberg-do-you-believe-in-gosh",
+      "lo-dejo-cuando-quiera",
+      "comedy-central-presents",
+      "los-enchiladas",
+      "show-howard-stern",
+      "david-cross-oh-come-on",
+      "joe-rogan-experience",
+      "la-resistencia",
+      "lady-dinamyte",
+      "maria-bamford-the-special-special-special",
+      "roseanne",
+      "nanette",
+      "drew-michael",
+      "hibana-spark",
+      "amazon-caligula",
+      "gumption-book",
+      "parks-and-recreation"
+    ]
+  },
+  {
+    "id": "s01e38",
+    "season": 1,
+    "episode": 38,
+    "title": "Yorya, estás despedido",
+    "link": "GLaTuApCbo0",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "natasha-leggero"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "corazon-de-comedia"
+      }
+    ],
+    "comedians": [
+      "joe-rogan",
+      "marc-maron",
+      "roy-wood-jr",
+      "rachel-feinstein",
+      "pete-davidson",
+      "dani-mateo",
+      "david-broncano",
+      "jorge-ponce",
+      "pablo-ibarburu",
+      "moshe-kasher",
+      "tappy",
+      "colin-jost",
+      "modgi",
+      "mike-birbiglia"
+    ],
+    "culture": [
+      "friends",
+      "another-period",
+      "joe-rogan-experience",
+      "wtf-with-marc-maron",
+      "chelsea-lately",
+      "zapeando",
+      "todo-es-mentira",
+      "last-comic-standing",
+      "live-at-bimbos",
+      "the-honeymoon-standup-special",
+      "saturday-night-live"
+    ]
+  },
+  {
+    "id": "s01e39",
+    "season": 1,
+    "episode": 39,
+    "title": "#Pray4Yorya",
+    "link": "vaRPvz568LE",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [
+      "victor-ladron-de-guevara"
+    ],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "paul-f-tompkins"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "mike-birbiglia"
+          ],
+          "culture": [
+            "thank-god-for-jokes"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "urko-vazquez",
+      "will-ferrell",
+      "david-cross",
+      "bob-odenkirk",
+      "zach-galifianakis",
+      "pablo-ibarburu",
+      "jerry-seinfeld",
+      "adolfo-valor",
+      "miguel-martin",
+      "dani-rovira",
+      "ernesto-sevilla",
+      "jj-vaquero",
+      "dani-mateo",
+      "toni-moog",
+      "jorge-ponce",
+      "julian-lopez",
+      "alex-clavero",
+      "nacho-garcia",
+      "luis-alvaro",
+      "arevalo",
+      "jerry-seinfeld",
+      "jimmy-kimmel",
+      "ricky-gervais",
+      "woody-allen",
+      "jim-gaffigan"
+    ],
+    "culture": [
+      "funny-or-die",
+      "succession",
+      "saturday-night-live",
+      "conan-obrian-show",
+      "mr-show",
+      "comedy-death-ray",
+      "comedy-bang-bang",
+      "bojack-horseman",
+      "paul-f-tompkins-crying-and-driving",
+      "paul-f-tompkins-laboring-under-delusions",
+      "between-two-ferns",
+      "conoce-el-internet",
+      "the-pod-f-tompkast",
+      "mike-birbiglia-the-new-one",
+      "a-vulgar-art-book"
+    ]
+  },
+  {
+    "id": "s01e40",
+    "season": 1,
+    "episode": 40,
+    "title": "Sometimes you got to cut a motherfucker",
+    "link": "QV9lRWMiI70",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "phyllis-diller"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "wanda-sykes"
+          ],
+          "culture": [
+            "thank-god-for-jokes"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "joan-rivers",
+      "jay-leno",
+      "bob-hope",
+      "andreu-buenafuente",
+      "lorne-michaels",
+      "jean-carroll",
+      "carolina-noriega",
+      "agustin-jimenez",
+      "ingrid-garcia-jonsson",
+      "patton-oswalt",
+      "jorge-segura",
+      "lalo-tenorio",
+      "sergio-bezos",
+      "modgi",
+      "antonio-lorente",
+      "sergio-bezos",
+      "david-cross",
+      "cameron-esposito",
+      "miguel-iribar",
+      "jerry-seinfeld",
+      "jim-gaffigan",
+      "kevin-hart"
+    ],
+    "culture": [
+      "wanda-sykes-not-normal",
+      "the-tonight-show",
+      "the-beautiful-phyllis-diller-show",
+      "saturday-night-live",
+      "good-night-we-love-you-phyllis-diller",
+      "aristocratas-documental",
+      "talking-for-clapping",
+      "comedy-bible-book",
+      "step-by-step-standup-comedy-book"
+    ]
   }
 ]
