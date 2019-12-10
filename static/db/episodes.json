@@ -3623,5 +3623,192 @@
       "comedy-bible-book",
       "step-by-step-standup-comedy-book"
     ]
+  },
+  {
+    "id": "s01e41",
+    "season": 1,
+    "episode": 41,
+    "title": "El programa que explica los chistes",
+    "link": "d6j2shKAj3Q",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "eugene-mirman"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "tig-notaro"
+          ],
+          "culture": [
+            "tig-notaro-boyish-girl"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "mitch-hedberg",
+      "paul-f-tompkins",
+      "zach-galifianakis",
+      "pablo-ibarburu",
+      "alvaro-velasco",
+      "john-oliver",
+      "alvaro-carmona",
+      "david-broncano",
+      "dani-mateo",
+      "andreu-buenafuente",
+      "pete-holmes",
+      "ignatius-farray",
+      "susi-caramelo",
+      "juanma-dupley",
+      "jeff-ross",
+      "don-rickles",
+      "natasha-leggero",
+      "nikki-glaser",
+      "gilbert-gottfried",
+      "alberto-graupera",
+      "lalo-tenorio",
+      "santi-alveru",
+      "alex-o-dogherty",
+      "louis-ck",
+      "eugenio",
+      "ernesto-sevilla",
+      "steven-wright",
+      "todd-barry",
+      "anthony-jeselnik",
+      "ellen-degeneres",
+      "bert-kreischer",
+      "patton-oswalt",
+      "hannah-gadsby",
+      "dani-santos",
+      "ahri-findling",
+      "gary-gulman",
+      "sergio-bezos",
+      "galder-varas",
+      "fran-pati",
+      "more-mero",
+      "jake-marshall-head",
+      "juan-munoz"
+    ],
+    "culture": [
+      "the-absurd-nightclub-comedy-of-eugene-mirman",
+      "comedians-of-comedy",
+      "bobs-burger",
+      "vegan-on-the-way-to-the-complain-store",
+      "historical-roast",
+      "todo-es-mentira",
+      "la-resistencia",
+      "conan-needs-a-friend",
+      "crashing"
+    ]
+  },
+  {
+    "id": "s01e42",
+    "season": 1,
+    "episode": 42,
+    "title": "Tu madre, tú y yo. La fiesta de nuestra vida",
+    "link": "G1uw2A7ngfI",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "gilbert-gottfried"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "ahri-findling"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "eddie-murphy",
+      "jay-leno",
+      "leo-harlem",
+      "jeff-ross",
+      "bob-saget",
+      "roseanne-barr",
+      "quique-macias",
+      "miguel-lago",
+      "rober-bodegas",
+      "pablo-ibarburu",
+      "sarah-silverman",
+      "neal-brennan",
+      "chris-gethard",
+      "more-mero",
+      "diego-fabiano",
+      "josep-gatell",
+      "hannah-gadsby",
+      "tracy-morgan",
+      "bert-kreischer",
+      "bill-cosby",
+      "john-stewart",
+      "gran-wyoming",
+      "pantomima-full",
+      "dave-chappelle",
+      "paco-paez",
+      "jorge-ponce",
+      "joe-rogan",
+      "ari-shaffir",
+      "jerry-seinfeld",
+      "ali-wong",
+      "miguel-noguera",
+      "dani-rovira",
+      "eric-andre",
+      "reggie-watts",
+      "stewart-lee",
+      "kaco-forns",
+      "enrique-san-francisco",
+      "angel-martin",
+      "ernesto-sevilla",
+      "conan-obrien",
+      "vengamonjas"
+    ],
+    "culture": [
+      "gilbert-gottfried-documental",
+      "aristocratas-documental",
+      "the-amazing-colossal-podcast",
+      "saturday-night-live",
+      "its-not-that-funny",
+      "la-resistencia",
+      "papanatos",
+      "hannah-gadsby-douglas",
+      "nanette",
+      "30-rock",
+      "rockefeller-plaza",
+      "the-daily-show",
+      "el-intermedio",
+      "la-resistencia"
+    ]
   }
 ]

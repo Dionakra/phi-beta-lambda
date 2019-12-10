@@ -1748,5 +1748,50 @@
     "id": "aristocratas-documental",
     "title": "Aristocrats",
     "type": "documentary"
+  },
+  {
+    "id": "the-absurd-nightclub-comedy-of-eugene-mirman",
+    "title": "The Absurd Nightclub Comedy Of Eugene Mirman",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bobs-burger",
+    "title": "Bob's Burgers",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "vegan-on-the-way-to-the-complain-store",
+    "title": "Eugene Mirman: Vegan on His Way to the Complain Store",
+    "type": "comedy-special"
+  },
+  {
+    "id": "historical-roast",
+    "title": "Historical Roast",
+    "type": "tv-show"
+  },
+  {
+    "id": "gilbert-gottfried-documental",
+    "title": "Gilbert",
+    "type": "documentary"
+  },
+  {
+    "id": "the-amazing-colossal-podcast",
+    "title": "Gilbert Gottfried's Amazing Colossal Podcast",
+    "type": "radio-show"
+  },
+  {
+    "id": "its-not-that-funny",
+    "title": "It's Not That Funny",
+    "type": "documentary"
+  },
+  {
+    "id": "hannah-gadsby-douglas",
+    "title": "Hannah Gadsby: Douglas",
+    "type": "comedy-special"
+  },
+  {
+    "id": "rockefeller-plaza",
+    "title": "Rockefeller Plaza",
+    "type": "tv-show-series"
   }
 ]
