@@ -1874,5 +1874,41 @@
   {
     "id": "adam-devine",
     "name": "Adam Devine"
+  },
+  {
+    "id": "daniel-tosh",
+    "name": "Daniel Tosh"
+  },
+  {
+    "id": "kent-alterman",
+    "name": "Kent Alterman"
+  },
+  {
+    "id": "moms-mabley",
+    "name": "Moms Mabley"
+  },
+  {
+    "id": "mindy-kaling",
+    "name": "Mindy Kaling"
+  },
+  {
+    "id": "samantha-bee",
+    "name": "Samantha Bee"
+  },
+  {
+    "id": "chuck-lorre",
+    "name": "Chuck Lorre"
+  },
+  {
+    "id": "kate-mckinnon",
+    "name": "Kate Mckinnon"
+  },
+  {
+    "id": "hari-kondabolu",
+    "name": "Hari Kondabolu"
+  },
+  {
+    "id": "whitney-cummings",
+    "name": "Whitney Cummings"
   }
 ]
