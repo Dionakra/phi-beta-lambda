@@ -3810,5 +3810,109 @@
       "el-intermedio",
       "la-resistencia"
     ]
+  },
+  {
+    "id": "s01e43",
+    "season": 1,
+    "episode": 43,
+    "title": "Hombre refranero",
+    "link": "yCTGdxt5ueU",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "buddy-hackett"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "adam-devine"
+          ],
+          "culture": [
+            "best-time-of-our-lives"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "ricky-gervais",
+      "miki-nadal",
+      "lenny-bruce",
+      "adam-ferrara",
+      "dave-chappelle",
+      "stewart-lee",
+      "chris-rock",
+      "alfredo-diaz",
+      "ignatius-farray",
+      "zachy-green",
+      "shecky-green",
+      "gilbert-gottfried",
+      "maru-candel",
+      "jerry-seinfeld",
+      "jerry-lewis",
+      "seth-rogen",
+      "jammie-fox",
+      "sebastian-maniscalco",
+      "miguel-lago",
+      "martin-short",
+      "bridget-everett",
+      "conan-obrien",
+      "eddie-murphy",
+      "bob-hope",
+      "don-rickles",
+      "jim-norton",
+      "andreu-buenafuente",
+      "michelle-wolf",
+      "howie-mandel",
+      "trevor-noah",
+      "jim-jeffries",
+      "alexei-sayle",
+      "hannibal-buress",
+      "jaime-pastor",
+      "felix-buenaventura",
+      "eldin-el-egipcio",
+      "jim-gaffigan",
+      "salomon",
+      "demetri-martin",
+      "jim-carrey",
+      "ahri-findling",
+      "juanma-dupley",
+      "vengamonjas",
+      "ali-wong",
+      "galder-varas",
+      "yunez-chaib",
+      "victoria-martin",
+      "percebes-y-grelos"
+    ],
+    "culture": [
+      "gran-lebowski",
+      "zapeando",
+      "the-tonight-show",
+      "comedians-in-cars-getting-coffee",
+      "rockefeller-plaza",
+      "saturday-night-live",
+      "def-comedy-jam",
+      "just-for-laughs",
+      "hannibal-goes-to-edimburg",
+      "comedy-central-house-party",
+      "comedy-central-se-lia",
+      "comedy-central-workaholics",
+      "dando-la-nota",
+      "dando-la-nota-2"
+    ]
   }
 ]
