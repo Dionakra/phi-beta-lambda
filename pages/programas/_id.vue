@@ -87,7 +87,7 @@
             <div v-if="episode.special != undefined">
               <div class="align-top ml-3 -pl-4">
                 <div class="pl-4">
-                  <p class="text-red align-top text-center">In Memoriam</p>
+                  <p class="text-red align-top text-center">Mención Especial</p>
                   <div class="flex flex-inline mx-auto -pl-4">
                     <div class="mx-auto w-full">
                       <nuxt-link :to="'/comicos/' + episode.special.id">

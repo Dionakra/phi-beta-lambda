@@ -3693,7 +3693,6 @@
       "bert-kreischer",
       "patton-oswalt",
       "hannah-gadsby",
-      "dani-santos",
       "ahri-findling",
       "gary-gulman",
       "sergio-bezos",
@@ -3745,7 +3744,8 @@
         "extra": {
           "comedians": [
             "ahri-findling"
-          ]
+          ],
+          "culture": ["ahri-findling-jokes"]
         }
       }
     ],
@@ -3803,7 +3803,6 @@
       "hannah-gadsby-douglas",
       "nanette",
       "30-rock",
-      "rockefeller-plaza",
       "the-daily-show",
       "el-intermedio",
       "la-resistencia"
@@ -3856,14 +3855,13 @@
       "chris-rock",
       "alfredo-diaz",
       "ignatius-farray",
-      "zachy-green",
-      "shecky-green",
+      "shecky-greene",
       "gilbert-gottfried",
       "maru-candel",
       "jerry-seinfeld",
       "jerry-lewis",
       "seth-rogen",
-      "jammie-fox",
+      "jamie-foxx",
       "sebastian-maniscalco",
       "miguel-lago",
       "martin-short",
@@ -3901,13 +3899,12 @@
       "zapeando",
       "the-tonight-show",
       "comedians-in-cars-getting-coffee",
-      "rockefeller-plaza",
+      "30-rock",
       "saturday-night-live",
       "def-comedy-jam",
       "just-for-laughs",
       "hannibal-goes-to-edimburg",
       "comedy-central-house-party",
-      "comedy-central-se-lia",
       "comedy-central-workaholics",
       "dando-la-nota",
       "dando-la-nota-2"
@@ -4104,5 +4101,51 @@
       "ellen-degeneres-relatable",
       "100-fresh"
     ]
+  },
+  {
+    "id": "chancletaso",
+    "season": 1,
+    "episode": 46,
+    "title": "MVP segunda temporada de monólogos / Phi Beta Lambda",
+    "link": "eO5eCAI1t7g",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [],
+    "comedians": [
+      "aziz-ansari",
+      "antonio-lorente",
+      "miki-dkai",
+      "jj-vaquero",
+      "vengamonjas",
+      "patricia-espejo",
+      "albert-boira",
+      "miguel-iribar",
+      "pablo-ibarburu",
+      "lionel-mandrake",
+      "dani-piqueras",
+      "alex-gozalo",
+      "charlie-pee",
+      "tomas-fuentes",
+      "modgi",
+      "jerry-seinfeld",
+      "diego-varea",
+      "nacho-garcia",
+      "chico-requena",
+      "dani-ales",
+      "rober-bodegas",
+      "richard-pryor",
+      "eddie-murphy"
+    ],
+    "culture": [
+      "comedians-in-cars-getting-coffee",
+      "todo-es-mentira",
+      "zapeando"
+    ],
+    "special": "patricia-espejo"
   }
 ]

@@ -1766,7 +1766,7 @@
   },
   {
     "id": "historical-roast",
-    "title": "Historical Roast",
+    "title": "Historical Roasts",
     "type": "tv-show"
   },
   {
@@ -1790,11 +1790,6 @@
     "type": "comedy-special"
   },
   {
-    "id": "rockefeller-plaza",
-    "title": "Rockefeller Plaza",
-    "type": "tv-show-series"
-  },
-  {
     "id": "best-time-of-our-lives",
     "title": "Best Time Of Our Lives",
     "type": "comedy-special"
@@ -1806,17 +1801,12 @@
   },
   {
     "id": "hannibal-goes-to-edimburg",
-    "title": "Hannibal Goes To Edimburg",
+    "title": "Hannibal Buress: Hannibal Takes Edinburgh",
     "type": "documentary"
   },
   {
     "id": "comedy-central-house-party",
-    "title": "Comedy Central House Party",
-    "type": "tv-show"
-  },
-  {
-    "id": "comedy-central-se-lia",
-    "title": "Comedy Central Se Lia",
+    "title": "Adam Levine's House Party",
     "type": "tv-show"
   },
   {
@@ -1908,5 +1898,10 @@
     "id": "the-jeselnik-offensive",
     "title": "The Jeselnik Offensive",
     "type": "tv-show"
+  },
+  {
+    "id": "ahri-findling-jokes",
+    "title": "Ahri Findling: Jokes",
+    "type": "comedy-special"
   }
 ]
