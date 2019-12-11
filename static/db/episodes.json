@@ -4053,5 +4053,56 @@
       "4-latas",
       "glow"
     ]
+  },
+  {
+    "id": "s01e45",
+    "season": 1,
+    "episode": 45,
+    "title": "Singlot Festival",
+    "link": "guBy9sptRyw",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "roast-to-the-people"
+      }
+    ],
+    "comedians": [
+      "andrew-dice-clay",
+      "roseanne-barr",
+      "miliki",
+      "bo-burnham",
+      "conan-obrien",
+      "anthony-jeselnik",
+      "andreu-buenafuente",
+      "david-broncano",
+      "juan-y-medio",
+      "patricia-espejo",
+      "edu-soto",
+      "jj-vaquero",
+      "diego-varea",
+      "joaquin-reyes",
+      "chris-rock",
+      "mike-birbiglia",
+      "ellen-degeneres",
+      "adam-sandler",
+      "berto-romero",
+      "queque",
+      "louis-ck",
+      "jerry-seinfeld"
+    ],
+    "culture": [
+      "roseanne",
+      "ford-fairlane-movie",
+      "zapeando",
+      "the-jeselnik-offensive",
+      "thank-god-for-jokes",
+      "ellen-degeneres-relatable",
+      "100-fresh"
+    ]
   }
 ]
