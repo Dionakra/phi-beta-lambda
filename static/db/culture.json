@@ -1903,5 +1903,15 @@
     "id": "ahri-findling-jokes",
     "title": "Ahri Findling: Jokes",
     "type": "comedy-special"
+  },
+  {
+    "id": "stick-and-stones",
+    "title": "Stick And Stones",
+    "type": "comedy-special"
+  },
+  {
+    "id": "lets-get-small-steve-martin-special",
+    "title": "Let's Get Small",
+    "type": "comedy-special"
   }
 ]

@@ -3745,7 +3745,9 @@
           "comedians": [
             "ahri-findling"
           ],
-          "culture": ["ahri-findling-jokes"]
+          "culture": [
+            "ahri-findling-jokes"
+          ]
         }
       }
     ],
@@ -4147,5 +4149,97 @@
       "zapeando"
     ],
     "special": "patricia-espejo"
+  },
+  {
+    "id": "s02e01",
+    "season": 2,
+    "episode": 1,
+    "title": "Más quisiera el gato lamer el plato",
+    "link": "zmP0wzvc-Vk",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "steve-martin"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "dave-chappelle"
+          ],
+          "culture": [
+            "stick-and-stones"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "dani-mateo",
+      "frank-blanco",
+      "sara-escudero",
+      "santi-alveru",
+      "valeria-ros",
+      "ana-morgade",
+      "javier-cansado",
+      "sergio-bezos",
+      "nacho-garcia",
+      "virginia-riezu",
+      "monaguillo",
+      "inaki-urrutia",
+      "rober-bodegas",
+      "queque",
+      "berto-romero",
+      "alvaro-carmona",
+      "tiffany-haddish",
+      "hannah-gadsby",
+      "john-stewart",
+      "pablo-ibarburu"
+    ],
+    "culture": [
+      "zapeando",
+      "born-standing-up-steve-martin",
+      "late-motiv",
+      "lets-get-small-steve-martin-special",
+      "el-intermedio",
+      "la-resistencia",
+      "todo-es-mentira",
+      "ilustres-ignorantes",
+      "locomundo",
+      "nanette"
+    ]
+  },
+  {
+    "id": "s02e02",
+    "season": 2,
+    "episode": 2,
+    "title": "¿Es Loca?",
+    "link": "mQqUBfAnhcA",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [],
+    "comedians": [
+      
+    ],
+    "culture": [
+      
+    ]
   }
 ]
