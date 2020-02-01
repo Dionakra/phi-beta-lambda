@@ -4206,7 +4206,8 @@
       "tiffany-haddish",
       "hannah-gadsby",
       "john-stewart",
-      "pablo-ibarburu"
+      "pablo-ibarburu",
+      "kevin-hart"
     ],
     "culture": [
       "zapeando",
@@ -4233,13 +4234,266 @@
       "miguel-campos",
       "jorge-yorya"
     ],
-    "guests": [],
+    "guests": [
+      "mer"
+    ],
     "sections": [],
     "comedians": [
-      
+      "pete-davidson",
+      "lorne-michaels",
+      "ricky-gervais",
+      "eddie-murphy",
+      "judd-apatow",
+      "andy-richter",
+      "dave-chappelle",
+      "jerry-seinfeld",
+      "fred-armisen",
+      "mario-joyner",
+      "colin-quinn",
+      "tig-notaro",
+      "colin-jost",
+      "dave-mccary",
+      "jason-sudeikis",
+      "bo-burnham",
+      "alex-gozalo",
+      "simo-marti",
+      "danny-boy",
+      "patricia-espejo",
+      "valeria-ros",
+      "susi-caramelo",
+      "virginia-riezu",
+      "eva-soriano",
+      "phoebe-waller-bridge"
     ],
     "culture": [
-      
+      "saturday-night-live",
+      "fleabag",
+      "comedians-in-cars-getting-coffee",
+      "comedian-documentary",
+      "tig-notaro-tig",
+      "jerry-seinfeld-im-telling-you-for-the-last-time"
+    ]
+  },
+  {
+    "id": "s02e03",
+    "season": 2,
+    "episode": 3,
+    "title": "Este programa está mamadísimo",
+    "link": "Ypel6fqg2iU",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "whoopi-goldberg"
+          ]
+        }
+      },
+      {
+        "section": "la-cuota-del-drama"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "julio-torres"
+          ],
+          "culture": [
+            "my-favourite-shapes"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "valeria-ros",
+      "lorena-castell",
+      "eddie-murphy",
+      "norm-macdonald",
+      "emilio-aragon",
+      "miguel-lago",
+      "kevin-hart",
+      "anthony-jeselnik",
+      "louis-ck",
+      "david-suarez",
+      "arsenio-hall",
+      "cristobal-garrido",
+      "lorne-michaels",
+      "dave-mccary",
+      "fred-armisen",
+      "will-ferrell"
+    ],
+    "culture": [
+      "zapeando",
+      "sister-act",
+      "the-good-talk-anthony-jeselnik",
+      "saturday-night-live",
+      "los-espookys"
+    ]
+  },
+  {
+    "id": "s02e04",
+    "season": 2,
+    "episode": 4,
+    "title": "Nuñito de la calzada",
+    "link": "X8pcexpz1mg",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "adolfo-valor"
+    ],
+    "sections": [],
+    "comedians": [
+      "cristobal-garrido",
+      "jerry-seinfeld",
+      "eddie-murphy",
+      "david-letterman",
+      "bobcat-goldthwait",
+      "ricky-gervais",
+      "seth-rogen",
+      "bill-cosby",
+      "hannibal-buress",
+      "jamie-foxx",
+      "steve-martin",
+      "martin-short",
+      "patton-oswalt",
+      "melissa-villasenor",
+      "sebastian-maniscalco",
+      "bob-saget",
+      "ali-wong",
+      "barry-marder",
+      "mario-joyner",
+      "jose-mota",
+      "dani-ales",
+      "frank-blanco"
+    ],
+    "culture": [
+      "comedians-in-cars-getting-coffee",
+      "el-intermedio",
+      "historical-roast",
+      "zapeando",
+      "el-intermedio"
+    ]
+  },
+  {
+    "id": "s02e05",
+    "season": 2,
+    "episode": 5,
+    "title": "Dr. Dildo",
+    "link": "G-6SkvVYM-0",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "patrice-oneal"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "gira-de-festivales",
+        "extra": {
+          "comedians": [
+            "freddy-prince"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "bill-burr",
+      "kaco-forns",
+      "jim-norton",
+      "louis-ck",
+      "bill-cosby",
+      "amy-schumer",
+      "norm-macdonald",
+      "aziz-ansari",
+      "quique-macias",
+      "artie-lange",
+      "pete-davidson",
+      "shane-gillis",
+      "ali-wong",
+      "carson-daly",
+      "samy-davis-jr",
+      "cheech-and-chong",
+      "lenny-bruce",
+      "angel-martin",
+      "richard-pryor"
+    ],
+    "culture": [
+      "one-line-stand-patrice-oneal",
+      "elephant-in-the-room-patrice-oneal",
+      "the-office-us",
+      "arrested-development",
+      "last-call-with-carson-daly",
+      "chico-and-the-man"
+    ]
+  },
+  {
+    "id": "s02e06",
+    "season": 2,
+    "episode": 6,
+    "title": "Antes todo esto era microteatro",
+    "link": "3GTl_ezRlzQ",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "antonio-trashorras"
+    ],
+    "sections": [],
+    "comedians": [
+      "joaquin-reyes",
+      "alfredo-diaz",
+      "andreu-buenafuente",
+      "eva-hache",
+      "jerry-seinfeld",
+      "george-carlin",
+      "lenny-bruce",
+      "pepe-rubianes",
+      "inaki-urrutia",
+      "capitan-vallecas",
+      "angel-garo",
+      "andy-kaufman",
+      "carolina-noriega",
+      "velilla-valbuena",
+      "ricardo-castella",
+      "ernesto-sevilla",
+      "antonio-castejo",
+      "paco-calavera",
+      "jj-vaquero",
+      "shane-gillis",
+      "david-suarez",
+      "louis-ck",
+      "marta-flich"
+    ],
+    "culture": [
+      "andreu-buenafuente-la-cosa-nostra",
+      "noche-hache",
+      "friends",
+      "campeones",
+      "todo-es-mentira"
     ]
   }
 ]
