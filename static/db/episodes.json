@@ -6195,10 +6195,10 @@
     ]
   },
   {
-    "id": "s02e32",
+    "id": "s02e33",
     "season": 2,
-    "episode": 32,
-    "title": "Repizquito Navideño Vol. 2",
+    "episode": 33,
+    "title": "Este también se cobra 2",
     "link": "9ezmOALhdc8",
     "hosts": [
       "antonio-castelo",
@@ -6212,9 +6212,418 @@
     "culture": []
   },
   {
+    "id": "s02e34",
+    "season": 2,
+    "episode": 34,
+    "title": "Preguntas de las phienas Vol. 2",
+    "link": "6qFoNYJ-_b8",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [],
+    "comedians": [
+      "kaco-forns",
+      "adolfo-valor",
+      "cristobal-garrido",
+      "arturo-valls",
+      "javier-coronas",
+      "david-verdaguer",
+      "pepon-fuentes",
+      "bill-burr",
+      "gary-gulman",
+      "jorge-ponce",
+      "quique-macias",
+      "doug-stanhope",
+      "louis-ck",
+      "hovik",
+      "pablo-ibarburu",
+      "susi-caramelo",
+      "julio-rey",
+      "bill-waterson",
+      "sebastian-maniscalco",
+      "goyo-jimenez",
+      "lalo-tenorio",
+      "david-suarez",
+      "ignatius-farray",
+      "alex-gozalo",
+      "miguel-noguera",
+      "andreu-buenafuente"
+    ],
+    "culture": [
+      "lo-dejo-cuando-quiera",
+      "marvelous-mrs-maisel",
+      "community",
+      "seinfeld",
+      "rick-and-morty",
+      "curb-your-enthusiasm",
+      "xkcd",
+      "calvin-and-hobbes",
+      "the-oatmeal",
+      "late-motiv",
+      "parks-and-recreation",
+      "guardianes-de-la-galaxia",
+      "la-resistencia"
+    ]
+  },
+  {
+    "id": "s02e35",
+    "season": 2,
+    "episode": 35,
+    "title": "Mucha plancha",
+    "link": "Djntq99iGyM",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "emo-philips"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "nick-di-paolo"
+          ],
+          "culture": [
+            "nick-di-paolo-a-breath-of-fresh-air"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "valeria-ros",
+      "queque",
+      "jorge-ponce",
+      "david-letterman",
+      "demetri-martin",
+      "mitch-hedberg",
+      "steve-martin",
+      "steven-wright",
+      "enrique-san-francisco",
+      "javi-del-mar",
+      "manu-kas",
+      "marco-antonio",
+      "lionel-mandrake",
+      "dave-chappelle",
+      "sarah-silverman",
+      "aziz-ansari",
+      "john-stewart",
+      "neal-brennan",
+      "angel-martin",
+      "julio-rey",
+      "ricky-gervais",
+      "kevin-hart",
+      "adolfo-valor",
+      "david-broncano",
+      "louis-ck",
+      "bill-burr"
+    ],
+    "culture": [
+      "la-lengua-moderna",
+      "crashing",
+      "comedian-documentary",
+      "talking-funny-hbo",
+      "e-equal-m-o-squared",
+      "m-o-emo-philips",
+      "show-david-letterman",
+      "def-comedy-jam",
+      "funny-or-die",
+      "the-daily-show",
+      "papanatos",
+      "solocomedia",
+      "college-humor",
+      "dont-fuck-this-up-kevin-hart",
+      "louie"
+    ]
+  },
+  {
+    "id": "s02e36",
+    "season": 2,
+    "episode": 36,
+    "title": "Presentando a Braulio",
+    "link": "Z11JxxFSgHY",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "joaquin-reyes"
+    ],
+    "sections": [],
+    "comedians": [
+      "quique-macias",
+      "miguel-esteban",
+      "ernesto-sevilla",
+      "enrique-san-francisco",
+      "adam-sandler",
+      "eddie-murphy",
+      "luis-piedrahita",
+      "queque",
+      "eva-hache",
+      "raul-cimas",
+      "kaco-forns",
+      "alfredo-diaz",
+      "vengamonjas",
+      "gary-gulman",
+      "juanma-dupley",
+      "galder-varas",
+      "yunez-chaib"
+    ],
+    "culture": [
+      "capitulo-0",
+      "el-fin-de-la-comedia",
+      "100-fresh",
+      "succession",
+      "the-great-depresh"
+    ]
+  },
+  {
+    "id": "s02e37",
+    "season": 2,
+    "episode": 37,
+    "title": "Lo peor que podía pasar",
+    "link": "5yuDnAymdto",
+    "hosts": [
+      "jorge-yorya",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "ellen-degeneres"
+          ]
+        }
+      },
+      {
+        "section": "roast-to-the-people"
+      },
+      {
+        "section": "gira-de-festivales",
+        "extra": {
+          "comedians": [
+            "ralphie-may"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "steve-carell",
+      "johnny-carson",
+      "tig-notaro",
+      "trevor-noah",
+      "eva-soriano",
+      "david-broncano",
+      "dani-rovira",
+      "doug-stanhope",
+      "lalo-tenorio",
+      "miguel-esteban",
+      "kevin-hart",
+      "nacho-garcia",
+      "jorge-ponce",
+      "tina-fey",
+      "amy-poehler",
+      "ricky-gervais",
+      "john-mulaney",
+      "nick-kroll",
+      "monique",
+      "dave-chappelle",
+      "leslie-jones",
+      "louis-ck",
+      "pete-davidson",
+      "prince-t-dub",
+      "tone-x",
+      "correy-bell",
+      "just-nesh",
+      "donnel-rawlings",
+      "jimmy-fallon",
+      "stephen-colbert",
+      "jorge-ponce",
+      "ricardo-castella",
+      "david-broncano",
+      "javi-del-mar",
+      "sam-kinison"
+    ],
+    "culture": [
+      "ellen-degeneres-one-night-stand",
+      "ellen-degeneres-relatable",
+      "los-caraconos",
+      "the-tonight-show",
+      "la-fiesta-de-la-salchicha",
+      "doug-stanhope-this-is-not-fame",
+      "doug-stanhope-digging-up-mother",
+      "doug-stanhope-diversion-con-pedofilos",
+      "dont-fuck-this-up-kevin-hart",
+      "la-resistencia",
+      "late-motiv"
+    ]
+  },
+  {
+    "id": "s02e38",
+    "season": 2,
+    "episode": 38,
+    "title": "El camino del samurai",
+    "link": "q7cWewFdp7g",
+    "hosts": [
+      "jorge-yorya",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [
+      "antonio-trashorras"
+    ],
+    "sections": [],
+    "comedians": [
+      "chiquito-de-la-calzada",
+      "will-ferrell",
+      "joaquin-reyes",
+      "juan-munoz",
+      "luis-alvaro",
+      "demetri-martin",
+      "andreu-buenafuente",
+      "berto-romero",
+      "jorge-ponce",
+      "anthony-jeselnik",
+      "steven-wright",
+      "susi-caramelo",
+      "pilar-de-francisco",
+      "fernando-morano",
+      "sarah-silverman",
+      "dani-piqueras",
+      "laura-marquez",
+      "tina-fey",
+      "john-mulaney",
+      "nick-kroll",
+      "neal-brennan",
+      "danny-boy",
+      "eva-soriano",
+      "david-broncano",
+      "litos",
+      "ignatius-farray",
+      "carlos-vior",
+      "charlie-pee",
+      "elisenda-carod",
+      "albert-floyd",
+      "modgi",
+      "kevin-hart",
+      "harry-rashford",
+      "joey-wells",
+      "will-spank-horton",
+      "naim-lynn"
+    ],
+    "culture": [
+      "succession",
+      "the-office-uk",
+      "seinfeld",
+      "green-book",
+      "el-fin-de-la-comedia",
+      "en-el-aire",
+      "luis-alvaro-en-un-minuto",
+      "cheers",
+      "la-resistencia",
+      "el-intermedio",
+      "saturday-night-live",
+      "the-simpsons",
+      "the-daily-show",
+      "late-motiv",
+      "la-vida-moderna",
+      "fleabag",
+      "dont-fuck-this-up-kevin-hart"
+    ]
+  },
+  {
+    "id": "s02e39",
+    "season": 2,
+    "episode": 39,
+    "title": "Picotazo y a la rama",
+    "link": "Q4Z4M4lG60s",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "dylan-moran"
+          ]
+        }
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "jorge-yorya"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "terry-jones",
+      "monty-python",
+      "andreu-buenafuente",
+      "silvia-abril",
+      "tian-lara",
+      "dana-carvey",
+      "jimmy-fallon",
+      "carmen-lynch"
+    ],
+    "culture": [
+      "black-books",
+      "shaun-of-the-dead",
+      "late-motiv",
+      "curb-your-enthusiasm",
+      "seinfeld",
+      "la-vida-de-brian",
+      "el-sentido-de-la-vida",
+      "samurai-jack",
+      "robot-chicken",
+      "south-park",
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ,
+  {
     "id": "s02e41",
     "season": 2,
-    "episode": 40,
+    "episode": 41,
     "title": "Cambiar fecha y arreando",
     "link": "pl5Jolamlik",
     "hosts": [
@@ -6278,7 +6687,7 @@
       "show-david-letterman",
       "todo-es-mentira",
       "paquita-salas",
-      "moshe-kasher-crowd-surf",
+      "moshe-kasher-crowd-surfing",
       "bojack-horseman",
       "uncut-gems",
       "la-resistencia",
