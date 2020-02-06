@@ -6601,25 +6601,78 @@
       "el-sentido-de-la-vida",
       "samurai-jack",
       "robot-chicken",
-      "south-park",
-
+      "south-park"
     ]
-  }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  ,
+  },
+  {
+    "id": "s02e40",
+    "season": 2,
+    "episode": 40,
+    "title": "Café de olla",
+    "link": "8_wLg6DAEm4",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "adolfo-valor"
+    ],
+    "sections": [],
+    "comedians": [
+      "santi-alveru",
+      "jaime-caravaca",
+      "cristobal-garrido",
+      "sergio-bezos",
+      "susi-caramelo",
+      "luis-alvaro",
+      "ricky-gervais",
+      "adam-sandler",
+      "queque",
+      "billy-crystal",
+      "andreu-buenafuente",
+      "david-lillo",
+      "bob-hope",
+      "whoopi-goldberg",
+      "johnny-carson",
+      "david-broncano",
+      "dani-rovira",
+      "agustin-jimenez",
+      "carrie-fisher",
+      "bruce-vilanch",
+      "tomas-fuentes",
+      "neil-patrick-harris",
+      "urko-vazquez",
+      "john-mulaney",
+      "nick-kroll",
+      "mike-birbiglia",
+      "joaquin-reyes",
+      "ernesto-sevilla",
+      "miguel-esteban",
+      "gran-wyoming",
+      "silvia-abril",
+      "leo-harlem",
+      "berto-romero",
+      "kevin-hart",
+      "ana-morgade",
+      "david-letterman",
+      "james-corden",
+      "anthony-jeselnik",
+      "nene",
+      "danny-boy",
+      "trevor-noah",
+      "eva-soriano",
+      "miguel-lago",
+      "percebes-y-grelos",
+      "gary-gulman"
+    ],
+    "culture": [
+      "lo-dejo-cuando-quiera",
+      "cuando-harry-entro-a-sally",
+      "the-late-late-show-with-james-corden"
+    ]
+  },
   {
     "id": "s02e41",
     "season": 2,
@@ -6693,6 +6746,67 @@
       "la-resistencia",
       "marvelous-mrs-maisel",
       "seinfeld"
+    ]
+  },
+  {
+    "id": "s02e42",
+    "season": 2,
+    "episode": 42,
+    "title": "Camas blandas, batallas duras",
+    "link": "_NTOzWxH864",
+    "hosts": [
+      "antonio-castelo",
+      "iggy-rubin",
+      "miguel-campos",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "elsa-ruiz"
+    ],
+    "sections": [
+      {
+        "section": "gira-de-festivales",
+        "extra": {
+          "comedians": [
+            "peter-sellers"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "miguel-lago",
+      "marta-flich",
+      "lomba",
+      "lalo-tenorio",
+      "pepe-villuela",
+      "leo-bassi",
+      "eddie-murphy",
+      "buster-keaton",
+      "goyo-jimenez",
+      "enrique-san-francisco",
+      "amy-schumer",
+      "dave-chappelle",
+      "aziz-ansari",
+      "kevin-hart",
+      "neal-brennan",
+      "dave-attell",
+      "kevin-brennan",
+      "marc-maron",
+      "louis-ck",
+      "tina-fey",
+      "amy-poehler",
+      "jerry-seinfeld",
+      "larry-david",
+      "adolfo-valor",
+      "cristobal-garrido"
+    ],
+    "culture": [
+      "el-sentido-de-la-birra",
+      "la-pantera-rosa",
+      "telefono-rojo",
+      "half-baked",
+      "show-david-letterman",
+      "curb-your-enthusiasm"
     ]
   }
 ]
