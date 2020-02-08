@@ -506,9 +506,6 @@
         }
       },
       {
-        "section": "corazon-de-comedia"
-      },
-      {
         "section": "roast-to-the-people"
       },
       {
@@ -579,9 +576,6 @@
             "joan-rivers"
           ]
         }
-      },
-      {
-        "section": "corazon-de-comedia"
       },
       {
         "section": "roast-to-the-people"
@@ -661,9 +655,6 @@
         }
       },
       {
-        "section": "corazon-de-comedia"
-      },
-      {
         "section": "roast-to-the-people"
       },
       {
@@ -740,9 +731,6 @@
             "jim-gaffigan"
           ]
         }
-      },
-      {
-        "section": "corazon-de-comedia"
       },
       {
         "section": "roast-to-the-people"
@@ -840,9 +828,6 @@
         }
       },
       {
-        "section": "corazon-de-comedia"
-      },
-      {
         "section": "roast-to-the-people"
       },
       {
@@ -936,9 +921,6 @@
             "sarah-silverman"
           ]
         }
-      },
-      {
-        "section": "corazon-de-comedia"
       },
       {
         "section": "roast-to-the-people"
@@ -1375,9 +1357,6 @@
         }
       },
       {
-        "section": "corazon-de-comedia"
-      },
-      {
         "section": "roast-to-the-people"
       },
       {
@@ -1568,9 +1547,6 @@
         }
       },
       {
-        "section": "corazon-de-comedia"
-      },
-      {
         "section": "thank-you",
         "extra": {
           "comedians": [
@@ -1671,9 +1647,6 @@
             "bob-einstein"
           ]
         }
-      },
-      {
-        "section": "corazon-de-comedia"
       },
       {
         "section": "thank-you",
@@ -1783,9 +1756,6 @@
             "colin-quinn"
           ]
         }
-      },
-      {
-        "section": "corazon-de-comedia"
       },
       {
         "section": "thank-you",
@@ -2172,9 +2142,6 @@
             "robin-williams"
           ]
         }
-      },
-      {
-        "section": "corazon-de-comedia"
       },
       {
         "section": "roast-to-the-people"
@@ -2741,9 +2708,6 @@
         "section": "roast-to-the-people"
       },
       {
-        "section": "corazon-de-comedia"
-      },
-      {
         "section": "thank-you",
         "extra": {
           "comedians": [
@@ -3109,9 +3073,6 @@
         "section": "roast-to-the-people"
       },
       {
-        "section": "corazon-de-comedia"
-      },
-      {
         "section": "thank-you",
         "extra": {
           "comedians": [
@@ -3433,9 +3394,6 @@
       },
       {
         "section": "roast-to-the-people"
-      },
-      {
-        "section": "corazon-de-comedia"
       }
     ],
     "comedians": [
@@ -4237,11 +4195,7 @@
     "guests": [
       "mer"
     ],
-    "sections": [
-      {
-        "section": "corazon-de-comedia"
-      }
-    ],
+    "sections": [],
     "comedians": [
       "pete-davidson",
       "lorne-michaels",
@@ -4568,11 +4522,7 @@
     "guests": [
       "mer"
     ],
-    "sections": [
-      {
-        "section": "corazon-de-comedia"
-      }
-    ],
+    "sections": [],
     "comedians": [
       "eugenio",
       "pete-davidson",
@@ -5180,11 +5130,7 @@
     "guests": [
       "mer"
     ],
-    "sections": [
-      {
-        "section": "corazon-de-comedia"
-      }
-    ],
+    "sections": [],
     "comedians": [
       "pete-davidson",
       "adam-sandler",

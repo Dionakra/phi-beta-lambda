@@ -18,12 +18,6 @@
     "description": "Iggy selecciona cada semana un especial de comedia a analizar, al cual se le suelen dedicar 10 - 15 minutos a desgranar aspectos técnicos y formales del especial, diagnosticando por qué el especial es bueno o malo (aunque Iggy solo habla amor)."
   },
   {
-    "id": "corazon-de-comedia",
-    "name": "Corazón de comedia",
-    "host": "mer",
-    "description": "El <span class='text-red italic'>Aquí hay tomate</span> de los chistes. En esta sección se comentan aspectos más personales de las principales entidades de la comedia dado que, al final del día, l@s cómic@s también son personas. Sí, también."
-  },
-  {
     "id": "la-cuota-del-drama",
     "name": "La cuota del drama | Pena mora",
     "host": "miguel-campos",
