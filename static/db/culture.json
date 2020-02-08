@@ -396,7 +396,7 @@
   },
   {
     "id": "three-mics",
-    "title": "Three Mics",
+    "title": "Neal Brennan: Three Mics",
     "type": "comedy-special"
   },
   {
@@ -521,7 +521,7 @@
   },
   {
     "id": "eddie-murphy-raw",
-    "title": "Eddie Murphy Raw",
+    "title": "Eddie Murphy: Raw",
     "type": "comedy-special"
   },
   {
@@ -596,12 +596,12 @@
   },
   {
     "id": "steven-wright-i-have-a-pony",
-    "title": "I Have a Pony",
+    "title": "Steven Wright: I Have a Pony",
     "type": "comedy-special"
   },
   {
     "id": "steven-wright-i-still-have-a-pony",
-    "title": "I Still Have a Pony",
+    "title": "Steven Wright: I Still Have a Pony",
     "type": "comedy-special"
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "id": "jim-jeffries-this-is-me-now",
-    "title": "Jim Jeffries: This is Me Now",
+    "title": "Jim Jefferies: This is Me Now",
     "type": "comedy-special"
   },
   {
@@ -716,7 +716,7 @@
   },
   {
     "id": "ricky-gervais-animals",
-    "title": "Animals",
+    "title": "Ricky Gervais: Animals",
     "type": "comedy-special"
   },
   {
@@ -731,17 +731,17 @@
   },
   {
     "id": "ricky-gervais-politics",
-    "title": "Politics",
+    "title": "Ricky Gervais: Politics",
     "type": "comedy-special"
   },
   {
     "id": "ricky-gervais-fame",
-    "title": "Fame",
+    "title": "Ricky Gervais: Fame",
     "type": "comedy-special"
   },
   {
     "id": "ricky-gervais-science",
-    "title": "Science",
+    "title": "Ricky Gervais: Science",
     "type": "comedy-special"
   },
   {
@@ -840,13 +840,8 @@
     "type": "tv-show"
   },
   {
-    "id": "colin-quinn-one-night-stand",
-    "title": "Colin Quinn: One Night Stand",
-    "type": "comedy-special"
-  },
-  {
     "id": "tough-crowd-with-colin-quinn",
-    "title": "Tough Crowd With Colin Quinn",
+    "title": "Colin Quinn: Tough Crowd",
     "type": "comedy-special"
   },
   {
@@ -981,7 +976,7 @@
   },
   {
     "id": "right-here-around-the-corner",
-    "title": "Right Here Around The Corner",
+    "title": "Ray Romano: Right Here Around The Corner",
     "type": "comedy-special"
   },
   {
@@ -1026,7 +1021,7 @@
   },
   {
     "id": "robin-williams-reality-what-a-concept",
-    "title": "Reality - What a Concept!",
+    "title": "Robin Williams: Reality - What a Concept!",
     "type": "comedy-special"
   },
   {
@@ -1166,12 +1161,12 @@
   },
   {
     "id": "patton-oswalt-222",
-    "title": "Patton Oswalt 222",
+    "title": "Patton Oswalt: 222",
     "type": "comedy-special"
   },
   {
     "id": "patton-oswalt-feelin-kinda-patton",
-    "title": "Feelin' Kinda Patton",
+    "title": "Patton Oswalt: Feelin' Kinda Patton",
     "type": "comedy-special"
   },
   {
@@ -1181,7 +1176,7 @@
   },
   {
     "id": "finest-hour",
-    "title": "Finest Hour",
+    "title": "Patton Oswalt: Finest Hour",
     "type": "comedy-special"
   },
   {
@@ -1271,52 +1266,52 @@
   },
   {
     "id": "emily-heller-pasta",
-    "title": "Pasta | Emily Heller",
+    "title": "Emily Heller: Pasta",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-drunk-with-powers",
-    "title": "Drunk with Power",
+    "title": "Margaret Cho: Drunk with Power",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-live-in-houston",
-    "title": "Live in Houston",
+    "title": "Margaret Cho: Live in Houston",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-im-the-one",
-    "title": "I'm the One That I Want",
+    "title": "Margaret Cho: I'm the One That I Want",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-notorious-cho",
-    "title": "Notorious C.H.O.: Live at Carnegie Hall",
+    "title": "Margaret Cho: Notorious C.H.O.: Live at Carnegie Hall",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-revolution",
-    "title": "Revolution",
+    "title": "Margaret Cho: Revolution",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-assassin",
-    "title": "Assassin",
+    "title": "Margaret Cho: Assassin",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-beautiful",
-    "title": "Beautiful",
+    "title": "Margaret Cho: Beautiful",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-cho-dependent",
-    "title": "Cho Dependent",
+    "title": "Margaret Cho: Cho Dependent",
     "type": "comedy-special"
   },
   {
     "id": "margaret-cho-psycho",
-    "title": "PsyCHO",
+    "title": "Margaret Cho: PsyCHO",
     "type": "comedy-special"
   },
   {
@@ -1341,7 +1336,7 @@
   },
   {
     "id": "hello-gummy-don-rickles",
-    "title": "Hello Dummy!",
+    "title": "Don Rickles: Hello Dummy!",
     "type": "comedy-special"
   },
   {
@@ -1381,7 +1376,7 @@
   },
   {
     "id": "andrew-dice-clay-filth",
-    "title": "Andrew \"Dice\" Clay - Filth",
+    "title": "Andrew \"Dice\" Clay: Filth",
     "type": "comedy-special"
   },
   {
@@ -1391,7 +1386,7 @@
   },
   {
     "id": "growing",
-    "title": "Growing",
+    "title": "Amy Schumer: Growing",
     "type": "comedy-special"
   },
   {
@@ -1475,33 +1470,28 @@
     "type": "radio-show"
   },
   {
-    "id": "irresponsible",
-    "title": "Irresponsible",
-    "type": "comedy-special"
-  },
-  {
     "id": "pedos-por-el-mundo",
     "title": "Pedos Por El Mundo",
     "type": "book"
   },
   {
     "id": "silent-but-deadly",
-    "title": "Silent But Deadly",
+    "title": "Kevin Smith: Silent But Deadly",
     "type": "comedy-special"
   },
   {
     "id": "reggie-watts-why-shit-so-crazy",
-    "title": "Reggie Watts - Why Shit So Crazy",
+    "title": "Reggie Watts: Why Shit So Crazy",
     "type": "comedy-special"
   },
   {
     "id": "reggie-watts-live-at-third-man",
-    "title": "Reggie Watts - Live At Third Man",
+    "title": "Reggie Watts: Live At Third Man",
     "type": "comedy-special"
   },
   {
     "id": "reggie-watts-alive-at-central-park",
-    "title": "Reggie Watts - A Live At Central Park",
+    "title": "Reggie Watts: A Live At Central Park",
     "type": "comedy-special"
   },
   {
@@ -1631,17 +1621,17 @@
   },
   {
     "id": "mitch-hedberg-strategic-grill-locations",
-    "title": "Strategic Grill Locations",
+    "title": "Mitch Hedberg: Strategic Grill Locations",
     "type": "comedy-special"
   },
   {
     "id": "mitch-hedberg-mtch-all-together",
-    "title": "Mitch All Together",
+    "title": "Mitch Hedberg: Mitch All Together",
     "type": "comedy-special"
   },
   {
     "id": "mitch-hedberg-do-you-believe-in-gosh",
-    "title": "Do You Believe in Gosh?",
+    "title": "Mitch Hedberg: Do You Believe in Gosh?",
     "type": "comedy-special"
   },
   {
@@ -1686,7 +1676,7 @@
   },
   {
     "id": "thank-god-for-jokes",
-    "title": "Thank God For Jokes",
+    "title": "Mike Birbiglia: Thank God For Jokes",
     "type": "comedy-special"
   },
   {
@@ -1741,7 +1731,7 @@
   },
   {
     "id": "good-night-we-love-you-phyllis-diller",
-    "title": "Goodnight, We Love You",
+    "title": "Phyllis Diller: Goodnight, We Love You",
     "type": "comedy-special"
   },
   {
@@ -1751,7 +1741,7 @@
   },
   {
     "id": "the-absurd-nightclub-comedy-of-eugene-mirman",
-    "title": "The Absurd Nightclub Comedy Of Eugene Mirman",
+    "title": "Eugene Mirman: The Absurd Nightclub Comedy",
     "type": "comedy-special"
   },
   {
@@ -1791,7 +1781,7 @@
   },
   {
     "id": "best-time-of-our-lives",
-    "title": "Best Time Of Our Lives",
+    "title": "Adam Devine: Best Time Of Our Lives",
     "type": "comedy-special"
   },
   {
@@ -1906,12 +1896,12 @@
   },
   {
     "id": "stick-and-stones",
-    "title": "Stick And Stones",
+    "title": "Dave Chappelle: Stick And Stones",
     "type": "comedy-special"
   },
   {
     "id": "lets-get-small-steve-martin-special",
-    "title": "Let's Get Small",
+    "title": "Steve Martin: Let's Get Small",
     "type": "comedy-special"
   },
   {
@@ -1921,12 +1911,12 @@
   },
   {
     "id": "tig-notaro-tig",
-    "title": "Tig",
+    "title": "Tig Notaro: Tig",
     "type": "comedy-special"
   },
   {
     "id": "jerry-seinfeld-im-telling-you-for-the-last-time",
-    "title": "I'm Telling You For The Last Time",
+    "title": "Jerry Seinfeld: I'm Telling You For The Last Time",
     "type": "comedy-special"
   },
   {
@@ -1936,7 +1926,7 @@
   },
   {
     "id": "the-good-talk-anthony-jeselnik",
-    "title": "The Good Talk",
+    "title": "Good Talk",
     "type": "tv-show"
   },
   {
@@ -1946,7 +1936,7 @@
   },
   {
     "id": "my-favourite-shapes",
-    "title": "My Favourite Shapes",
+    "title": "Julio Torres: My Favorite Shapes",
     "type": "comedy-special"
   },
   {
@@ -1960,18 +1950,668 @@
     "type": "tv-show"
   },
   {
-    "id": "one-line-stand-patrice-oneal",
-    "title": "One Line Stand",
-    "type": "comedy-special"
-  },
-  {
     "id": "elephant-in-the-room-patrice-oneal",
-    "title": "Elephant In The Room",
+    "title": "Patrice O'Neal: Elephant In The Room",
     "type": "comedy-special"
   },
   {
     "id": "chico-and-the-man",
     "title": "Chico And The Man",
-    "type": "tv-show-seroes"
+    "type": "tv-show-series"
+  },
+  {
+    "id": "la-ruina-show",
+    "title": "La Ruina Show",
+    "type": "radio-show"
+  },
+  {
+    "id": "paper-tiger-bill-burr",
+    "title": "Bill Burr: Paper Tiger",
+    "type": "comedy-special"
+  },
+  {
+    "id": "de-repente-susan",
+    "title": "De Repente Susan",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "monk",
+    "title": "Monk",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "veep",
+    "title": "Veep",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "wild-and-crazy-guys-libro",
+    "title": "Wild And Crazy Guys",
+    "type": "book"
+  },
+  {
+    "id": "campamento-flipy",
+    "title": "Campamento Flipy",
+    "type": "movie"
+  },
+  {
+    "id": "ocho-apellidos-vascos",
+    "title": "Ocho Apellidos Vascos",
+    "type": "movie"
+  },
+  {
+    "id": "rey-gitano",
+    "title": "Rey Gitano",
+    "type": "movie"
+  },
+  {
+    "id": "selfie",
+    "title": "Selfie",
+    "type": "movie"
+  },
+  {
+    "id": "lady-kana",
+    "title": "Lady Kaña",
+    "type": "tv-show"
+  },
+  {
+    "id": "anchorman",
+    "title": "Anchorman",
+    "type": "movie"
+  },
+  {
+    "id": "bangin-nikki-glaser",
+    "title": "Nikki Glaser: Bangin'",
+    "type": "comedy-special"
+  },
+  {
+    "id": "brooklyn-99",
+    "title": "Brooklyn 99",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "key-and-peele",
+    "title": "Key And Peele",
+    "type": "tv-show"
+  },
+  {
+    "id": "el-informal",
+    "title": "El Informal",
+    "type": "tv-show"
+  },
+  {
+    "id": "aqui-no-hay-quien-viva",
+    "title": "Aqui No Hay Quien Viva",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "la-que-se-avecina",
+    "title": "La Que Se Avecina",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "super-high-me-doug-benson",
+    "title": "Doug Benson: Super High Me",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-dick-cavett-show",
+    "title": "The Dick Cavett Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-big-bang-theory",
+    "title": "The Big Bang Theory",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "legit-jim-jeffries",
+    "title": "Legit",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "getting-doug-with-high",
+    "title": "Doug Benson: Getting Doug With High",
+    "type": "comedy-special"
+  },
+  {
+    "id": "never-mind-the-buzzcocks",
+    "title": "Never Mind The Buzzcocks",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "south-park",
+    "title": "South Park",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "important-things-with-demetri-martin",
+    "title": "Important Things With Demetri Martin",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-great-depresh",
+    "title": "Gary Gulman: The Great Depresh",
+    "type": "comedy-special"
+  },
+  {
+    "id": "muchachada-nui",
+    "title": "Muchachada Nui",
+    "type": "tv-show"
+  },
+  {
+    "id": "set-free",
+    "title": "Simon Amstell: Set Free",
+    "type": "comedy-special"
+  },
+  {
+    "id": "agitacion-mas-iva",
+    "title": "Agitacion + IVA",
+    "type": "tv-show"
+  },
+  {
+    "id": "aida",
+    "title": "Aida",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "european-gigolo",
+    "title": "European Gigolo",
+    "type": "movie"
+  },
+  {
+    "id": "american-on-purpose-craig-ferguson",
+    "title": "American On Purpose Craig Ferguson",
+    "type": "tv-show"
+  },
+  {
+    "id": "american-pie",
+    "title": "American Pie",
+    "type": "movie"
+  },
+  {
+    "id": "animal-house",
+    "title": "Animal House",
+    "type": "movie"
+  },
+  {
+    "id": "big-stan-pelicula",
+    "title": "Big Stan",
+    "type": "movie"
+  },
+  {
+    "id": "blackmitzva",
+    "title": "Tiffany Haddish: Black Mitzva",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bossy-pants-libro",
+    "title": "Bossypants",
+    "type": "book"
+  },
+  {
+    "id": "bravo-by-xavi-daura",
+    "title": "Bravo",
+    "type": "book"
+  },
+  {
+    "id": "californication",
+    "title": "Californication",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "cats-cops-and-stuff",
+    "title": "Paula Poundstone: Cats Cops And Stuff",
+    "type": "comedy-special"
+  },
+  {
+    "id": "chess-boxing",
+    "title": "Chess Boxing",
+    "type": "tv-show"
+  },
+  {
+    "id": "chicas-malas",
+    "title": "Chicas Malas",
+    "type": "movie"
+  },
+  {
+    "id": "chris-gethard-career-suicide",
+    "title": "Chris Gethard: Career Suicide",
+    "type": "comedy-special"
+  },
+  {
+    "id": "comica-abella-cienfuegos",
+    "title": "Cómica",
+    "type": "book"
+  },
+  {
+    "id": "craig-ferguson-tickle-fight",
+    "title": "Craig Ferguson: Tickle Fight",
+    "type": "comedy-special"
+  },
+  {
+    "id": "crimen-ferpecto",
+    "title": "Crimen Ferpecto",
+    "type": "movie"
+  },
+  {
+    "id": "django-desencadenado",
+    "title": "Django Desencadenado",
+    "type": "movie"
+  },
+  {
+    "id": "documentary-now",
+    "title": "Documentary Now",
+    "type": "documentary"
+  },
+  {
+    "id": "el-dia-de-la-marmota",
+    "title": "El Dia De La Marmota",
+    "type": "movie"
+  },
+  {
+    "id": "el-principe-de-zamunda",
+    "title": "El Principe De Zamunda",
+    "type": "movie"
+  },
+  {
+    "id": "en-el-aire",
+    "title": "En El Aire",
+    "type": "tv-show"
+  },
+  {
+    "id": "forgotten-silver",
+    "title": "Forgotten Silver",
+    "type": "movie"
+  },
+  {
+    "id": "frasier",
+    "title": "Frasier",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "george-carlin-i-kinda-like-it-when-a-lotta-people-die",
+    "title": "George Carlin: I Kinda Like It When A Lotta People Die",
+    "type": "comedy-special"
+  },
+  {
+    "id": "george-carlin-its-bad-for-ya",
+    "title": "George Carlin: It's Bad For Ya",
+    "type": "comedy-special"
+  },
+  {
+    "id": "i-am-dolemite",
+    "title": "Dolemite is my name",
+    "type": "movie"
+  },
+  {
+    "id": "just-the-funny-parts-book",
+    "title": "Just The Funny Parts",
+    "type": "book"
+  },
+  {
+    "id": "la-noche-con-fuentes",
+    "title": "La Noche Con Fuentes... y Cía",
+    "type": "tv-show"
+  },
+  {
+    "id": "lo-que-hacemos-en-las-sombras",
+    "title": "Lo Que Hacemos En Las Sombras",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "matilda",
+    "title": "Matilda",
+    "type": "movie"
+  },
+  {
+    "id": "matrimonio-con-hijos",
+    "title": "Matrimonio Con Hijos",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "michelle-wolf-joke-show",
+    "title": "Michelle Wolf: Joke Show",
+    "type": "comedy-special"
+  },
+  {
+    "id": "modern-family",
+    "title": "Modern Family",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "muneca-rusa",
+    "title": "Muñeca Rusa",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "my-girlfriends-boyfriend",
+    "title": "My Girlfriend's Boyfriend",
+    "type": "movie"
+  },
+  {
+    "id": "nada-que-perder",
+    "title": "Nada Que Perder",
+    "type": "tv-show"
+  },
+  {
+    "id": "padre-made-in-usa",
+    "title": "Padre Made In Usa",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "popstar-lonely-island",
+    "title": "Popstar Lonely Island",
+    "type": "movie"
+  },
+  {
+    "id": "portlandia",
+    "title": "Portlandia",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "salsa-de-soja-en-el-holocausto",
+    "title": "Rob Schneider: Soy Sauce and the Holocaust",
+    "type": "comedy-special"
+  },
+  {
+    "id": "scary-movie",
+    "title": "Scary Movie",
+    "type": "movie"
+  },
+  {
+    "id": "solo-ante-el-peligro-juan-solo",
+    "title": "Solo Ante El Peligro",
+    "type": "tv-show"
+  },
+  {
+    "id": "steptoe-and-son",
+    "title": "Steptoe And Son",
+    "type": "movie"
+  },
+  {
+    "id": "the-blues-brothers",
+    "title": "The Blues Brothers",
+    "type": "movie"
+  },
+  {
+    "id": "the-break-with-michelle-wolf",
+    "title": "The Break With Michelle Wolf",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-end-of-the-fucking-world",
+    "title": "The End Of The F***ng World",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-last-man-on-earth",
+    "title": "The Last Man On Earth",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-sexy-book-of-sexy-sex",
+    "title": "The Sexy Book Of Sexy Sex",
+    "type": "book"
+  },
+  {
+    "id": "this-is-spinal-tap",
+    "title": "This Is Spinal Tap",
+    "type": "movie"
+  },
+  {
+    "id": "tim-minchin-the-storm",
+    "title": "Storm",
+    "type": "book"
+  },
+  {
+    "id": "tracy-morgan-staying-alive",
+    "title": "Tracy Morgan: Staying Alive",
+    "type": "comedy-special"
+  },
+  {
+    "id": "two-and-a-half-men",
+    "title": "Dos Hombres y Medio",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "una-risa-nueva-libro",
+    "title": "Una Risa Nueva",
+    "type": "book"
+  },
+  {
+    "id": "very-important-perros",
+    "title": "Very Important Perros",
+    "type": "movie"
+  },
+  {
+    "id": "vincent-finch",
+    "title": "Vincent Finch",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "waiting-for-goodman",
+    "title": "Waiting For Guffman",
+    "type": "movie"
+  },
+  {
+    "id": "yes-please-amy-poehler",
+    "title": "Yes Please",
+    "type": "book"
+  },
+  {
+    "id": "zelig",
+    "title": "Zelig",
+    "type": "movie"
+  },
+  {
+    "id": "calvin-and-hobbes",
+    "title": "Calvin And Hobbes",
+    "type": "comic-strip"
+  },
+  {
+    "id": "college-humor",
+    "title": "College Humor",
+    "type": "tv-show"
+  },
+  {
+    "id": "dont-fuck-this-up-kevin-hart",
+    "title": "Kevin Hart: Don't Fuck This Up ",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "e-equal-m-o-squared",
+    "title": "Emo Philips: E=mo²",
+    "type": "comedy-special"
+  },
+  {
+    "id": "guardianes-de-la-galaxia",
+    "title": "Guardianes De La Galaxia",
+    "type": "movie"
+  },
+  {
+    "id": "jojo-rabbit",
+    "title": "Jojo Rabbit",
+    "type": "movie"
+  },
+  {
+    "id": "knives-out",
+    "title": "Knives Out",
+    "type": "movie"
+  },
+  {
+    "id": "lil-rel-howery-relevant",
+    "title": "Lil Rel Howery: Relevent",
+    "type": "comedy-special"
+  },
+  {
+    "id": "live-in-crenshaw-lil-rel-howery",
+    "title": "Lil Rel Howery: Live In Crenshaw",
+    "type": "comedy-special"
+  },
+  {
+    "id": "m-o-emo-philips",
+    "title": "Emo Philips: EMO",
+    "type": "comedy-special"
+  },
+  {
+    "id": "metodo-kominsky",
+    "title": "El Método Kominsky",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "nick-di-paolo-a-breath-of-fresh-air",
+    "title": "Nick Di Paolo: A Breath Of Fresh Air",
+    "type": "comedy-special"
+  },
+  {
+    "id": "once-upon-a-time-in-hollywood",
+    "title": "Once Upon A Time In Hollywood",
+    "type": "movie"
+  },
+  {
+    "id": "ramy-movie",
+    "title": "Ramy",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "roy-wood-jr-no-one-loves-you",
+    "title": "Roy Wood Jr: No One Loves You",
+    "type": "comedy-special"
+  },
+  {
+    "id": "solocomedia",
+    "title": "Solocomedia",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-oatmeal",
+    "title": "The Oatmeal",
+    "type": "comic-strip"
+  },
+  {
+    "id": "visible-out-in-television",
+    "title": "Visible Out In Television",
+    "type": "tv-show"
+  },
+  {
+    "id": "xkcd",
+    "title": "Xkcd",
+    "type": "comic-strip"
+  },
+  {
+    "id": "a-tale-of-two-dresses",
+    "title": "Rita Rudner: A Tale Of Two Dresses",
+    "type":  "comedy-special"
+  },
+  {
+    "id": "black-books",
+    "title": "Black Books",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "cheers",
+    "title": "Cheers",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "cuando-harry-entro-a-sally",
+    "title": "Cuando Harry Encontró A Sally",
+    "type": "movie"
+  },
+  {
+    "id": "doug-stanhope-digging-up-mother",
+    "title": "Doug Stanhope: Digging Up Mother",
+    "type": "book"
+  },
+  {
+    "id": "doug-stanhope-diversion-con-pedofilos",
+    "title": "Doug Stanhope: Fun With Pedophiles",
+    "type": "book"
+  },
+  {
+    "id": "doug-stanhope-this-is-not-fame",
+    "title": "Doug Stanhope: This Is Not Fame",
+    "type": "book"
+  },
+  {
+    "id": "el-sentido-de-la-birra",
+    "title": "El Sentido De La Birra",
+    "type": "radio-show"
+  },
+  {
+    "id": "el-sentido-de-la-vida",
+    "title": "El Sentido de la Vida",
+    "type": "movie"
+  },
+  {
+    "id": "green-book",
+    "title": "Green Book",
+    "type": "movie"
+  },
+  {
+    "id": "half-baked",
+    "title": "Half Baked",
+    "type": "movie"
+  },
+  {
+    "id": "la-fiesta-de-la-salchicha",
+    "title": "La Fiesta de las Salchichas",
+    "type": "movie"
+  },
+  {
+    "id": "la-pantera-rosa",
+    "title": "La Pantera Rosa",
+    "type": "movie"
+  },
+  {
+    "id": "la-vida-de-brian",
+    "title": "La Vida de Brian",
+    "type": "movie"
+  },
+  {
+    "id": "los-caraconos",
+    "title": "Los Caraconos",
+    "type": "movie"
+  },
+  {
+    "id": "luis-alvaro-en-un-minuto",
+    "title": "Luis Álvaro En Un Minuto",
+    "type": "tv-show"
+  },
+  {
+    "id": "moshe-kasher-crowd-surfing",
+    "title": "Moshe Kasher: Crowd Surfing",
+    "type": "comedy-special"
+  },
+  {
+    "id": "robot-chicken",
+    "title": "Robot Chicken",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "samurai-jack",
+    "title": "Samurai Jack",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "shaun-of-the-dead",
+    "title": "Shaun of the Dead",
+    "type": "movie"
+  },
+  {
+    "id": "telefono-rojo",
+    "title": "Teléfono Rojo: Volamos Hacia Moscú",
+    "type": "movie"
+  },
+  {
+    "id": "uncut-gems",
+    "title": "Uncut Gems",
+    "type": "movie"
+  },
+  {
+    "id": "one-night-stand",
+    "title": "One Night Stand (Especiales)",
+    "type": "comedy-special"
   }
 ]

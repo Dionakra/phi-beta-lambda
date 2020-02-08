@@ -24,7 +24,7 @@
         <div
           v-for="culture in showing"
           :key="culture.id"
-          class="h-auto w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 mb-2 mt-6 relative"
+          class=" mb-2 mt-6 relative"
         >
           <Culture :culture="culture" />
         </div>
@@ -66,7 +66,8 @@ export default {
         movie: "Películas",
         "tv-show": "Programa TV",
         "radio-show": "Radio / Podcast",
-        "tv-show-series": "Series"
+        "tv-show-series": "Series",
+        "comic-strip": "Cómic"
       }
     };
   },
