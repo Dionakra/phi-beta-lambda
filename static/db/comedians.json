@@ -268,6 +268,10 @@
     "name": "Nick Kroll"
   },
   {
+    "id": "nick-offerman",
+    "name": "Nick Offerman"
+  },
+  {
     "id": "norm-macdonald",
     "name": "Norm Macdonald"
   },
@@ -1925,7 +1929,7 @@
   },
   {
     "id": "phoebe-waller-bridge",
-    "name": "Phoebe Waller Bridge"
+    "name": "Phoebe Waller-Bridge"
   },
   {
     "id": "julio-torres",
@@ -1949,7 +1953,7 @@
   },
   {
     "id": "freddy-prince",
-    "name": "Freddy Prince"
+    "name": "Freddie Prinze"
   },
   {
     "id": "shane-gillis",
@@ -1957,15 +1961,15 @@
   },
   {
     "id": "samy-davis-jr",
-    "name": "Samy Davis Jr"
+    "name": "Sammy Davis Jr"
   },
   {
     "id": "antonio-trashorras",
     "name": "Antonio Trashorras"
   },
   {
-    "id": "capitan-vallecas",
-    "name": "Capitán Vallecas"
+    "id": "pepe-macias",
+    "name": "Pepe Macías"
   },
   {
     "id": "velilla-valbuena",
@@ -2057,7 +2061,7 @@
   },
   {
     "id": "pablo-chiappella",
-    "name": "Pablo Chiappella"
+    "name": "Pablo Chiapella"
   },
   {
     "id": "riki-lindhome",
@@ -2108,10 +2112,6 @@
     "name": "Billy Eichner"
   },
   {
-    "id": "bo-diddley",
-    "name": "Bo Diddley"
-  },
-  {
     "id": "carlos-ballarta",
     "name": "Carlos Ballarta"
   },
@@ -2125,7 +2125,7 @@
   },
   {
     "id": "christpher-guest",
-    "name": "Christpher Guest"
+    "name": "Christopher Guest"
   },
   {
     "id": "colectivo-desastre",
@@ -2146,10 +2146,6 @@
   {
     "id": "facu-diaz",
     "name": "Facu Díaz"
-  },
-  {
-    "id": "gerardo-ballesta",
-    "name": "Gerardo Ballesta"
   },
   {
     "id": "jenny-slate",
@@ -2188,10 +2184,6 @@
     "name": "Lorena Iglesias"
   },
   {
-    "id": "los-goodies",
-    "name": "Los Goodies"
-  },
-  {
     "id": "manu-kas",
     "name": "Manu Kas"
   },
@@ -2210,10 +2202,6 @@
   {
     "id": "nerea-garmendia",
     "name": "Nerea Garmendia"
-  },
-  {
-    "id": "nick-gofferman",
-    "name": "Nick Gofferman"
   },
   {
     "id": "nish-kumar",
@@ -2244,12 +2232,8 @@
     "name": "Rocio Quillahuamán"
   },
   {
-    "id": "sinacio=trending-tronching",
+    "id": "sinacio",
     "name": "Sinacio"
-  },
-  {
-    "id": "susana-portero",
-    "name": "Susana Portero"
   },
   {
     "id": "taran-killam",
@@ -2264,10 +2248,6 @@
     "name": "Tim Minchin"
   },
   {
-    "id": "tim-russert",
-    "name": "Tim Russert"
-  },
-  {
     "id": "vanessa-bayer",
     "name": "Vanessa Bayer"
   },
@@ -2277,7 +2257,7 @@
   },
   {
     "id": "bill-waterson",
-    "name": "Bill Waterson"
+    "name": "Bill Watterson"
   },
   {
     "id": "carmelo-gonzalez",
@@ -2290,10 +2270,6 @@
   {
     "id": "george-harris",
     "name": "George Harris"
-  },
-  {
-    "id": "javi-del-mar",
-    "name": "Javi Del Mar"
   },
   {
     "id": "javier-coronas",
@@ -2336,10 +2312,6 @@
     "name": "Buster Keaton"
   },
   {
-    "id": "carlos-vior",
-    "name": "Carlos Vior"
-  },
-  {
     "id": "carmen-lynch",
     "name": "Carmen Lynch"
   },
@@ -2353,7 +2325,7 @@
   },
   {
     "id": "donnel-rawlings",
-    "name": "Donnel Rawlings"
+    "name": "Donnell Rawlings"
   },
   {
     "id": "dylan-moran",
@@ -2365,7 +2337,7 @@
   },
   {
     "id": "harry-rashford",
-    "name": "Harry Rashford"
+    "name": "Harry Ratchford"
   },
   {
     "id": "joey-wells",
@@ -2390,10 +2362,6 @@
   {
     "id": "leslie-jones",
     "name": "Leslie Jones"
-  },
-  {
-    "id": "lomba",
-    "name": "Lomba"
   },
   {
     "id": "naim-lynn",
@@ -2433,6 +2401,6 @@
   },
   {
     "id": "will-spank-horton",
-    "name": "Will Horton"
+    "name": "Will \"Spank\" Horton"
   }
 ]
