@@ -135,7 +135,7 @@
         <div
           v-for="culture in episode.culture"
           :key="culture.id"
-          class="h-auto w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 mb-2 mt-6 relative"
+          class=" mb-2 mt-6 relative"
         >
           <Culture :culture="culture" />
         </div>
