@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto">
-    <div class="md:w-full lg:w-1/2 mx-auto flex flex-wrap justify-between text-sm mb-3">
+    <div class="md:w-full lg:w-8/12 mx-auto flex flex-wrap justify-between text-sm mb-3">
       <div
         v-for="category in Object.keys(culture).sort((a, b) => a.localeCompare(b))"
         :key="category"
@@ -21,11 +21,7 @@
       infinite-scroll-distance="200"
     >
       <div class="flex flex-inline flex-wrap mx-4">
-        <div
-          v-for="culture in showing"
-          :key="culture.id"
-          class=" mb-2 mt-6 relative"
-        >
+        <div v-for="culture in showing" :key="culture.id" class="mb-2 mt-6 relative">
           <Culture :culture="culture" />
         </div>
       </div>
@@ -42,10 +38,9 @@ export default {
   components: {
     Culture
   },
-  watchQuery: ['cat'],
+  watchQuery: ["cat"],
   key: to => to.fullPath,
   async asyncData({ query }) {
-    console.log(query.cat || "comedy-special");
     const res = await axios.get("/api/culture.json");
     return {
       culture: res.data,

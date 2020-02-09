@@ -76,7 +76,8 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    { src: '~/plugins/infiniteScroll.js', ssr: false }
+    { src: '~/plugins/infiniteScroll.js', ssr: false },
+    { src: '~/plugins/echarts.js', ssr: false }
   ],
   /*
   ** Nuxt.js dev-modules
@@ -105,6 +106,8 @@ export default {
     /*
     ** You can extend webpack config here
     */
+    transpile: ['vue-echarts', 'resize-detector'],
+
     extend(config, ctx) {
     }
   }

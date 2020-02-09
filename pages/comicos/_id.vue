@@ -1,12 +1,12 @@
 <template>
   <div class="ml-2 sm:ml-4 sm:flex sm:flex-inline mx-auto">
     <div>
-    <img
-      :src="'/images/comedians/' + comedian.id + '.jpg'"
-      :alt="comedian.name"
-      :title="comedian.name"
-      class="rounded-full mx-auto sm:mx-0"
-    />
+      <img
+        :src="'/images/comedians/' + comedian.id + '.jpg'"
+        :alt="comedian.name"
+        :title="comedian.name"
+        class="rounded-full mx-auto sm:mx-0"
+      />
     </div>
 
     <div class="ml-1 md:ml-2">
@@ -25,9 +25,7 @@
           <span class="text-lg">Destacad@</span>
           <div v-for="v in vip" :key="v.id" class="ml-1 md:ml-2">
             {{v.id.toUpperCase()}} - {{v.title}}
-            <div v-if="v.special" class="ml-1 md:ml-2">
-              Mención especial
-            </div>
+            <div v-if="v.special" class="ml-1 md:ml-2">Mención especial</div>
 
             <div
               v-else-if="v.section.section.id == 'comedian-of-the-day'"
@@ -53,7 +51,6 @@ export default {
     return axios
       .get(`/api/comedians/${params.id}.json`)
       .then(x => {
-        console.log(x.data)
         return x.data;
       })
       .catch(e => {
