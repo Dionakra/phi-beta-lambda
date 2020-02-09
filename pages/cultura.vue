@@ -20,8 +20,8 @@
       infinite-scroll-disabled="busy"
       infinite-scroll-distance="200"
     >
-      <div class="flex flex-inline flex-wrap mx-4">
-        <div v-for="culture in showing" :key="culture.id" class="mb-2 mt-6 relative">
+      <div class="flex flex-inline flex-wrap mx-4 mx-auto">
+        <div v-for="culture in showing" :key="culture.id" class="mb-2 mt-6 relative mx-auto">
           <Culture :culture="culture" />
         </div>
       </div>

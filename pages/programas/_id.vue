@@ -14,7 +14,7 @@
           <div class="text-gray-900 font-bold text-red text-xl flex flex-inline">
             <p class="my-auto">{{episode.id.toUpperCase()}} - {{episode.title}}</p>
           </div>
-          <div class="flex flex-inline">
+          <div class="flex flex-inline  flex-wrap">
             <div>
               <p class="text-sm text-gray-600">Presentado por</p>
               <div class="flex flex-inline -ml-2">
@@ -129,13 +129,13 @@
       </div>
     </div>
 
-    <div v-if="episode.culture && episode.culture.length > 0" class="mt-s">
+    <div v-if="episode.culture && episode.culture.length > 0" class="mt-6">
       <span class="text-lg text-red">Cultura ({{episode.culture.length}})</span>
       <div class="flex flex-inline flex-wrap mx-4">
         <div
           v-for="culture in episode.culture"
           :key="culture.id"
-          class=" mb-2 mt-6 relative"
+          class="mb-2 relative mx-auto sm:mx-0 mt-1"
         >
           <Culture :culture="culture" />
         </div>
