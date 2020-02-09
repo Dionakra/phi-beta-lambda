@@ -59,7 +59,7 @@
               >
                 <p class="text-red align-top text-center">{{section.section.name}}</p>
                 <p
-                  v-if="section.section.id == 'thank-you'"
+                  v-if="section.section.id == 'thank-you' && section.extra.culture"
                   class="text-sm text-red text-center"
                 >{{section.extra.culture[0].title}}</p>
                 <p v-else>&nbsp;</p>
