@@ -2502,7 +2502,7 @@
   {
     "id": "a-tale-of-two-dresses",
     "title": "Rita Rudner: A Tale Of Two Dresses",
-    "type":  "comedy-special"
+    "type": "comedy-special"
   },
   {
     "id": "black-books",
@@ -2613,5 +2613,55 @@
     "id": "one-night-stand",
     "title": "One Night Stand (Especiales)",
     "type": "comedy-special"
+  },
+  {
+    "id": "tom-papa-youre-doing-great",
+    "title": "Tom Papa: You're Doing Great",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bill-bailey-limboland",
+    "title": "Bill Bailey: Limboland",
+    "type": "comedy-special"
+  },
+  {
+    "id": "hot-fuzz",
+    "title": "Hot Fuzz",
+    "type": "movie"
+  },
+  {
+    "id": "bill-bailey-qualmpeddler",
+    "title": "Bill Bailey: Qualmpeddler",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bill-bailey-remarkable-guy",
+    "title": "Bill Bailey's Remarkable Guide to the Orchestra",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bill-bailey-dandelion",
+    "title": "Bill Bailey: Dandelion",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bill-bailey-cosmic-jam",
+    "title": "Bill Bailey: Cosmic Jam",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bill-bailey-part-troll",
+    "title": "Bill Bailey: Part Troll",
+    "type": "comedy-special"
+  },
+  {
+    "id": "ari-shaffir-jew",
+    "title": "Ari Shaffir: Jew",
+    "type": "comedy-special"
+  },
+  {
+    "id": "ari-shaffir-skeptic-tank",
+    "title": "Ari Shaffir: Skeptic Tank",
+    "type": "radio-show"
   }
 ]

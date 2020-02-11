@@ -6740,5 +6740,77 @@
       "show-david-letterman",
       "curb-your-enthusiasm"
     ]
+  },
+  {
+    "id": "s02e43",
+    "season": 2,
+    "episode": 43,
+    "title": "Puñaladas entre amigos",
+    "link": "8O2SmrRd740",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "bill-bailey"
+          ]
+        }
+      },
+      {
+        "section": "thank-you",
+        "extra": {
+          "comedians": [
+            "tom-papa"
+          ],
+          "culture": [
+            "tom-papa-youre-doing-great"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "dylan-moran",
+      "eva-soriano",
+      "rubber-bishops",
+      "jerry-seinfeld",
+      "bobcat-goldthwait",
+      "simon-pegg",
+      "miguel-noguera",
+      "dominic-holland",
+      "lionel-mandrake",
+      "ari-shaffir",
+      "joe-rogan",
+      "monique",
+      "louis-ck",
+      "kevin-hart",
+      "alvaro-carmona",
+      "alberto-sierra",
+      "leslie-jones",
+      "jim-gaffigan",
+      "bill-cosby"
+    ],
+    "culture": [
+      "black-books",
+      "bill-bailey-limboland",
+      "loca-academia-de-policia",
+      "shaun-of-the-dead",
+      "hot-fuzz",
+      "bill-bailey-qualmpeddler",
+      "bill-bailey-remarkable-guy",
+      "bill-bailey-dandelion",
+      "bill-bailey-cosmic-jam",
+      "bill-bailey-part-troll",
+      "ari-shaffir-jew",
+      "this-is-not-happening-comedy-central",
+      "ari-shaffir-skeptic-tank",
+      "alvaro-carmona-gente-hablando",
+      "marvelous-mrs-maisel"
+    ]
   }
 ]

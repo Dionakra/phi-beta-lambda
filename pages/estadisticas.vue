@@ -9,8 +9,19 @@
 
 <script>
 import axios from "axios";
+import ECharts from 'vue-echarts'
+
+// import ECharts modules manually to reduce bundle size
+import 'echarts/lib/component/tooltip'
+import 'echarts/lib/component/title'
+import 'echarts/lib/component/dataZoom'
+import 'echarts/lib/component/dataZoomSlider'
+import 'echarts/lib/chart/line'
 
 export default {
+  components: {
+    chart: ECharts
+  },
   async asyncData() {
     return axios.get("/api/statistics.json").then(x => {
       return {
@@ -152,8 +163,7 @@ export default {
           data: legend
         },
         yAxis: {
-          type: "value",
-          boundaryGap: [0, "100%"]
+          type: "value"
         },
         dataZoom: [
           {
