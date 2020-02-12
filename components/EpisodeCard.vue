@@ -18,7 +18,7 @@
           </div>
           <div class="flex flex-inline flex-wrap">
             <div class="mr-8">
-              <p class="text-sm text-gray-600">Presentado por</p>
+              <p class="text-sm text-gray-900">Presentado por</p>
               <div class="flex flex-inline flex-wrap -ml-1">
                 <img
                   v-for="host in episode.hosts"
@@ -31,7 +31,7 @@
               </div>
             </div>
             <div v-if="episode.guests && episode.guests.length > 0" class="ml-2">
-              <p class="text-sm text-gray-600">Invitad@s</p>
+              <p class="text-sm text-gray-900">Invitad@s</p>
               <div class="flex flex-inline -ml-2">
                 <img
                   v-for="guest in episode.guests"
@@ -73,7 +73,7 @@
                       :alt="comedian.name"
                       :title="comedian.name"
                     />
-                    <p class="text-sm text-gray-600 text-center">{{comedian.name}}</p>
+                    <p class="text-sm text-gray-900 text-center">{{comedian.name}}</p>
                   </div>
                 </div>
               </div>
@@ -92,7 +92,7 @@
                         :alt="episode.special.name"
                         :title="episode.special.name"
                       />
-                      <p class="text-sm text-gray-600 text-center">{{episode.special.name}}</p>
+                      <p class="text-sm text-gray-900 text-center">{{episode.special.name}}</p>
                     </div>
                   </div>
                 </div>

@@ -8,15 +8,35 @@
           :title="'Portada ' + episode.title"
           :alt="'Portada ' + episode.title"
         />
+        <div class="mt-4">
+          <a
+            target="_blank"
+            rel="noopener"
+            :href="'https://www.youtube.com/watch?v=' + episode.link"
+            class="text-red pt-4"
+            text
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 20 20"
+              class="youtube h-8 md:h-6 block mt-auto inline-block ml-4 md:ml-1"
+            >
+              <path
+                d="M10 2.3C.172 2.3 0 3.174 0 10s.172 7.7 10 7.7 10-.874 10-7.7-.172-7.7-10-7.7zm3.205 8.034l-4.5 2.096c-.393.182-.715-.022-.715-.456V8.026c0-.433.322-.638.715-.456l4.5 2.096c.393.184.393.484 0 .668z"
+              />
+            </svg>
+            <span class="align-middle">Ver en YouTube</span>
+          </a>
+        </div>
       </div>
       <div class="p-2 flex leading-normal">
         <div class="inline-block align-top">
           <div class="text-gray-900 font-bold text-red text-xl flex flex-inline">
             <p class="my-auto">{{episode.id.toUpperCase()}} - {{episode.title}}</p>
           </div>
-          <div class="flex flex-inline  flex-wrap">
+          <div class="flex flex-inline flex-wrap">
             <div>
-              <p class="text-sm text-gray-600">Presentado por</p>
+              <p class="text-sm text-gray-900">Presentado por</p>
               <div class="flex flex-inline -ml-2">
                 <img
                   v-for="host in episode.hosts"
@@ -29,7 +49,7 @@
               </div>
             </div>
             <div v-if="episode.guests && episode.guests.length > 0" class="ml-10">
-              <p class="text-sm text-gray-600">Invitad@s</p>
+              <p class="text-sm text-gray-900">Invitad@s</p>
               <div class="flex flex-inline -ml-2">
                 <nuxt-link
                   :to="'/comicos/' + guest.id"
@@ -77,7 +97,7 @@
                         :title="comedian.name"
                       />
 
-                      <p class="text-sm text-gray-600 text-center">{{comedian.name}}</p>
+                      <p class="text-sm text-gray-900 text-center">{{comedian.name}}</p>
                     </nuxt-link>
                   </div>
                 </div>
@@ -97,7 +117,7 @@
                           :alt="episode.special.name"
                           :title="episode.special.name"
                         />
-                        <p class="text-sm text-gray-600 text-center">{{episode.special.name}}</p>
+                        <p class="text-sm text-gray-900 text-center">{{episode.special.name}}</p>
                       </nuxt-link>
                     </div>
                   </div>

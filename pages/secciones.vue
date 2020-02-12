@@ -12,7 +12,7 @@
         class="rounded-full h-32 shadow-lg"
       />
       <div class="block ml-2">
-        <p class="text-sm text-gray-600">{{section.host.name}}</p>
+        <p class="text-sm text-gray-900">{{section.host.name}}</p>
         <p class="text-lg font-bold text-red">{{section.name}}</p>
         <p class="text-sm text-justify" v-html="section.description"></p>
       </div>
