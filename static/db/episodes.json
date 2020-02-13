@@ -6812,5 +6812,62 @@
       "alvaro-carmona-gente-hablando",
       "marvelous-mrs-maisel"
     ]
+  },
+  {
+    "id": "s02e44",
+    "season": 2,
+    "episode": 44,
+    "title": "Fresa, vainilla y chocolate",
+    "link": "vYhUw95iZts",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "mer"
+    ],
+    "sections": [],
+    "comedians": [
+      "steve-martin",
+      "chris-rock",
+      "ray-romano",
+      "maya-rudolph",
+      "kristen-wiig",
+      "julia-louis-dreyfus",
+      "will-ferrell",
+      "james-corden",
+      "jj-vaquero",
+      "miguel-iribar",
+      "valeria-ros",
+      "pete-davidson",
+      "fred-armisen",
+      "bob-odenkirk",
+      "leslie-jones",
+      "eddie-murphy",
+      "andreu-buenafuente",
+      "bill-cosby",
+      "louis-ck",
+      "shane-gillis",
+      "galder-varas",
+      "adam-ferrara",
+      "agustin-jimenez",
+      "albert-boira",
+      "al-yankovic",
+      "al-madrigal",
+      "alberto-graupera"
+    ],
+    "culture": [
+      "we-killed-the-rise-of-women-in-american-comedy",
+      "jojo-rabbit",
+      "once-upon-a-time-in-hollywood",
+      "muneca-rusa",
+      "leslie-jones-time-machine",
+      "saturday-night-live",
+      "maesetsu",
+      "marvelous-mrs-maisel",
+      "el-otro-dia"
+    ]
   }
 ]

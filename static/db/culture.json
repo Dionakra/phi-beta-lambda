@@ -2663,5 +2663,25 @@
     "id": "ari-shaffir-skeptic-tank",
     "title": "Ari Shaffir: Skeptic Tank",
     "type": "radio-show"
+  },
+  {
+    "id": "we-killed-the-rise-of-women-in-american-comedy",
+    "title": "We Killed: The Rise Of Women In American Comedy",
+    "type": "book"
+  },
+  {
+    "id": "leslie-jones-time-machine",
+    "title": "Leslie Jones: Time Machine",
+    "type": "comedy-special"
+  },
+  {
+    "id": "maesetsu",
+    "title": "Maesetsu!",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "el-otro-dia",
+    "title": "El Otro Día",
+    "type": "radio-show"
   }
 ]
