@@ -2683,5 +2683,20 @@
     "id": "el-otro-dia",
     "title": "El Otro Día",
     "type": "radio-show"
+  },
+  {
+    "id": "elayne-boosler-party-of-one",
+    "title": "Elayne Boosler: Party Of One",
+    "type": "comedy-special"
+  },
+  {
+    "id": "elayne-boosler-top-tomata",
+    "title": "Elayne Boosler: Top Tomata",
+    "type": "comedy-special"
+  },
+  {
+    "id": "el-vecino",
+    "title": "El Vecino",
+    "type": "tv-show-series"
   }
 ]

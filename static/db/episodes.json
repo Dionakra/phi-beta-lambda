@@ -6869,5 +6869,87 @@
       "marvelous-mrs-maisel",
       "el-otro-dia"
     ]
+  },
+  {
+    "id": "s02e45",
+    "season": 2,
+    "episode": 45,
+    "title": "Castelo VS Apple",
+    "link": "RWE-HIXYVbc",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "section": "comedian-of-the-day",
+        "extra": {
+          "comedians": [
+            "elayne-boosler"
+          ]
+        }
+      },
+      {
+        "section": "gira-de-festivales",
+        "extra": {
+          "comedians": [
+            "steve-lubetkin"
+          ]
+        }
+      }
+    ],
+    "comedians": [
+      "dani-mateo",
+      "andy-kaufman",
+      "robin-williams",
+      "johnny-carson",
+      "jim-carrey",
+      "phyllis-diller",
+      "joan-rivers",
+      "richard-pryor",
+      "david-letterman",
+      "jay-leno",
+      "eugenio",
+      "emo-philips",
+      "more-mero",
+      "jaime-caravaca",
+      "moshe-kasher",
+      "ignasi-taltavull",
+      "tomas-fuentes",
+      "norm-macdonald",
+      "dave-chappelle",
+      "chris-rock",
+      "pete-davidson",
+      "chris-delia",
+      "jorge-ponce",
+      "larry-david",
+      "david-broncano",
+      "galder-varas",
+      "helena-pozuelo",
+      "joe-rogan",
+      "shelley-berman",
+      "garry-shandling",
+      "bob-hope",
+      "buddy-hackett",
+      "george-carlin",
+      "dick-van-dyke",
+      "jerry-van-dyke",
+      "marc-maron",
+      "bill-cosby"
+    ],
+    "culture": [
+      "the-tonight-show",
+      "elayne-boosler-party-of-one",
+      "elayne-boosler-top-tomata",
+      "todo-es-mentira",
+      "la-resistencia",
+      "moshe-kasher-crowd-surfing",
+      "la-ruina-show",
+      "curb-your-enthusiasm",
+      "la-vida-moderna",
+      "el-vecino"
+    ]
   }
 ]
