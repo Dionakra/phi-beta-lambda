@@ -6951,5 +6951,63 @@
       "la-vida-moderna",
       "el-vecino"
     ]
+  },
+  {
+    "id": "s02e46",
+    "season": 2,
+    "episode": 46,
+    "title": "El Hacker",
+    "link": "24J0lFCDmS8",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "nacho-garcia"
+    ],
+    "sections": [],
+    "comedians": [
+      "mariano-mariano",
+      "tony-antonio",
+      "tony-melero",
+      "jj-vaquero",
+      "jandro",
+      "goyo-jimenez",
+      "miguel-lago",
+      "sr-corrales",
+      "andreu-buenafuente",
+      "luis-piedrahita",
+      "queque",
+      "kaco-forns",
+      "david-navarro",
+      "paco-calavera",
+      "miguel-iribar",
+      "alex-clavero",
+      "quique-matilla",
+      "fran-el-chavo",
+      "litos",
+      "urko-vazquez",
+      "dani-piqueras",
+      "michelle-wolf",
+      "tom-papa",
+      "berto-romero",
+      "george-carlin",
+      "ricky-gervais",
+      "dave-chappelle",
+      "los-morancos",
+      "bill-cosby",
+      "ali-siddiq",
+      "ari-shaffir",
+      "chico-requena"
+    ],
+    "culture": [
+      "rick-and-morty",
+      "the-break-with-michelle-wolf",
+      "ali-siddiq-its-bigger-than-these-bars",
+      "def-comedy-jam",
+      "this-is-not-happening-comedy-central"
+    ]
   }
 ]

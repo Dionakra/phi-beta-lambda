@@ -2698,5 +2698,10 @@
     "id": "el-vecino",
     "title": "El Vecino",
     "type": "tv-show-series"
+  },
+  {
+    "id": "ali-siddiq-its-bigger-than-these-bars",
+    "title": "Ali Siddiq: Its Bigger Than These Bars",
+    "type": "comedy-special"
   }
 ]
