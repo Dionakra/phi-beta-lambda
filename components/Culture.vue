@@ -1,5 +1,5 @@
 <template>
-  <div class="w-32 mx-auto px-1">
+  <div class="w-32 mx-auto px-1" role="listitem">
     <div
       v-if="culture.section"
       class="absolute top-0 px-1 py-1 bg-red text-xs text-white text-center rounded-full"
@@ -8,7 +8,7 @@
       <img
         class="max-h-full mx-auto mt-auto"
         :src="'/images/culture/' + culture.id+ '.jpg'"
-        :alt="culture.title"
+        :alt="'Portada de ' + culture.title"
         :title="culture.title"
       />
     </div>

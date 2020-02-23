@@ -13,26 +13,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "george-carlin"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "george-carlin"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "hannah-gadsby"
-          ],
-          "culture": [
-            "nanette"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "hannah-gadsby"
+        ],
+        "culture": "nanette"
       }
     ],
     "comedians": [
@@ -51,6 +42,7 @@
       "sarah-silverman",
       "bill-maher"
     ],
+    "culture": [],
     "special": "juan-carlos-cordoba"
   },
   {
@@ -67,26 +59,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "dave-chappelle"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "dave-chappelle"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "drew-michael"
-          ],
-          "culture": [
-            "drew-michael"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "drew-michael"
+        ],
+        "culture": "drew-michael"
       }
     ],
     "comedians": [
@@ -153,26 +136,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "norm-macdonald"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "norm-macdonald"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "iliza-shlesinger"
-          ],
-          "culture": [
-            "elder-millenial"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "iliza-shlesinger"
+        ],
+        "culture": "elder-millenial"
       }
     ],
     "comedians": [
@@ -236,23 +210,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "sam-kinison"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "sam-kinison"
+        ]
       },
       {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "judah-friedlander"
-          ],
-          "culture": [
-            "america-is-the-greatest"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "judah-friedlander"
+        ],
+        "culture": "america-is-the-greatest"
       }
     ],
     "comedians": [
@@ -327,26 +295,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "jerry-seinfeld"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "jerry-seinfeld"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "cameron-esposito"
-          ],
-          "culture": [
-            "rape-jokes"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "cameron-esposito"
+        ],
+        "culture": "rape-jokes"
       }
     ],
     "comedians": [
@@ -419,27 +378,18 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "eddie-izzard"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "eddie-izzard"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "natasha-leggero",
-            "moshe-kasher"
-          ],
-          "culture": [
-            "the-honeymoon-standup-special"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "natasha-leggero",
+          "moshe-kasher"
+        ],
+        "culture": "the-honeymoon-standup-special"
       }
     ],
     "comedians": [
@@ -498,26 +448,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "richard-pryor"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "richard-pryor"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "todd-glass"
-          ],
-          "culture": [
-            "act-happy"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "todd-glass"
+        ],
+        "culture": "act-happy"
       }
     ],
     "comedians": [
@@ -570,26 +511,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "joan-rivers"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "joan-rivers"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "bo-burnham"
-          ],
-          "culture": [
-            "make-happy"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "bo-burnham"
+        ],
+        "culture": "make-happy"
       }
     ],
     "comedians": [
@@ -647,26 +579,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "bill-hicks"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "bill-hicks"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "katherine-ryan"
-          ],
-          "culture": [
-            "in-trouble"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "katherine-ryan"
+        ],
+        "culture": "in-trouble"
       }
     ],
     "comedians": [
@@ -725,26 +648,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "jim-gaffigan"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "jim-gaffigan"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "adam-sandler"
-          ],
-          "culture": [
-            "100-fresh"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "adam-sandler"
+        ],
+        "culture": "100-fresh"
       }
     ],
     "comedians": [
@@ -820,26 +734,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "zach-galifianakis"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "zach-galifianakis"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "bert-kreischer"
-          ],
-          "culture": [
-            "secret-time"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "bert-kreischer"
+        ],
+        "culture": "secret-time"
       }
     ],
     "comedians": [
@@ -915,26 +820,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "sarah-silverman"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "sarah-silverman"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "michelle-wolf"
-          ],
-          "culture": [
-            "nice-lady"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "michelle-wolf"
+        ],
+        "culture": "nice-lady"
       }
     ],
     "comedians": [
@@ -1025,26 +921,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "rodney-dangerfield"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "rodney-dangerfield"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "trevor-noah"
-          ],
-          "culture": [
-            "son-of-patricia"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "trevor-noah"
+        ],
+        "culture": "son-of-patricia"
       }
     ],
     "comedians": [
@@ -1116,27 +1003,18 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "chris-rock"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "chris-rock"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "dave-attell",
-            "jeff-ross"
-          ],
-          "culture": [
-            "bumping-mics"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "dave-attell",
+          "jeff-ross"
+        ],
+        "culture": "bumping-mics"
       }
     ],
     "comedians": [
@@ -1236,26 +1114,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "eddie-murphy"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "eddie-murphy"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "various-artists-def-comedy-jam"
-          ],
-          "culture": [
-            "def-comedy-jam"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "various-artists-def-comedy-jam"
+        ],
+        "culture": "def-comedy-jam"
       }
     ],
     "comedians": [
@@ -1349,26 +1218,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "steven-wright"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "steven-wright"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "russell-brand"
-          ],
-          "culture": [
-            "rebirth"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "russell-brand"
+        ],
+        "culture": "rebirth"
       }
     ],
     "comedians": [
@@ -1539,23 +1399,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "ricky-gervais"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "ricky-gervais"
+        ]
       },
       {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "ellen-degeneres"
-          ],
-          "culture": [
-            "ellen-degeneres-relatable"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "ellen-degeneres"
+        ],
+        "culture": "ellen-degeneres-relatable"
       }
     ],
     "comedians": [
@@ -1641,23 +1495,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "bob-einstein"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "bob-einstein"
+        ]
       },
       {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "pete-holmes"
-          ],
-          "culture": [
-            "pete-holmes-dirty-clean"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "pete-holmes"
+        ],
+        "culture": "pete-holmes-dirty-clean"
       }
     ],
     "comedians": [
@@ -1750,23 +1598,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "colin-quinn"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "colin-quinn"
+        ]
       },
       {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "chris-rock"
-          ],
-          "culture": [
-            "bring-the-pain"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "chris-rock"
+        ],
+        "culture": "bring-the-pain"
       }
     ],
     "comedians": [
@@ -1850,26 +1692,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "doug-stanhope"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "doug-stanhope"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "neal-brennan"
-          ],
-          "culture": [
-            "three-mics"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "neal-brennan"
+        ],
+        "culture": "three-mics"
       }
     ],
     "comedians": [
@@ -1943,26 +1776,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "maria-bamford"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "maria-bamford"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "sebastian-maniscalco"
-          ],
-          "culture": [
-            "stay-hungry"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "sebastian-maniscalco"
+        ],
+        "culture": "stay-hungry"
       }
     ],
     "comedians": [
@@ -2041,26 +1865,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "lewis-black"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "lewis-black"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "ray-romano"
-          ],
-          "culture": [
-            "right-here-around-the-corner"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "ray-romano"
+        ],
+        "culture": "right-here-around-the-corner"
       }
     ],
     "comedians": [
@@ -2136,26 +1951,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "robin-williams"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "robin-williams"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "tiffany-haddish"
-          ],
-          "culture": [
-            "she-ready-from-the-hood-to-hollywood"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "tiffany-haddish"
+        ],
+        "culture": "she-ready-from-the-hood-to-hollywood"
       }
     ],
     "comedians": [
@@ -2222,26 +2028,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "janeane-garofalo"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "janeane-garofalo"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "ken-jeong"
-          ],
-          "culture": [
-            "you-complete-me-ho"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "ken-jeong"
+        ],
+        "culture": "you-complete-me-ho"
       }
     ],
     "comedians": [
@@ -2319,26 +2116,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "tommy-cooper"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "tommy-cooper"
+        ]
       },
       {
-        "section": "el-mago-roast"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "ari-shaffir"
-          ],
-          "culture": [
-            "double-negative"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "ari-shaffir"
+        ],
+        "culture": "double-negative"
       }
     ],
     "comedians": [
@@ -2408,26 +2196,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "patton-oswalt"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "patton-oswalt"
+        ]
       },
       {
-        "section": "el-mago-roast"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "amanda-seales"
-          ],
-          "culture": [
-            "i-be-knowin"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "amanda-seales"
+        ],
+        "culture": "i-be-knowin"
       }
     ],
     "comedians": [
@@ -2504,26 +2283,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "margaret-cho"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "margaret-cho"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "emily-heller"
-          ],
-          "culture": [
-            "ice-thickeneres"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "emily-heller"
+        ],
+        "culture": "ice-thickeneres"
       }
     ],
     "comedians": [
@@ -2596,26 +2366,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "don-rickles"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "don-rickles"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "jimmy-carr"
-          ],
-          "culture": [
-            "the-best-of-ultimate-gold-greatest-hits"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "jimmy-carr"
+        ],
+        "culture": "the-best-of-ultimate-gold-greatest-hits"
       }
     ],
     "comedians": [
@@ -2697,26 +2458,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "andrew-dice-clay"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "andrew-dice-clay"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "nate-bargatze"
-          ],
-          "culture": [
-            "the-tennessee-kid"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "nate-bargatze"
+        ],
+        "culture": "the-tennessee-kid"
       }
     ],
     "comedians": [
@@ -2800,23 +2552,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "marc-maron"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "marc-maron"
+        ]
       },
       {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "amy-schumer"
-          ],
-          "culture": [
-            "growing"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "amy-schumer"
+        ],
+        "culture": "growing"
       }
     ],
     "comedians": [
@@ -2964,26 +2710,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "wanda-sykes"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "wanda-sykes"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "kevin-hart"
-          ],
-          "culture": [
-            "kevin-hart-irresponsible"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "kevin-hart"
+        ],
+        "culture": "kevin-hart-irresponsible"
       }
     ],
     "comedians": [
@@ -3062,26 +2799,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "reggie-watts"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "reggie-watts"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "kevin-smith"
-          ],
-          "culture": [
-            "silent-but-deadly"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "kevin-smith"
+        ],
+        "culture": "silent-but-deadly"
       }
     ],
     "comedians": [
@@ -3163,26 +2891,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "woody-allen"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "woody-allen"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "anthony-jeselnik"
-          ],
-          "culture": [
-            "fire-in-the-maternity-ward"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "anthony-jeselnik"
+        ],
+        "culture": "fire-in-the-maternity-ward"
       }
     ],
     "comedians": [
@@ -3291,26 +3010,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "mitch-hedberg"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "mitch-hedberg"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "maria-bamford"
-          ],
-          "culture": [
-            "maria-bamford-old-baby"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "maria-bamford"
+        ],
+        "culture": "maria-bamford-old-baby"
       }
     ],
     "comedians": [
@@ -3385,15 +3095,10 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "natasha-leggero"
-          ]
-        }
-      },
-      {
-        "section": "roast-to-the-people"
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "natasha-leggero"
+        ]
       }
     ],
     "comedians": [
@@ -3442,26 +3147,17 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "paul-f-tompkins"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "paul-f-tompkins"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "mike-birbiglia"
-          ],
-          "culture": [
-            "thank-god-for-jokes"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "mike-birbiglia"
+        ],
+        "culture": "thank-god-for-jokes"
       }
     ],
     "comedians": [
@@ -3523,26 +3219,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "phyllis-diller"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "phyllis-diller"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "wanda-sykes"
-          ],
-          "culture": [
-            "wanda-sykes-not-normal"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "wanda-sykes"
+        ],
+        "culture": "wanda-sykes-not-normal"
       }
     ],
     "comedians": [
@@ -3595,26 +3282,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "eugene-mirman"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "eugene-mirman"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "tig-notaro"
-          ],
-          "culture": [
-            "tig-notaro-boyish-girl"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "tig-notaro"
+        ],
+        "culture": "tig-notaro-boyish-girl"
       }
     ],
     "comedians": [
@@ -3687,26 +3365,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "gilbert-gottfried"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "gilbert-gottfried"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "ahri-findling"
-          ],
-          "culture": [
-            "ahri-findling-jokes"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "ahri-findling"
+        ],
+        "culture": "ahri-findling-jokes"
       }
     ],
     "comedians": [
@@ -3783,26 +3452,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "buddy-hackett"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "buddy-hackett"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "adam-devine"
-          ],
-          "culture": [
-            "best-time-of-our-lives"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "adam-devine"
+        ],
+        "culture": "best-time-of-our-lives"
       }
     ],
     "comedians": [
@@ -3883,11 +3543,7 @@
       "jorge-yorya"
     ],
     "guests": [],
-    "sections": [
-      {
-        "section": "roast-to-the-people"
-      }
-    ],
+    "sections": [],
     "comedians": [
       "jj-vaquero",
       "diego-varea",
@@ -4023,11 +3679,7 @@
       "miguel-campos"
     ],
     "guests": [],
-    "sections": [
-      {
-        "section": "roast-to-the-people"
-      }
-    ],
+    "sections": [],
     "comedians": [
       "andrew-dice-clay",
       "roseanne-barr",
@@ -4122,26 +3774,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "steve-martin"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "steve-martin"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "dave-chappelle"
-          ],
-          "culture": [
-            "stick-and-stones"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "dave-chappelle"
+        ],
+        "culture": "stick-and-stones"
       }
     ],
     "comedians": [
@@ -4246,26 +3889,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "whoopi-goldberg"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "whoopi-goldberg"
+        ]
       },
       {
-        "section": "la-cuota-del-drama"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "julio-torres"
-          ],
-          "culture": [
-            "my-favourite-shapes"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "julio-torres"
+        ],
+        "culture": "my-favourite-shapes"
       }
     ],
     "comedians": [
@@ -4356,23 +3990,16 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "patrice-oneal"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "patrice-oneal"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "freddy-prince"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "freddy-prince"
+        ]
       }
     ],
     "comedians": [
@@ -4468,26 +4095,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "kathy-griffin"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "kathy-griffin"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "bill-burr"
-          ],
-          "culture": [
-            "paper-tiger-bill-burr"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "bill-burr"
+        ],
+        "culture": "paper-tiger-bill-burr"
       }
     ],
     "comedians": [
@@ -4568,23 +4186,16 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "david-spade"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "david-spade"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "charles-chaplin"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "charles-chaplin"
+        ]
       }
     ],
     "comedians": [
@@ -4705,26 +4316,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "chelsea-peretti"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "chelsea-peretti"
+        ]
       },
       {
-        "section": "la-cuota-del-drama"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "nikki-glaser"
-          ],
-          "culture": [
-            "bangin-nikki-glaser"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "nikki-glaser"
+        ],
+        "culture": "bangin-nikki-glaser"
       }
     ],
     "comedians": [
@@ -4801,23 +4403,16 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "demetri-martin"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "demetri-martin"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "mike-destefano"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "mike-destefano"
+        ]
       }
     ],
     "comedians": [
@@ -4923,27 +4518,18 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "riki-lindhome",
-            "kate-micucci"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "riki-lindhome",
+          "kate-micucci"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "simon-amstell"
-          ],
-          "culture": [
-            "set-free"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "simon-amstell"
+        ],
+        "culture": "set-free"
       }
     ],
     "comedians": [
@@ -5054,23 +4640,16 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "redd-foxx"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "redd-foxx"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "john-belushi"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "john-belushi"
+        ]
       }
     ],
     "comedians": [
@@ -5169,23 +4748,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "tina-fey"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "tina-fey"
+        ]
       },
       {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "gary-gulman"
-          ],
-          "culture": [
-            "the-great-depresh"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "gary-gulman"
+        ],
+        "culture": "the-great-depresh"
       }
     ],
     "comedians": [
@@ -5290,15 +4863,10 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "arsenio-hall"
-          ]
-        }
-      },
-      {
-        "section": "roast-to-the-people"
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "arsenio-hall"
+        ]
       }
     ],
     "comedians": [
@@ -5421,20 +4989,16 @@
     ],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "kristen-schaal"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "kristen-schaal"
+        ]
       },
       {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "moms-mabley"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "moms-mabley"
+        ]
       }
     ],
     "comedians": [
@@ -5552,15 +5116,10 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "rob-schneider"
-          ]
-        }
-      },
-      {
-        "section": "roast-to-the-people"
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "rob-schneider"
+        ]
       }
     ],
     "comedians": [
@@ -5676,26 +5235,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "paula-poundstone"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "paula-poundstone"
+        ]
       },
       {
-        "section": "la-cuota-del-drama"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "mike-birbiglia"
-          ],
-          "culture": [
-            "mike-birbiglia-the-new-one"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "mike-birbiglia"
+        ],
+        "culture": "mike-birbiglia-the-new-one"
       }
     ],
     "comedians": [
@@ -5826,23 +5376,16 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "tim-minchin"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "tim-minchin"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "george-carlin"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "george-carlin"
+        ]
       }
     ],
     "comedians": [
@@ -5916,26 +5459,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "alex-borstein"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "alex-borstein"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "michelle-wolf"
-          ],
-          "culture": [
-            "michelle-wolf-joke-show"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "michelle-wolf"
+        ],
+        "culture": "michelle-wolf-joke-show"
       }
     ],
     "comedians": [
@@ -6219,26 +5753,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "emo-philips"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "emo-philips"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "nick-di-paolo"
-          ],
-          "culture": [
-            "nick-di-paolo-a-breath-of-fresh-air"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "nick-di-paolo"
+        ],
+        "culture": "nick-di-paolo-a-breath-of-fresh-air"
       }
     ],
     "comedians": [
@@ -6343,23 +5868,16 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "ellen-degeneres"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "ellen-degeneres"
+        ]
       },
       {
-        "section": "roast-to-the-people"
-      },
-      {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "ralphie-may"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "ralphie-may"
+        ]
       }
     ],
     "comedians": [
@@ -6498,20 +6016,16 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "dylan-moran"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "dylan-moran"
+        ]
       },
       {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "jorge-yorya"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "jorge-yorya"
+        ]
       }
     ],
     "comedians": [
@@ -6620,12 +6134,10 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "rita-rudner"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "rita-rudner"
+        ]
       }
     ],
     "comedians": [
@@ -6698,12 +6210,10 @@
     ],
     "sections": [
       {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "peter-sellers"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "peter-sellers"
+        ]
       }
     ],
     "comedians": [
@@ -6755,23 +6265,17 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "bill-bailey"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "bill-bailey"
+        ]
       },
       {
-        "section": "thank-you",
-        "extra": {
-          "comedians": [
-            "tom-papa"
-          ],
-          "culture": [
-            "tom-papa-youre-doing-great"
-          ]
-        }
+        "id": "thank-you",
+        "comedians": [
+          "tom-papa"
+        ],
+        "culture": "tom-papa-youre-doing-great"
       }
     ],
     "comedians": [
@@ -6884,20 +6388,16 @@
     "guests": [],
     "sections": [
       {
-        "section": "comedian-of-the-day",
-        "extra": {
-          "comedians": [
-            "elayne-boosler"
-          ]
-        }
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "elayne-boosler"
+        ]
       },
       {
-        "section": "gira-de-festivales",
-        "extra": {
-          "comedians": [
-            "steve-lubetkin"
-          ]
-        }
+        "id": "gira-de-festivales",
+        "comedians": [
+          "steve-lubetkin"
+        ]
       }
     ],
     "comedians": [

@@ -1,12 +1,13 @@
 <template>
-  <div class="md:flex md:flex-wrap md:-pl-2">
+  <div class="md:flex md:flex-wrap">
+    <h1 class="text-center text-red text-4xl mb-4 -mt-4 mx-auto">Lista de Programas</h1>
     <div
       class="mx-auto"
       v-infinite-scroll="loadMore"
       infinite-scroll-disabled="busy"
       infinite-scroll-distance="200"
     >
-      <div class="flex flex-inline flex-wrap ">
+      <div class="flex flex-inline flex-wrap" role="list">
         <EpisodeCard :episode="episode" :key="episode.id" v-for="episode in showing" />
       </div>
     </div>
@@ -35,20 +36,20 @@ export default {
       showing: []
     };
   },
-  mounted () {
-    this.searching = true
+  mounted() {
+    this.searching = true;
     this.showing = this.episodes.slice(0, PAGE * this.curPage);
-    this.searching = false
+    this.searching = false;
   },
   methods: {
     loadMore() {
       if (!this.searching) {
-        this.searching = true
+        this.searching = true;
         this.curPage++;
         this.showing = this.episodes.slice(0, PAGE * this.curPage);
-        this.searching = false
+        this.searching = false;
       }
-    },
+    }
   }
 };
 </script>

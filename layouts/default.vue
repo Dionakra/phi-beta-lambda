@@ -1,14 +1,15 @@
 <template>
   <div class="mx-auto sm:px-4 md:px-16 font-sans antialiased">
-    <nav class="flex items-center justify-between flex-wrap pt-3 pb-6">
+    <!-- NAVBAR -->
+    <nav class="flex items-center justify-between flex-wrap py-2">
       <!-- START LOGO -->
       <div class="items-center text-white mr-3">
         <nuxt-link to="/">
           <img
             src="/icons/logo-desc-min.webp"
             class="h-12"
-            title="Comedia Perpetua Logo"
-            alt="Comedia Perpetua Logo"
+            title="Comedia Perpetua"
+            alt="Logo de Comedia Perpetua / Phi Beta Lambda"
           />
         </nuxt-link>
       </div>
@@ -54,7 +55,7 @@
             class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
             to="/comicos"
             v-on:click.native="toggle()"
-          >Cómicos</nuxt-link>
+          >Cómic@s</nuxt-link>
           <nuxt-link
             class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
             to="/cultura"
@@ -70,10 +71,13 @@
 
         <!-- START SOCIAL NETWORKS -->
         <div>
+          <!-- YOUTUBE -->
           <a
             target="_blank"
             rel="noopener"
             href="https://www.youtube.com/channel/UCFKcIYyLxfQBAD4r0Bq1RfA"
+            aria-label="Link al canal de YouTube"
+            class="outline-none focus:shadow-outline focus:bg-blue-100"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -85,8 +89,16 @@
               />
             </svg>
           </a>
+          <!-- END YOUTUBE -->
 
-          <a target="_blank" rel="noopener" href="https://twitter.com/ComediaPerpetua">
+          <!-- TWITTER -->
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://twitter.com/ComediaPerpetua"
+            aria-label="Link a Twitter"
+            class="outline-none focus:shadow-outline focus:bg-blue-100"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 20 20"
@@ -97,7 +109,16 @@
               />
             </svg>
           </a>
-          <a target="_blank" rel="noopener" href="https://www.instagram.com/phi.beta.lambda/">
+          <!-- END TWITTER -->
+
+          <!-- INSTAGRAM -->
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://www.instagram.com/phi.beta.lambda/"
+            aria-label="Link a Instagram"
+            class="outline-none focus:shadow-outline focus:bg-blue-100"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 18 18"
@@ -108,7 +129,16 @@
               />
             </svg>
           </a>
-          <a target="_blank" rel="noopener" href="https://www.facebook.com/PhiBetaLambda.Comedy/">
+          <!-- END INSTAGRAM -->
+
+          <!-- FACEBOOK -->
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://www.facebook.com/PhiBetaLambda.Comedy/"
+            aria-label="Link a Facebook"
+            class="outline-none focus:shadow-outline focus:bg-blue-100"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 20 20"
@@ -119,12 +149,18 @@
               />
             </svg>
           </a>
+          <!-- END FACEBOOK -->
         </div>
         <!-- END SOCIAL NETWORKS -->
       </div>
     </nav>
+    <!-- END NAVBAR -->
 
-    <nuxt />
+    <!-- CONTENT -->
+    <main>
+      <nuxt />
+    </main>
+    <!-- END CONTENT -->
   </div>
 </template>
 

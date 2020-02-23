@@ -1,5 +1,5 @@
 <template>
-  <div class="md:w-1/2 lg:w-1/4 px-2 main mx-auto">
+  <div class="md:w-1/2 lg:w-1/4 px-2 main mx-auto" role="listitem">
     <div class="max-w-sm rounded overflow-hidden shadow-lg bm--card-equal-height">
       <img class="w-full" :src="'/images/comedians/' + host.id + '.jpg'" :alt="host.name" />
       <div class="px-6 py-4">

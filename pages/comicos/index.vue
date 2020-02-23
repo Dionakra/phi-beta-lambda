@@ -1,5 +1,6 @@
 <template>
   <div class="mx-auto">
+    <h1 class="text-center text-red text-4xl mb-4 -mt-4">Cómic@s</h1>
     <div class="md:w-full lg:w-1/2 mx-auto mb-2">
       <input
         class="transition focus:outline-0 border border-transparent focus:bg-white focus:border-red placeholder-gray-600 rounded-lg bg-gray-200 py-2 pr-4 pl-10 block w-full appearance-none leading-normal ds-input"
@@ -60,7 +61,7 @@
       infinite-scroll-disabled="busy"
       infinite-scroll-distance="200"
     >
-      <div class="flex flex-inline flex-wrap mx-auto justify-center">
+      <div class="flex flex-inline flex-wrap mx-auto justify-center" role="list">
         <ComedianCard :comedian="comedian" :key="comedian.id" v-for="comedian in showing" />
       </div>
     </div>
@@ -73,6 +74,19 @@ import ComedianCard from "~/components/ComedianCard";
 const PAGE = 30;
 
 export default {
+  head() {
+    return {
+      title: "Comedia Perpetua - Phi Beta Lambda | Cómic@s",
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content:
+            "Lista de cómic@s mencionados en el programa, indicando su número de menciones en total"
+        }
+      ]
+    };
+  },
   components: {
     ComedianCard
   },
@@ -102,7 +116,7 @@ export default {
       const res = this.comedians
         .filter(x => {
           if (this.searchTerm.trim().length != 0) {
-            return x.details.name
+            return x.name
               .toLowerCase()
               .includes(this.searchTerm.toLowerCase());
           } else {
@@ -112,15 +126,15 @@ export default {
         .sort((a, b) => {
           if (this.orderByName) {
             if (this.ascending) {
-              return a.details.name.localeCompare(b.details.name);
+              return a.name.localeCompare(b.name);
             } else {
-              return b.details.name.localeCompare(a.details.name);
+              return b.name.localeCompare(a.name);
             }
           } else {
             if (this.ascending) {
-              return a.appeareances - b.appeareances;
+              return a.mentions - b.mentions;
             } else {
-              return b.appeareances - a.appeareances;
+              return b.mentions - a.mentions;
             }
           }
         });

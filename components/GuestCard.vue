@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto w-full sm:w-1/2 md:w-1/3 lg:w-1/5 xl:w-1/6 p-2">
+  <div class="mx-auto w-full sm:w-1/2 md:w-1/3 lg:w-1/5 xl:w-1/6 p-2" role="listitem">
     <div class="max-w-sm rounded overflow-hidden shadow-lg bm--card-equal-height">
       <img
         class="w-full"
@@ -13,7 +13,7 @@
 
       <div
         class="text-sm pl-6 -mt-4 mb-2"
-      >{{guest.episode.id.toUpperCase()}} - {{guest.episode.title}}</div>
+      >{{guest.episode}}</div>
     </div>
   </div>
 </template>

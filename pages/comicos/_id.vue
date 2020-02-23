@@ -1,41 +1,30 @@
 <template>
-  <div class="ml-2 sm:ml-4 sm:flex sm:flex-inline mx-auto">
-    <div>
-      <img
-        :src="'/images/comedians/' + comedian.id + '.jpg'"
-        :alt="comedian.name"
-        :title="comedian.name"
-        class="rounded-full mx-auto sm:mx-0"
-      />
-    </div>
-
-    <div class="ml-1 md:ml-2">
-      <span class="text-2xl text-red text-bold">{{comedian.name}}</span>
+  <div>
+    <h1 class="text-center text-red text-4xl mb-4 -mt-4">{{name}}</h1>
+    <div class="ml-2 sm:ml-4 sm:flex sm:flex-inline mx-auto">
+      <div>
+        <img
+          :src="'/images/comedians/' + id + '.jpg'"
+          :alt="name"
+          :title="name"
+          class="rounded-full mx-auto sm:mx-0"
+        />
+      </div>
 
       <div class="ml-1 md:ml-2">
-        <span class="text-lg">Programas en que se le menciona</span>
-        <div
-          v-for="mention in mentions"
-          :key="mention.id"
-          class="ml-1 md:ml-2"
-        >{{mention.id.toUpperCase()}} - {{mention.title}}</div>
-      </div>
-      <div class="mt-4 ml-1 md:ml-2">
-        <div v-if="vip != undefined && vip.length > 0">
-          <span class="text-lg">Destacad@</span>
-          <div v-for="v in vip" :key="v.id" class="ml-1 md:ml-2">
-            {{v.id.toUpperCase()}} - {{v.title}}
-            <div v-if="v.special" class="ml-1 md:ml-2">Mención especial</div>
-
-            <div
-              v-else-if="v.section.section.id == 'comedian-of-the-day'"
-              class="ml-1 md:ml-2"
-            >Cómic@ del día</div>
-
-            <div
-              v-else-if="v.section.section.id == 'thank-you'"
-              class="ml-1 md:ml-2"
-            >{{v.section.section.name}} - {{v.section.extra.culture[0].title}}</div>
+        <div class="ml-1 md:ml-2" role="list">
+          <span class="text-lg">Programas en que se le menciona</span>
+          <div
+            v-for="mention in mentions"
+            :key="mention"
+            class="ml-1 md:ml-2"
+            role="listitem"
+          >{{mention}}</div>
+        </div>
+        <div class="mt-4 ml-1 md:ml-2">
+          <div v-if="vip != undefined && vip.length > 0" role="list">
+            <span class="text-lg">Destacad@</span>
+            <div v-for="v in vip" :key="v" class="ml-1 md:ml-2" role="listitem">{{v}}</div>
           </div>
         </div>
       </div>
@@ -47,6 +36,21 @@
 import axios from "axios";
 
 export default {
+  head() {
+    return {
+      title: "Comedia Perpetua - Phi Beta Lambda | " + this.name,
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content:
+            "Lista de programas en los que " +
+            this.name +
+            " es mencionad@"
+        }
+      ]
+    };
+  },
   asyncData({ params, error }) {
     return axios
       .get(`/api/comedians/${params.id}.json`)
@@ -59,9 +63,10 @@ export default {
   },
   data() {
     return {
-      mentions: [],
+      id: "",
+      name: "",
       vip: [],
-      comedian: {}
+      mentions: []
     };
   }
 };

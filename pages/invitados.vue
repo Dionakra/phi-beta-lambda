@@ -1,9 +1,9 @@
 <template>
   <div>
-    <p class="text-center text-5xl mb-4 -mt-4">Invitad@s</p>
+    <h1 class="text-center text-red text-4xl mb-4 -mt-4">Invitad@s</h1>
     <div class="px-2">
-      <div class="flex flex-wrap -mx-2" v-if="guests != undefined && guests.length != 0">
-        <GuestCard :guest="guest" :key="guest.id + guest.episode.title" v-for="guest in guests" />
+      <div class="flex flex-wrap -mx-2" v-if="guests != undefined && guests.length != 0" role="list">
+        <GuestCard :guest="guest" :key="guest.id + guest.episode" v-for="guest in guests" />
       </div>
     </div>
   </div>
@@ -15,6 +15,18 @@ import axios from "axios";
 import GuestCard from "~/components/GuestCard";
 
 export default {
+  head() {
+    return {
+      title: 'Comedia Perpetua - Phi Beta Lambda | Invitad@s al programa',
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Lista de invitad@s al programa, ordenados por orden descendente de aparición"
+        }
+      ]
+    }
+  },
   components: {
     GuestCard
   },

@@ -1,12 +1,20 @@
 <template>
-  <div class>
+  <div>
+    <!-- TITLE -->
+    <h1
+      class="text-center text-red text-4xl mb-4 -mt-4"
+    >{{episode.id.toUpperCase()}} - {{episode.title}}</h1>
+    <!-- END TITLE -->
+
+    <!-- CONTENT -->
     <div class="sm:flex sm:flex-inline justify-center sm:flex-none">
-      <div class="rounded-l text-center overflow-hidden my-auto sm:block">
+      <!-- YOUTUBE -->
+      <div class="text-center overflow-hidden my-auto sm:block">
         <img
           class="w-full"
           :src="'https://i.ytimg.com/vi_webp/' + episode.link + '/mqdefault.webp'"
-          :title="'Portada ' + episode.title"
-          :alt="'Portada ' + episode.title"
+          :title="episode.title"
+          :alt="'Imagen de portada del programa' + episode.title"
         />
         <div class="mt-4">
           <a
@@ -29,78 +37,51 @@
           </a>
         </div>
       </div>
-      <div class="p-2 flex leading-normal">
+      <!-- END YOUTUBE -->
+
+      <!-- PROGRAM SPECIAL -->
+      <div class="px-2 flex leading-normal">
         <div class="inline-block align-top">
-          <div class="text-gray-900 font-bold text-red text-xl flex flex-inline">
-            <p class="my-auto">{{episode.id.toUpperCase()}} - {{episode.title}}</p>
-          </div>
           <div class="flex flex-inline flex-wrap">
-            <div>
+            <!-- HOSTS -->
+            <div class="ml-3">
               <p class="text-sm text-gray-900">Presentado por</p>
-              <div class="flex flex-inline -ml-2">
-                <img
+              <div class="flex flex-inline" role="list">
+                <Comedian
                   v-for="host in episode.hosts"
                   :key="host.id"
-                  class="rounded-full h-20 w-20 ml-3"
-                  :src="'/images/comedians/' + host.id+ '_128.jpg'"
-                  :alt="host.name"
-                  :title="host.name"
+                  :comedian="host"
+                  :showName="false"
                 />
               </div>
             </div>
+            <!-- END HOST -->
+
+            <!-- GUESTS -->
             <div v-if="episode.guests && episode.guests.length > 0" class="ml-10">
               <p class="text-sm text-gray-900">Invitad@s</p>
-              <div class="flex flex-inline -ml-2">
-                <nuxt-link
-                  :to="'/comicos/' + guest.id"
-                  v-for="guest in episode.guests"
-                  :key="guest.id"
-                >
-                  <img
-                    class="rounded-full h-20 w-20 ml-3"
-                    :src="'/images/comedians/' + guest.id+ '_128.jpg'"
-                    :alt="guest.name"
-                    :title="guest.name"
-                  />
-                </nuxt-link>
+              <div class="flex flex-inline -ml-2" role="list">
+                <ComedianLink v-for="guest in episode.guests" :key="guest.id" :comedian="guest" />
               </div>
             </div>
+            <!-- END GUESTS -->
           </div>
 
-          <div class="flex flex-inline align-top mt-4">
+          <!-- SECTIONS -->
+          <div class="flex flex-inline flex-wrap align-top mt-4" role="list" v-if="episode.sections && episode.sections.length > 0">
             <div
-              class="align-top ml-3 -pl-4"
+              class="align-top ml-3 mx-auto text-center"
               v-for="section in episode.sections"
-              :key="section.section.id"
+              :key="section.id"
+              role="listitem"
             >
-              <div
-                class="pl-4"
-                v-if="section.extra && section.extra.comedians && section.extra.comedians.length > 0"
-              >
-                <p class="text-red align-top text-center">{{section.section.name}}</p>
-                <p
-                  v-if="section.section.id == 'thank-you' && section.extra.culture"
-                  class="text-sm text-red text-center"
-                >{{section.extra.culture[0].title}}</p>
-                <p v-else>&nbsp;</p>
-                <div class="flex flex-inline mx-auto -pl-4">
-                  <div
-                    v-for="comedian in section.extra.comedians"
-                    :key="comedian.id"
-                    class="mx-auto w-full"
-                  >
-                    <nuxt-link :to="'/comicos/' + comedian.id">
-                      <img
-                        class="rounded-full h-20 w-20 mx-auto"
-                        :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
-                        :alt="comedian.name"
-                        :title="comedian.name"
-                      />
-
-                      <p class="text-sm text-gray-900 text-center">{{comedian.name}}</p>
-                    </nuxt-link>
-                  </div>
-                </div>
+              <p class="text-red align-top text-center">{{section.name}}</p>
+              <div role="list">
+                <ComedianLink
+                  v-for="comedian in section.comedians"
+                  :key="comedian.id"
+                  :comedian="comedian"
+                />
               </div>
             </div>
 
@@ -108,50 +89,33 @@
               <div class="align-top ml-3 -pl-4">
                 <div class="pl-4">
                   <p class="text-red align-top text-center">Mención Especial</p>
-                  <div class="flex flex-inline mx-auto -pl-4">
-                    <div class="mx-auto w-full">
-                      <nuxt-link :to="'/comicos/' + episode.special.id">
-                        <img
-                          class="rounded-full h-20 w-20 mx-auto bg-gray-100"
-                          :src="'/images/comedians/' + episode.special.id+ '_128.jpg'"
-                          :alt="episode.special.name"
-                          :title="episode.special.name"
-                        />
-                        <p class="text-sm text-gray-900 text-center">{{episode.special.name}}</p>
-                      </nuxt-link>
-                    </div>
-                  </div>
+                  <ComedianLink :comedian="episode.special" />
                 </div>
               </div>
             </div>
           </div>
+          <!-- END SECTIONS -->
         </div>
       </div>
+
+      <!-- END PROGRAM SPECIAL -->
     </div>
     <div class v-if="episode.comedians && episode.comedians.length > 0">
       <span class="text-lg text-red">Cómic@s mencionados ({{episode.comedians.length}})</span>
-      <div class="flex flex-inline flex-wrap">
+      <div class="flex flex-inline flex-wrap" role="list">
         <div
           v-for="comedian in episode.comedians"
           :key="comedian.id"
-          class="w-24 -mt-2 mx-auto sm:mx-0"
+          class="w-24 mx-auto sm:mx-0"
         >
-          <nuxt-link :to="'/comicos/' + comedian.id">
-            <img
-              class="rounded-full h-20 w-20 mx-auto mt-4"
-              :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
-              :alt="comedian.name"
-              :title="comedian.name"
-            />
-            <p class="text-sm text-gray-700 text-center">{{comedian.name}}</p>
-          </nuxt-link>
+          <ComedianLink :comedian="comedian" />
         </div>
       </div>
     </div>
 
     <div v-if="episode.culture && episode.culture.length > 0" class="mt-6">
       <span class="text-lg text-red">Cultura ({{episode.culture.length}})</span>
-      <div class="flex flex-inline flex-wrap mx-4">
+      <div class="flex flex-inline flex-wrap mx-4" role="list">
         <div
           v-for="culture in episode.culture"
           :key="culture.id"
@@ -161,16 +125,33 @@
         </div>
       </div>
     </div>
+    <!-- END CONTENT -->
   </div>
 </template>
 
 <script>
 import axios from "axios";
 import Culture from "~/components/Culture";
+import ComedianLink from "~/components/ComedianLink";
+import Comedian from "~/components/Comedian";
 
 export default {
+  head() {
+    return {
+      title: "Comedia Perpetua - Phi Beta Lambda | " + this.episode.title,
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: "Detalle del programa " + this.episode.title
+        }
+      ]
+    };
+  },
   components: {
-    Culture
+    Culture,
+    Comedian,
+    ComedianLink
   },
   asyncData({ params, error }) {
     return axios
