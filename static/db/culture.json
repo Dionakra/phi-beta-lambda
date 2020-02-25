@@ -2703,5 +2703,50 @@
     "id": "ali-siddiq-its-bigger-than-these-bars",
     "title": "Ali Siddiq: Its Bigger Than These Bars",
     "type": "comedy-special"
+  },
+  {
+    "id": "maria-bamford-weakness-is-the-brand",
+    "title": "Maria Bamford: Weakness Is The Brand",
+    "type": "comedy-special"
+  },
+  {
+    "id": "el-quinto-elemento",
+    "title": "El Quinto Elemento",
+    "type": "movie"
+  },
+  {
+    "id": "jackie-brown",
+    "title": "Jackie Brown",
+    "type": "movie"
+  },
+  {
+    "id": "reservoir-dogs",
+    "title": "Reservoir Dogs",
+    "type": "movie"
+  },
+  {
+    "id": "hora-punta",
+    "title": "Hora Punta",
+    "type": "movie"
+  },
+  {
+    "id": "chris-tucker-live",
+    "title": "Chris Tucker: Live",
+    "type": "comedy-special"
+  },
+  {
+    "id": "kevin-hart-comedy-in-color",
+    "title": "Kevin Hart: Comedy In Color",
+    "type": "tv-show"
+  },
+  {
+    "id": "la-loca-historia-de-las-galaxias",
+    "title": "La Loca Historia De Las Galaxias",
+    "type": "movie"
+  },
+  {
+    "id": "carino-he-encogido-a-los-ninos",
+    "title": "Cariño, He Encogido A Los Niños",
+    "type": "movie"
   }
 ]

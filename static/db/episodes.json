@@ -6509,5 +6509,70 @@
       "def-comedy-jam",
       "this-is-not-happening-comedy-central"
     ]
+  },
+  {
+    "id": "s02e47",
+    "season": 2,
+    "episode": 47,
+    "title": "Cinco cocineros echan a perder la sopa",
+    "link": "iLJjHsqxJWU",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "chris-tucker"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "maria-bamford"
+        ],
+        "culture": "maria-bamford-weakness-is-the-brand"
+      }
+    ],
+    "comedians": [
+      "joe-rogan",
+      "eddie-murphy",
+      "janeane-garofalo",
+      "kathy-griffin",
+      "steven-wright",
+      "jamie-foxx",
+      "arsenio-hall",
+      "jj-vaquero",
+      "kevin-hart",
+      "alvaro-carmona",
+      "hasan-minhaj",
+      "david-cross",
+      "michelle-wolf",
+      "kenan-thompson",
+      "millan-salcedo",
+      "rick-moranis",
+      "jorge-ponce",
+      "david-broncano",
+      "dave-chappelle"
+    ],
+    "culture": [
+      "friends",
+      "def-comedy-jam",
+      "el-quinto-elemento",
+      "jackie-brown",
+      "reservoir-dogs",
+      "hora-punta",
+      "el-principe-de-zamunda",
+      "chris-tucker-live",
+      "kevin-hart-comedy-in-color",
+      "alvaro-carmona-gente-hablando",
+      "curb-your-enthusiasm",
+      "la-loca-historia-de-las-galaxias",
+      "carino-he-encogido-a-los-ninos",
+      "lady-dinamyte"
+    ]
   }
 ]
