@@ -2748,5 +2748,15 @@
     "id": "carino-he-encogido-a-los-ninos",
     "title": "Cariño, He Encogido A Los Niños",
     "type": "movie"
+  },
+  {
+    "id": "esto-no-es-una-serie",
+    "title": "Esto No Es Una Serie",
+    "type": "tv-show"
+  },
+  {
+    "id": "malviviendo",
+    "title": "Malviviendo",
+    "type": "tv-show-series"
   }
 ]
