@@ -6612,5 +6612,118 @@
       "malviviendo",
       "gran-lebowski"
     ]
+  },
+  {
+    "id": "s02e49",
+    "season": 2,
+    "episode": 49,
+    "title": "Peta Davidson",
+    "link": "IOzf2omr2NE",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "whitney-cummings"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "pete-davidson"
+        ],
+        "culture": "pete-davidson-alive-from-new-york"
+      }
+    ],
+    "comedians": [
+      "tom-segura",
+      "dave-attell",
+      "lenny-bruce",
+      "bill-hicks",
+      "tip-y-coll",
+      "tiffany-haddish",
+      "joan-rivers",
+      "natasha-leggero",
+      "chelsea-handler",
+      "neal-brennan",
+      "jorge-yorya",
+      "jim-gaffigan",
+      "conan-obrien",
+      "marc-maron",
+      "kaco-forns",
+      "colin-jost",
+      "john-mulaney",
+      "john-leguizamo",
+      "ken-jeong",
+      "maria-bamford",
+      "david-broncano",
+      "louis-ck",
+      "mitch-hedberg",
+      "lorne-michaels"
+    ],
+    "culture": [
+      "tom-segura-en-espanol",
+      "good-for-you-with-whitney-cummings",
+      "punkd",
+      "comedians-of-chelsea-lately",
+      "two-broke-girls",
+      "two-and-a-half-men",
+      "whitney-cummings-can-i-touch-it",
+      "whitney-cummings-money-shot",
+      "roseanne",
+      "the-female-brain",
+      "renegado",
+      "conan-without-borders",
+      "saturday-night-live",
+      "the-simpsons",
+      "the-jesus-rolls"
+    ]
+  },
+  {
+    "id": "s02e50",
+    "season": 2,
+    "episode": 50,
+    "title": "Chapa sobre curb",
+    "link": "bRSdYqO66cE",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [
+      "antonio-trashorras"
+    ],
+    "sections": [],
+    "comedians": [
+      "larry-david",
+      "louis-ck",
+      "jerry-seinfeld",
+      "george-costanza",
+      "alfredo-diaz",
+      "jorge-yorya",
+      "vengamonjas",
+      "ignatius-farray",
+      "jeff-garlin",
+      "bob-einstein",
+      "ricky-gervais"
+    ],
+    "culture": [
+      "curb-your-enthusiasm",
+      "louie",
+      "seinfeld",
+      "saturday-night-live",
+      "tu-antes-molabas",
+      "el-fin-de-la-comedia",
+      "the-office-uk",
+      "the-office-us",
+      "comedians-in-cars-getting-coffee",
+      "jeff-garlin-our-man-in-chicago",
+      "friends"
+    ]
   }
 ]

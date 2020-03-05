@@ -2758,5 +2758,65 @@
     "id": "malviviendo",
     "title": "Malviviendo",
     "type": "tv-show-series"
+  },
+  {
+    "id": "pete-davidson-alive-from-new-york",
+    "title": "Pete Davidson: Alive From New York",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tom-segura-en-espanol",
+    "title": "Tom Segura En Español",
+    "type": "radio-show"
+  },
+  {
+    "id": "good-for-you-with-whitney-cummings",
+    "title": "Good For You With Whitney Cummings",
+    "type": "radio-show"
+  },
+  {
+    "id": "punkd",
+    "title": "Punk'd",
+    "type": "tv-show"
+  },
+  {
+    "id": "comedians-of-chelsea-lately",
+    "title": "Comedians Of Chelsea Lately",
+    "type": "tv-show"
+  },
+  {
+    "id": "two-broke-girls",
+    "title": "Two Broke Girls",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "whitney-cummings-money-shot",
+    "title": "Whitney Cummings: Money Shot",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-female-brain",
+    "title": "The Female Brain",
+    "type": "movie"
+  },
+  {
+    "id": "renegado",
+    "title": "Renegado",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-jesus-rolls",
+    "title": "The Jesus Rolls",
+    "type": "movie"
+  },
+  {
+    "id": "tu-antes-molabas",
+    "title": "Tú Antes Molabas",
+    "type": "tv-show"
+  },
+  {
+    "id": "jeff-garlin-our-man-in-chicago",
+    "title": "Jeff Garlin: Our Man In Chicago",
+    "type": "comedy-special"
   }
 ]
