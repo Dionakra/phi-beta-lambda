@@ -493,7 +493,7 @@
   },
   {
     "id": "jim-jeffries",
-    "name": "Jim Jeffries"
+    "name": "Jim Jefferies"
   },
   {
     "id": "jimmy-carr",
@@ -2514,5 +2514,9 @@
   {
     "id": "jeff-garlin",
     "name": "Jeff Garlin"
+  },
+  {
+    "id": "j-b-smoove",
+    "name": "J. B. Smoove"
   }
 ]
