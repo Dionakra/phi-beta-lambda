@@ -6726,5 +6726,87 @@
       "jeff-garlin-our-man-in-chicago",
       "friends"
     ]
+  },
+  {
+    "id": "s02e51",
+    "season": 2,
+    "episode": 51,
+    "title": "No aguantarás ni 90 segundos",
+    "link": "PccNPT7Hffo",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "steve-hughes"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "taylor-tomlinson"
+        ],
+        "culture": "taylor-tomlinson-quarter-life-crisis"
+      }
+    ],
+    "comedians": [
+      "alvaro-carmona",
+      "jim-jeffries",
+      "stephen-k-amos",
+      "david-cesar",
+      "andres-fajngold",
+      "jorge-ponce",
+      "jorge-segura",
+      "fernando-morano",
+      "denny-horror",
+      "daniela-padron",
+      "ali-wong",
+      "amy-schumer",
+      "dave-chappelle",
+      "david-letterman",
+      "kevin-hart",
+      "jamie-foxx",
+      "bill-burr",
+      "billy-crystal",
+      "hannah-gadsby",
+      "wanda-sykes",
+      "graham-norton",
+      "martin-lawrence",
+      "jane-fonda",
+      "lily-tomlin",
+      "mike-birbiglia",
+      "jeff-ross",
+      "dave-attell",
+      "tom-segura",
+      "michelle-wolf",
+      "whitney-cummings",
+      "mike-birbiglia",
+      "ken-jeong",
+      "chris-rock",
+      "tom-papa",
+      "bert-kreischer",
+      "joe-rogan",
+      "moshe-kasher",
+      "natasha-leggero",
+      "sebastian-maniscalco",
+      "tiffany-haddish",
+      "al-yankovic",
+      "los-morancos",
+      "conan-obrien",
+      "kaco-forns"
+    ],
+    "culture": [
+      "alvaro-carmona-gente-hablando",
+      "la-resistencia",
+      "monologamia",
+      "the-machine-bert-kreischer",
+      "bert-kreischer-hey-big-boy",
+      "comicos-del-mundo"
+    ]
   }
 ]

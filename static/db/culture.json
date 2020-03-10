@@ -2818,5 +2818,20 @@
     "id": "jeff-garlin-our-man-in-chicago",
     "title": "Jeff Garlin: Our Man In Chicago",
     "type": "comedy-special"
+  },
+  {
+    "id": "monologamia",
+    "title": "Monologamia",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bert-kreischer-hey-big-boy",
+    "title": "Bert Kreischer: Hey Big Boy",
+    "type": "comedy-special"
+  },
+  {
+    "id": "taylor-tomlinson-quarter-life-crisis",
+    "title": "Taylor Tomlinson: Quarter-Life Crisis",
+    "type": "comedy-special"
   }
 ]
