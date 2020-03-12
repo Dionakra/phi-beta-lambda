@@ -6808,5 +6808,56 @@
       "bert-kreischer-hey-big-boy",
       "comicos-del-mundo"
     ]
+  },
+  {
+    "id": "s02e52",
+    "season": 2,
+    "episode": 52,
+    "title": "Programa indiezado",
+    "link": "qDDbZlt8580",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "helena-pozuelo"
+    ],
+    "sections": [],
+    "comedians": [
+      "pilar-de-francisco",
+      "borja-sumozas",
+      "laura-marquez",
+      "ana-morgade",
+      "miguel-noguera",
+      "pantomima-full",
+      "rocio-quillahuaman",
+      "ignatius-farray",
+      "xavi-daura",
+      "dario-adanti",
+      "glory-meyers",
+      "liz-miele",
+      "jim-gaffigan",
+      "bill-bailey",
+      "louis-ck",
+      "jim-jeffries",
+      "albert-floyd",
+      "charlie-pee",
+      "andrew-oneill",
+      "flight-of-the-conchords",
+      "aziz-ansari",
+      "carmen-lynch",
+      "bill-burr",
+      "joe-rogan",
+      "ali-macofsky",
+      "jorge-ponce"
+    ],
+    "culture": [
+      "la-resistencia",
+      "que-grandes-son",
+      "the-larry-sanders-show",
+      "infrashow"
+    ]
   }
 ]

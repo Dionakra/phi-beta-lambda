@@ -2833,5 +2833,15 @@
     "id": "taylor-tomlinson-quarter-life-crisis",
     "title": "Taylor Tomlinson: Quarter-Life Crisis",
     "type": "comedy-special"
+  },
+  {
+    "id": "que-grandes-son",
+    "title": "Que Grandes Son",
+    "type": "radio-show"
+  },
+  {
+    "id": "infrashow",
+    "title": "Infrashow",
+    "type": "radio-show"
   }
 ]
