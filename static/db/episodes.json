@@ -6859,5 +6859,67 @@
       "the-larry-sanders-show",
       "infrashow"
     ]
+  },
+  {
+    "id": "s02e53",
+    "season": 2,
+    "episode": 53,
+    "title": "No somos profesionales pero sabemos hacerlo",
+    "link": "SqZ21bes6Jc",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "norm-macdonald"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "marc-maron"
+        ],
+        "culture": "marc-maron-end-times-fun"
+      }
+    ],
+    "comedians": [
+      "pete-davidson",
+      "litos",
+      "lalo-tenorio",
+      "david-broncano",
+      "toni-cano",
+      "andres-fajngold",
+      "xavi-daura",
+      "dani-mateo",
+      "russell-brand",
+      "marc-maron",
+      "tom-segura",
+      "bert-kreischer",
+      "stephen-colbert",
+      "jimmy-fallon",
+      "jimmy-kimmel",
+      "ellen-degeneres",
+      "oscar-saenz",
+      "joe-rogan",
+      "aziz-ansari",
+      "iliza-shlesinger",
+      "nikki-glaser",
+      "caleb-synan",
+      "arnau-soler"
+    ],
+    "culture": [
+      "la-resistencia",
+      "bert-kreischer-hey-big-boy",
+      "todo-es-mentira",
+      "last-week-john-oliver",
+      "wtf-with-marc-maron",
+      "tom-segura-ball-hog"
+    ]
   }
 ]

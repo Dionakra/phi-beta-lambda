@@ -2843,5 +2843,15 @@
     "id": "infrashow",
     "title": "Infrashow",
     "type": "radio-show"
+  },
+  {
+    "id": "marc-maron-end-times-fun",
+    "title": "Marc Maron: End Times Fun",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tom-segura-ball-hog",
+    "title": "Tom Segura: Ball Hog",
+    "type": "comedy-special"
   }
 ]
