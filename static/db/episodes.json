@@ -6921,5 +6921,100 @@
       "wtf-with-marc-maron",
       "tom-segura-ball-hog"
     ]
+  },
+  {
+    "id": "s02e54",
+    "season": 2,
+    "episode": 54,
+    "title": "No todos los héroes llevan bata",
+    "link": "Pen9pgTf0so",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "tom-hanks"
+        ]
+      },
+      {
+        "id": "gira-de-festivales",
+        "comedians": [
+          "sean-hughes"
+        ]
+      }
+    ],
+    "comedians": [
+      "bill-burr",
+      "joe-pesci",
+      "patton-oswalt",
+      "david-letterman",
+      "mikel-bermejo",
+      "louis-ck",
+      "tiffany-haddish",
+      "whitney-cummings",
+      "gabriel-iglesias",
+      "norm-macdonald",
+      "nate-bargatze",
+      "hannibal-buress",
+      "chris-rock",
+      "bert-kreischer",
+      "sam-morril",
+      "tom-segura",
+      "amy-schumer",
+      "jim-gaffigan",
+      "joe-rogan",
+      "marc-maron",
+      "dave-chappelle",
+      "andrew-schulz",
+      "russel-peters",
+      "nikki-glaser",
+      "dave-attell",
+      "jim-norton",
+      "ali-wong",
+      "jerrod-carmichael",
+      "kevin-hart",
+      "dan-soder",
+      "sebastian-maniscalco",
+      "jim-jeffries",
+      "john-mulaney",
+      "jo-koy",
+      "anthony-jeselnik",
+      "trevor-noah",
+      "conan-obrien",
+      "taylor-tomlinson",
+      "pau-escribano",
+      "seth-rogen",
+      "ann-perello",
+      "jorge-ponce",
+      "ricardo-castella",
+      "david-broncano",
+      "grison",
+      "galder-varas",
+      "percebes-y-grelos",
+      "victoria-martin",
+      "hannah-gadsby",
+      "garry-shandling",
+      "valeria-ros"
+    ],
+    "culture": [
+      "punchline",
+      "show-david-letterman",
+      "last-week-john-oliver",
+      "the-daily-show",
+      "2021",
+      "la-resistencia",
+      "late-motiv",
+      "validas",
+      "never-mind-the-buzzcocks",
+      "nanette",
+      "aqui-no-hay-quien-viva",
+      "bert-kreischer-hey-big-boy"
+    ]
   }
 ]
