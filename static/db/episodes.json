@@ -7016,5 +7016,91 @@
       "aqui-no-hay-quien-viva",
       "bert-kreischer-hey-big-boy"
     ]
+  },
+  {
+    "id": "s02e55",
+    "season": 2,
+    "episode": 55,
+    "title": "Especial 100 programas",
+    "link": "dpeEKyjna24",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "kathleen-madigan"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "tom-segura"
+        ],
+        "culture": "tom-segura-ball-hog"
+      }
+    ],
+    "comedians": [
+      "bob-saget",
+      "louis-ck",
+      "larry-charles",
+      "lewis-black",
+      "richard-lewis",
+      "ron-white",
+      "jerry-seinfeld",
+      "joe-rogan",
+      "bert-kreischer",
+      "tom-segura",
+      "yunez-chaib",
+      "norm-macdonald",
+      "miki-dkai",
+      "ken-jeong",
+      "joel-mchale",
+      "jorge-ponce",
+      "dan-harmon",
+      "kathy-griffin",
+      "alec-baldwin",
+      "tom-hanks",
+      "bill-burr",
+      "marc-maron",
+      "lenny-bruce",
+      "jim-gaffigan",
+      "tom-papa",
+      "adam-sandler",
+      "maria-bamford",
+      "michelle-wolf",
+      "dave-chappelle",
+      "roscoe-fatty-arbuckle",
+      "buster-keaton"
+    ],
+    "culture": [
+      "kathleen-madigan-gone-madigan",
+      "make-happy",
+      "kathleen-madigan-bothering-jesus",
+      "dangerous-world-of-comedy",
+      "curb-your-enthusiasm",
+      "comedians-in-cars-getting-coffee",
+      "this-is-not-happening-comedy-central",
+      "the-machine-bert-kreischer",
+      "joe-rogan-experience",
+      "quarantined-with-norm-macdonald",
+      "community",
+      "the-darkest-timeline",
+      "rick-and-morty",
+      "que-me-decias-podcast",
+      "tom-segura-en-espanol",
+      "tom-segura-disgraceful",
+      "tom-segura-mostly-stories",
+      "tom-segura-completely-normal",
+      "your-moms-house",
+      "100-fresh",
+      "louis-ck-hilarious",
+      "tom-papa-youre-doing-great"
+    ]
   }
 ]

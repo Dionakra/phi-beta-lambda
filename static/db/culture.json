@@ -2868,5 +2868,55 @@
     "id": "validas",
     "title": "Válidas",
     "type": "tv-show-series"
+  },
+  {
+    "id": "kathleen-madigan-gone-madigan",
+    "title": "Kathleen Madigan: Gone Madigan",
+    "type": "comedy-special"
+  },
+  {
+    "id": "kathleen-madigan-bothering-jesus",
+    "title": "Kathleen Madigan: Bothering Jesus",
+    "type": "comedy-special"
+  },
+  {
+    "id": "quarantined-with-norm-macdonald",
+    "title": "Quarantined With Norm Macdonald",
+    "type": "radio-show"
+  },
+  {
+    "id": "the-darkest-timeline",
+    "title": "The Darkest Timeline",
+    "type": "radio-show"
+  },
+  {
+    "id": "que-me-decias-podcast",
+    "title": "¿Qué Me Decías?",
+    "type": "radio-show"
+  },
+  {
+    "id": "tom-segura-disgraceful",
+    "title": "Tom Segura: Disgraceful",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tom-segura-mostly-stories",
+    "title": "Tom Segura: Mostly Stories",
+    "type": "comedy-special"
+  },
+  {
+    "id": "tom-segura-completely-normal",
+    "title": "Tom Segura: Completely Normal",
+    "type": "comedy-special"
+  },
+  {
+    "id": "your-moms-house",
+    "title": "Your Mom's House",
+    "type": "radio-show"
+  },
+  {
+    "id": "louis-ck-hilarious",
+    "title": "Louis CK: Hilarious",
+    "type": "comedy-special"
   }
 ]
