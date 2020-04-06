@@ -2634,5 +2634,1057 @@
   {
     "id": "roscoe-fatty-arbuckle",
     "name": "Roscoe 'Fatty' Arbuckle"
+  },
+  {
+    "id": "adam-carolla",
+    "name": "Adam Carolla"
+  },
+  {
+    "id": "derek-and-clive",
+    "name": "Derek & Clive"
+  },
+  {
+    "id": "adam-scott",
+    "name": "Adam Scott"
+  },
+  {
+    "id": "danny-thomas",
+    "name": "Danny Thomas"
+  },
+  {
+    "id": "amy-sedaris",
+    "name": "Amy Sedaris"
+  },
+  {
+    "id": "charles-grodin",
+    "name": "Charles Grodin"
+  },
+  {
+    "id": "andy-daly",
+    "name": "Andy Daly"
+  },
+  {
+    "id": "max-miller",
+    "name": "Max Miller"
+  },
+  {
+    "id": "peter-waring",
+    "name": "Peter Waring"
+  },
+  {
+    "id": "bernie-mac",
+    "name": "Bernie Mac"
+  },
+  {
+    "id": "john-hegley",
+    "name": "John Hegley"
+  },
+  {
+    "id": "this-is-spinal-tap",
+    "name": "This Is Spinal Tap"
+  },
+  {
+    "id": "bill-irwin",
+    "name": "Bill Irwin"
+  },
+  {
+    "id": "mamako-yoneyama",
+    "name": "Mamako Yoneyama"
+  },
+  {
+    "id": "nathan-lane",
+    "name": "Nathan Lane"
+  },
+  {
+    "id": "bj-novak",
+    "name": "B.j. Novak"
+  },
+  {
+    "id": "david-sedaris",
+    "name": "David Sedaris"
+  },
+  {
+    "id": "the-credibility-gap",
+    "name": "The Credibility Gap"
+  },
+  {
+    "id": "brad-garrett",
+    "name": "Brad Garrett"
+  },
+  {
+    "id": "john-landis",
+    "name": "John Landis"
+  },
+  {
+    "id": "broken-lizard",
+    "name": "Broken Lizard"
+  },
+  {
+    "id": "harold-lloyd",
+    "name": "Harold Lloyd"
+  },
+  {
+    "id": "krazy-kat",
+    "name": "Krazy Kat"
+  },
+  {
+    "id": "calvin-and-hobbes",
+    "name": "Calvin And Hobbes"
+  },
+  {
+    "id": "peanuts",
+    "name": "Peanuts"
+  },
+  {
+    "id": "cantinflas",
+    "name": "Cantinflas"
+  },
+  {
+    "id": "amos-n-andy",
+    "name": "Amos N Andy"
+  },
+  {
+    "id": "charlie-brooker",
+    "name": "Charlie Brooker"
+  },
+  {
+    "id": "fred-karno",
+    "name": "Fred Karno"
+  },
+  {
+    "id": "chris-elliott",
+    "name": "Chris Elliott"
+  },
+  {
+    "id": "richard-jeni",
+    "name": "Richard Jeni"
+  },
+  {
+    "id": "cracked-magazine",
+    "name": "Cracked Magazine"
+  },
+  {
+    "id": "craig-robinson",
+    "name": "Craig Robinson"
+  },
+  {
+    "id": "douglas-adams",
+    "name": "Douglas Adams"
+  },
+  {
+    "id": "music-halls",
+    "name": "Music Halls"
+  },
+  {
+    "id": "dara-o-briain",
+    "name": "Dara O'Briain"
+  },
+  {
+    "id": "bugs-bunny",
+    "name": "Bugs Bunny"
+  },
+  {
+    "id": "lenny-schultz",
+    "name": "Lenny Schultz"
+  },
+  {
+    "id": "claude-kipnis",
+    "name": "Claude Kipnis"
+  },
+  {
+    "id": "david-shiner",
+    "name": "David Shiner"
+  },
+  {
+    "id": "the-far-side",
+    "name": "The Far Side"
+  },
+  {
+    "id": "robin-harris",
+    "name": "Robin Harris"
+  },
+  {
+    "id": "ed-helms",
+    "name": "Ed Helms"
+  },
+  {
+    "id": "eddie-cantor",
+    "name": "Eddie Cantor"
+  },
+  {
+    "id": "eddie-griffin",
+    "name": "Eddie Griffin"
+  },
+  {
+    "id": "ellie-kemper",
+    "name": "Ellie Kemper"
+  },
+  {
+    "id": "tj-and-dave",
+    "name": "Tj & Dave"
+  },
+  {
+    "id": "frank-caliendo",
+    "name": "Frank Caliendo"
+  },
+  {
+    "id": "fred-willard",
+    "name": "Fred Willard"
+  },
+  {
+    "id": "jerry-lester",
+    "name": "Jerry Lester"
+  },
+  {
+    "id": "george-lopez",
+    "name": "George Lopez"
+  },
+  {
+    "id": "george-wallace",
+    "name": "George Wallace"
+  },
+  {
+    "id": "greg-fitzsimmons",
+    "name": "Greg Fitzsimmons"
+  },
+  {
+    "id": "henny-youngman",
+    "name": "Henny Youngman"
+  },
+  {
+    "id": "jack-handey",
+    "name": "Jack Handey"
+  },
+  {
+    "id": "jack-paar",
+    "name": "Jack Paar"
+  },
+  {
+    "id": "chris-evans",
+    "name": "Chris Evans"
+  },
+  {
+    "id": "jason-segel",
+    "name": "Jason Segel"
+  },
+  {
+    "id": "george-wendt",
+    "name": "George Wendt"
+  },
+  {
+    "id": "david-steinberg",
+    "name": "David Steinberg"
+  },
+  {
+    "id": "jackie-mason",
+    "name": "Jackie Mason"
+  },
+  {
+    "id": "jay-pharoah",
+    "name": "Jay Pharoah"
+  },
+  {
+    "id": "bea-arthur",
+    "name": "Bea Arthur"
+  },
+  {
+    "id": "jean-shepherd",
+    "name": "Jean Shepherd"
+  },
+  {
+    "id": "jessi-klein",
+    "name": "Jessi Klein"
+  },
+  {
+    "id": "jessica-williams",
+    "name": "Jessica Williams"
+  },
+  {
+    "id": "jimmy-durante",
+    "name": "Jimmy Durante"
+  },
+  {
+    "id": "john-krasinski",
+    "name": "John Krasinski"
+  },
+  {
+    "id": "spalding-gray",
+    "name": "Spalding Gray"
+  },
+  {
+    "id": "desi-arnez",
+    "name": "Desi Arnaz"
+  },
+  {
+    "id": "erin-gibson",
+    "name": "Erin Gibson"
+  },
+  {
+    "id": "jonathan-van-ness",
+    "name": "Jonathan Van Ness"
+  },
+  {
+    "id": "james-thurber",
+    "name": "James Thurber"
+  },
+  {
+    "id": "fred-allen",
+    "name": "Fred Allen"
+  },
+  {
+    "id": "george-burns",
+    "name": "George Burns"
+  },
+  {
+    "id": "bob-and-ray",
+    "name": "Bob & Ray"
+  },
+  {
+    "id": "jon-lovitz",
+    "name": "Jon Lovitz"
+  },
+  {
+    "id": "jordan-klepper",
+    "name": "Jordan Klepper"
+  },
+  {
+    "id": "josh-gad",
+    "name": "Josh Gad"
+  },
+  {
+    "id": "john-mulrooney",
+    "name": "John Mulrooney"
+  },
+  {
+    "id": "keegan-michael-key",
+    "name": "Keegan Michael Key"
+  },
+  {
+    "id": "arthur-askey",
+    "name": "Arthur Askey"
+  },
+  {
+    "id": "kevin-james",
+    "name": "Kevin James"
+  },
+  {
+    "id": "kevin-nealon",
+    "name": "Kevin Nealon"
+  },
+  {
+    "id": "albert-brooks",
+    "name": "Albert Brooks"
+  },
+  {
+    "id": "kevin-pollak",
+    "name": "Kevin Pollak"
+  },
+  {
+    "id": "howard-stern",
+    "name": "Howard Stern"
+  },
+  {
+    "id": "joan-cusack",
+    "name": "Joan Cusack"
+  },
+  {
+    "id": "teri-garr",
+    "name": "Teri Garr"
+  },
+  {
+    "id": "kristin-chenoweth",
+    "name": "Kristin Chenoweth"
+  },
+  {
+    "id": "hugh-grant",
+    "name": "Hugh Grant"
+  },
+  {
+    "id": "larry-wilmore",
+    "name": "Larry Wilmore"
+  },
+  {
+    "id": "lena-dunham",
+    "name": "Lena Dunham"
+  },
+  {
+    "id": "joe-maini",
+    "name": "Joe Maini"
+  },
+  {
+    "id": "lord-buckley",
+    "name": "Lord Buckley"
+  },
+  {
+    "id": "cedric-the-entertainer",
+    "name": "Cedric The Entertainer"
+  },
+  {
+    "id": "bill-bellamy",
+    "name": "Bill Bellamy"
+  },
+  {
+    "id": "gracie-allen",
+    "name": "Gracie Allen"
+  },
+  {
+    "id": "imogene-coca",
+    "name": "Imogene Coca"
+  },
+  {
+    "id": "louie-anderson",
+    "name": "Louie Anderson"
+  },
+  {
+    "id": "jake-johannsen",
+    "name": "Jake Johannsen"
+  },
+  {
+    "id": "carole-lombard",
+    "name": "Carole Lombard"
+  },
+  {
+    "id": "jackie-vernon",
+    "name": "Jackie Vernon"
+  },
+  {
+    "id": "marcel-marceau",
+    "name": "Marcel Marceau"
+  },
+  {
+    "id": "nora-dunn",
+    "name": "Nora Dunn"
+  },
+  {
+    "id": "jan-hooks",
+    "name": "Jan Hooks"
+  },
+  {
+    "id": "artemus-ward",
+    "name": "Artemus Ward"
+  },
+  {
+    "id": "mark-twain",
+    "name": "Mark Twain"
+  },
+  {
+    "id": "bret-harte",
+    "name": "Bret Harte"
+  },
+  {
+    "id": "martin-mull",
+    "name": "Martin Mull"
+  },
+  {
+    "id": "gene-wilder",
+    "name": "Gene Wilder"
+  },
+  {
+    "id": "cloris-leachman",
+    "name": "Cloris Leachman"
+  },
+  {
+    "id": "catherine-o-hara",
+    "name": "Catherine O'Hara"
+  },
+  {
+    "id": "madeline-kahn",
+    "name": "Madeline Kahn"
+  },
+  {
+    "id": "megan-mullally",
+    "name": "Megan Mullally"
+  },
+  {
+    "id": "the-three-stooges",
+    "name": "The Three Stooges"
+  },
+  {
+    "id": "mike-myers",
+    "name": "Mike Myers"
+  },
+  {
+    "id": "frank-fay",
+    "name": "Frank Fay"
+  },
+  {
+    "id": "fawlty-towers",
+    "name": "Fawlty Towers"
+  },
+  {
+    "id": "mitchell-and-webb",
+    "name": "Mitchell & Webb"
+  },
+  {
+    "id": "fry-and-laurie",
+    "name": "Fry & Laurie"
+  },
+  {
+    "id": "the-goon-show",
+    "name": "The Goon Show"
+  },
+  {
+    "id": "morecambe-and-wise",
+    "name": "Morecambe & Wise"
+  },
+  {
+    "id": "flanagan-and-allen",
+    "name": "Flanagan & Allen"
+  },
+  {
+    "id": "john-waters",
+    "name": "John Waters"
+  },
+  {
+    "id": "mae-west",
+    "name": "Mae West"
+  },
+  {
+    "id": "nathan-fielder",
+    "name": "Nathan Fielder"
+  },
+  {
+    "id": "anthony-clark",
+    "name": "Anthony Clark"
+  },
+  {
+    "id": "nick-swardson",
+    "name": "Nick Swardson"
+  },
+  {
+    "id": "dana-gould",
+    "name": "Dana Gould"
+  },
+  {
+    "id": "noel-fielding",
+    "name": "Noel Fielding"
+  },
+  {
+    "id": "harry-hill",
+    "name": "Harry Hill"
+  },
+  {
+    "id": "blaine-capatch",
+    "name": "Blaine Capatch"
+  },
+  {
+    "id": "mark-voyce",
+    "name": "Mark Voyce"
+  },
+  {
+    "id": "paul-reiser",
+    "name": "Paul Reiser"
+  },
+  {
+    "id": "paul-rodriguez",
+    "name": "Paul Rodriguez"
+  },
+  {
+    "id": "freddie-prinze",
+    "name": "Freddie Prinze"
+  },
+  {
+    "id": "pauly-shore",
+    "name": "Pauly Shore"
+  },
+  {
+    "id": "dan-leno",
+    "name": "Dan Leno"
+  },
+  {
+    "id": "phil-hartman",
+    "name": "Phil Hartman"
+  },
+  {
+    "id": "phil-silvers",
+    "name": "Phil Silvers"
+  },
+  {
+    "id": "rachel-bloom",
+    "name": "Rachel Bloom"
+  },
+  {
+    "id": "larry-miller",
+    "name": "Larry Miller"
+  },
+  {
+    "id": "jennifer-saunders",
+    "name": "Jennifer Saunders"
+  },
+  {
+    "id": "rebel-wilson",
+    "name": "Rebel Wilson"
+  },
+  {
+    "id": "dawn-french",
+    "name": "Dawn French"
+  },
+  {
+    "id": "rhys-darby",
+    "name": "Rhys Darby"
+  },
+  {
+    "id": "john-clarke",
+    "name": "John Clarke"
+  },
+  {
+    "id": "richard-ayoade",
+    "name": "Richard Ayoade"
+  },
+  {
+    "id": "richard-belzer",
+    "name": "Richard Belzer"
+  },
+  {
+    "id": "david-brenner",
+    "name": "David Brenner"
+  },
+  {
+    "id": "dick-gregory",
+    "name": "Dick Gregory"
+  },
+  {
+    "id": "bob-newhart",
+    "name": "Bob Newhart"
+  },
+  {
+    "id": "mickey-rooney",
+    "name": "Mickey Rooney"
+  },
+  {
+    "id": "rip-taylor",
+    "name": "Rip Taylor"
+  },
+  {
+    "id": "rob-corddry",
+    "name": "Rob Corddry"
+  },
+  {
+    "id": "rob-delaney",
+    "name": "Rob Delaney"
+  },
+  {
+    "id": "spike-milligan",
+    "name": "Spike Milligan"
+  },
+  {
+    "id": "harry-secombe",
+    "name": "Harry Secombe"
+  },
+  {
+    "id": "joe-ancis",
+    "name": "Joe Ancis"
+  },
+  {
+    "id": "ron-funches",
+    "name": "Ron Funches"
+  },
+  {
+    "id": "ross-noble",
+    "name": "Ross Noble"
+  },
+  {
+    "id": "olsen-and-johnson",
+    "name": "Olsen & Johnson"
+  },
+  {
+    "id": "dudley-moore",
+    "name": "Dudley Moore"
+  },
+  {
+    "id": "jonathan-miller",
+    "name": "Jonathan Miller"
+  },
+  {
+    "id": "ken-dodd",
+    "name": "Ken Dodd"
+  },
+  {
+    "id": "roy-chubby-brown",
+    "name": "Roy Chubby Brown"
+  },
+  {
+    "id": "bernard-manning",
+    "name": "Bernard Manning"
+  },
+  {
+    "id": "jemaine-clement",
+    "name": "Jemaine Clement"
+  },
+  {
+    "id": "bret-mckenzie",
+    "name": "Bret Mckenzie"
+  },
+  {
+    "id": "russell-peters",
+    "name": "Russell Peters"
+  },
+  {
+    "id": "peter-cook",
+    "name": "Peter Cook"
+  },
+  {
+    "id": "rudy-ray-moore",
+    "name": "Rudy Ray Moore"
+  },
+  {
+    "id": "betty-white",
+    "name": "Betty White"
+  },
+  {
+    "id": "mary-tyler-moore",
+    "name": "Mary Tyler Moore"
+  },
+  {
+    "id": "paul-mooney",
+    "name": "Paul Mooney"
+  },
+  {
+    "id": "sandra-bernhard",
+    "name": "Sandra Bernhard"
+  },
+  {
+    "id": "lotus-weinstock",
+    "name": "Lotus Weinstock"
+  },
+  {
+    "id": "paul-reubens",
+    "name": "Paul Reubens"
+  },
+  {
+    "id": "scott-aukerman",
+    "name": "Scott Aukerman"
+  },
+  {
+    "id": "lee-cornes",
+    "name": "Lee Cornes"
+  },
+  {
+    "id": "sean-lock",
+    "name": "Sean Lock"
+  },
+  {
+    "id": "dave-allen",
+    "name": "Dave Allen"
+  },
+  {
+    "id": "sesame-street",
+    "name": "Sesame Street"
+  },
+  {
+    "id": "dennis-miller",
+    "name": "Dennis Miller"
+  },
+  {
+    "id": "pg-wodehouse",
+    "name": "P.G. Wodehouse"
+  },
+  {
+    "id": "sctv",
+    "name": "SCTV"
+  },
+  {
+    "id": "henry-morgan",
+    "name": "Henry Morgan"
+  },
+  {
+    "id": "danny-kaye",
+    "name": "Danny Kaye"
+  },
+  {
+    "id": "alan-king",
+    "name": "Alan King"
+  },
+  {
+    "id": "flip-wilson",
+    "name": "Flip Wilson"
+  },
+  {
+    "id": "sid-caesar",
+    "name": "Sid Caesar"
+  },
+  {
+    "id": "nipsey-russell",
+    "name": "Nipsey Russell"
+  },
+  {
+    "id": "sj-perelman",
+    "name": "S.J. Perelman"
+  },
+  {
+    "id": "rowan-and-martins-laugh-in",
+    "name": "Rowan & Martin's Laugh In"
+  },
+  {
+    "id": "the-ritz-brothers",
+    "name": "The Ritz Brothers"
+  },
+  {
+    "id": "mick-napier",
+    "name": "Mick Napier"
+  },
+  {
+    "id": "dean-martin",
+    "name": "Dean Martin"
+  },
+  {
+    "id": "don-novello",
+    "name": "Don Novello"
+  },
+  {
+    "id": "stephen-lynch",
+    "name": "Stephen Lynch"
+  },
+  {
+    "id": "armando-iannucci",
+    "name": "Armando Iannucci"
+  },
+  {
+    "id": "jacques-tati",
+    "name": "Jacques Tati"
+  },
+  {
+    "id": "steve-coogan",
+    "name": "Steve Coogan"
+  },
+  {
+    "id": "red-skelton",
+    "name": "Red Skelton"
+  },
+  {
+    "id": "lewis-carroll",
+    "name": "Lewis Carroll"
+  },
+  {
+    "id": "jack-benny",
+    "name": "Jack Benny"
+  },
+  {
+    "id": "cary-grant",
+    "name": "Cary Grant"
+  },
+  {
+    "id": "steve-allen",
+    "name": "Steve Allen"
+  },
+  {
+    "id": "milton-berle",
+    "name": "Milton Berle"
+  },
+  {
+    "id": "jackie-gleason",
+    "name": "Jackie Gleason"
+  },
+  {
+    "id": "barry-crimmins",
+    "name": "Barry Crimmins"
+  },
+  {
+    "id": "ted-chippington",
+    "name": "Ted Chippington"
+  },
+  {
+    "id": "the-lonely-island",
+    "name": "The Lonely Island"
+  },
+  {
+    "id": "tenacious-d",
+    "name": "Tenacious D"
+  },
+  {
+    "id": "the-kids-in-the-hall",
+    "name": "The Kids In The Hall"
+  },
+  {
+    "id": "al-shean",
+    "name": "Al Shean"
+  },
+  {
+    "id": "ernie-kovacs",
+    "name": "Ernie Kovacs"
+  },
+  {
+    "id": "pogo",
+    "name": "Pogo"
+  },
+  {
+    "id": "the-muppets",
+    "name": "The Muppets"
+  },
+  {
+    "id": "edgar-bergen",
+    "name": "Edgar Bergen"
+  },
+  {
+    "id": "the-simpsons",
+    "name": "The Simpsons"
+  },
+  {
+    "id": "national-lampoon",
+    "name": "National Lampoon"
+  },
+  {
+    "id": "the-state",
+    "name": "The State"
+  },
+  {
+    "id": "the-unknown-comic",
+    "name": "The Unknown Comic"
+  },
+  {
+    "id": "paul-gilbert",
+    "name": "Paul Gilbert"
+  },
+  {
+    "id": "the-wayans",
+    "name": "The Wayans'"
+  },
+  {
+    "id": "roger-rabbit",
+    "name": "Roger Rabbit"
+  },
+  {
+    "id": "charles-fleischer",
+    "name": "Charles Fleischer"
+  },
+  {
+    "id": "amelia-bedelia",
+    "name": "Amelia Bedelia"
+  },
+  {
+    "id": "chris-morris",
+    "name": "Chris Morris"
+  },
+  {
+    "id": "look-around-you",
+    "name": "Look Around You"
+  },
+  {
+    "id": "soupy-sales",
+    "name": "Soupy Sales"
+  },
+  {
+    "id": "abbott-and-costello",
+    "name": "Abbott & Costello"
+  },
+  {
+    "id": "the-smothers-brothers",
+    "name": "The Smothers Brothers"
+  },
+  {
+    "id": "tim-and-eric",
+    "name": "Tim & Eric"
+  },
+  {
+    "id": "snl",
+    "name": "Saturday Night Live"
+  },
+  {
+    "id": "tim-conway",
+    "name": "Tim Conway"
+  },
+  {
+    "id": "laurel-and-hardy",
+    "name": "Laurel & Hardy"
+  },
+  {
+    "id": "carol-burnett",
+    "name": "Carol Burnett"
+  },
+  {
+    "id": "gilda-radner",
+    "name": "Gilda Radner"
+  },
+  {
+    "id": "tom-green",
+    "name": "Tom Green"
+  },
+  {
+    "id": "tommy-davidson",
+    "name": "Tommy Davidson"
+  },
+  {
+    "id": "trey-parker-and-matt-stone",
+    "name": "Trey Parker And Matt Stone"
+  },
+  {
+    "id": "norman-lear",
+    "name": "Norman Lear"
+  },
+  {
+    "id": "concert-saloons",
+    "name": "Concert Saloons"
+  },
+  {
+    "id": "dime-museums",
+    "name": "Dime Museums"
+  },
+  {
+    "id": "minstrel-shows",
+    "name": "Minstrel Shows"
+  },
+  {
+    "id": "tony-pastor",
+    "name": "Tony Pastor"
+  },
+  {
+    "id": "henry-rollins",
+    "name": "Henry Rollins"
+  },
+  {
+    "id": "vaudeville",
+    "name": "Vaudeville"
+  },
+  {
+    "id": "stan-freberg",
+    "name": "Stan Freberg"
+  },
+  {
+    "id": "spike-jones",
+    "name": "Spike Jones"
+  },
+  {
+    "id": "tom-lehrer",
+    "name": "Tom Lehrer"
+  },
+  {
+    "id": "allan-sherman",
+    "name": "Allan Sherman"
+  },
+  {
+    "id": "nichols-and-may",
+    "name": "Nichols & May"
+  },
+  {
+    "id": "will-rogers",
+    "name": "Will Rogers"
+  },
+  {
+    "id": "george-ade",
+    "name": "George Ade"
+  },
+  {
+    "id": "the-marx-brothers",
+    "name": "The Marx Brothers"
+  },
+  {
+    "id": "wyatt-cenac",
+    "name": "Wyatt Cenac"
+  },
+  {
+    "id": "lucille-ball",
+    "name": "Lucille Ball"
+  },
+  {
+    "id": "wc-fields",
+    "name": "W.c. Fields"
+  },
+  {
+    "id": "zucker-abrahams-zucker",
+    "name": "Zucker Abrahams Zucker"
+  },
+  {
+    "id": "mad-magazine",
+    "name": "Mad Magazine"
   }
 ]

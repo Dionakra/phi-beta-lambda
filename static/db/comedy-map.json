@@ -1,0 +1,4478 @@
+[
+  {
+    "src": "abbott-and-costello",
+    "target": "vaudeville"
+  },
+  {
+    "src": "adam-carolla",
+    "target": "george-carlin"
+  },
+  {
+    "src": "adam-sandler",
+    "target": "benny-hill"
+  },
+  {
+    "src": "adam-sandler",
+    "target": "peter-cook"
+  },
+  {
+    "src": "adam-sandler",
+    "target": "dudley-moore"
+  },
+  {
+    "src": "adam-sandler",
+    "target": "derek-and-clive"
+  },
+  {
+    "src": "adam-scott",
+    "target": "steve-martin"
+  },
+  {
+    "src": "adam-scott",
+    "target": "david-letterman"
+  },
+  {
+    "src": "adam-scott",
+    "target": "albert-brooks"
+  },
+  {
+    "src": "al-shean",
+    "target": "vaudeville"
+  },
+  {
+    "src": "alan-king",
+    "target": "milton-berle"
+  },
+  {
+    "src": "alan-king",
+    "target": "danny-thomas"
+  },
+  {
+    "src": "albert-brooks",
+    "target": "jack-benny"
+  },
+  {
+    "src": "ali-wong",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "ali-wong",
+    "target": "chris-rock"
+  },
+  {
+    "src": "ali-wong",
+    "target": "patrice-oneal"
+  },
+  {
+    "src": "ali-wong",
+    "target": "dave-attell"
+  },
+  {
+    "src": "ali-wong",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "amy-poehler",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "amy-poehler",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "amy-schumer",
+    "target": "dave-attell"
+  },
+  {
+    "src": "amy-schumer",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "amy-schumer",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "amy-schumer",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "amy-schumer",
+    "target": "whoopi-goldberg"
+  },
+  {
+    "src": "amy-schumer",
+    "target": "julia-louis-dreyfus"
+  },
+  {
+    "src": "amy-sedaris",
+    "target": "ernie-kovacs"
+  },
+  {
+    "src": "amy-sedaris",
+    "target": "red-skelton"
+  },
+  {
+    "src": "amy-sedaris",
+    "target": "david-sedaris"
+  },
+  {
+    "src": "amy-sedaris",
+    "target": "sctv"
+  },
+  {
+    "src": "andy-daly",
+    "target": "martin-short"
+  },
+  {
+    "src": "andy-daly",
+    "target": "george-carlin"
+  },
+  {
+    "src": "andy-daly",
+    "target": "conan-obrien"
+  },
+  {
+    "src": "andy-daly",
+    "target": "david-letterman"
+  },
+  {
+    "src": "andy-daly",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "andy-daly",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "andy-daly",
+    "target": "charles-grodin"
+  },
+  {
+    "src": "andy-daly",
+    "target": "monty-python"
+  },
+  {
+    "src": "andy-richter",
+    "target": "david-letterman"
+  },
+  {
+    "src": "andy-richter",
+    "target": "sid-caesar"
+  },
+  {
+    "src": "anthony-jeselnik",
+    "target": "rodney-dangerfield"
+  },
+  {
+    "src": "anthony-jeselnik",
+    "target": "mitch-hedberg"
+  },
+  {
+    "src": "anthony-jeselnik",
+    "target": "andrew-dice-clay"
+  },
+  {
+    "src": "anthony-jeselnik",
+    "target": "steven-wright"
+  },
+  {
+    "src": "anthony-jeselnik",
+    "target": "don-rickles"
+  },
+  {
+    "src": "anthony-jeselnik",
+    "target": "jack-handey"
+  },
+  {
+    "src": "anthony-jeselnik",
+    "target": "norm-macdonald"
+  },
+  {
+    "src": "armando-iannucci",
+    "target": "billy-connolly"
+  },
+  {
+    "src": "armando-iannucci",
+    "target": "woody-allen"
+  },
+  {
+    "src": "arsenio-hall",
+    "target": "dick-gregory"
+  },
+  {
+    "src": "arsenio-hall",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "arsenio-hall",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "arsenio-hall",
+    "target": "moms-mabley"
+  },
+  {
+    "src": "aziz-ansari",
+    "target": "patton-oswalt"
+  },
+  {
+    "src": "aziz-ansari",
+    "target": "louis-ck"
+  },
+  {
+    "src": "aziz-ansari",
+    "target": "chris-rock"
+  },
+  {
+    "src": "barry-crimmins",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "ben-stiller",
+    "target": "sctv"
+  },
+  {
+    "src": "benny-hill",
+    "target": "max-miller"
+  },
+  {
+    "src": "benny-hill",
+    "target": "peter-waring"
+  },
+  {
+    "src": "benny-hill",
+    "target": "danny-kaye"
+  },
+  {
+    "src": "benny-hill",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "nipsey-russell"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "moms-mabley"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "dick-gregory"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "flip-wilson"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "buddy-hackett"
+  },
+  {
+    "src": "bernie-mac",
+    "target": "jackie-gleason"
+  },
+  {
+    "src": "bill-bailey",
+    "target": "john-hegley"
+  },
+  {
+    "src": "bill-bellamy",
+    "target": "robin-williams"
+  },
+  {
+    "src": "bill-bellamy",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "bill-bellamy",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "bill-bellamy",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "bill-burr",
+    "target": "george-carlin"
+  },
+  {
+    "src": "bill-burr",
+    "target": "sam-kinison"
+  },
+  {
+    "src": "bill-burr",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "bill-burr",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "bill-hader",
+    "target": "monty-python"
+  },
+  {
+    "src": "bill-hader",
+    "target": "sctv"
+  },
+  {
+    "src": "bill-hader",
+    "target": "woody-allen"
+  },
+  {
+    "src": "bill-hader",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "bill-hader",
+    "target": "this-is-spinal-tap"
+  },
+  {
+    "src": "bill-hicks",
+    "target": "sam-kinison"
+  },
+  {
+    "src": "bill-irwin",
+    "target": "mamako-yoneyama"
+  },
+  {
+    "src": "bill-maher",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "bill-maher",
+    "target": "johnny-carson"
+  },
+  {
+    "src": "bill-maher",
+    "target": "george-carlin"
+  },
+  {
+    "src": "bill-maher",
+    "target": "robert-klein"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "alan-king"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "steve-allen"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "sid-caesar"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "ernie-kovacs"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "robert-klein"
+  },
+  {
+    "src": "billy-crystal",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "billy-eichner",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "billy-eichner",
+    "target": "nathan-lane"
+  },
+  {
+    "src": "billy-eichner",
+    "target": "sandra-bernhard"
+  },
+  {
+    "src": "billy-eichner",
+    "target": "steve-martin"
+  },
+  {
+    "src": "billy-eichner",
+    "target": "martin-short"
+  },
+  {
+    "src": "billy-eichner",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "bj-novak",
+    "target": "steve-martin"
+  },
+  {
+    "src": "bj-novak",
+    "target": "david-sedaris"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "bret-mckenzie"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "jemaine-clement"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "demetri-martin"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "steve-martin"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "stephen-lynch"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "tim-minchin"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "bill-bailey"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "george-carlin"
+  },
+  {
+    "src": "bo-burnham",
+    "target": "zach-galifianakis"
+  },
+  {
+    "src": "bob-hope",
+    "target": "frank-fay"
+  },
+  {
+    "src": "bob-newhart",
+    "target": "jack-benny"
+  },
+  {
+    "src": "bob-newhart",
+    "target": "george-burns"
+  },
+  {
+    "src": "bob-newhart",
+    "target": "gracie-allen"
+  },
+  {
+    "src": "bob-newhart",
+    "target": "bob-and-ray"
+  },
+  {
+    "src": "bob-odenkirk",
+    "target": "woody-allen"
+  },
+  {
+    "src": "bob-odenkirk",
+    "target": "monty-python"
+  },
+  {
+    "src": "bob-odenkirk",
+    "target": "the-credibility-gap"
+  },
+  {
+    "src": "bob-odenkirk",
+    "target": "sctv"
+  },
+  {
+    "src": "bob-odenkirk",
+    "target": "steve-martin"
+  },
+  {
+    "src": "bob-odenkirk",
+    "target": "bob-and-ray"
+  },
+  {
+    "src": "bob-saget",
+    "target": "rodney-dangerfield"
+  },
+  {
+    "src": "bob-saget",
+    "target": "johnny-carson"
+  },
+  {
+    "src": "bob-saget",
+    "target": "dean-martin"
+  },
+  {
+    "src": "bob-saget",
+    "target": "martin-mull"
+  },
+  {
+    "src": "bob-saget",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "bob-saget",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "bob-saget",
+    "target": "don-rickles"
+  },
+  {
+    "src": "bobcat-goldthwait",
+    "target": "barry-crimmins"
+  },
+  {
+    "src": "brad-garrett",
+    "target": "rodney-dangerfield"
+  },
+  {
+    "src": "brad-garrett",
+    "target": "jackie-gleason"
+  },
+  {
+    "src": "brad-garrett",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "brad-garrett",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "brian-posehn",
+    "target": "steve-martin"
+  },
+  {
+    "src": "brian-posehn",
+    "target": "robin-williams"
+  },
+  {
+    "src": "brian-regan",
+    "target": "johnny-carson"
+  },
+  {
+    "src": "brian-regan",
+    "target": "steve-martin"
+  },
+  {
+    "src": "brian-regan",
+    "target": "the-smothers-brothers"
+  },
+  {
+    "src": "broken-lizard",
+    "target": "john-landis"
+  },
+  {
+    "src": "broken-lizard",
+    "target": "zucker-abrahams-zucker"
+  },
+  {
+    "src": "bugs-bunny",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "bugs-bunny",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "bugs-bunny",
+    "target": "buster-keaton"
+  },
+  {
+    "src": "bugs-bunny",
+    "target": "harold-lloyd"
+  },
+  {
+    "src": "buster-keaton",
+    "target": "roscoe-fatty-arbuckle"
+  },
+  {
+    "src": "buster-keaton",
+    "target": "vaudeville"
+  },
+  {
+    "src": "calvin-and-hobbes",
+    "target": "pogo"
+  },
+  {
+    "src": "calvin-and-hobbes",
+    "target": "krazy-kat"
+  },
+  {
+    "src": "calvin-and-hobbes",
+    "target": "peanuts"
+  },
+  {
+    "src": "cantinflas",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "carol-burnett",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "carl-reiner",
+    "target": "amos-n-andy"
+  },
+  {
+    "src": "carl-reiner",
+    "target": "fred-allen"
+  },
+  {
+    "src": "carl-reiner",
+    "target": "eddie-cantor"
+  },
+  {
+    "src": "carl-reiner",
+    "target": "jack-benny"
+  },
+  {
+    "src": "carl-reiner",
+    "target": "danny-kaye"
+  },
+  {
+    "src": "carl-reiner",
+    "target": "sid-caesar"
+  },
+  {
+    "src": "carl-reiner",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "carrot-top",
+    "target": "robin-williams"
+  },
+  {
+    "src": "carrot-top",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "cary-grant",
+    "target": "george-burns"
+  },
+  {
+    "src": "cecily-strong",
+    "target": "amy-poehler"
+  },
+  {
+    "src": "cedric-the-entertainer",
+    "target": "robin-harris"
+  },
+  {
+    "src": "cedric-the-entertainer",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "cedric-the-entertainer",
+    "target": "jackie-gleason"
+  },
+  {
+    "src": "cedric-the-entertainer",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "charles-fleischer",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "charles-fleischer",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "charlie-brooker",
+    "target": "monty-python"
+  },
+  {
+    "src": "charlie-brooker",
+    "target": "chris-morris"
+  },
+  {
+    "src": "charlie-brooker",
+    "target": "armando-iannucci"
+  },
+  {
+    "src": "charles-chaplin",
+    "target": "vaudeville"
+  },
+  {
+    "src": "charles-chaplin",
+    "target": "music-halls"
+  },
+  {
+    "src": "charles-chaplin",
+    "target": "fred-karno"
+  },
+  {
+    "src": "charles-chaplin",
+    "target": "dan-leno"
+  },
+  {
+    "src": "charles-chaplin",
+    "target": "roscoe-fatty-arbuckle"
+  },
+  {
+    "src": "cheech-and-chong",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "cheech-and-chong",
+    "target": "abbott-and-costello"
+  },
+  {
+    "src": "chelsea-peretti",
+    "target": "monty-python"
+  },
+  {
+    "src": "chevy-chase",
+    "target": "ernie-kovacs"
+  },
+  {
+    "src": "chevy-chase",
+    "target": "bob-hope"
+  },
+  {
+    "src": "chris-elliott",
+    "target": "david-letterman"
+  },
+  {
+    "src": "chris-elliott",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "chris-farley",
+    "target": "john-belushi"
+  },
+  {
+    "src": "chris-farley",
+    "target": "bill-murray"
+  },
+  {
+    "src": "chris-farley",
+    "target": "dan-aykroyd"
+  },
+  {
+    "src": "chris-gethard",
+    "target": "robin-williams"
+  },
+  {
+    "src": "chris-gethard",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "chris-gethard",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "chris-gethard",
+    "target": "howard-stern"
+  },
+  {
+    "src": "chris-gethard",
+    "target": "david-letterman"
+  },
+  {
+    "src": "chris-rock",
+    "target": "sam-kinison"
+  },
+  {
+    "src": "chris-rock",
+    "target": "george-carlin"
+  },
+  {
+    "src": "chris-rock",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "chris-rock",
+    "target": "richard-jeni"
+  },
+  {
+    "src": "chris-rock",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "chris-rock",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "chris-rock",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "chris-rock",
+    "target": "rodney-dangerfield"
+  },
+  {
+    "src": "chris-rock",
+    "target": "flip-wilson"
+  },
+  {
+    "src": "chris-rock",
+    "target": "dick-gregory"
+  },
+  {
+    "src": "chris-rock",
+    "target": "woody-allen"
+  },
+  {
+    "src": "chris-tucker",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "chris-tucker",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "chris-tucker",
+    "target": "robin-harris"
+  },
+  {
+    "src": "christpher-guest",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "claude-kipnis",
+    "target": "marcel-marceau"
+  },
+  {
+    "src": "colin-jost",
+    "target": "norm-macdonald"
+  },
+  {
+    "src": "colin-quinn",
+    "target": "george-carlin"
+  },
+  {
+    "src": "conan-obrien",
+    "target": "david-letterman"
+  },
+  {
+    "src": "conan-obrien",
+    "target": "wc-fields"
+  },
+  {
+    "src": "conan-obrien",
+    "target": "sid-caesar"
+  },
+  {
+    "src": "conan-obrien",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "conan-obrien",
+    "target": "johnny-carson"
+  },
+  {
+    "src": "conan-obrien",
+    "target": "bob-hope"
+  },
+  {
+    "src": "conan-obrien",
+    "target": "bugs-bunny"
+  },
+  {
+    "src": "conan-obrien",
+    "target": "sctv"
+  },
+  {
+    "src": "cracked-magazine",
+    "target": "mad-magazine"
+  },
+  {
+    "src": "craig-ferguson",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "craig-ferguson",
+    "target": "peter-cook"
+  },
+  {
+    "src": "craig-ferguson",
+    "target": "monty-python"
+  },
+  {
+    "src": "craig-ferguson",
+    "target": "billy-connolly"
+  },
+  {
+    "src": "craig-robinson",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "dan-aykroyd",
+    "target": "phil-silvers"
+  },
+  {
+    "src": "dan-aykroyd",
+    "target": "jackie-gleason"
+  },
+  {
+    "src": "dan-harmon",
+    "target": "sctv"
+  },
+  {
+    "src": "dan-harmon",
+    "target": "bob-odenkirk"
+  },
+  {
+    "src": "dan-harmon",
+    "target": "david-cross"
+  },
+  {
+    "src": "dan-harmon",
+    "target": "douglas-adams"
+  },
+  {
+    "src": "dan-leno",
+    "target": "music-halls"
+  },
+  {
+    "src": "dana-carvey",
+    "target": "sctv"
+  },
+  {
+    "src": "dana-carvey",
+    "target": "monty-python"
+  },
+  {
+    "src": "dana-gould",
+    "target": "george-carlin"
+  },
+  {
+    "src": "dana-gould",
+    "target": "albert-brooks"
+  },
+  {
+    "src": "dane-cook",
+    "target": "mad-magazine"
+  },
+  {
+    "src": "dane-cook",
+    "target": "snl"
+  },
+  {
+    "src": "daniel-tosh",
+    "target": "bill-hicks"
+  },
+  {
+    "src": "danny-kaye",
+    "target": "vaudeville"
+  },
+  {
+    "src": "dara-o-briain",
+    "target": "eddie-izzard"
+  },
+  {
+    "src": "dave-attell",
+    "target": "george-carlin"
+  },
+  {
+    "src": "dave-attell",
+    "target": "bill-hicks"
+  },
+  {
+    "src": "dave-attell",
+    "target": "mitch-hedberg"
+  },
+  {
+    "src": "dave-attell",
+    "target": "sam-kinison"
+  },
+  {
+    "src": "dave-attell",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "dave-attell",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "dave-attell",
+    "target": "don-rickles"
+  },
+  {
+    "src": "dave-chappelle",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "dave-chappelle",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "dave-chappelle",
+    "target": "bugs-bunny"
+  },
+  {
+    "src": "dave-chappelle",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "dave-chappelle",
+    "target": "paul-mooney"
+  },
+  {
+    "src": "david-cross",
+    "target": "george-carlin"
+  },
+  {
+    "src": "david-cross",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "david-cross",
+    "target": "steve-martin"
+  },
+  {
+    "src": "david-cross",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "david-cross",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "david-cross",
+    "target": "steven-wright"
+  },
+  {
+    "src": "david-cross",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "david-cross",
+    "target": "monty-python"
+  },
+  {
+    "src": "david-letterman",
+    "target": "johnny-carson"
+  },
+  {
+    "src": "david-letterman",
+    "target": "steve-allen"
+  },
+  {
+    "src": "david-letterman",
+    "target": "ernie-kovacs"
+  },
+  {
+    "src": "david-letterman",
+    "target": "jay-leno"
+  },
+  {
+    "src": "david-letterman",
+    "target": "lenny-schultz"
+  },
+  {
+    "src": "david-letterman",
+    "target": "bob-and-ray"
+  },
+  {
+    "src": "david-shiner",
+    "target": "claude-kipnis"
+  },
+  {
+    "src": "david-shiner",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "david-steinberg",
+    "target": "woody-allen"
+  },
+  {
+    "src": "david-steinberg",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "dawn-french",
+    "target": "morecambe-and-wise"
+  },
+  {
+    "src": "demetri-martin",
+    "target": "steven-wright"
+  },
+  {
+    "src": "demetri-martin",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "demetri-martin",
+    "target": "the-far-side"
+  },
+  {
+    "src": "denis-leary",
+    "target": "george-carlin"
+  },
+  {
+    "src": "denis-leary",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "dennis-miller",
+    "target": "jonathan-miller"
+  },
+  {
+    "src": "dennis-miller",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "dennis-miller",
+    "target": "richard-belzer"
+  },
+  {
+    "src": "dennis-miller",
+    "target": "jay-leno"
+  },
+  {
+    "src": "dick-van-dyke",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "dick-van-dyke",
+    "target": "buster-keaton"
+  },
+  {
+    "src": "dick-van-dyke",
+    "target": "phil-silvers"
+  },
+  {
+    "src": "dl-hughley",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "dl-hughley",
+    "target": "robin-harris"
+  },
+  {
+    "src": "don-rickles",
+    "target": "milton-berle"
+  },
+  {
+    "src": "doug-stanhope",
+    "target": "monty-python"
+  },
+  {
+    "src": "doug-stanhope",
+    "target": "national-lampoon"
+  },
+  {
+    "src": "ed-helms",
+    "target": "john-stewart"
+  },
+  {
+    "src": "eddie-cantor",
+    "target": "vaudeville"
+  },
+  {
+    "src": "eddie-griffin",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "eddie-griffin",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "eddie-griffin",
+    "target": "george-carlin"
+  },
+  {
+    "src": "eddie-izzard",
+    "target": "billy-connolly"
+  },
+  {
+    "src": "eddie-izzard",
+    "target": "monty-python"
+  },
+  {
+    "src": "eddie-izzard",
+    "target": "spike-milligan"
+  },
+  {
+    "src": "eddie-izzard",
+    "target": "harry-secombe"
+  },
+  {
+    "src": "eddie-izzard",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "eddie-izzard",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "eddie-murphy",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "eddie-murphy",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "eddie-murphy",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "eddie-murphy",
+    "target": "robin-williams"
+  },
+  {
+    "src": "eddie-murphy",
+    "target": "dick-gregory"
+  },
+  {
+    "src": "eddie-murphy",
+    "target": "paul-mooney"
+  },
+  {
+    "src": "eddie-murphy",
+    "target": "rudy-ray-moore"
+  },
+  {
+    "src": "elayne-boosler",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "elayne-boosler",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "elayne-boosler",
+    "target": "robert-klein"
+  },
+  {
+    "src": "ellen-degeneres",
+    "target": "steve-martin"
+  },
+  {
+    "src": "ellen-degeneres",
+    "target": "woody-allen"
+  },
+  {
+    "src": "ellen-degeneres",
+    "target": "bob-newhart"
+  },
+  {
+    "src": "ellie-kemper",
+    "target": "tj-and-dave"
+  },
+  {
+    "src": "eric-andre",
+    "target": "sacha-baron-cohen"
+  },
+  {
+    "src": "eric-andre",
+    "target": "the-simpsons"
+  },
+  {
+    "src": "eric-andre",
+    "target": "martin-short"
+  },
+  {
+    "src": "eric-andre",
+    "target": "tom-green"
+  },
+  {
+    "src": "roscoe-fatty-arbuckle",
+    "target": "vaudeville"
+  },
+  {
+    "src": "frank-caliendo",
+    "target": "robin-williams"
+  },
+  {
+    "src": "frank-caliendo",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "frank-fay",
+    "target": "vaudeville"
+  },
+  {
+    "src": "fred-allen",
+    "target": "vaudeville"
+  },
+  {
+    "src": "fred-armisen",
+    "target": "sctv"
+  },
+  {
+    "src": "fred-armisen",
+    "target": "snl"
+  },
+  {
+    "src": "fred-willard",
+    "target": "bob-hope"
+  },
+  {
+    "src": "fred-willard",
+    "target": "shecky-greene"
+  },
+  {
+    "src": "fry-and-laurie",
+    "target": "monty-python"
+  },
+  {
+    "src": "gabriel-iglesias",
+    "target": "billy-crystal"
+  },
+  {
+    "src": "gabriel-iglesias",
+    "target": "paul-rodriguez"
+  },
+  {
+    "src": "gabriel-iglesias",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "gabriel-iglesias",
+    "target": "robin-williams"
+  },
+  {
+    "src": "garry-shandling",
+    "target": "woody-allen"
+  },
+  {
+    "src": "garry-shandling",
+    "target": "george-carlin"
+  },
+  {
+    "src": "gene-wilder",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "george-ade",
+    "target": "mark-twain"
+  },
+  {
+    "src": "george-burns",
+    "target": "vaudeville"
+  },
+  {
+    "src": "george-carlin",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "george-carlin",
+    "target": "jerry-lester"
+  },
+  {
+    "src": "george-carlin",
+    "target": "danny-kaye"
+  },
+  {
+    "src": "george-carlin",
+    "target": "jerry-lewis"
+  },
+  {
+    "src": "george-carlin",
+    "target": "the-ritz-brothers"
+  },
+  {
+    "src": "george-carlin",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "george-carlin",
+    "target": "abbott-and-costello"
+  },
+  {
+    "src": "george-carlin",
+    "target": "steve-allen"
+  },
+  {
+    "src": "george-carlin",
+    "target": "fred-allen"
+  },
+  {
+    "src": "george-carlin",
+    "target": "stan-freberg"
+  },
+  {
+    "src": "george-carlin",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "george-carlin",
+    "target": "spike-jones"
+  },
+  {
+    "src": "george-carlin",
+    "target": "ernie-kovacs"
+  },
+  {
+    "src": "george-carlin",
+    "target": "mort-sahl"
+  },
+  {
+    "src": "george-carlin",
+    "target": "nichols-and-may"
+  },
+  {
+    "src": "george-carlin",
+    "target": "bob-and-ray"
+  },
+  {
+    "src": "george-lopez",
+    "target": "freddie-prinze"
+  },
+  {
+    "src": "george-wallace",
+    "target": "rodney-dangerfield"
+  },
+  {
+    "src": "george-wallace",
+    "target": "david-brenner"
+  },
+  {
+    "src": "gilbert-gottfried",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "gilbert-gottfried",
+    "target": "milton-berle"
+  },
+  {
+    "src": "gilbert-gottfried",
+    "target": "henny-youngman"
+  },
+  {
+    "src": "gilda-radner",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "gilda-radner",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "gracie-allen",
+    "target": "vaudeville"
+  },
+  {
+    "src": "greg-fitzsimmons",
+    "target": "dennis-miller"
+  },
+  {
+    "src": "hannibal-buress",
+    "target": "dave-chappelle"
+  },
+  {
+    "src": "hannibal-buress",
+    "target": "chris-rock"
+  },
+  {
+    "src": "hannibal-buress",
+    "target": "louis-ck"
+  },
+  {
+    "src": "hannibal-buress",
+    "target": "patrice-oneal"
+  },
+  {
+    "src": "hannibal-buress",
+    "target": "martin-lawrence"
+  },
+  {
+    "src": "hari-kondabolu",
+    "target": "margaret-cho"
+  },
+  {
+    "src": "hari-kondabolu",
+    "target": "stewart-lee"
+  },
+  {
+    "src": "hari-kondabolu",
+    "target": "marc-maron"
+  },
+  {
+    "src": "hari-kondabolu",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "hari-kondabolu",
+    "target": "david-cross"
+  },
+  {
+    "src": "hari-kondabolu",
+    "target": "lewis-black"
+  },
+  {
+    "src": "hari-kondabolu",
+    "target": "paul-mooney"
+  },
+  {
+    "src": "hasan-minhaj",
+    "target": "chris-rock"
+  },
+  {
+    "src": "hasan-minhaj",
+    "target": "john-stewart"
+  },
+  {
+    "src": "henny-youngman",
+    "target": "vaudeville"
+  },
+  {
+    "src": "henry-morgan",
+    "target": "fred-allen"
+  },
+  {
+    "src": "howard-stern",
+    "target": "don-rickles"
+  },
+  {
+    "src": "howie-mandel",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "iliza-shlesinger",
+    "target": "will-ferrell"
+  },
+  {
+    "src": "iliza-shlesinger",
+    "target": "jennifer-saunders"
+  },
+  {
+    "src": "iliza-shlesinger",
+    "target": "mike-myers"
+  },
+  {
+    "src": "iliza-shlesinger",
+    "target": "jim-carrey"
+  },
+  {
+    "src": "iliza-shlesinger",
+    "target": "adam-sandler"
+  },
+  {
+    "src": "iliza-shlesinger",
+    "target": "the-kids-in-the-hall"
+  },
+  {
+    "src": "jack-benny",
+    "target": "frank-fay"
+  },
+  {
+    "src": "jack-benny",
+    "target": "vaudeville"
+  },
+  {
+    "src": "jack-handey",
+    "target": "monty-python"
+  },
+  {
+    "src": "jack-paar",
+    "target": "jack-benny"
+  },
+  {
+    "src": "jack-paar",
+    "target": "frank-fay"
+  },
+  {
+    "src": "james-corden",
+    "target": "graham-norton"
+  },
+  {
+    "src": "james-corden",
+    "target": "chris-evans"
+  },
+  {
+    "src": "james-corden",
+    "target": "jonathan-ross"
+  },
+  {
+    "src": "janeane-garofalo",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "janeane-garofalo",
+    "target": "bill-hicks"
+  },
+  {
+    "src": "jason-segel",
+    "target": "the-muppets"
+  },
+  {
+    "src": "jason-sudeikis",
+    "target": "george-wendt"
+  },
+  {
+    "src": "jason-sudeikis",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "jason-sudeikis",
+    "target": "mick-napier"
+  },
+  {
+    "src": "jay-leno",
+    "target": "bob-hope"
+  },
+  {
+    "src": "jay-leno",
+    "target": "steve-allen"
+  },
+  {
+    "src": "jay-leno",
+    "target": "johnny-carson"
+  },
+  {
+    "src": "jay-leno",
+    "target": "mort-sahl"
+  },
+  {
+    "src": "jay-leno",
+    "target": "george-carlin"
+  },
+  {
+    "src": "jay-leno",
+    "target": "david-brenner"
+  },
+  {
+    "src": "jay-leno",
+    "target": "david-steinberg"
+  },
+  {
+    "src": "jay-leno",
+    "target": "robert-klein"
+  },
+  {
+    "src": "jay-leno",
+    "target": "rodney-dangerfield"
+  },
+  {
+    "src": "jay-leno",
+    "target": "alan-king"
+  },
+  {
+    "src": "jay-leno",
+    "target": "jackie-mason"
+  },
+  {
+    "src": "jay-pharoah",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "jean-shepherd",
+    "target": "george-ade"
+  },
+  {
+    "src": "jeff-foxworthy",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "jeff-garlin",
+    "target": "jimmy-durante"
+  },
+  {
+    "src": "jeff-garlin",
+    "target": "monty-python"
+  },
+  {
+    "src": "jeff-garlin",
+    "target": "jack-benny"
+  },
+  {
+    "src": "jeff-garlin",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "jeff-garlin",
+    "target": "shelley-berman"
+  },
+  {
+    "src": "jeff-garlin",
+    "target": "woody-allen"
+  },
+  {
+    "src": "jeff-garlin",
+    "target": "albert-brooks"
+  },
+  {
+    "src": "jeff-garlin",
+    "target": "george-carlin"
+  },
+  {
+    "src": "jeff-ross",
+    "target": "don-rickles"
+  },
+  {
+    "src": "jeff-ross",
+    "target": "milton-berle"
+  },
+  {
+    "src": "jeff-ross",
+    "target": "cheech-and-chong"
+  },
+  {
+    "src": "jeff-ross",
+    "target": "buddy-hackett"
+  },
+  {
+    "src": "jemaine-clement",
+    "target": "garry-shandling"
+  },
+  {
+    "src": "jemaine-clement",
+    "target": "rowan-atkinson"
+  },
+  {
+    "src": "jemaine-clement",
+    "target": "peter-cook"
+  },
+  {
+    "src": "jemaine-clement",
+    "target": "dudley-moore"
+  },
+  {
+    "src": "jemaine-clement",
+    "target": "john-clarke"
+  },
+  {
+    "src": "jenny-slate",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "jenny-slate",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "jenny-slate",
+    "target": "lily-tomlin"
+  },
+  {
+    "src": "jenny-slate",
+    "target": "madeline-kahn"
+  },
+  {
+    "src": "jerrod-carmichael",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "jerrod-carmichael",
+    "target": "bea-arthur"
+  },
+  {
+    "src": "jerrod-carmichael",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "jerry-lewis",
+    "target": "the-ritz-brothers"
+  },
+  {
+    "src": "jerry-lewis",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "jerry-lewis",
+    "target": "vaudeville"
+  },
+  {
+    "src": "jerry-lewis",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "jay-leno"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "alan-king"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "garry-shandling"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "jean-shepherd"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "robert-klein"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "george-carlin"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "jerry-lewis"
+  },
+  {
+    "src": "jerry-seinfeld",
+    "target": "abbott-and-costello"
+  },
+  {
+    "src": "jessi-klein",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "jessi-klein",
+    "target": "paula-poundstone"
+  },
+  {
+    "src": "jessi-klein",
+    "target": "janeane-garofalo"
+  },
+  {
+    "src": "jessica-williams",
+    "target": "tina-fey"
+  },
+  {
+    "src": "jessica-williams",
+    "target": "amy-poehler"
+  },
+  {
+    "src": "jessica-williams",
+    "target": "maya-rudolph"
+  },
+  {
+    "src": "jessica-williams",
+    "target": "samantha-bee"
+  },
+  {
+    "src": "jessica-williams",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "jim-carrey",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "jim-carrey",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "jim-carrey",
+    "target": "jerry-lewis"
+  },
+  {
+    "src": "jim-carrey",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "jim-gaffigan",
+    "target": "dave-attell"
+  },
+  {
+    "src": "jim-gaffigan",
+    "target": "david-letterman"
+  },
+  {
+    "src": "jim-gaffigan",
+    "target": "bill-murray"
+  },
+  {
+    "src": "jim-gaffigan",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "jim-gaffigan",
+    "target": "jerry-seinfeld"
+  },
+  {
+    "src": "jim-jeffries",
+    "target": "george-carlin"
+  },
+  {
+    "src": "jim-norton",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "jim-norton",
+    "target": "george-carlin"
+  },
+  {
+    "src": "jim-norton",
+    "target": "woody-allen"
+  },
+  {
+    "src": "jimmy-carr",
+    "target": "emo-philips"
+  },
+  {
+    "src": "jimmy-carr",
+    "target": "steven-wright"
+  },
+  {
+    "src": "jimmy-carr",
+    "target": "john-mulaney"
+  },
+  {
+    "src": "jimmy-durante",
+    "target": "vaudeville"
+  },
+  {
+    "src": "jimmy-fallon",
+    "target": "rodney-dangerfield"
+  },
+  {
+    "src": "jimmy-fallon",
+    "target": "snl"
+  },
+  {
+    "src": "jimmy-fallon",
+    "target": "john-belushi"
+  },
+  {
+    "src": "jimmy-kimmel",
+    "target": "sctv"
+  },
+  {
+    "src": "jimmy-kimmel",
+    "target": "howard-stern"
+  },
+  {
+    "src": "jimmy-kimmel",
+    "target": "david-letterman"
+  },
+  {
+    "src": "joan-rivers",
+    "target": "phyllis-diller"
+  },
+  {
+    "src": "joan-rivers",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "joan-rivers",
+    "target": "moms-mabley"
+  },
+  {
+    "src": "joe-rogan",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "joe-rogan",
+    "target": "sam-kinison"
+  },
+  {
+    "src": "joe-rogan",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "joe-rogan",
+    "target": "bill-hicks"
+  },
+  {
+    "src": "john-krasinski",
+    "target": "conan-obrien"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "spalding-gray"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "the-simpsons"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "snl"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "conan-obrien"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "desi-arnez"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "jack-benny"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "bob-and-ray"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "chris-rock"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "dave-chappelle"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "bob-newhart"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "woody-allen"
+  },
+  {
+    "src": "john-mulaney",
+    "target": "jerry-seinfeld"
+  },
+  {
+    "src": "john-oliver",
+    "target": "john-stewart"
+  },
+  {
+    "src": "john-oliver",
+    "target": "chris-morris"
+  },
+  {
+    "src": "john-oliver",
+    "target": "david-letterman"
+  },
+  {
+    "src": "john-oliver",
+    "target": "monty-python"
+  },
+  {
+    "src": "john-oliver",
+    "target": "peter-cook"
+  },
+  {
+    "src": "john-oliver",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "jonathan-van-ness",
+    "target": "erin-gibson"
+  },
+  {
+    "src": "jonathan-van-ness",
+    "target": "margaret-cho"
+  },
+  {
+    "src": "jonathan-winters",
+    "target": "james-thurber"
+  },
+  {
+    "src": "jonathan-winters",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "jonathan-winters",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "johnny-carson",
+    "target": "fred-allen"
+  },
+  {
+    "src": "johnny-carson",
+    "target": "george-burns"
+  },
+  {
+    "src": "johnny-carson",
+    "target": "bob-hope"
+  },
+  {
+    "src": "johnny-carson",
+    "target": "jack-benny"
+  },
+  {
+    "src": "johnny-carson",
+    "target": "milton-berle"
+  },
+  {
+    "src": "johnny-carson",
+    "target": "bob-and-ray"
+  },
+  {
+    "src": "jon-lovitz",
+    "target": "woody-allen"
+  },
+  {
+    "src": "john-stewart",
+    "target": "mad-magazine"
+  },
+  {
+    "src": "john-stewart",
+    "target": "george-carlin"
+  },
+  {
+    "src": "john-stewart",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "john-stewart",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "john-stewart",
+    "target": "steve-martin"
+  },
+  {
+    "src": "john-stewart",
+    "target": "david-letterman"
+  },
+  {
+    "src": "jordan-klepper",
+    "target": "stephen-colbert"
+  },
+  {
+    "src": "jordan-peele",
+    "target": "phil-hartman"
+  },
+  {
+    "src": "jordan-peele",
+    "target": "ricky-gervais"
+  },
+  {
+    "src": "jordan-peele",
+    "target": "mitch-hedberg"
+  },
+  {
+    "src": "jordan-peele",
+    "target": "martin-lawrence"
+  },
+  {
+    "src": "jordan-peele",
+    "target": "the-wayans"
+  },
+  {
+    "src": "jordan-peele",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "jordan-peele",
+    "target": "christpher-guest"
+  },
+  {
+    "src": "josh-gad",
+    "target": "snl"
+  },
+  {
+    "src": "josh-gad",
+    "target": "robin-williams"
+  },
+  {
+    "src": "josh-gad",
+    "target": "neil-simon"
+  },
+  {
+    "src": "judah-friedlander",
+    "target": "steven-wright"
+  },
+  {
+    "src": "judah-friedlander",
+    "target": "sam-kinison"
+  },
+  {
+    "src": "judah-friedlander",
+    "target": "john-mulrooney"
+  },
+  {
+    "src": "julia-louis-dreyfus",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "julia-louis-dreyfus",
+    "target": "mary-tyler-moore"
+  },
+  {
+    "src": "julia-louis-dreyfus",
+    "target": "madeline-kahn"
+  },
+  {
+    "src": "julia-louis-dreyfus",
+    "target": "teri-garr"
+  },
+  {
+    "src": "julia-louis-dreyfus",
+    "target": "norman-lear"
+  },
+  {
+    "src": "kate-mckinnon",
+    "target": "snl"
+  },
+  {
+    "src": "kate-mckinnon",
+    "target": "christpher-guest"
+  },
+  {
+    "src": "kate-mckinnon",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "kate-micucci",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "kathy-griffin",
+    "target": "moms-mabley"
+  },
+  {
+    "src": "kathy-griffin",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "keegan-michael-key",
+    "target": "martin-lawrence"
+  },
+  {
+    "src": "keegan-michael-key",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "keegan-michael-key",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "keegan-michael-key",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "keegan-michael-key",
+    "target": "mitch-hedberg"
+  },
+  {
+    "src": "keegan-michael-key",
+    "target": "ricky-gervais"
+  },
+  {
+    "src": "kenan-thompson",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "ken-dodd",
+    "target": "arthur-askey"
+  },
+  {
+    "src": "kevin-hart",
+    "target": "chris-rock"
+  },
+  {
+    "src": "kevin-hart",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "kevin-hart",
+    "target": "george-carlin"
+  },
+  {
+    "src": "kevin-hart",
+    "target": "jerry-seinfeld"
+  },
+  {
+    "src": "kevin-hart",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "kevin-hart",
+    "target": "martin-lawrence"
+  },
+  {
+    "src": "kevin-james",
+    "target": "robert-klein"
+  },
+  {
+    "src": "kevin-nealon",
+    "target": "steve-martin"
+  },
+  {
+    "src": "kevin-nealon",
+    "target": "albert-brooks"
+  },
+  {
+    "src": "kevin-nealon",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "kevin-pollak",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "kevin-pollak",
+    "target": "albert-brooks"
+  },
+  {
+    "src": "kevin-pollak",
+    "target": "woody-allen"
+  },
+  {
+    "src": "kevin-pollak",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "kevin-smith",
+    "target": "george-carlin"
+  },
+  {
+    "src": "kevin-smith",
+    "target": "howard-stern"
+  },
+  {
+    "src": "kevin-smith",
+    "target": "mad-magazine"
+  },
+  {
+    "src": "kristen-wiig",
+    "target": "joan-cusack"
+  },
+  {
+    "src": "kristen-wiig",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "kristen-wiig",
+    "target": "teri-garr"
+  },
+  {
+    "src": "kristen-wiig",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "kristen-schaal",
+    "target": "steve-martin"
+  },
+  {
+    "src": "kristen-schaal",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "kristin-chenoweth",
+    "target": "madeline-kahn"
+  },
+  {
+    "src": "kumail-nanjiani",
+    "target": "hugh-grant"
+  },
+  {
+    "src": "kumail-nanjiani",
+    "target": "bill-murray"
+  },
+  {
+    "src": "larry-david",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "larry-david",
+    "target": "woody-allen"
+  },
+  {
+    "src": "larry-the-cable-guy",
+    "target": "benny-hill"
+  },
+  {
+    "src": "larry-the-cable-guy",
+    "target": "bob-hope"
+  },
+  {
+    "src": "larry-the-cable-guy",
+    "target": "milton-berle"
+  },
+  {
+    "src": "larry-the-cable-guy",
+    "target": "steve-martin"
+  },
+  {
+    "src": "larry-the-cable-guy",
+    "target": "monty-python"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "the-wayans"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "johnny-carson"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "flip-wilson"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "woody-allen"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "monty-python"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "john-stewart"
+  },
+  {
+    "src": "larry-wilmore",
+    "target": "buster-keaton"
+  },
+  {
+    "src": "laurel-and-hardy",
+    "target": "dan-leno"
+  },
+  {
+    "src": "laurel-and-hardy",
+    "target": "vaudeville"
+  },
+  {
+    "src": "lena-dunham",
+    "target": "janeane-garofalo"
+  },
+  {
+    "src": "lena-dunham",
+    "target": "mary-tyler-moore"
+  },
+  {
+    "src": "lenny-bruce",
+    "target": "joe-ancis"
+  },
+  {
+    "src": "lenny-bruce",
+    "target": "joe-maini"
+  },
+  {
+    "src": "lenny-bruce",
+    "target": "lord-buckley"
+  },
+  {
+    "src": "leslie-jones",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "leslie-jones",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "leslie-jones",
+    "target": "whoopi-goldberg"
+  },
+  {
+    "src": "lewis-black",
+    "target": "george-carlin"
+  },
+  {
+    "src": "lewis-black",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "lewis-black",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "lewis-black",
+    "target": "lily-tomlin"
+  },
+  {
+    "src": "lewis-black",
+    "target": "bob-newhart"
+  },
+  {
+    "src": "lewis-black",
+    "target": "shelley-berman"
+  },
+  {
+    "src": "lil-rel-howery",
+    "target": "cedric-the-entertainer"
+  },
+  {
+    "src": "lil-rel-howery",
+    "target": "chris-rock"
+  },
+  {
+    "src": "lil-rel-howery",
+    "target": "bill-bellamy"
+  },
+  {
+    "src": "lil-rel-howery",
+    "target": "dave-chappelle"
+  },
+  {
+    "src": "lily-tomlin",
+    "target": "gracie-allen"
+  },
+  {
+    "src": "lily-tomlin",
+    "target": "imogene-coca"
+  },
+  {
+    "src": "lily-tomlin",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "lily-tomlin",
+    "target": "jean-carroll"
+  },
+  {
+    "src": "lily-tomlin",
+    "target": "nichols-and-may"
+  },
+  {
+    "src": "louie-anderson",
+    "target": "robin-williams"
+  },
+  {
+    "src": "louie-anderson",
+    "target": "david-brenner"
+  },
+  {
+    "src": "louie-anderson",
+    "target": "jack-benny"
+  },
+  {
+    "src": "louie-anderson",
+    "target": "bob-hope"
+  },
+  {
+    "src": "louie-anderson",
+    "target": "johnny-carson"
+  },
+  {
+    "src": "louis-ck",
+    "target": "george-carlin"
+  },
+  {
+    "src": "louis-ck",
+    "target": "the-unknown-comic"
+  },
+  {
+    "src": "louis-ck",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "louis-ck",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "louis-ck",
+    "target": "steve-martin"
+  },
+  {
+    "src": "louis-ck",
+    "target": "richard-lewis"
+  },
+  {
+    "src": "louis-ck",
+    "target": "jake-johannsen"
+  },
+  {
+    "src": "louis-ck",
+    "target": "steven-wright"
+  },
+  {
+    "src": "lucille-ball",
+    "target": "carole-lombard"
+  },
+  {
+    "src": "lucille-ball",
+    "target": "buster-keaton"
+  },
+  {
+    "src": "marc-maron",
+    "target": "cheech-and-chong"
+  },
+  {
+    "src": "marc-maron",
+    "target": "woody-allen"
+  },
+  {
+    "src": "marc-maron",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "marc-maron",
+    "target": "buddy-hackett"
+  },
+  {
+    "src": "marc-maron",
+    "target": "shelley-berman"
+  },
+  {
+    "src": "marc-maron",
+    "target": "jackie-vernon"
+  },
+  {
+    "src": "marc-maron",
+    "target": "don-rickles"
+  },
+  {
+    "src": "marc-maron",
+    "target": "snl"
+  },
+  {
+    "src": "marc-maron",
+    "target": "george-carlin"
+  },
+  {
+    "src": "marcel-marceau",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "margaret-cho",
+    "target": "robin-williams"
+  },
+  {
+    "src": "margaret-cho",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "maria-bamford",
+    "target": "snl"
+  },
+  {
+    "src": "maria-bamford",
+    "target": "steve-martin"
+  },
+  {
+    "src": "maria-bamford",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "maria-bamford",
+    "target": "nora-dunn"
+  },
+  {
+    "src": "maria-bamford",
+    "target": "jan-hooks"
+  },
+  {
+    "src": "mark-twain",
+    "target": "artemus-ward"
+  },
+  {
+    "src": "mark-twain",
+    "target": "bret-harte"
+  },
+  {
+    "src": "martin-lawrence",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "martin-lawrence",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "martin-mull",
+    "target": "national-lampoon"
+  },
+  {
+    "src": "martin-short",
+    "target": "monty-python"
+  },
+  {
+    "src": "martin-short",
+    "target": "dick-van-dyke"
+  },
+  {
+    "src": "martin-short",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "martin-short",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "martin-short",
+    "target": "jerry-lewis"
+  },
+  {
+    "src": "mary-tyler-moore",
+    "target": "dick-van-dyke"
+  },
+  {
+    "src": "mary-tyler-moore",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "steve-martin"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "mae-west"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "lily-tomlin"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "dan-aykroyd"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "gene-wilder"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "madeline-kahn"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "zucker-abrahams-zucker"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "cloris-leachman"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "bill-murray"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "snl"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "catherine-o-hara"
+  },
+  {
+    "src": "maya-rudolph",
+    "target": "madeline-kahn"
+  },
+  {
+    "src": "megan-mullally",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "megan-mullally",
+    "target": "mary-tyler-moore"
+  },
+  {
+    "src": "mel-brooks",
+    "target": "the-ritz-brothers"
+  },
+  {
+    "src": "mel-brooks",
+    "target": "sid-caesar"
+  },
+  {
+    "src": "mel-brooks",
+    "target": "the-three-stooges"
+  },
+  {
+    "src": "mel-brooks",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "mel-brooks",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "mel-brooks",
+    "target": "buster-keaton"
+  },
+  {
+    "src": "mel-brooks",
+    "target": "vaudeville"
+  },
+  {
+    "src": "melissa-mccarthy",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "melissa-mccarthy",
+    "target": "julia-louis-dreyfus"
+  },
+  {
+    "src": "melissa-mccarthy",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "melissa-mccarthy",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "melissa-mccarthy",
+    "target": "whoopi-goldberg"
+  },
+  {
+    "src": "michael-che",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "michael-che",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "michael-che",
+    "target": "the-wayans"
+  },
+  {
+    "src": "michael-che",
+    "target": "martin-lawrence"
+  },
+  {
+    "src": "michael-che",
+    "target": "jerry-seinfeld"
+  },
+  {
+    "src": "michael-che",
+    "target": "chris-rock"
+  },
+  {
+    "src": "michelle-wolf",
+    "target": "louis-ck"
+  },
+  {
+    "src": "michelle-wolf",
+    "target": "colin-quinn"
+  },
+  {
+    "src": "michelle-wolf",
+    "target": "chris-rock"
+  },
+  {
+    "src": "mike-birbiglia",
+    "target": "steven-wright"
+  },
+  {
+    "src": "mike-birbiglia",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "mike-birbiglia",
+    "target": "mitch-hedberg"
+  },
+  {
+    "src": "mike-myers",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "mike-myers",
+    "target": "dudley-moore"
+  },
+  {
+    "src": "mike-myers",
+    "target": "peter-cook"
+  },
+  {
+    "src": "mike-myers",
+    "target": "monty-python"
+  },
+  {
+    "src": "milton-berle",
+    "target": "vaudeville"
+  },
+  {
+    "src": "milton-berle",
+    "target": "frank-fay"
+  },
+  {
+    "src": "mindy-kaling",
+    "target": "stephen-colbert"
+  },
+  {
+    "src": "mindy-kaling",
+    "target": "conan-obrien"
+  },
+  {
+    "src": "mindy-kaling",
+    "target": "fawlty-towers"
+  },
+  {
+    "src": "mitchell-and-webb",
+    "target": "peter-cook"
+  },
+  {
+    "src": "mitchell-and-webb",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "mitchell-and-webb",
+    "target": "spike-milligan"
+  },
+  {
+    "src": "mitchell-and-webb",
+    "target": "fry-and-laurie"
+  },
+  {
+    "src": "monique",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "monique",
+    "target": "moms-mabley"
+  },
+  {
+    "src": "monique",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "moms-mabley",
+    "target": "vaudeville"
+  },
+  {
+    "src": "monty-python",
+    "target": "the-goon-show"
+  },
+  {
+    "src": "morecambe-and-wise",
+    "target": "flanagan-and-allen"
+  },
+  {
+    "src": "mort-sahl",
+    "target": "henry-morgan"
+  },
+  {
+    "src": "natasha-leggero",
+    "target": "neil-simon"
+  },
+  {
+    "src": "natasha-leggero",
+    "target": "woody-allen"
+  },
+  {
+    "src": "natasha-leggero",
+    "target": "john-waters"
+  },
+  {
+    "src": "natasha-leggero",
+    "target": "mae-west"
+  },
+  {
+    "src": "nathan-fielder",
+    "target": "tom-green"
+  },
+  {
+    "src": "nathan-fielder",
+    "target": "chris-morris"
+  },
+  {
+    "src": "neal-brennan",
+    "target": "chris-rock"
+  },
+  {
+    "src": "neil-simon",
+    "target": "sid-caesar"
+  },
+  {
+    "src": "nick-kroll",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "nick-offerman",
+    "target": "steve-martin"
+  },
+  {
+    "src": "nick-offerman",
+    "target": "john-belushi"
+  },
+  {
+    "src": "nick-swardson",
+    "target": "brian-regan"
+  },
+  {
+    "src": "nick-swardson",
+    "target": "anthony-clark"
+  },
+  {
+    "src": "nick-swardson",
+    "target": "dave-attell"
+  },
+  {
+    "src": "nick-swardson",
+    "target": "dana-gould"
+  },
+  {
+    "src": "nikki-glaser",
+    "target": "sarah-silverman"
+  },
+  {
+    "src": "nikki-glaser",
+    "target": "dave-attell"
+  },
+  {
+    "src": "noel-fielding",
+    "target": "monty-python"
+  },
+  {
+    "src": "noel-fielding",
+    "target": "eddie-izzard"
+  },
+  {
+    "src": "noel-fielding",
+    "target": "spike-milligan"
+  },
+  {
+    "src": "noel-fielding",
+    "target": "stewart-lee"
+  },
+  {
+    "src": "noel-fielding",
+    "target": "harry-hill"
+  },
+  {
+    "src": "norm-macdonald",
+    "target": "bob-newhart"
+  },
+  {
+    "src": "norm-macdonald",
+    "target": "jerry-seinfeld"
+  },
+  {
+    "src": "norm-macdonald",
+    "target": "jay-leno"
+  },
+  {
+    "src": "norm-macdonald",
+    "target": "david-letterman"
+  },
+  {
+    "src": "norm-macdonald",
+    "target": "bob-hope"
+  },
+  {
+    "src": "norm-macdonald",
+    "target": "don-rickles"
+  },
+  {
+    "src": "norm-macdonald",
+    "target": "sam-kinison"
+  },
+  {
+    "src": "olsen-and-johnson",
+    "target": "vaudeville"
+  },
+  {
+    "src": "pg-wodehouse",
+    "target": "george-ade"
+  },
+  {
+    "src": "patrice-oneal",
+    "target": "george-carlin"
+  },
+  {
+    "src": "patrice-oneal",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "blaine-capatch"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "mark-voyce"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "louis-ck"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "bobcat-goldthwait"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "jay-leno"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "emo-philips"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "barry-crimmins"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "steve-martin"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "monty-python"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "george-carlin"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "patton-oswalt",
+    "target": "bill-hicks"
+  },
+  {
+    "src": "paul-f-tompkins",
+    "target": "steve-martin"
+  },
+  {
+    "src": "paul-f-tompkins",
+    "target": "robin-williams"
+  },
+  {
+    "src": "paul-mooney",
+    "target": "flip-wilson"
+  },
+  {
+    "src": "paul-mooney",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "paul-mooney",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "paul-mooney",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "paul-provenza",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "paul-provenza",
+    "target": "george-carlin"
+  },
+  {
+    "src": "paul-provenza",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "paul-reiser",
+    "target": "david-brenner"
+  },
+  {
+    "src": "paul-reiser",
+    "target": "robert-klein"
+  },
+  {
+    "src": "paul-reubens",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "paul-reubens",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "paul-rodriguez",
+    "target": "freddie-prinze"
+  },
+  {
+    "src": "paula-poundstone",
+    "target": "lily-tomlin"
+  },
+  {
+    "src": "paula-poundstone",
+    "target": "rowan-and-martins-laugh-in"
+  },
+  {
+    "src": "paula-poundstone",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "pauly-shore",
+    "target": "cheech-and-chong"
+  },
+  {
+    "src": "pauly-shore",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "pauly-shore",
+    "target": "george-carlin"
+  },
+  {
+    "src": "pauly-shore",
+    "target": "sam-kinison"
+  },
+  {
+    "src": "pete-davidson",
+    "target": "bill-burr"
+  },
+  {
+    "src": "pete-davidson",
+    "target": "louis-ck"
+  },
+  {
+    "src": "pete-davidson",
+    "target": "adam-sandler"
+  },
+  {
+    "src": "pete-holmes",
+    "target": "steve-martin"
+  },
+  {
+    "src": "pete-holmes",
+    "target": "brian-regan"
+  },
+  {
+    "src": "pete-holmes",
+    "target": "jerry-seinfeld"
+  },
+  {
+    "src": "pete-holmes",
+    "target": "conan-obrien"
+  },
+  {
+    "src": "pete-holmes",
+    "target": "david-letterman"
+  },
+  {
+    "src": "peter-cook",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "peter-cook",
+    "target": "spike-milligan"
+  },
+  {
+    "src": "peter-cook",
+    "target": "harry-secombe"
+  },
+  {
+    "src": "peter-sellers",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "peter-sellers",
+    "target": "dan-leno"
+  },
+  {
+    "src": "phil-hartman",
+    "target": "bill-murray"
+  },
+  {
+    "src": "phil-silvers",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "phil-silvers",
+    "target": "vaudeville"
+  },
+  {
+    "src": "phyllis-diller",
+    "target": "bob-hope"
+  },
+  {
+    "src": "phyllis-diller",
+    "target": "milton-berle"
+  },
+  {
+    "src": "phyllis-diller",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "phyllis-diller",
+    "target": "sid-caesar"
+  },
+  {
+    "src": "rachel-bloom",
+    "target": "mary-tyler-moore"
+  },
+  {
+    "src": "rachel-bloom",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "rachel-bloom",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "rachel-bloom",
+    "target": "woody-allen"
+  },
+  {
+    "src": "ray-romano",
+    "target": "snl"
+  },
+  {
+    "src": "ray-romano",
+    "target": "bob-newhart"
+  },
+  {
+    "src": "ray-romano",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "ray-romano",
+    "target": "larry-miller"
+  },
+  {
+    "src": "rebel-wilson",
+    "target": "jennifer-saunders"
+  },
+  {
+    "src": "rebel-wilson",
+    "target": "dawn-french"
+  },
+  {
+    "src": "red-skelton",
+    "target": "vaudeville"
+  },
+  {
+    "src": "rhys-darby",
+    "target": "jim-carrey"
+  },
+  {
+    "src": "rhys-darby",
+    "target": "rowan-atkinson"
+  },
+  {
+    "src": "rhys-darby",
+    "target": "monty-python"
+  },
+  {
+    "src": "rhys-darby",
+    "target": "spike-milligan"
+  },
+  {
+    "src": "rhys-darby",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "rhys-darby",
+    "target": "john-clarke"
+  },
+  {
+    "src": "richard-ayoade",
+    "target": "monty-python"
+  },
+  {
+    "src": "richard-ayoade",
+    "target": "woody-allen"
+  },
+  {
+    "src": "richard-belzer",
+    "target": "jerry-lewis"
+  },
+  {
+    "src": "richard-lewis",
+    "target": "david-brenner"
+  },
+  {
+    "src": "richard-lewis",
+    "target": "jerry-lewis"
+  },
+  {
+    "src": "richard-lewis",
+    "target": "buster-keaton"
+  },
+  {
+    "src": "richard-lewis",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "richard-pryor",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "richard-pryor",
+    "target": "paul-mooney"
+  },
+  {
+    "src": "richard-pryor",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "richard-pryor",
+    "target": "dick-gregory"
+  },
+  {
+    "src": "richard-pryor",
+    "target": "moms-mabley"
+  },
+  {
+    "src": "richard-pryor",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "richard-pryor",
+    "target": "bob-newhart"
+  },
+  {
+    "src": "richard-pryor",
+    "target": "red-skelton"
+  },
+  {
+    "src": "ricky-gervais",
+    "target": "christpher-guest"
+  },
+  {
+    "src": "ricky-gervais",
+    "target": "garry-shandling"
+  },
+  {
+    "src": "ricky-gervais",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "ricky-gervais",
+    "target": "the-muppets"
+  },
+  {
+    "src": "riki-lindhome",
+    "target": "the-state"
+  },
+  {
+    "src": "rip-taylor",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "rip-taylor",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "rip-taylor",
+    "target": "mickey-rooney"
+  },
+  {
+    "src": "rip-taylor",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "rita-rudner",
+    "target": "woody-allen"
+  },
+  {
+    "src": "rita-rudner",
+    "target": "jack-benny"
+  },
+  {
+    "src": "rob-corddry",
+    "target": "the-state"
+  },
+  {
+    "src": "rob-corddry",
+    "target": "john-stewart"
+  },
+  {
+    "src": "rob-delaney",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "rob-delaney",
+    "target": "chris-rock"
+  },
+  {
+    "src": "robert-klein",
+    "target": "rodney-dangerfield"
+  },
+  {
+    "src": "robert-klein",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "robert-klein",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "robert-smigel",
+    "target": "snl"
+  },
+  {
+    "src": "robin-williams",
+    "target": "spike-milligan"
+  },
+  {
+    "src": "robin-williams",
+    "target": "harry-secombe"
+  },
+  {
+    "src": "robin-williams",
+    "target": "peter-cook"
+  },
+  {
+    "src": "robin-williams",
+    "target": "dudley-moore"
+  },
+  {
+    "src": "robin-williams",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "robin-williams",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "robin-williams",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "robin-williams",
+    "target": "nichols-and-may"
+  },
+  {
+    "src": "robin-williams",
+    "target": "mort-sahl"
+  },
+  {
+    "src": "rodney-dangerfield",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "rodney-dangerfield",
+    "target": "joe-ancis"
+  },
+  {
+    "src": "ron-funches",
+    "target": "bill-burr"
+  },
+  {
+    "src": "ron-funches",
+    "target": "tig-notaro"
+  },
+  {
+    "src": "ron-funches",
+    "target": "dave-chappelle"
+  },
+  {
+    "src": "roseanne-barr",
+    "target": "phyllis-diller"
+  },
+  {
+    "src": "ross-noble",
+    "target": "billy-connolly"
+  },
+  {
+    "src": "ross-noble",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "rowan-and-martins-laugh-in",
+    "target": "olsen-and-johnson"
+  },
+  {
+    "src": "rowan-and-martins-laugh-in",
+    "target": "ernie-kovacs"
+  },
+  {
+    "src": "rowan-atkinson",
+    "target": "jacques-tati"
+  },
+  {
+    "src": "rowan-atkinson",
+    "target": "peter-cook"
+  },
+  {
+    "src": "rowan-atkinson",
+    "target": "dudley-moore"
+  },
+  {
+    "src": "rowan-atkinson",
+    "target": "jonathan-miller"
+  },
+  {
+    "src": "rowan-atkinson",
+    "target": "monty-python"
+  },
+  {
+    "src": "roy-chubby-brown",
+    "target": "bob-hope"
+  },
+  {
+    "src": "roy-chubby-brown",
+    "target": "ken-dodd"
+  },
+  {
+    "src": "roy-chubby-brown",
+    "target": "bernard-manning"
+  },
+  {
+    "src": "russell-brand",
+    "target": "stewart-lee"
+  },
+  {
+    "src": "russell-brand",
+    "target": "bill-hicks"
+  },
+  {
+    "src": "russell-brand",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "russell-brand",
+    "target": "jemaine-clement"
+  },
+  {
+    "src": "russell-brand",
+    "target": "bret-mckenzie"
+  },
+  {
+    "src": "russell-brand",
+    "target": "tenacious-d"
+  },
+  {
+    "src": "russell-peters",
+    "target": "george-carlin"
+  },
+  {
+    "src": "russell-peters",
+    "target": "don-rickles"
+  },
+  {
+    "src": "russell-peters",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "sj-perelman",
+    "target": "george-ade"
+  },
+  {
+    "src": "sacha-baron-cohen",
+    "target": "monty-python"
+  },
+  {
+    "src": "sacha-baron-cohen",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "sacha-baron-cohen",
+    "target": "peter-cook"
+  },
+  {
+    "src": "sacha-baron-cohen",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "sam-kinison",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "sam-kinison",
+    "target": "rudy-ray-moore"
+  },
+  {
+    "src": "samantha-bee",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "samantha-bee",
+    "target": "sctv"
+  },
+  {
+    "src": "samantha-bee",
+    "target": "mary-tyler-moore"
+  },
+  {
+    "src": "samantha-bee",
+    "target": "betty-white"
+  },
+  {
+    "src": "samantha-bee",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "samantha-bee",
+    "target": "john-stewart"
+  },
+  {
+    "src": "samantha-bee",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "sandra-bernhard",
+    "target": "mary-tyler-moore"
+  },
+  {
+    "src": "sandra-bernhard",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "sandra-bernhard",
+    "target": "lily-tomlin"
+  },
+  {
+    "src": "sandra-bernhard",
+    "target": "paul-mooney"
+  },
+  {
+    "src": "sandra-bernhard",
+    "target": "lotus-weinstock"
+  },
+  {
+    "src": "sarah-silverman",
+    "target": "steve-martin"
+  },
+  {
+    "src": "sarah-silverman",
+    "target": "garry-shandling"
+  },
+  {
+    "src": "sarah-silverman",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "scott-aukerman",
+    "target": "david-letterman"
+  },
+  {
+    "src": "scott-aukerman",
+    "target": "bob-hope"
+  },
+  {
+    "src": "scott-aukerman",
+    "target": "paul-reubens"
+  },
+  {
+    "src": "scott-aukerman",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "scott-aukerman",
+    "target": "zucker-abrahams-zucker"
+  },
+  {
+    "src": "scott-aukerman",
+    "target": "david-cross"
+  },
+  {
+    "src": "scott-aukerman",
+    "target": "bob-odenkirk"
+  },
+  {
+    "src": "sean-lock",
+    "target": "lee-cornes"
+  },
+  {
+    "src": "sean-lock",
+    "target": "dave-allen"
+  },
+  {
+    "src": "sesame-street",
+    "target": "rowan-and-martins-laugh-in"
+  },
+  {
+    "src": "seth-macfarlane",
+    "target": "monty-python"
+  },
+  {
+    "src": "seth-macfarlane",
+    "target": "mel-brooks"
+  },
+  {
+    "src": "seth-macfarlane",
+    "target": "woody-allen"
+  },
+  {
+    "src": "seth-macfarlane",
+    "target": "norman-lear"
+  },
+  {
+    "src": "seth-macfarlane",
+    "target": "jackie-gleason"
+  },
+  {
+    "src": "seth-meyers",
+    "target": "dennis-miller"
+  },
+  {
+    "src": "seth-meyers",
+    "target": "monty-python"
+  },
+  {
+    "src": "seth-meyers",
+    "target": "pg-wodehouse"
+  },
+  {
+    "src": "seth-meyers",
+    "target": "woody-allen"
+  },
+  {
+    "src": "seth-meyers",
+    "target": "david-letterman"
+  },
+  {
+    "src": "seth-rogen",
+    "target": "adam-sandler"
+  },
+  {
+    "src": "seth-rogen",
+    "target": "sctv"
+  },
+  {
+    "src": "seth-rogen",
+    "target": "the-kids-in-the-hall"
+  },
+  {
+    "src": "sid-caesar",
+    "target": "henry-morgan"
+  },
+  {
+    "src": "sid-caesar",
+    "target": "charles-chaplin"
+  },
+  {
+    "src": "sid-caesar",
+    "target": "the-ritz-brothers"
+  },
+  {
+    "src": "sid-caesar",
+    "target": "danny-kaye"
+  },
+  {
+    "src": "sid-caesar",
+    "target": "buster-keaton"
+  },
+  {
+    "src": "sinbad",
+    "target": "alan-king"
+  },
+  {
+    "src": "sinbad",
+    "target": "red-skelton"
+  },
+  {
+    "src": "sinbad",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "sinbad",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "sinbad",
+    "target": "flip-wilson"
+  },
+  {
+    "src": "sinbad",
+    "target": "sid-caesar"
+  },
+  {
+    "src": "sinbad",
+    "target": "jonathan-winters"
+  },
+  {
+    "src": "sinbad",
+    "target": "nipsey-russell"
+  },
+  {
+    "src": "sinbad",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "sj-perelman",
+    "target": "george-ade"
+  },
+  {
+    "src": "snl",
+    "target": "rowan-and-martins-laugh-in"
+  },
+  {
+    "src": "soupy-sales",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "soupy-sales",
+    "target": "the-ritz-brothers"
+  },
+  {
+    "src": "soupy-sales",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "mad-magazine"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "mick-napier"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "dean-martin"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "george-carlin"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "don-novello"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "steve-martin"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "monty-python"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "david-letterman"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "dana-carvey"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "robert-smigel"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "john-stewart"
+  },
+  {
+    "src": "stephen-colbert",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "stephen-lynch",
+    "target": "christpher-guest"
+  },
+  {
+    "src": "stephen-merchant",
+    "target": "woody-allen"
+  },
+  {
+    "src": "stephen-merchant",
+    "target": "bob-hope"
+  },
+  {
+    "src": "stephen-merchant",
+    "target": "eddie-izzard"
+  },
+  {
+    "src": "steve-carell",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "steve-carell",
+    "target": "steve-martin"
+  },
+  {
+    "src": "steve-coogan",
+    "target": "monty-python"
+  },
+  {
+    "src": "steve-coogan",
+    "target": "armando-iannucci"
+  },
+  {
+    "src": "steve-coogan",
+    "target": "jacques-tati"
+  },
+  {
+    "src": "steve-coogan",
+    "target": "stewart-lee"
+  },
+  {
+    "src": "steve-martin",
+    "target": "red-skelton"
+  },
+  {
+    "src": "steve-martin",
+    "target": "nichols-and-may"
+  },
+  {
+    "src": "steve-martin",
+    "target": "lewis-carroll"
+  },
+  {
+    "src": "steve-martin",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "steve-martin",
+    "target": "tom-lehrer"
+  },
+  {
+    "src": "steve-martin",
+    "target": "jack-benny"
+  },
+  {
+    "src": "steve-martin",
+    "target": "jerry-lewis"
+  },
+  {
+    "src": "steve-martin",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "steve-martin",
+    "target": "cary-grant"
+  },
+  {
+    "src": "steve-martin",
+    "target": "steve-allen"
+  },
+  {
+    "src": "steve-martin",
+    "target": "milton-berle"
+  },
+  {
+    "src": "steve-martin",
+    "target": "jackie-gleason"
+  },
+  {
+    "src": "steven-wright",
+    "target": "george-carlin"
+  },
+  {
+    "src": "steven-wright",
+    "target": "woody-allen"
+  },
+  {
+    "src": "steven-wright",
+    "target": "barry-crimmins"
+  },
+  {
+    "src": "stewart-lee",
+    "target": "ted-chippington"
+  },
+  {
+    "src": "the-lonely-island",
+    "target": "tenacious-d"
+  },
+  {
+    "src": "the-kids-in-the-hall",
+    "target": "monty-python"
+  },
+  {
+    "src": "the-marx-brothers",
+    "target": "wc-fields"
+  },
+  {
+    "src": "the-marx-brothers",
+    "target": "al-shean"
+  },
+  {
+    "src": "the-marx-brothers",
+    "target": "vaudeville"
+  },
+  {
+    "src": "the-muppets",
+    "target": "ernie-kovacs"
+  },
+  {
+    "src": "the-muppets",
+    "target": "pogo"
+  },
+  {
+    "src": "the-muppets",
+    "target": "edgar-bergen"
+  },
+  {
+    "src": "the-simpsons",
+    "target": "national-lampoon"
+  },
+  {
+    "src": "the-simpsons",
+    "target": "monty-python"
+  },
+  {
+    "src": "the-simpsons",
+    "target": "garry-shandling"
+  },
+  {
+    "src": "the-simpsons",
+    "target": "mad-magazine"
+  },
+  {
+    "src": "the-state",
+    "target": "national-lampoon"
+  },
+  {
+    "src": "the-state",
+    "target": "monty-python"
+  },
+  {
+    "src": "the-state",
+    "target": "steve-martin"
+  },
+  {
+    "src": "the-unknown-comic",
+    "target": "paul-gilbert"
+  },
+  {
+    "src": "the-wayans",
+    "target": "zucker-abrahams-zucker"
+  },
+  {
+    "src": "the-wayans",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "the-wayans",
+    "target": "monty-python"
+  },
+  {
+    "src": "tiffany-haddish",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "tiffany-haddish",
+    "target": "the-wayans"
+  },
+  {
+    "src": "tiffany-haddish",
+    "target": "dane-cook"
+  },
+  {
+    "src": "tiffany-haddish",
+    "target": "roger-rabbit"
+  },
+  {
+    "src": "tiffany-haddish",
+    "target": "charles-fleischer"
+  },
+  {
+    "src": "tig-notaro",
+    "target": "paula-poundstone"
+  },
+  {
+    "src": "tig-notaro",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "tig-notaro",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "tig-notaro",
+    "target": "amelia-bedelia"
+  },
+  {
+    "src": "tig-notaro",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "tig-notaro",
+    "target": "ellen-degeneres"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "monty-python"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "chris-morris"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "look-around-you"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "david-cross"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "bob-odenkirk"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "soupy-sales"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "abbott-and-costello"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "the-smothers-brothers"
+  },
+  {
+    "src": "tim-and-eric",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "tim-allen",
+    "target": "snl"
+  },
+  {
+    "src": "tim-conway",
+    "target": "laurel-and-hardy"
+  },
+  {
+    "src": "tina-fey",
+    "target": "carol-burnett"
+  },
+  {
+    "src": "tina-fey",
+    "target": "julia-louis-dreyfus"
+  },
+  {
+    "src": "tina-fey",
+    "target": "gilda-radner"
+  },
+  {
+    "src": "todd-barry",
+    "target": "david-letterman"
+  },
+  {
+    "src": "todd-barry",
+    "target": "andy-kaufman"
+  },
+  {
+    "src": "tom-green",
+    "target": "david-letterman"
+  },
+  {
+    "src": "tommy-davidson",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "tommy-davidson",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "tommy-davidson",
+    "target": "samy-davis-jr"
+  },
+  {
+    "src": "tracy-morgan",
+    "target": "andrew-dice-clay"
+  },
+  {
+    "src": "tracy-morgan",
+    "target": "redd-foxx"
+  },
+  {
+    "src": "tracy-morgan",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "trey-parker-and-matt-stone",
+    "target": "monty-python"
+  },
+  {
+    "src": "trey-parker-and-matt-stone",
+    "target": "norman-lear"
+  },
+  {
+    "src": "trevor-noah",
+    "target": "chris-rock"
+  },
+  {
+    "src": "trevor-noah",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "trevor-noah",
+    "target": "dave-chappelle"
+  },
+  {
+    "src": "trevor-noah",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "trevor-noah",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "trevor-noah",
+    "target": "eddie-izzard"
+  },
+  {
+    "src": "trevor-noah",
+    "target": "john-stewart"
+  },
+  {
+    "src": "vaudeville",
+    "target": "concert-saloons"
+  },
+  {
+    "src": "vaudeville",
+    "target": "dime-museums"
+  },
+  {
+    "src": "vaudeville",
+    "target": "minstrel-shows"
+  },
+  {
+    "src": "vaudeville",
+    "target": "tony-pastor"
+  },
+  {
+    "src": "kamau-bell",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "kamau-bell",
+    "target": "bill-hicks"
+  },
+  {
+    "src": "kamau-bell",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "kamau-bell",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "kamau-bell",
+    "target": "zucker-abrahams-zucker"
+  },
+  {
+    "src": "kamau-bell",
+    "target": "henry-rollins"
+  },
+  {
+    "src": "kamau-bell",
+    "target": "chris-rock"
+  },
+  {
+    "src": "wc-fields",
+    "target": "vaudeville"
+  },
+  {
+    "src": "wanda-sykes",
+    "target": "joan-rivers"
+  },
+  {
+    "src": "wanda-sykes",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "wanda-sykes",
+    "target": "moms-mabley"
+  },
+  {
+    "src": "wanda-sykes",
+    "target": "whoopi-goldberg"
+  },
+  {
+    "src": "al-yankovic",
+    "target": "stan-freberg"
+  },
+  {
+    "src": "al-yankovic",
+    "target": "spike-jones"
+  },
+  {
+    "src": "al-yankovic",
+    "target": "tom-lehrer"
+  },
+  {
+    "src": "al-yankovic",
+    "target": "allan-sherman"
+  },
+  {
+    "src": "al-yankovic",
+    "target": "mad-magazine"
+  },
+  {
+    "src": "whoopi-goldberg",
+    "target": "moms-mabley"
+  },
+  {
+    "src": "whoopi-goldberg",
+    "target": "lenny-bruce"
+  },
+  {
+    "src": "whoopi-goldberg",
+    "target": "nichols-and-may"
+  },
+  {
+    "src": "whoopi-goldberg",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "will-rogers",
+    "target": "george-ade"
+  },
+  {
+    "src": "will-ferrell",
+    "target": "steve-martin"
+  },
+  {
+    "src": "will-ferrell",
+    "target": "peter-sellers"
+  },
+  {
+    "src": "woody-allen",
+    "target": "danny-simon"
+  },
+  {
+    "src": "woody-allen",
+    "target": "mort-sahl"
+  },
+  {
+    "src": "woody-allen",
+    "target": "the-marx-brothers"
+  },
+  {
+    "src": "woody-allen",
+    "target": "bob-hope"
+  },
+  {
+    "src": "wyatt-cenac",
+    "target": "bill-murray"
+  },
+  {
+    "src": "wyatt-cenac",
+    "target": "bill-cosby"
+  },
+  {
+    "src": "wyatt-cenac",
+    "target": "eddie-murphy"
+  },
+  {
+    "src": "wyatt-cenac",
+    "target": "richard-pryor"
+  },
+  {
+    "src": "wyatt-cenac",
+    "target": "sarah-silverman"
+  },
+  {
+    "src": "wyatt-cenac",
+    "target": "colin-quinn"
+  },
+  {
+    "src": "wyatt-cenac",
+    "target": "chris-rock"
+  },
+  {
+    "src": "wyatt-cenac",
+    "target": "lucille-ball"
+  },
+  {
+    "src": "zach-galifianakis",
+    "target": "bill-murray"
+  },
+  {
+    "src": "zach-galifianakis",
+    "target": "david-letterman"
+  },
+  {
+    "src": "zach-galifianakis",
+    "target": "wc-fields"
+  },
+  {
+    "src": "zucker-abrahams-zucker",
+    "target": "mad-magazine"
+  }
+]

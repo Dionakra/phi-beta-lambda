@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto sm:px-4 md:px-16 font-sans antialiased">
+  <div class="mx-auto sm:px-4 md:px-16 font-sans antialiased h-screen">
     <!-- NAVBAR -->
     <nav class="flex items-center justify-between flex-wrap py-2">
       <!-- START LOGO -->
@@ -65,7 +65,14 @@
             class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
             to="/estadisticas"
             v-on:click.native="toggle()"
+            :prefetch="false"
           >Estadísticas</nuxt-link>
+          <nuxt-link
+            class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red my-1 text-lg md:my-0 md:text-sm ml-4 md:ml-1"
+            to="/mapa"
+            v-on:click.native="toggle()"
+            :prefetch="false"
+          >Mapa de la Comedia</nuxt-link>
         </div>
         <!-- END LOCAL PAGES -->
 
