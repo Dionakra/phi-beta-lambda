@@ -408,27 +408,25 @@
   },
   {
     "id": "hovik",
-    "name": "Hovik"
+    "name": "Hovik",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ignatius-farray",
-    "name": "Ignatius Farray"
+    "name": "Ignatius Farray",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "iliza-shlesinger",
-    "name": "Iliza Shlesinger"
+    "name": "Iliza Shlesinger",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jay-leno",
     "name": "Jay Leno",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "surreal-comedy",
-      "sketch-comedy",
-      "insult-comedy",
-      "satire"
-    ],
     "subjects": [
       "american-culture",
       "american-politics",
@@ -438,6 +436,14 @@
       "human-behavior",
       "social-awkwardness",
       "gender-differences"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "surreal-comedy",
+      "sketch-comedy",
+      "insult-comedy",
+      "satire"
     ]
   },
   {
@@ -455,35 +461,29 @@
   {
     "id": "jim-carrey",
     "name": "Jim Carrey",
+    "subjects": [
+      "everyday-life",
+      "popular-culture",
+      "politics",
+      "celebrities"
+    ],
     "genres": [
       "observational-comedy",
       "slapstick",
       "surreal-comedy",
       "character-comedy",
       "satire"
-    ],
-    "subjects": [
-      "everyday-life",
-      "popular-culture",
-      "politics",
-      "celebrities"
     ]
   },
   {
     "id": "joaquin-reyes",
-    "name": "Joaquín Reyes"
+    "name": "Joaquín Reyes",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "joe-rogan",
     "name": "Joe Rogan",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "insult-comedy",
-      "cringe-humor",
-      "satire",
-      "blue-comedy"
-    ],
     "subjects": [
       "recreational-drug-use",
       "self-deprecation",
@@ -494,34 +494,34 @@
       "current-events",
       "politics",
       "religion"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "cringe-humor",
+      "satire",
+      "blue-comedy"
     ]
   },
   {
     "id": "john-mulaney",
     "name": "John Mulaney",
-    "genres": [
-      "observational-comedy",
-      "sketch-comedy",
-      "surreal-comedy"
-    ],
     "subjects": [
       "american-culture",
       "everyday-life",
       "social-awkwardness",
       "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "sketch-comedy",
+      "surreal-comedy"
     ]
   },
   {
     "id": "john-oliver",
     "name": "John Oliver",
-    "genres": [
-      "political-satire",
-      "observational-comedy",
-      "black-comedy",
-      "sarcasm",
-      "cringe-humor",
-      "self-deprecation"
-    ],
     "subjects": [
       "american-politics",
       "british-culture",
@@ -530,44 +530,49 @@
       "current-events",
       "media-criticism",
       "civil-rights"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "black-comedy",
+      "sarcasm",
+      "cringe-humor",
+      "self-deprecation"
     ]
   },
   {
     "id": "jorge-ponce",
-    "name": "Jorge Ponce"
+    "name": "Jorge Ponce",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juan-carlos-cordoba",
-    "name": "Juan Carlos Córdoba"
+    "name": "Juan Carlos Córdoba",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "judd-apatow",
-    "name": "Judd Apatow"
+    "name": "Judd Apatow",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kaco-forns",
-    "name": "Kaco Forns"
+    "name": "Kaco Forns",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kamau-bell",
     "name": "Kamau Bell",
-    "subjects": [
-      "racism",
-      "social-identity",
-      "inequality",
-      "american-politics"
-    ]
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "katt-williams",
     "name": "Katt Williams",
-    "genres": [
-      "black-comedy",
-      "blue-comedy",
-      "satire",
-      "observational-comedy",
-      "slapstick"
-    ],
     "subjects": [
       "african-american-culture",
       "racism",
@@ -575,33 +580,36 @@
       "politics",
       "celebrities",
       "sex"
+    ],
+    "genres": [
+      "black-comedy",
+      "blue-comedy",
+      "satire",
+      "observational-comedy",
+      "slapstick"
     ]
   },
   {
     "id": "kyle-kinane",
-    "name": "Kyle Kinane"
+    "name": "Kyle Kinane",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "leo-harlem",
-    "name": "Leo Harlem"
+    "name": "Leo Harlem",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lorne-michaels",
-    "name": "Lorne Michaels"
+    "name": "Lorne Michaels",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "louis-ck",
     "name": "Louis CK",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "blue-comedy",
-      "insult-comedy",
-      "cringe-humor",
-      "surreal-comedy",
-      "satire",
-      "deadpan"
-    ],
     "subjects": [
       "everyday-life",
       "human-interaction",
@@ -616,44 +624,61 @@
       "self-deprecation",
       "current-events",
       "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "blue-comedy",
+      "insult-comedy",
+      "cringe-humor",
+      "surreal-comedy",
+      "satire",
+      "deadpan"
     ]
   },
   {
     "id": "maria-bamford",
     "name": "Maria Bamford",
+    "subjects": [
+      "popular-culture",
+      "personal-life",
+      "mental-health"
+    ],
     "genres": [
       "observational-comedy",
       "character-comedy",
       "surreal-comedy",
       "alternative-comedy",
       "black-comedy"
-    ],
-    "subjects": [
-      "popular-culture",
-      "personal-life",
-      "mental-health"
     ]
   },
   {
     "id": "martin-lawrence",
     "name": "Martin Lawrence",
-    "genres": [
-      "observational-comedy",
-      "slapstick",
-      "satire",
-      "blue-comedy"
-    ],
     "subjects": [
       "human-sexuality",
       "african-american-culture",
       "racism",
       "race-relations",
       "self-deprecation"
+    ],
+    "genres": [
+      "observational-comedy",
+      "slapstick",
+      "satire",
+      "blue-comedy"
     ]
   },
   {
     "id": "martin-short",
     "name": "Martin Short",
+    "subjects": [
+      "canadian-culture",
+      "american-culture",
+      "current-events",
+      "popular-culture",
+      "human-sexuality"
+    ],
     "genres": [
       "improvisational-comedy",
       "surreal-comedy",
@@ -662,22 +687,24 @@
       "sketch-comedy",
       "character-comedy",
       "satire"
-    ],
-    "subjects": [
-      "canadian-culture",
-      "american-culture",
-      "current-events",
-      "popular-culture",
-      "human-sexuality"
     ]
   },
   {
     "id": "mer",
-    "name": "Mer"
+    "name": "Mer",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "michael-che",
     "name": "Michael Che",
+    "subjects": [
+      "media-criticism",
+      "american-politics",
+      "african-american-culture",
+      "current-events",
+      "popular-culture"
+    ],
     "genres": [
       "political-satire",
       "observational-comedy",
@@ -685,26 +712,11 @@
       "blue-comedy",
       "insult-comedy",
       "surreal-comedy"
-    ],
-    "subjects": [
-      "media-criticism",
-      "american-politics",
-      "african-american-culture",
-      "current-events",
-      "popular-culture"
     ]
   },
   {
     "id": "michelle-wolf",
     "name": "Michelle Wolf",
-    "genres": [
-      "political-satire",
-      "observational-comedy",
-      "black-comedy",
-      "insult-comedy",
-      "deadpan",
-      "surreal-comedy"
-    ],
     "subjects": [
       "american-politics",
       "american-culture",
@@ -714,35 +726,56 @@
       "current-events",
       "media-criticism",
       "civil-rights"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "deadpan",
+      "surreal-comedy"
     ]
   },
   {
     "id": "miguel-esteban",
-    "name": "Miguel Esteban"
+    "name": "Miguel Esteban",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miguel-noguera",
-    "name": "Miguel Noguera"
+    "name": "Miguel Noguera",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miki-dkai",
-    "name": "Miki Dkai"
+    "name": "Miki Dkai",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nacho-garcia",
-    "name": "Nacho García"
+    "name": "Nacho García",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nick-kroll",
-    "name": "Nick Kroll"
+    "name": "Nick Kroll",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nick-offerman",
-    "name": "Nick Offerman"
+    "name": "Nick Offerman",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "norm-macdonald",
     "name": "Norm Macdonald",
+    "subjects": [],
     "genres": [
       "black-comedy",
       "non-sequitur",
@@ -754,6 +787,12 @@
   {
     "id": "patton-oswalt",
     "name": "Patton Oswalt",
+    "subjects": [
+      "popular-culture",
+      "current-events",
+      "politics",
+      "religion"
+    ],
     "genres": [
       "observational-comedy",
       "black-comedy",
@@ -762,29 +801,30 @@
       "sarcasm",
       "satire",
       "deadpan"
-    ],
-    "subjects": [
-      "popular-culture",
-      "current-events",
-      "politics",
-      "religion"
     ]
   },
   {
     "id": "penny-jay",
-    "name": "Penny Jay"
+    "name": "Penny Jay",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rober-bodegas",
-    "name": "Rober Bodegas"
+    "name": "Rober Bodegas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "roseanne-barr",
-    "name": "Roseanne Barr"
+    "name": "Roseanne Barr",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sarah-silverman",
     "name": "Sarah Silverman",
+    "subjects": [],
     "genres": [
       "blue-comedy",
       "black-comedy",
@@ -797,6 +837,13 @@
   {
     "id": "seth-meyers",
     "name": "Seth Meyers",
+    "subjects": [
+      "media-criticism",
+      "american-politics",
+      "american-culture",
+      "current-events",
+      "popular-culture"
+    ],
     "genres": [
       "political-satire",
       "improvisational-comedy",
@@ -804,18 +851,17 @@
       "blue-comedy",
       "insult-comedy",
       "surreal-comedy"
-    ],
-    "subjects": [
-      "media-criticism",
-      "american-politics",
-      "american-culture",
-      "current-events",
-      "popular-culture"
     ]
   },
   {
     "id": "steve-martin",
     "name": "Steve Martin",
+    "subjects": [
+      "american-culture",
+      "current-events",
+      "popular-culture",
+      "human-sexuality"
+    ],
     "genres": [
       "improvisational-comedy",
       "musical-comedy",
@@ -823,25 +869,11 @@
       "sketch-comedy",
       "word-play",
       "satire"
-    ],
-    "subjects": [
-      "american-culture",
-      "current-events",
-      "popular-culture",
-      "human-sexuality"
     ]
   },
   {
     "id": "tiffany-haddish",
     "name": "Tiffany Haddish",
-    "genres": [
-      "observational-comedy",
-      "surreal-comedy",
-      "sketch-comedy",
-      "black-comedy",
-      "blue-comedy",
-      "satire"
-    ],
     "subjects": [
       "american-politics",
       "african-american-culture",
@@ -851,23 +883,25 @@
       "sexism",
       "interpersonal-relationships",
       "human-sexuality"
+    ],
+    "genres": [
+      "observational-comedy",
+      "surreal-comedy",
+      "sketch-comedy",
+      "black-comedy",
+      "blue-comedy",
+      "satire"
     ]
   },
   {
     "id": "valeria-ros",
-    "name": "Valeria Ros"
+    "name": "Valeria Ros",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "whoopi-goldberg",
     "name": "Whoopi Goldberg",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "insult-comedy",
-      "surreal-comedy",
-      "character-comedy",
-      "satire"
-    ],
     "subjects": [
       "african-american-culture",
       "american-politics",
@@ -878,35 +912,68 @@
       "everyday-life",
       "popular-culture",
       "current-events"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "surreal-comedy",
+      "character-comedy",
+      "satire"
     ]
   },
   {
     "id": "adolfo-valor",
-    "name": "Adolfo Valor"
+    "name": "Adolfo Valor",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "albert-floyd",
-    "name": "Albert Floyd"
+    "name": "Albert Floyd",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alex-clavero",
-    "name": "Álex Clavero"
+    "name": "Álex Clavero",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alfredo-diaz",
-    "name": "Alfredo Díaz"
+    "name": "Alfredo Díaz",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alvaro-carmona",
-    "name": "Álvaro Carmona"
+    "name": "Álvaro Carmona",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "andreu-buenafuente",
-    "name": "Andreu Buenafuente"
+    "name": "Andreu Buenafuente",
+    "subjects": [
+      "everyday-life"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "observational-comedy",
+      "satire"
+    ]
   },
   {
     "id": "anthony-jeselnik",
     "name": "Anthony Jeselnik",
+    "subjects": [
+      "everyday-life",
+      "death",
+      "religion",
+      "philosophy",
+      "family"
+    ],
     "genres": [
       "observational-comedy",
       "black-comedy",
@@ -919,23 +986,26 @@
   },
   {
     "id": "arevalo",
-    "name": "Arévalo"
+    "name": "Arévalo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "berto-romero",
-    "name": "Berto Romero"
+    "name": "Berto Romero",
+    "subjects": [
+      "everyday-life"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "observational-comedy",
+      "satire",
+      "black-comedy"
+    ]
   },
   {
     "id": "bill-burr",
     "name": "Bill Burr",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "blue-comedy",
-      "insult-comedy",
-      "satire",
-      "sarcasm"
-    ],
     "subjects": [
       "conspiracy-theories",
       "current-events",
@@ -947,32 +1017,35 @@
       "religion",
       "self-deprecation",
       "sports"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "blue-comedy",
+      "insult-comedy",
+      "satire",
+      "sarcasm"
     ]
   },
   {
     "id": "bill-engvall",
     "name": "Bill Engvall",
-    "genres": [
-      "country-comedy",
-      "observational-comedy",
-      "satire"
-    ],
     "subjects": [
       "southern-american-culture",
       "everyday-life",
       "marriage",
       "parenting-man",
       "self-deprecation"
+    ],
+    "genres": [
+      "country-comedy",
+      "observational-comedy",
+      "satire"
     ]
   },
   {
     "id": "bill-hicks",
     "name": "Bill Hicks",
-    "genres": [
-      "black-comedy",
-      "political-satire",
-      "observational-comedy"
-    ],
     "subjects": [
       "american-culture",
       "american-politics",
@@ -986,11 +1059,17 @@
       "entheogens",
       "conspiracy-theories",
       "consumerism"
+    ],
+    "genres": [
+      "black-comedy",
+      "political-satire",
+      "observational-comedy"
     ]
   },
   {
     "id": "bo-burnham",
     "name": "Bo Burnham",
+    "subjects": [],
     "genres": [
       "observational-comedy",
       "blue-comedy",
@@ -1004,33 +1083,45 @@
   {
     "id": "brian-regan",
     "name": "Brian Regan",
+    "subjects": [],
     "genres": [
       "observational-comedy"
     ]
   },
   {
     "id": "carlos-faemino",
-    "name": "Carlos Faemino"
+    "name": "Carlos Faemino",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "carrot-top",
     "name": "Carrot Top",
-    "genres": [
-      "prop-comedy",
-      "satire"
-    ],
     "subjects": [
       "self-deprecation",
       "american-culture"
+    ],
+    "genres": [
+      "prop-comedy",
+      "satire"
     ]
   },
   {
     "id": "charlie-pee",
-    "name": "Charlie Pee"
+    "name": "Charlie Pee",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "cheech-and-chong",
     "name": "Cheech and Chong",
+    "subjects": [
+      "southern-american-culture",
+      "canadian-culture",
+      "recreational-drug-use",
+      "drug-culture",
+      "everyday-life"
+    ],
     "genres": [
       "stoner-comedy",
       "sketch-comedy",
@@ -1038,18 +1129,12 @@
       "satire",
       "observational-comedy",
       "comedy-rock"
-    ],
-    "subjects": [
-      "southern-american-culture",
-      "canadian-culture",
-      "recreational-drug-use",
-      "drug-culture",
-      "everyday-life"
     ]
   },
   {
     "id": "chevy-chase",
     "name": "Chevy Chase",
+    "subjects": [],
     "genres": [
       "sketch-comedy",
       "improvisational-comedy",
@@ -1059,16 +1144,6 @@
   {
     "id": "conan-obrien",
     "name": "Conan O'Brien",
-    "genres": [
-      "improvisational-comedy",
-      "sketch-comedy",
-      "slapstick",
-      "surreal-comedy",
-      "self-deprecation",
-      "black-comedy",
-      "musical-comedy",
-      "satire"
-    ],
     "subjects": [
       "american-culture",
       "american-politics",
@@ -1079,19 +1154,21 @@
       "social-awkwardness",
       "gender-differences",
       "human-sexuality"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "slapstick",
+      "surreal-comedy",
+      "self-deprecation",
+      "black-comedy",
+      "musical-comedy",
+      "satire"
     ]
   },
   {
     "id": "craig-ferguson",
     "name": "Craig Ferguson",
-    "genres": [
-      "observational-comedy",
-      "improvisational-comedy",
-      "surreal-comedy",
-      "blue-comedy",
-      "satire",
-      "deadpan"
-    ],
     "subjects": [
       "american-culture",
       "scottish-culture",
@@ -1100,20 +1177,25 @@
       "popular-culture",
       "current-events",
       "self-deprecation"
+    ],
+    "genres": [
+      "observational-comedy",
+      "improvisational-comedy",
+      "surreal-comedy",
+      "blue-comedy",
+      "satire",
+      "deadpan"
     ]
   },
   {
     "id": "dani-piqueras",
-    "name": "Dani Piqueras"
+    "name": "Dani Piqueras",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dave-attell",
     "name": "Dave Attell",
-    "genres": [
-      "blue-comedy",
-      "black-comedy",
-      "insult-comedy"
-    ],
     "subjects": [
       "american-culture",
       "everyday-life",
@@ -1122,11 +1204,17 @@
       "self-deprecation",
       "current-events",
       "religion"
+    ],
+    "genres": [
+      "blue-comedy",
+      "black-comedy",
+      "insult-comedy"
     ]
   },
   {
     "id": "denis-leary",
     "name": "Denis Leary",
+    "subjects": [],
     "genres": [
       "observational-comedy",
       "black-comedy",
@@ -1136,19 +1224,26 @@
   },
   {
     "id": "denny-horror",
-    "name": "Denny Horror"
+    "name": "Denny Horror",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dick-gautier",
-    "name": "Dick Gautier"
+    "name": "Dick Gautier",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "don-mauro",
-    "name": "Don Mauro"
+    "name": "Don Mauro",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "eddie-izzard",
     "name": "Eddie Izzard",
+    "subjects": [],
     "genres": [
       "surreal-comedy",
       "improvisational-comedy",
@@ -1159,62 +1254,64 @@
   {
     "id": "ellen-degeneres",
     "name": "Ellen DeGeneres",
+    "subjects": [
+      "american-culture",
+      "popular-culture",
+      "human-sexuality",
+      "current-events"
+    ],
     "genres": [
       "observational-comedy",
       "satire",
       "surreal-comedy",
       "anti-humor",
       "deadpan"
-    ],
-    "subjects": [
-      "american-culture",
-      "popular-culture",
-      "human-sexuality",
-      "current-events"
     ]
   },
   {
     "id": "eva-hache",
-    "name": "Eva Hache"
+    "name": "Eva Hache",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "fran-el-chavo",
-    "name": "Fran el Chavo"
+    "name": "Fran el Chavo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "galder-varas",
-    "name": "Galder Varas"
+    "name": "Galder Varas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "gilbert-gottfried",
     "name": "Gilbert Gottfried",
-    "genres": [
-      "satire",
-      "black-comedy",
-      "improvisational-comedy",
-      "insult-comedy"
-    ],
     "subjects": [
       "religion",
       "race-relations",
       "racism",
       "popular-culture",
       "sex"
+    ],
+    "genres": [
+      "satire",
+      "black-comedy",
+      "improvisational-comedy",
+      "insult-comedy"
     ]
   },
   {
     "id": "gran-wyoming",
-    "name": "Gran Wyoming"
+    "name": "Gran Wyoming",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "greg-giraldo",
     "name": "Greg Giraldo",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "surreal-comedy",
-      "insult-comedy"
-    ],
     "subjects": [
       "current-events",
       "everyday-life",
@@ -1222,57 +1319,68 @@
       "marriage",
       "parenting-man",
       "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "surreal-comedy",
+      "insult-comedy"
     ]
   },
   {
     "id": "hugh-laurie",
-    "name": "Hugh Laurie"
+    "name": "Hugh Laurie",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jaime-caravaca",
-    "name": "Jaime Caravaca"
+    "name": "Jaime Caravaca",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jaime-muela",
-    "name": "Jaime Muela"
+    "name": "Jaime Muela",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jandro",
-    "name": "Jandro"
+    "name": "Jandro",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "javi-bravo",
-    "name": "Javi Bravo"
+    "name": "Javi Bravo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "javier-cansado",
-    "name": "Javier Cansado"
+    "name": "Javier Cansado",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jeff-foxworthy",
     "name": "Jeff Foxworthy",
-    "genres": [
-      "observational-comedy",
-      "word-play"
-    ],
     "subjects": [
       "marriage",
       "southern-usa",
       "everyday-life",
       "family",
       "rednecks"
+    ],
+    "genres": [
+      "observational-comedy",
+      "word-play"
     ]
   },
   {
     "id": "jeff-ross",
     "name": "Jeff Ross",
-    "genres": [
-      "insult-comedy",
-      "observational-comedy",
-      "black-comedy",
-      "cringe-humor",
-      "satire"
-    ],
     "subjects": [
       "jewish-culture",
       "popular-culture",
@@ -1280,19 +1388,18 @@
       "sex",
       "current-events",
       "religion"
+    ],
+    "genres": [
+      "insult-comedy",
+      "observational-comedy",
+      "black-comedy",
+      "cringe-humor",
+      "satire"
     ]
   },
   {
     "id": "jerry-seinfeld",
     "name": "Jerry Seinfeld",
-    "genres": [
-      "observational-comedy",
-      "surreal-comedy",
-      "black-comedy",
-      "cringe-humor",
-      "deadpan",
-      "satire"
-    ],
     "subjects": [
       "american-culture",
       "american-politics",
@@ -1302,16 +1409,19 @@
       "social-awkwardness",
       "popular-culture",
       "current-events"
+    ],
+    "genres": [
+      "observational-comedy",
+      "surreal-comedy",
+      "black-comedy",
+      "cringe-humor",
+      "deadpan",
+      "satire"
     ]
   },
   {
     "id": "jim-jeffries",
     "name": "Jim Jefferies",
-    "genres": [
-      "satire",
-      "observational-comedy",
-      "black-comedy"
-    ],
     "subjects": [
       "alcoholism",
       "current-events",
@@ -1320,34 +1430,31 @@
       "sex",
       "politics",
       "interpersonal-relationships"
+    ],
+    "genres": [
+      "satire",
+      "observational-comedy",
+      "black-comedy"
     ]
   },
   {
     "id": "jimmy-carr",
     "name": "Jimmy Carr",
-    "genres": [
-      "black-comedy",
-      "blue-comedy",
-      "satire"
-    ],
     "subjects": [
       "politics",
       "sex",
       "celebrities",
       "current-events"
+    ],
+    "genres": [
+      "black-comedy",
+      "blue-comedy",
+      "satire"
     ]
   },
   {
     "id": "jimmy-fallon",
     "name": "Jimmy Fallon",
-    "genres": [
-      "observational-comedy",
-      "musical-comedy",
-      "sketch-comedy",
-      "surreal-comedy",
-      "character-comedy",
-      "satire"
-    ],
     "subjects": [
       "american-politics",
       "american-culture",
@@ -1356,15 +1463,26 @@
       "human-behavior",
       "social-awkwardness",
       "current-events"
+    ],
+    "genres": [
+      "observational-comedy",
+      "musical-comedy",
+      "sketch-comedy",
+      "surreal-comedy",
+      "character-comedy",
+      "satire"
     ]
   },
   {
     "id": "jj-vaquero",
-    "name": "JJ Vaquero"
+    "name": "JJ Vaquero",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "joan-rivers",
     "name": "Joan Rivers",
+    "subjects": [],
     "genres": [
       "observational-comedy",
       "insult-comedy",
@@ -1376,11 +1494,20 @@
   },
   {
     "id": "john-cleese",
-    "name": "John Cleese"
+    "name": "John Cleese",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "john-stewart",
     "name": "John Stewart",
+    "subjects": [
+      "media-criticism",
+      "american-politics",
+      "jewish-culture",
+      "current-events",
+      "popular-culture"
+    ],
     "genres": [
       "political-satire",
       "observational-comedy",
@@ -1388,25 +1515,11 @@
       "surreal-comedy",
       "insult-comedy",
       "deadpan"
-    ],
-    "subjects": [
-      "media-criticism",
-      "american-politics",
-      "jewish-culture",
-      "current-events",
-      "popular-culture"
     ]
   },
   {
     "id": "johnny-carson",
     "name": "Johnny Carson",
-    "genres": [
-      "observational-comedy",
-      "surreal-comedy",
-      "satire",
-      "deadpan",
-      "sketch-comedy"
-    ],
     "subjects": [
       "american-culture",
       "american-politics",
@@ -1416,38 +1529,48 @@
       "human-behavior",
       "social-awkwardness",
       "gender-differences"
+    ],
+    "genres": [
+      "observational-comedy",
+      "surreal-comedy",
+      "satire",
+      "deadpan",
+      "sketch-comedy"
     ]
   },
   {
     "id": "jorge-segura",
-    "name": "Jorge Segura"
+    "name": "Jorge Segura",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juan-solo",
-    "name": "Juan Solo"
+    "name": "Juan Solo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juanma-dupley",
-    "name": "Juanma Dupley"
+    "name": "Juanma Dupley",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "judah-friedlander",
-    "name": "Judah Friedlander"
+    "name": "Judah Friedlander",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "katherine-ryan",
-    "name": "Katherine Ryan"
+    "name": "Katherine Ryan",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kevin-hart",
     "name": "Kevin Hart",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "surreal-comedy",
-      "insult-comedy",
-      "satire"
-    ],
     "subjects": [
       "african-american-culture",
       "everyday-life",
@@ -1458,11 +1581,19 @@
       "race-relations",
       "racism",
       "self-deprecation"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "surreal-comedy",
+      "insult-comedy",
+      "satire"
     ]
   },
   {
     "id": "larry-david",
     "name": "Larry David",
+    "subjects": [],
     "genres": [
       "observational-comedy",
       "improvisational-comedy",
@@ -1476,13 +1607,6 @@
   {
     "id": "larry-the-cable-guy",
     "name": "Larry The Cable Guy",
-    "genres": [
-      "character-comedy",
-      "blue-comedy",
-      "insult-comedy",
-      "observational-comedy",
-      "political-satire"
-    ],
     "subjects": [
       "southern-american-culture",
       "american-politics",
@@ -1493,17 +1617,18 @@
       "family",
       "personal-hygiene",
       "current-events"
+    ],
+    "genres": [
+      "character-comedy",
+      "blue-comedy",
+      "insult-comedy",
+      "observational-comedy",
+      "political-satire"
     ]
   },
   {
     "id": "lenny-bruce",
     "name": "Lenny Bruce",
-    "genres": [
-      "satire",
-      "political-satire",
-      "black-comedy",
-      "blue-comedy"
-    ],
     "subjects": [
       "american-culture",
       "american-politics",
@@ -1512,33 +1637,44 @@
       "human-sexuality",
       "obscenity",
       "popular-culture"
+    ],
+    "genres": [
+      "satire",
+      "political-satire",
+      "black-comedy",
+      "blue-comedy"
     ]
   },
   {
     "id": "lisa-lampanelli",
     "name": "Lisa Lampanelli",
-    "genres": [
-      "insult-comedy",
-      "improvisational-comedy",
-      "observational-comedy"
-    ],
     "subjects": [
       "race-relations",
       "human-sexuality",
       "everyday-life"
+    ],
+    "genres": [
+      "insult-comedy",
+      "improvisational-comedy",
+      "observational-comedy"
     ]
   },
   {
     "id": "luis-alvaro",
-    "name": "Luis Álvaro"
+    "name": "Luis Álvaro",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "luis-piedrahita",
-    "name": "Luis Piedrahita"
+    "name": "Luis Piedrahita",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "marc-maron",
     "name": "Marc Maron",
+    "subjects": [],
     "genres": [
       "alternative-comedy",
       "black-comedy",
@@ -1550,35 +1686,37 @@
   },
   {
     "id": "marco-antonio",
-    "name": "Marco Antonio"
+    "name": "Marco Antonio",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miguel-iribar",
-    "name": "Miguel Iribar"
+    "name": "Miguel Iribar",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miguel-lago",
-    "name": "Miguel Lago"
+    "name": "Miguel Lago",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mike-birbiglia",
-    "name": "Mike Birbiglia"
+    "name": "Mike Birbiglia",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miky-mc-phantom",
-    "name": "Miky Mc Phantom"
+    "name": "Miky Mc Phantom",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mitch-hedberg",
     "name": "Mitch Hedberg",
-    "genres": [
-      "observational-comedy",
-      "surreal-comedy",
-      "word-play",
-      "non-sequitur",
-      "one-liners",
-      "deadpan"
-    ],
     "subjects": [
       "recreational-drug-use",
       "everyday-life",
@@ -1586,19 +1724,19 @@
       "self-deprecation",
       "alcoholism",
       "food"
+    ],
+    "genres": [
+      "observational-comedy",
+      "surreal-comedy",
+      "word-play",
+      "non-sequitur",
+      "one-liners",
+      "deadpan"
     ]
   },
   {
     "id": "mo-amer",
     "name": "Mo Amer",
-    "genres": [
-      "observational-comedy",
-      "satire",
-      "self-deprecation",
-      "storytelling",
-      "improvisational-comedy",
-      "character-comedy"
-    ],
     "subjects": [
       "islamic-humour",
       "islamophobia",
@@ -1611,28 +1749,37 @@
       "refugees",
       "arab-culture",
       "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "satire",
+      "self-deprecation",
+      "storytelling",
+      "improvisational-comedy",
+      "character-comedy"
     ]
   },
   {
     "id": "moncho-borrajo",
-    "name": "Moncho Borrajo"
+    "name": "Moncho Borrajo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "monique",
-    "name": "Mo'Nique"
+    "name": "Mo'Nique",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "more-mero",
-    "name": "More Mero"
+    "name": "More Mero",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "moshe-kasher",
     "name": "Moshe Kasher",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "surreal-comedy"
-    ],
     "subjects": [
       "everyday-life",
       "human-sexuality",
@@ -1640,79 +1787,90 @@
       "religion",
       "race-relations",
       "american-politics"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "surreal-comedy"
     ]
   },
   {
     "id": "natasha-leggero",
     "name": "Natasha Leggero",
+    "subjects": [
+      "celebrities",
+      "social-class"
+    ],
     "genres": [
       "observational-comedy",
       "blue-comedy",
       "insult-comedy",
       "satire"
-    ],
-    "subjects": [
-      "celebrities",
-      "social-class"
     ]
   },
   {
     "id": "nene",
-    "name": "Nené"
+    "name": "Nené",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pablo-ibarburu",
-    "name": "Pablo Ibarburu"
+    "name": "Pablo Ibarburu",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paco-calavera",
-    "name": "Paco Calavera"
+    "name": "Paco Calavera",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "patrice-oneal",
     "name": "Patrice O'Neal",
-    "genres": [
-      "black-comedy",
-      "cringe-humor",
-      "insult-comedy",
-      "observational-comedy",
-      "satire"
-    ],
     "subjects": [
       "american-politics",
       "marriage",
       "race-relations",
       "racism",
       "sex"
+    ],
+    "genres": [
+      "black-comedy",
+      "cringe-humor",
+      "insult-comedy",
+      "observational-comedy",
+      "satire"
     ]
   },
   {
     "id": "patricia-espejo",
-    "name": "Patricia Espejo"
+    "name": "Patricia Espejo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "patricia-sornosa",
-    "name": "Patricia Sornosa"
+    "name": "Patricia Sornosa",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paul-provenza",
-    "name": "Paul Provenza"
+    "name": "Paul Provenza",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pepe-rubianes",
-    "name": "Pepe Rubianes"
+    "name": "Pepe Rubianes",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pete-davidson",
     "name": "Pete Davidson",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "insult-comedy",
-      "deadpan",
-      "surreal-comedy",
-      "satire"
-    ],
     "subjects": [
       "american-culture",
       "american-politics",
@@ -1723,11 +1881,20 @@
       "dating",
       "current-events",
       "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "deadpan",
+      "surreal-comedy",
+      "satire"
     ]
   },
   {
     "id": "pete-holmes",
     "name": "Pete Holmes",
+    "subjects": [],
     "genres": [
       "improvisational-comedy",
       "observational-comedy",
@@ -1740,24 +1907,25 @@
   },
   {
     "id": "pilar-de-francisco",
-    "name": "Pilar de Francisco"
+    "name": "Pilar de Francisco",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "queque",
-    "name": "Quequé"
+    "name": "Quequé",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "quique-matilla",
-    "name": "Quique Matilla"
+    "name": "Quique Matilla",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ralphie-may",
     "name": "Ralphie May",
-    "genres": [
-      "observational-comedy",
-      "word-play",
-      "satire"
-    ],
     "subjects": [
       "human-sexuality",
       "race-relations",
@@ -1766,26 +1934,28 @@
       "obesity",
       "politics",
       "medicine"
+    ],
+    "genres": [
+      "observational-comedy",
+      "word-play",
+      "satire"
     ]
   },
   {
     "id": "raquel-sastre",
-    "name": "Raquel Sastre"
+    "name": "Raquel Sastre",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "raul-perez",
-    "name": "Raúl Pérez"
+    "name": "Raúl Pérez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "richard-pryor",
     "name": "Richard Pryor",
-    "genres": [
-      "political-satire",
-      "observational-comedy",
-      "black-comedy",
-      "improvisational-comedy",
-      "character-comedy"
-    ],
     "subjects": [
       "racism",
       "race-relations",
@@ -1796,24 +1966,32 @@
       "self-deprecation",
       "everyday-life",
       "recreational-drug-use"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "black-comedy",
+      "improvisational-comedy",
+      "character-comedy"
     ]
   },
   {
     "id": "rodney-dangerfield",
     "name": "Rodney Dangerfield",
-    "genres": [
-      "deadpan"
-    ],
     "subjects": [
       "depression",
       "aging",
       "self-deprecation",
       "alcoholism"
+    ],
+    "genres": [
+      "deadpan"
     ]
   },
   {
     "id": "ron-white",
     "name": "Ron White",
+    "subjects": [],
     "genres": [
       "country-comedy",
       "observational-comedy",
@@ -1824,6 +2002,7 @@
   {
     "id": "rory-scovel",
     "name": "Rory Scovel",
+    "subjects": [],
     "genres": [
       "surreal-comedy",
       "improvisational-comedy",
@@ -1833,11 +2012,14 @@
   },
   {
     "id": "rowan-atkinson",
-    "name": "Rowan Atkinson"
+    "name": "Rowan Atkinson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "russell-brand",
     "name": "Russell Brand",
+    "subjects": [],
     "genres": [
       "observational-comedy",
       "black-comedy",
@@ -1848,53 +2030,59 @@
   {
     "id": "sam-kinison",
     "name": "Sam Kinison",
-    "genres": [
-      "black-comedy",
-      "satire",
-      "observational-comedy"
-    ],
     "subjects": [
       "human-sexuality",
       "current-events",
       "american-politics",
       "religion"
+    ],
+    "genres": [
+      "black-comedy",
+      "satire",
+      "observational-comedy"
     ]
   },
   {
     "id": "santi-alveru",
-    "name": "Santi Alverú"
+    "name": "Santi Alverú",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "simon-palomares",
-    "name": "Simón Palomares"
+    "name": "Simón Palomares",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "stephen-fry",
-    "name": "Stephen Fry"
+    "name": "Stephen Fry",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "susi-caramelo",
-    "name": "Susi Caramelo"
+    "name": "Susi Caramelo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tig-notaro",
     "name": "Tig Notaro",
+    "subjects": [],
     "genres": [
       "observational-comedy"
     ]
   },
   {
     "id": "todd-barry",
-    "name": "Todd Barry"
+    "name": "Todd Barry",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "todd-glass",
     "name": "Todd Glass",
-    "genres": [
-      "observational-comedy",
-      "surreal-comedy",
-      "alternative-comedy"
-    ],
     "subjects": [
       "american-culture",
       "popular-culture",
@@ -1902,68 +2090,94 @@
       "human-behavior",
       "impersonations",
       "self-deprecation"
+    ],
+    "genres": [
+      "observational-comedy",
+      "surreal-comedy",
+      "alternative-comedy"
     ]
   },
   {
     "id": "tomas-fuentes",
-    "name": "Tomás Fuentes"
+    "name": "Tomás Fuentes",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "toni-moog",
-    "name": "Toni Moog"
+    "name": "Toni Moog",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "urko-vazquez",
-    "name": "Urko Vázquez"
+    "name": "Urko Vázquez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "virginia-riezu",
-    "name": "Virginia Riezu"
+    "name": "Virginia Riezu",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "woody-allen",
-    "name": "Woody Allen"
+    "name": "Woody Allen",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "xavi-castells",
-    "name": "Xavi Castells"
+    "name": "Xavi Castells",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "zach-myers",
-    "name": "Zach Myers"
+    "name": "Zach Myers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "victor-ladron-de-guevara",
-    "name": "Victor Ladrón de Guevara"
+    "name": "Victor Ladrón de Guevara",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "emilio-aragon",
-    "name": "Emilio Aragón"
+    "name": "Emilio Aragón",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kathy-griffin",
     "name": "Kathy Griffin",
-    "genres": [
-      "observational-comedy",
-      "blue-comedy",
-      "black-comedy",
-      "improvisational-comedy"
-    ],
     "subjects": [
       "popular-culture",
       "current-events",
       "catholicism",
       "lgtbq-community",
       "irish-american-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "blue-comedy",
+      "black-comedy",
+      "improvisational-comedy"
     ]
   },
   {
     "id": "leo-bassi",
-    "name": "Leo Bassi"
+    "name": "Leo Bassi",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dana-carvey",
     "name": "Dana Carvey",
+    "subjects": [],
     "genres": [
       "improvisational-comedy",
       "sketch-comedy",
@@ -1973,23 +2187,32 @@
   },
   {
     "id": "oscar-saenz",
-    "name": "Oscar Sáenz"
+    "name": "Oscar Sáenz",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alec-baldwin",
-    "name": "Alec Baldwin"
+    "name": "Alec Baldwin",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "richard-salamanca",
-    "name": "Richard Salamanca"
+    "name": "Richard Salamanca",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rob-schneider",
-    "name": "Rob Schneider"
+    "name": "Rob Schneider",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "john-belushi",
     "name": "John Belushi",
+    "subjects": [],
     "genres": [
       "improvisational-comedy",
       "musical-comedy",
@@ -1999,29 +2222,40 @@
   },
   {
     "id": "john-candy",
-    "name": "John Candy"
+    "name": "John Candy",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bert-kreischer",
     "name": "Bert Kreischer",
-    "genres": [
-      "observational-comedy",
-      "black-comedy"
-    ],
     "subjects": [
       "human-behavior",
       "human-sexuality",
       "american-politics",
       "gender-differences"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy"
     ]
   },
   {
     "id": "manuel-burque",
-    "name": "Manuel Burque"
+    "name": "Manuel Burque",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "will-ferrell",
     "name": "Will Ferrell",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "popular-culture",
+      "celebrities",
+      "current-events"
+    ],
     "genres": [
       "improvisational-comedy",
       "sketch-comedy",
@@ -2032,18 +2266,12 @@
       "surreal-comedy",
       "anti-humor",
       "deadpan"
-    ],
-    "subjects": [
-      "american-politics",
-      "american-culture",
-      "popular-culture",
-      "celebrities",
-      "current-events"
     ]
   },
   {
     "id": "jim-gaffigan",
     "name": "Jim Gaffigan",
+    "subjects": [],
     "genres": [
       "deadpan",
       "observational-comedy",
@@ -2055,19 +2283,26 @@
   },
   {
     "id": "chico-requena",
-    "name": "Chico Requena"
+    "name": "Chico Requena",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jason-sudeikis",
-    "name": "Jason Sudeikis"
+    "name": "Jason Sudeikis",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alberto-sierra",
-    "name": "Alberto Sierra"
+    "name": "Alberto Sierra",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tom-segura",
     "name": "Tom Segura",
+    "subjects": [],
     "genres": [
       "observational-comedy",
       "black-comedy",
@@ -2077,54 +2312,58 @@
   },
   {
     "id": "pepon-fuentes",
-    "name": "Pepón Fuentes"
+    "name": "Pepón Fuentes",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "albert-boira",
-    "name": "Albert Boira"
+    "name": "Albert Boira",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "eugenio",
-    "name": "Eugenio"
+    "name": "Eugenio",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pepe-cespedes",
-    "name": "Pepe Céspedes"
+    "name": "Pepe Céspedes",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kikin",
-    "name": "Kikin Fernández"
+    "name": "Kikin Fernández",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alvarito",
-    "name": "Alvarito"
+    "name": "Alvarito",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "al-madrigal",
     "name": "Al Madrigal",
-    "genres": [
-      "observational-comedy",
-      "satire"
-    ],
     "subjects": [
       "american-culture",
       "human-behavior",
       "family",
       "parenting-man",
       "cultural-assimilation"
+    ],
+    "genres": [
+      "observational-comedy",
+      "satire"
     ]
   },
   {
     "id": "jimmy-kimmel",
     "name": "Jimmy Kimmel",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "insult-comedy",
-      "surreal-comedy",
-      "satire",
-      "deadpan"
-    ],
     "subjects": [
       "american-culture",
       "american-culture",
@@ -2134,15 +2373,26 @@
       "gender-differences",
       "human-behavior",
       "human-sexuality"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "surreal-comedy",
+      "satire",
+      "deadpan"
     ]
   },
   {
     "id": "yunez-chaib",
-    "name": "Yunez Chaib"
+    "name": "Yunez Chaib",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sacha-baron-cohen",
     "name": "Sacha Baron Cohen",
+    "subjects": [],
     "genres": [
       "character-comedy",
       "black-comedy",
@@ -2153,34 +2403,37 @@
   },
   {
     "id": "helena-pozuelo",
-    "name": "Helena Pozuelo"
+    "name": "Helena Pozuelo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "diego-fabiano",
-    "name": "Diego Fabiano"
+    "name": "Diego Fabiano",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "enrique-el-grande",
-    "name": "Enrique El Grande"
+    "name": "Enrique El Grande",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "fernando-morano",
-    "name": "Fernando Moraño"
+    "name": "Fernando Moraño",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ruinas-planchuelo",
-    "name": "Ruinas Planchuelo"
+    "name": "Ruinas Planchuelo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "carlos-mencia",
     "name": "Carlos Mencia",
-    "genres": [
-      "observational-comedy",
-      "black-comedy",
-      "insult-comedy",
-      "slapstick",
-      "satire"
-    ],
     "subjects": [
       "southern-american-culture",
       "race-relations",
@@ -2188,11 +2441,19 @@
       "everyday-life",
       "popular-culture",
       "human-behavior"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "slapstick",
+      "satire"
     ]
   },
   {
     "id": "robin-williams",
     "name": "Robin Williams",
+    "subjects": [],
     "genres": [
       "observational-comedy",
       "improvisational-comedy",
@@ -2205,77 +2466,77 @@
   {
     "id": "dane-cook",
     "name": "Dane Cook",
-    "genres": [
-      "observational-comedy",
-      "black-comedy"
-    ],
     "subjects": [
       "human-behavior",
       "human-sexuality",
       "american-politics",
       "gender-differences"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy"
     ]
   },
   {
     "id": "manu-sanchez",
-    "name": "Manu Sánchez"
+    "name": "Manu Sánchez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "david-guapo",
-    "name": "David Guapo"
+    "name": "David Guapo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tammy-pescatelli",
     "name": "Tammy Pescatelli",
-    "genres": [
-      "observational-comedy"
-    ],
     "subjects": [
       "interpersonal-relationships",
       "everyday-life"
+    ],
+    "genres": [
+      "observational-comedy"
     ]
   },
   {
     "id": "kathleen-madigan",
     "name": "Kathleen Madigan",
-    "genres": [
-      "observational-comedy"
-    ],
     "subjects": [
       "interpersonal-relationships",
       "everyday-life"
+    ],
+    "genres": [
+      "observational-comedy"
     ]
   },
   {
     "id": "wendy-liebman",
     "name": "Wendy Liebman",
-    "genres": [
-      "observational-comedy"
-    ],
     "subjects": [
       "american-culture",
       "everyday-life"
+    ],
+    "genres": [
+      "observational-comedy"
     ]
   },
   {
     "id": "marcos-mas",
-    "name": "Marcos Mas"
+    "name": "Marcos Mas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "salomon",
-    "name": "Salomón"
+    "name": "Salomón",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "neal-brennan",
     "name": "Neal Brennan",
-    "genres": [
-      "observational-comedy",
-      "surreal-comedy",
-      "sketch-comedy",
-      "black-comedy",
-      "blue-comedy",
-      "satire"
-    ],
     "subjects": [
       "american-politics",
       "american-culture",
@@ -2285,23 +2546,25 @@
       "recreational-drug-use",
       "human-sexuality",
       "morality"
+    ],
+    "genres": [
+      "observational-comedy",
+      "surreal-comedy",
+      "sketch-comedy",
+      "black-comedy",
+      "blue-comedy",
+      "satire"
     ]
   },
   {
     "id": "arturo-valls",
-    "name": "Arturo Valls"
+    "name": "Arturo Valls",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "trevor-noah",
     "name": "Trevor Noah",
-    "genres": [
-      "political-satire",
-      "observational-comedy",
-      "surreal-comedy",
-      "black-comedy",
-      "insult-comedy",
-      "deadpan"
-    ],
     "subjects": [
       "media-criticism",
       "american-politics",
@@ -2309,45 +2572,61 @@
       "current-events",
       "race-relations",
       "popular-culture"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "surreal-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "deadpan"
     ]
   },
   {
     "id": "david-navarro",
-    "name": "David Navarro"
+    "name": "David Navarro",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miguel-miguel",
-    "name": "Miguel Miguel"
+    "name": "Miguel Miguel",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "raul-cimas",
-    "name": "Raúl Cimas"
+    "name": "Raúl Cimas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sergio-bezos",
-    "name": "Sergio Bezos"
+    "name": "Sergio Bezos",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "marta-flich",
-    "name": "Marta Flich"
+    "name": "Marta Flich",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "inaki-urrutia",
-    "name": "Iñaki Urrutia"
+    "name": "Iñaki Urrutia",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "manuel-huedo",
-    "name": "Manuel Huedo"
+    "name": "Manuel Huedo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "don-rickles",
     "name": "Don Rickles",
-    "genres": [
-      "insult-comedy",
-      "observational-comedy",
-      "musical-comedy",
-      "improvisational-comedy"
-    ],
     "subjects": [
       "american-culture",
       "racism",
@@ -2355,43 +2634,58 @@
       "everyday-life",
       "religion",
       "current-events"
+    ],
+    "genres": [
+      "insult-comedy",
+      "observational-comedy",
+      "musical-comedy",
+      "improvisational-comedy"
     ]
   },
   {
     "id": "jose-castro",
-    "name": "Jose Castro"
+    "name": "Jose Castro",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lalo-tenorio",
-    "name": "Lalo Tenorio"
+    "name": "Lalo Tenorio",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "amy-schumer",
     "name": "Amy Schumer",
-    "genres": [
-      "observational-comedy",
-      "blue-comedy",
-      "sketch-comedy",
-      "insult-comedy"
-    ],
     "subjects": [
       "interpersonal-relationships",
       "sex",
       "everyday-life",
       "self-deprecation"
+    ],
+    "genres": [
+      "observational-comedy",
+      "blue-comedy",
+      "sketch-comedy",
+      "insult-comedy"
     ]
   },
   {
     "id": "chris-farley",
-    "name": "Chris Farley"
+    "name": "Chris Farley",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "adam-sandler",
-    "name": "Adam Sandler"
+    "name": "Adam Sandler",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ricky-gervais",
     "name": "Ricky Gervais",
+    "subjects": [],
     "genres": [
       "black-comedy",
       "cringe-humor",
@@ -2404,6 +2698,11 @@
   {
     "id": "demetri-martin",
     "name": "Demetri Martin",
+    "subjects": [
+      "everyday-life",
+      "american-culture",
+      "greek-culture"
+    ],
     "genres": [
       "surreal-comedy",
       "musical-comedy",
@@ -2411,2676 +2710,5072 @@
       "alternative-comedy",
       "observational-comedy",
       "one-liners"
-    ],
-    "subjects": [
-      "everyday-life",
-      "american-culture",
-      "greek-culture"
     ]
   },
   {
     "id": "seth-macfarlane",
-    "name": "Seth MacFarlane"
+    "name": "Seth MacFarlane",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "silvia-abril",
-    "name": "Silvia Abril"
+    "name": "Silvia Abril",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "david-lillo",
-    "name": "David Lillo"
+    "name": "David Lillo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "luis-fabra",
-    "name": "Luis Fabra"
+    "name": "Luis Fabra",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "david-martos",
-    "name": "David Martos"
+    "name": "David Martos",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "billy-crystal",
-    "name": "Billy Crystal"
+    "name": "Billy Crystal",
+    "subjects": [
+      "american-culture",
+      "american-politics",
+      "news",
+      "popular-culture",
+      "everyday-life",
+      "social-awkwardness",
+      "human-sexuality"
+    ],
+    "genres": [
+      "observational-comedy",
+      "musical-comedy",
+      "sketch-comedy",
+      "surreal-comedy",
+      "sarcasm",
+      "satire"
+    ]
   },
   {
     "id": "zach-galifianakis",
-    "name": "Zach Galifianakis"
+    "name": "Zach Galifianakis",
+    "subjects": [
+      "everyday-life",
+      "self-deprecation",
+      "current-events"
+    ],
+    "genres": [
+      "alternative-comedy",
+      "surreal-comedy",
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "slapstick",
+      "musical-comedy",
+      "one-liners",
+      "deadpan"
+    ]
   },
   {
     "id": "david-cross",
-    "name": "David Cross"
+    "name": "David Cross",
+    "subjects": [],
+    "genres": [
+      "political-satire",
+      "alternative-comedy",
+      "black-comedy",
+      "sketch-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "bob-hope",
-    "name": "Bob Hope"
+    "name": "Bob Hope",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lionel-mandrake",
-    "name": "Lionel Mandrake"
+    "name": "Lionel Mandrake",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tj-miller",
-    "name": "TJ Miller"
+    "name": "TJ Miller",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "melissa-mccarthy",
-    "name": "Melissa McCarthy"
+    "name": "Melissa McCarthy",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "amy-poehler",
-    "name": "Amy Poehler"
+    "name": "Amy Poehler",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "current-events",
+      "human-interaction",
+      "social-awkwardness",
+      "self-deprecation",
+      "popular-culture"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "blue-comedy",
+      "sketch-comedy",
+      "insult-comedy",
+      "surreal-comedy",
+      "satire"
+    ]
   },
   {
     "id": "raul-navarro",
-    "name": "Raul Navarro"
+    "name": "Raul Navarro",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juan-y-punto",
-    "name": "Juan Y Punto"
+    "name": "Juan Y Punto",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "percebes-y-grelos",
-    "name": "Percebes y Grelos"
+    "name": "Percebes y Grelos",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "hasan-minhaj",
-    "name": "Hasan Minhaj"
+    "name": "Hasan Minhaj",
+    "subjects": [
+      "american-politics",
+      "indian-culture",
+      "political-punditry",
+      "popular-culture",
+      "current-events",
+      "media-criticism",
+      "civil-rights"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "black-comedy",
+      "sarcasm",
+      "insult-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "various-artists-def-comedy-jam",
-    "name": "Various Artists - Def Comedy Jam"
+    "name": "Various Artists - Def Comedy Jam",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "txabi-franquesa",
-    "name": "Txabi Franquesa"
+    "name": "Txabi Franquesa",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "frank-blanco",
-    "name": "Frank Blanco"
+    "name": "Frank Blanco",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "quique-macias",
-    "name": "Quique Macías"
+    "name": "Quique Macías",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "guillermo-jimmy-kimmel",
-    "name": "Guillermo"
+    "name": "Guillermo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "steve-carell",
-    "name": "Steve Carell"
+    "name": "Steve Carell",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "stephen-colbert",
-    "name": "Stephen Colbert"
+    "name": "Stephen Colbert",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "political-punditry",
+      "popular-culture",
+      "current-events",
+      "media-criticism",
+      "civil-rights",
+      "religion",
+      "social-awkwardness"
+    ],
+    "genres": [
+      "political-satire",
+      "improvisational-comedy",
+      "black-comedy",
+      "character-comedy",
+      "sketch-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "carson-daly",
-    "name": "Carson Daly"
+    "name": "Carson Daly",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "cristobal-garrido",
-    "name": "Cristobal Garrido"
+    "name": "Cristobal Garrido",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tracy-morgan",
-    "name": "Tracy Morgan"
+    "name": "Tracy Morgan",
+    "subjects": [
+      "african-american-culture",
+      "race-relations",
+      "racism",
+      "marriage",
+      "self-deprecation",
+      "family",
+      "recreational-drug-use",
+      "sex",
+      "current-events"
+    ],
+    "genres": [
+      "musical-comedy",
+      "cringe-humor",
+      "character-comedy"
+    ]
   },
   {
     "id": "dl-hughley",
-    "name": "D.L. Hughley"
+    "name": "D.L. Hughley",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sinbad",
-    "name": "Sinbad"
+    "name": "Sinbad",
+    "subjects": [
+      "everyday-life",
+      "self-deprecation",
+      "marriage",
+      "parenting-man",
+      "american-politics",
+      "current-events",
+      "family",
+      "friends",
+      "popular-culture",
+      "race-relations",
+      "racism",
+      "race-relations",
+      "aging"
+    ],
+    "genres": [
+      "observational-comedy",
+      "political-satire",
+      "black-comedy",
+      "surreal-comedy",
+      "character-comedy"
+    ]
   },
   {
     "id": "steven-wright",
-    "name": "Steven Wright"
+    "name": "Steven Wright",
+    "subjects": [],
+    "genres": [
+      "surreal-comedy",
+      "one-liners",
+      "deadpan",
+      "word-play",
+      "observational-comedy",
+      "musical-comedy",
+      "anti-humor"
+    ]
   },
   {
     "id": "eva-soriano",
-    "name": "Eva Soriano"
+    "name": "Eva Soriano",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "janeane-garofalo",
-    "name": "Janeane Garofalo"
+    "name": "Janeane Garofalo",
+    "subjects": [
+      "american-politics",
+      "feminism",
+      "celebrities",
+      "body-image"
+    ],
+    "genres": [
+      "film-actress",
+      "voice-artist",
+      "alternative-comedy"
+    ]
   },
   {
     "id": "sergio-encinas",
-    "name": "Sergio Encinas"
+    "name": "Sergio Encinas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "artie-lange",
-    "name": "Artie Lange"
+    "name": "Artie Lange",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juan-y-medio",
-    "name": "Juan y Medio"
+    "name": "Juan y Medio",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "gustavo-biosca",
-    "name": "Gustavo Biosca"
+    "name": "Gustavo Biosca",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dani-ales",
-    "name": "Dani Alés"
+    "name": "Dani Alés",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "millan-salcedo",
-    "name": "Millán Salcedo"
+    "name": "Millán Salcedo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jonathan-ross",
-    "name": "Jonathan Ross"
+    "name": "Jonathan Ross",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ted-alexandro",
-    "name": "Ted Alexandro"
+    "name": "Ted Alexandro",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "ali-wong",
-    "name": "Ali Wong"
+    "name": "Ali Wong",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "john-leguizamo",
-    "name": "John Leguizamo"
+    "name": "John Leguizamo",
+    "subjects": [
+      "southern-american-culture",
+      "childhood",
+      "self-deprecation",
+      "family",
+      "sex",
+      "marriage",
+      "parenting-man",
+      "race-relations",
+      "racism",
+      "human-sexuality",
+      "everyday-life"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "observational-comedy",
+      "character-comedy",
+      "blue-comedy",
+      "musical-comedy",
+      "satire"
+    ]
   },
   {
     "id": "james-acaster",
-    "name": "James Acaster"
+    "name": "James Acaster",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "stephen-merchant",
-    "name": "Stephen Merchant"
+    "name": "Stephen Merchant",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juanra-bonet",
-    "name": "Juanra Bonet"
+    "name": "Juanra Bonet",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "andy-samberg",
-    "name": "Andy Samberg"
+    "name": "Andy Samberg",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "slapstick",
+      "anti-humor",
+      "musical-comedy"
+    ]
   },
   {
     "id": "andy-richter",
-    "name": "Andy Richter"
+    "name": "Andy Richter",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "cringe-humor",
+      "anti-humor",
+      "self-deprecation",
+      "blue-comedy",
+      "alternative-comedy",
+      "satire"
+    ]
   },
   {
     "id": "alvaro-velasco",
-    "name": "Álvaro Velasco"
+    "name": "Álvaro Velasco",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "victoria-martin",
-    "name": "Victoria Martín"
+    "name": "Victoria Martín",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "esther-gimeno",
-    "name": "Esther Gimeno"
+    "name": "Esther Gimeno",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ricardo-castella",
-    "name": "Ricardo Castella"
+    "name": "Ricardo Castella",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "angel-martin",
-    "name": "Angel Martín"
+    "name": "Angel Martín",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miguel-campos",
-    "name": "Miguel Campos"
+    "name": "Miguel Campos",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bob-einstein",
-    "name": "Bob Einstein"
+    "name": "Bob Einstein",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "enrique-san-francisco",
-    "name": "Enrique San Francisco"
+    "name": "Enrique San Francisco",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tommy-cooper",
-    "name": "Tommy Cooper"
+    "name": "Tommy Cooper",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ricardo-castella",
-    "name": "Ricardo Castella"
+    "name": "Ricardo Castella",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "stewart-lee",
-    "name": "Stewart Lee"
+    "name": "Stewart Lee",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mark-normand",
-    "name": "Mark Normand"
+    "name": "Mark Normand",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "llimoo",
-    "name": "Llimoo"
+    "name": "Llimoo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ignasi-taltavull",
-    "name": "Ignasi Taltavull"
+    "name": "Ignasi Taltavull",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alex-martinez",
-    "name": "Álex Martínez"
+    "name": "Álex Martínez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "colin-quinn",
-    "name": "Colin Quinn"
+    "name": "Colin Quinn",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "current-events",
+      "race-relations",
+      "world-history",
+      "alcoholism",
+      "news"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "sketch-comedy",
+      "satire",
+      "political-satire"
+    ]
   },
   {
     "id": "andrew-dice-clay",
-    "name": "Andrew Dice Clay"
+    "name": "Andrew Dice Clay",
+    "subjects": [],
+    "genres": [
+      "character-comedy",
+      "observational-comedy",
+      "improvisational-comedy",
+      "political-satire",
+      "insult-comedy",
+      "blue-comedy",
+      "black-comedy"
+    ]
   },
   {
     "id": "gary-gulman",
-    "name": "Gary Gulman"
+    "name": "Gary Gulman",
+    "subjects": [
+      "everyday-life",
+      "popular-culture",
+      "childhood",
+      "jewish-culture",
+      "mental-illness"
+    ],
+    "genres": [
+      "observational-comedy",
+      "sarcasm",
+      "satire"
+    ]
   },
   {
     "id": "ray-romano",
-    "name": "Ray Romano"
+    "name": "Ray Romano",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "blue-comedy",
+      "slapstick"
+    ]
   },
   {
     "id": "fran-pati",
-    "name": "Fran Pati"
+    "name": "Fran Pati",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "vengamonjas",
-    "name": "Vengamonjas"
+    "name": "Vengamonjas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "chris-gethard",
-    "name": "Chris Gethard"
+    "name": "Chris Gethard",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "malena-pichot",
-    "name": "Malena Pichot"
+    "name": "Malena Pichot",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "sketch-comedy"
+    ]
   },
   {
     "id": "ana-carolina",
-    "name": "Ana Carolina"
+    "name": "Ana Carolina",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "charo-lopez",
-    "name": "Charo López"
+    "name": "Charo López",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "vanesa-strauch",
-    "name": "Vanesa Strauch"
+    "name": "Vanesa Strauch",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sebastian-maniscalco",
-    "name": "Sebastian Maniscalco"
+    "name": "Sebastian Maniscalco",
+    "subjects": [
+      "italian-american-culture",
+      "marriage",
+      "everyday-life",
+      "popular-culture"
+    ],
+    "genres": [
+      "satire",
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy"
+    ]
   },
   {
     "id": "brian-posehn",
-    "name": "Brian Posehn"
+    "name": "Brian Posehn",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "maya-rudolph",
-    "name": "Maya Rudolph"
+    "name": "Maya Rudolph",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tina-fey",
-    "name": "Tina Fey"
+    "name": "Tina Fey",
+    "subjects": [
+      "american-culture",
+      "american-politics",
+      "current-events",
+      "human-interaction",
+      "social-awkwardness",
+      "self-deprecation",
+      "popular-culture"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "satire"
+    ]
   },
   {
     "id": "mike-vecchione",
-    "name": "Mike Vecchione"
+    "name": "Mike Vecchione",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tim-allen",
-    "name": "Tim Allen"
+    "name": "Tim Allen",
+    "subjects": [
+      "marriage",
+      "gender-differences",
+      "everyday-life",
+      "social-awkwardness",
+      "politics"
+    ],
+    "genres": [
+      "observational-comedy",
+      "slapstick",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "sam-morril",
-    "name": "Sam Morril"
+    "name": "Sam Morril",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "ryan-hamilton",
-    "name": "Ryan Hamilton"
+    "name": "Ryan Hamilton",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "megan-amram",
-    "name": "Megan Amram"
+    "name": "Megan Amram",
+    "subjects": [],
+    "genres": [
+      "alternative-comedy",
+      "surreal-comedy",
+      "black-comedy"
+    ]
   },
   {
     "id": "lewis-black",
-    "name": "Lewis Black"
+    "name": "Lewis Black",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "current-events",
+      "popular-culture"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "black-comedy"
+    ]
   },
   {
     "id": "ana-morgade",
-    "name": "Ana Morgade"
+    "name": "Ana Morgade",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "andreu-casanova",
-    "name": "Andreu Casanova"
+    "name": "Andreu Casanova",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "quique-peinado",
-    "name": "Quique Peinado"
+    "name": "Quique Peinado",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "carolina-noriega",
-    "name": "Carolina Noriega"
+    "name": "Carolina Noriega",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sandra-marchena",
-    "name": "Sandra Marchena"
+    "name": "Sandra Marchena",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "james-corden",
-    "name": "James Corden"
+    "name": "James Corden",
+    "subjects": [
+      "british-politics",
+      "british-culture",
+      "american-culture",
+      "current-events",
+      "popular-culture",
+      "everyday-life",
+      "social-awkwardness"
+    ],
+    "genres": [
+      "observational-comedy",
+      "sketch-comedy",
+      "musical-comedy",
+      "slapstick",
+      "satire"
+    ]
   },
   {
     "id": "al-yankovic",
-    "name": "Al Yankovic"
+    "name": "Al Yankovic",
+    "subjects": [],
+    "genres": [
+      "comedy-rock",
+      "comedy-pop",
+      "comedy-hip-hop",
+      "parody"
+    ]
   },
   {
     "id": "chris-delia",
-    "name": "Chris D'Elia"
+    "name": "Chris D'Elia",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "andy-de-la-tour",
-    "name": "Andy De La Tour"
+    "name": "Andy De La Tour",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "los-morancos",
-    "name": "Los Morancos"
+    "name": "Los Morancos",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "diego-varea",
-    "name": "Diego Varea"
+    "name": "Diego Varea",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kenan-thompson",
-    "name": "Kenan Thompson"
+    "name": "Kenan Thompson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "arnau-soler",
-    "name": "Arnau Soler"
+    "name": "Arnau Soler",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "simo-marti",
-    "name": "Simó Martí"
+    "name": "Simó Martí",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lorena-castell",
-    "name": "Lorena Castell"
+    "name": "Lorena Castell",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ken-jeong",
-    "name": "Ken Jeong"
+    "name": "Ken Jeong",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "observational-comedy"
+    ]
   },
   {
     "id": "felisuco",
-    "name": "Felisuco"
+    "name": "Felisuco",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ben-stiller",
-    "name": "Ben Stiller"
+    "name": "Ben Stiller",
+    "subjects": [
+      "everyday-life",
+      "popular-culture",
+      "celebrities"
+    ],
+    "genres": [
+      "slapstick",
+      "self-deprecation",
+      "observational-comedy"
+    ]
   },
   {
     "id": "nuria-jimenez",
-    "name": "Nuria Jiménez"
+    "name": "Nuria Jiménez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "edu-soto",
-    "name": "Edu Soto"
+    "name": "Edu Soto",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "yumi-nagashima",
-    "name": "Yumi Nagashima"
+    "name": "Yumi Nagashima",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mike-lawrence",
-    "name": "Mike Lawrence"
+    "name": "Mike Lawrence",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "steven-brody-stevens",
-    "name": "Steven Brody Stevens"
+    "name": "Steven Brody Stevens",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ari-shaffir",
-    "name": "Ari Shaffir"
+    "name": "Ari Shaffir",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tip-y-coll",
-    "name": "Tip y Coll"
+    "name": "Tip y Coll",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "benny-hill",
-    "name": "Benny Hill"
+    "name": "Benny Hill",
+    "subjects": [],
+    "genres": [
+      "slapstick",
+      "burlesque",
+      "double-entendre"
+    ]
   },
   {
     "id": "toni-nievas",
-    "name": "Toni Nievas"
+    "name": "Toni Nievas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "aubrey-plaza",
-    "name": "Aubrey Plaza"
+    "name": "Aubrey Plaza",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "gila",
-    "name": "Gila"
+    "name": "Gila",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "roy-wood-jr",
-    "name": "Roy Wood Jr"
+    "name": "Roy Wood Jr",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nate-bargatze",
-    "name": "Nate Bargatze"
+    "name": "Nate Bargatze",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "monty-python",
-    "name": "Monty Python"
+    "name": "Monty Python",
+    "subjects": [],
+    "genres": [
+      "satire",
+      "surreal-comedy",
+      "black-comedy",
+      "blue-comedy"
+    ]
   },
   {
     "id": "amanda-seales",
-    "name": "Amanda Seales"
+    "name": "Amanda Seales",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "eugene-mirman",
-    "name": "Eugene Mirman"
+    "name": "Eugene Mirman",
+    "subjects": [
+      "american-culture",
+      "everyday-life",
+      "self-deprecation"
+    ],
+    "genres": [
+      "surreal-comedy",
+      "observational-comedy",
+      "satire"
+    ]
   },
   {
     "id": "irene-meneguzzi",
-    "name": "Irene Meneguzzi"
+    "name": "Irene Meneguzzi",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "modgi",
-    "name": "Modgi"
+    "name": "Modgi",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "xose-tourinan",
-    "name": "Xosé Touriñán"
+    "name": "Xosé Touriñán",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "margaret-cho",
-    "name": "Margaret Cho"
+    "name": "Margaret Cho",
+    "subjects": [
+      "race-relations",
+      "lgtbq-community",
+      "social-issues"
+    ],
+    "genres": [
+      "political-satire"
+    ]
   },
   {
     "id": "emily-heller",
-    "name": "Emily Heller"
+    "name": "Emily Heller",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "antonio-castejo",
-    "name": "Antonio Castejo"
+    "name": "Antonio Castejo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alex-gozalo",
-    "name": "Álex Gozalo"
+    "name": "Álex Gozalo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "marta-gonzalez-de-vega",
-    "name": "Marta González de Vega"
+    "name": "Marta González de Vega",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pablo-carbonell",
-    "name": "Pablo Carbonell"
+    "name": "Pablo Carbonell",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "german-conde",
-    "name": "Germán Conde"
+    "name": "Germán Conde",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sara-escudero",
-    "name": "Sara Escudero"
+    "name": "Sara Escudero",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kumail-nanjiani",
-    "name": "Kumail Nanjiani"
+    "name": "Kumail Nanjiani",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "patricia-galvan",
-    "name": "Patricia Galván"
+    "name": "Patricia Galván",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "litos",
-    "name": "Litos"
+    "name": "Litos",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juan-davila",
-    "name": "Juan Dávila"
+    "name": "Juan Dávila",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alberto-graupera",
-    "name": "Alberto Graupera"
+    "name": "Alberto Graupera",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "will-mars",
-    "name": "Will Mars"
+    "name": "Will Mars",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "emo-philips",
-    "name": "Emo Philips"
+    "name": "Emo Philips",
+    "subjects": [],
+    "genres": [
+      "black-comedy",
+      "surreal-comedy",
+      "word-play"
+    ]
   },
   {
     "id": "kalderas",
-    "name": "Kalderas"
+    "name": "Kalderas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "roberto-moldavsky",
-    "name": "Roberto Moldavsky"
+    "name": "Roberto Moldavsky",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "santi-rodriguez",
-    "name": "Santi Rodríguez"
+    "name": "Santi Rodríguez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "julian-lucero",
-    "name": "Julián Lucero"
+    "name": "Julián Lucero",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "julian-kartun",
-    "name": "Julián Kartun"
+    "name": "Julián Kartun",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "felix-buenaventura",
-    "name": "Félix Buenaventura"
+    "name": "Félix Buenaventura",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "migue-granados",
-    "name": "Migue Granados"
+    "name": "Migue Granados",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "yayo",
-    "name": "Yayo"
+    "name": "Yayo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "les-luthiers",
-    "name": "Les Luthiers"
+    "name": "Les Luthiers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "hermanos-marx",
-    "name": "Hermanos Marx"
+    "name": "Hermanos Marx",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "peter-capusotto",
-    "name": "Peter Capusotto"
+    "name": "Peter Capusotto",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "chiquito-de-la-calzada",
-    "name": "Chiquito de la Calzada"
+    "name": "Chiquito de la Calzada",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "wanda-sykes",
-    "name": "Wanda Sykes"
+    "name": "Wanda Sykes",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "michael-ian-black",
-    "name": "Michael Ian Black"
+    "name": "Michael Ian Black",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "zelensky",
-    "name": "Zelensky"
+    "name": "Zelensky",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ian-cognito",
-    "name": "Ian Cognito"
+    "name": "Ian Cognito",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jose-cabrera",
-    "name": "José Cabrera"
+    "name": "José Cabrera",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "reggie-watts",
-    "name": "Reggie Watts"
+    "name": "Reggie Watts",
+    "subjects": [],
+    "genres": [
+      "musical-comedy",
+      "alternative-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "kevin-smith",
-    "name": "Kevin Smith"
+    "name": "Kevin Smith",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bobby-tisdale",
-    "name": "Bobby Tisdale"
+    "name": "Bobby Tisdale",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tim-and-eric",
-    "name": "Tim Heidecker (Tim & Eric)"
+    "name": "Tim Heidecker (Tim & Eric)",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "cake-minuesa",
-    "name": "Cake Minuesa"
+    "name": "Cake Minuesa",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dan-harmon",
-    "name": "Dan Harmon"
+    "name": "Dan Harmon",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bill-murray",
-    "name": "Bill Murray"
+    "name": "Bill Murray",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "robert-klein",
-    "name": "Robert Klein"
+    "name": "Robert Klein",
+    "subjects": [
+      "everyday-life",
+      "american-politics"
+    ],
+    "genres": [
+      "observational-comedy",
+      "improvisational-comedy",
+      "satire"
+    ]
   },
   {
     "id": "mel-brooks",
-    "name": "Mel Brooks"
+    "name": "Mel Brooks",
+    "subjects": [],
+    "genres": [
+      "farce",
+      "parody",
+      "musical-comedy",
+      "satire",
+      "sketch-comedy"
+    ]
   },
   {
     "id": "carl-reiner",
-    "name": "Carl Reiner"
+    "name": "Carl Reiner",
+    "subjects": [
+      "american-culture",
+      "human-interaction",
+      "popular-culture",
+      "news"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "deadpan",
+      "surreal-comedy",
+      "sketch-comedy",
+      "satire"
+    ]
   },
   {
     "id": "mort-sahl",
-    "name": "Mort Sahl"
+    "name": "Mort Sahl",
+    "subjects": [
+      "american-politics",
+      "american-culture"
+    ],
+    "genres": [
+      "political-satire",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "jonathan-winters",
-    "name": "Jonathan Winters"
+    "name": "Jonathan Winters",
+    "subjects": [],
+    "genres": [
+      "character-comedy",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "shelley-berman",
-    "name": "Shelley Berman"
+    "name": "Shelley Berman",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "elaine-may",
-    "name": "Elaine May"
+    "name": "Elaine May",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "simon-rich",
-    "name": "Simon Rich"
+    "name": "Simon Rich",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "john-swartzwelder",
-    "name": "John Swartzwelder"
+    "name": "John Swartzwelder",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "surreal-comedy",
+      "black-comedy",
+      "detective-fiction"
+    ]
   },
   {
     "id": "neil-simon",
-    "name": "Neil Simon"
+    "name": "Neil Simon",
+    "subjects": [],
+    "genres": [
+      "farce"
+    ]
   },
   {
     "id": "danny-simon",
-    "name": "Danny Simon"
+    "name": "Danny Simon",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mel-tolkin",
-    "name": "Mel Tolkin"
-  },
-  {
-    "id": "alec-berg",
-    "name": "Alec Berg"
-  },
-  {
-    "id": "bill-hader",
-    "name": "Bill Hader"
+    "name": "Mel Tolkin",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "michael-schurr",
-    "name": "Michael Schurr"
+    "name": "Michael Schurr",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "robert-smigel",
-    "name": "Robert Smigel"
+    "name": "Robert Smigel",
+    "subjects": [],
+    "genres": [
+      "insult-comedy"
+    ]
   },
   {
     "id": "tim-robinson",
-    "name": "Tim Robinson"
+    "name": "Tim Robinson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juanjo-albinana",
-    "name": "Juanjo Albiñana"
+    "name": "Juanjo Albiñana",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "laurie-kilmartin",
-    "name": "Laurie Kilmartin"
+    "name": "Laurie Kilmartin",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jose-mota",
-    "name": "José Mota"
+    "name": "José Mota",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rachel-feinstein",
-    "name": "Rachel Feinstein"
+    "name": "Rachel Feinstein",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tappy",
-    "name": "Tappy"
+    "name": "Tappy",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paul-f-tompkins",
-    "name": "Paul F. Tompkins"
+    "name": "Paul F. Tompkins",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bob-odenkirk",
-    "name": "Bob Odenkirk"
+    "name": "Bob Odenkirk",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miguel-martin",
-    "name": "Miguel Martín"
+    "name": "Miguel Martín",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "julian-lopez",
-    "name": "Julián Lopez"
+    "name": "Julián Lopez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "phyllis-diller",
-    "name": "Phyllis Diller"
+    "name": "Phyllis Diller",
+    "subjects": [
+      "american-culture",
+      "racism",
+      "self-deprecation",
+      "everyday-life",
+      "religion",
+      "current-events"
+    ],
+    "genres": [
+      "insult-comedy",
+      "observational-comedy",
+      "musical-comedy",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "jean-carroll",
-    "name": "Jean Carroll"
+    "name": "Jean Carroll",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "agustin-jimenez",
-    "name": "Agustín Jiménez"
+    "name": "Agustín Jiménez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ingrid-garcia-jonsson",
-    "name": "Ingrid García Jonsson"
+    "name": "Ingrid García Jonsson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nikki-glaser",
-    "name": "Nikki Glaser"
+    "name": "Nikki Glaser",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alex-o-dogherty",
-    "name": "Alex O'Dogherty"
+    "name": "Alex O'Dogherty",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ahri-findling",
-    "name": "Ahri Findling"
+    "name": "Ahri Findling",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jake-marshall-head",
-    "name": "Jake Marshall Head"
+    "name": "Jake Marshall Head",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juan-munoz",
-    "name": "Juan Muñoz"
+    "name": "Juan Muñoz",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "josep-gatell",
-    "name": "Josep Gatell"
+    "name": "Josep Gatell",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pantomima-full",
-    "name": "Pantomima Full"
+    "name": "Pantomima Full",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paco-paez",
-    "name": "Paco Páez"
+    "name": "Paco Páez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "eric-andre",
-    "name": "Eric André"
+    "name": "Eric André",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "miki-nadal",
-    "name": "Miki Nadal"
+    "name": "Miki Nadal",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "adam-ferrara",
-    "name": "Adam Ferrara"
+    "name": "Adam Ferrara",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "shecky-greene",
-    "name": "Shecky Greene"
+    "name": "Shecky Greene",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "maru-candel",
-    "name": "Maru Candel"
+    "name": "Maru Candel",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jerry-lewis",
-    "name": "Jerry Lewis"
+    "name": "Jerry Lewis",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "seth-rogen",
-    "name": "Seth Rogen"
+    "name": "Seth Rogen",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jamie-foxx",
-    "name": "Jamie Foxx"
+    "name": "Jamie Foxx",
+    "subjects": [
+      "african-american-culture",
+      "current-events",
+      "everyday-life",
+      "popular-culture",
+      "race-relations",
+      "racism",
+      "human-sexuality"
+    ],
+    "genres": [
+      "musical-comedy"
+    ]
   },
   {
     "id": "bridget-everett",
-    "name": "Bridget Everett"
+    "name": "Bridget Everett",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jim-norton",
-    "name": "Jim Norton"
+    "name": "Jim Norton",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "howie-mandel",
-    "name": "Howie Mandel"
+    "name": "Howie Mandel",
+    "subjects": [
+      "everyday-life",
+      "self-deprecation"
+    ],
+    "genres": [
+      "observational-comedy",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "alexei-sayle",
-    "name": "Alexei Sayle"
+    "name": "Alexei Sayle",
+    "subjects": [],
+    "genres": [
+      "black-comedy",
+      "slapstick",
+      "surreal-comedy",
+      "parody",
+      "alternative-comedy",
+      "character-comedy"
+    ]
   },
   {
     "id": "jaime-pastor",
-    "name": "Jaime Pastor"
+    "name": "Jaime Pastor",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "eldin-el-egipcio",
-    "name": "Eldin El Egipcio"
+    "name": "Eldin El Egipcio",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "buddy-hackett",
-    "name": "Buddy Hackett"
+    "name": "Buddy Hackett",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "adam-devine",
-    "name": "Adam Devine"
+    "name": "Adam Devine",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "daniel-tosh",
-    "name": "Daniel Tosh"
+    "name": "Daniel Tosh",
+    "subjects": [
+      "everyday-life",
+      "human-interaction",
+      "human-behavior",
+      "social-awkwardness",
+      "sex",
+      "gender-differences",
+      "racism",
+      "current-events",
+      "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "cringe-humor",
+      "sarcasm",
+      "satire"
+    ]
   },
   {
     "id": "kent-alterman",
-    "name": "Kent Alterman"
+    "name": "Kent Alterman",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "moms-mabley",
-    "name": "Moms Mabley"
+    "name": "Moms Mabley",
+    "subjects": [],
+    "genres": [
+      "social-satire"
+    ]
   },
   {
     "id": "mindy-kaling",
-    "name": "Mindy Kaling"
+    "name": "Mindy Kaling",
+    "subjects": [
+      "american-culture",
+      "popular-culture"
+    ],
+    "genres": [
+      "satire",
+      "improvisational-comedy",
+      "sketch-comedy"
+    ]
   },
   {
     "id": "samantha-bee",
-    "name": "Samantha Bee"
+    "name": "Samantha Bee",
+    "subjects": [
+      "american-politics",
+      "canadian-culture",
+      "political-punditry",
+      "popular-culture",
+      "current-events",
+      "media-criticism",
+      "civil-rights"
+    ],
+    "genres": [
+      "political-satire",
+      "improvisational-comedy",
+      "blue-comedy",
+      "sarcasm",
+      "sketch-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "chuck-lorre",
-    "name": "Chuck Lorre"
+    "name": "Chuck Lorre",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kate-mckinnon",
-    "name": "Kate Mckinnon"
+    "name": "Kate Mckinnon",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "hari-kondabolu",
-    "name": "Hari Kondabolu"
+    "name": "Hari Kondabolu",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "indian-culture",
+      "popular-culture",
+      "civil-rights",
+      "racism"
+    ],
+    "genres": [
+      "observational-comedy",
+      "political-satire"
+    ]
   },
   {
     "id": "whitney-cummings",
-    "name": "Whitney Cummings"
+    "name": "Whitney Cummings",
+    "subjects": [
+      "gender-differences",
+      "sexism",
+      "human-sexuality",
+      "human-interaction"
+    ],
+    "genres": [
+      "observational-comedy",
+      "insult-comedy",
+      "blue-comedy"
+    ]
   },
   {
     "id": "miliki",
-    "name": "Miliki"
+    "name": "Miliki",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "monaguillo",
-    "name": "Monaguillo"
+    "name": "Monaguillo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "fred-armisen",
-    "name": "Fred Armisen"
+    "name": "Fred Armisen",
+    "subjects": [],
+    "genres": [
+      "musical-comedy"
+    ]
   },
   {
     "id": "mario-joyner",
-    "name": "Mario Joyner"
+    "name": "Mario Joyner",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dave-mccary",
-    "name": "Dave McCary"
+    "name": "Dave McCary",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "phoebe-waller-bridge",
-    "name": "Phoebe Waller-Bridge"
+    "name": "Phoebe Waller-Bridge",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "julio-torres",
-    "name": "Julio Torres"
+    "name": "Julio Torres",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "arsenio-hall",
-    "name": "Arsenio Hall"
+    "name": "Arsenio Hall",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bobcat-goldthwait",
-    "name": "Bobcat Goldthwait"
+    "name": "Bobcat Goldthwait",
+    "subjects": [
+      "american-politics",
+      "everyday-life"
+    ],
+    "genres": [
+      "black-comedy",
+      "political-satire"
+    ]
   },
   {
     "id": "melissa-villasenor",
-    "name": "Melissa Villaseñor"
+    "name": "Melissa Villaseñor",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "barry-marder",
-    "name": "Barry Marder"
+    "name": "Barry Marder",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "freddy-prince",
-    "name": "Freddie Prinze"
+    "name": "Freddie Prinze",
+    "subjects": [
+      "southern-american-culture",
+      "race-relations",
+      "racism",
+      "recreational-drug-use",
+      "everyday-life"
+    ],
+    "genres": [
+      "observational-comedy",
+      "blue-comedy",
+      "deadpan",
+      "satire"
+    ]
   },
   {
     "id": "shane-gillis",
-    "name": "Shane Gillis"
+    "name": "Shane Gillis",
+    "subjects": [
+      "everyday-life",
+      "current-events",
+      "popular-culture",
+      "human-behavior",
+      "race-relations",
+      "self-deprecation",
+      "alcoholism",
+      "sports"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "blue-comedy",
+      "black-comedy",
+      "shock-humor",
+      "insult-comedy",
+      "sarcasm"
+    ]
   },
   {
     "id": "samy-davis-jr",
-    "name": "Sammy Davis Jr"
+    "name": "Sammy Davis Jr.",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "antonio-trashorras",
-    "name": "Antonio Trashorras"
+    "name": "Antonio Trashorras",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pepe-macias",
-    "name": "Pepe Macías"
+    "name": "Pepe Macías",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "velilla-valbuena",
-    "name": "Velilla Valbuena"
+    "name": "Velilla Valbuena",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "terry-crews",
-    "name": "Terry Crews"
+    "name": "Terry Crews",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sil-de-castro",
-    "name": "Sil De Castro"
+    "name": "Sil De Castro",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "billy-connolly",
-    "name": "Billy Connolly"
+    "name": "Billy Connolly",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "blue-comedy",
+      "musical-comedy"
+    ]
   },
   {
     "id": "dan-aykroyd",
-    "name": "Dan Aykroyd"
+    "name": "Dan Aykroyd",
+    "subjects": [],
+    "genres": [
+      "sketch-comedy",
+      "improvisational-comedy",
+      "musical-comedy"
+    ]
   },
   {
     "id": "flipy",
-    "name": "Flipy"
+    "name": "Flipy",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rick-moranis",
-    "name": "Rick Moranis"
+    "name": "Rick Moranis",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "carlos-areces",
-    "name": "Carlos Areces"
+    "name": "Carlos Areces",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jack-black",
-    "name": "Jack Black"
+    "name": "Jack Black",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "yolanda-ramos",
-    "name": "Yolanda Ramos"
+    "name": "Yolanda Ramos",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "patricia-conde",
-    "name": "Patricia Conde"
+    "name": "Patricia Conde",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "anabel-alonso",
-    "name": "Anabel Alonso"
+    "name": "Anabel Alonso",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "charles-chaplin",
-    "name": "Charles Chaplin"
+    "name": "Charles Chaplin",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "chelsea-peretti",
-    "name": "Chelsea Peretti"
+    "name": "Chelsea Peretti",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jordan-peele",
-    "name": "Jordan Peele"
+    "name": "Jordan Peele",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "daniel-sloss",
-    "name": "Daniel Sloss"
+    "name": "Daniel Sloss",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kim-jun-ho",
-    "name": "Kim Jun Ho"
+    "name": "Kim Jun Ho",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "yoo-byung-jae",
-    "name": "Yoo Byung Jae"
+    "name": "Yoo Byung Jae",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mike-destefano",
-    "name": "Mike DeStefano"
+    "name": "Mike DeStefano",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "salva-reina",
-    "name": "Salva Reina"
+    "name": "Salva Reina",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "goyo-jimenez",
-    "name": "Goyo Jiménez"
+    "name": "Goyo Jiménez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juan-diego",
-    "name": "Juan Diego"
+    "name": "Juan Diego",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pablo-chiappella",
-    "name": "Pablo Chiapella"
+    "name": "Pablo Chiapella",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "riki-lindhome",
-    "name": "Riki Lindhome"
+    "name": "Riki Lindhome",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kate-micucci",
-    "name": "Kate Micucci"
+    "name": "Kate Micucci",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "simon-amstell",
-    "name": "Simon Amstell"
+    "name": "Simon Amstell",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "doug-benson",
-    "name": "Doug Benson"
+    "name": "Doug Benson",
+    "subjects": [
+      "american-culture",
+      "popular-culture",
+      "everyday-life",
+      "self-deprecation",
+      "recreational-drug-use"
+    ],
+    "genres": [
+      "satire",
+      "observational-comedy",
+      "alternative-comedy",
+      "sarcasm"
+    ]
   },
   {
     "id": "dick-cavett",
-    "name": "Dick Cavett"
+    "name": "Dick Cavett",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alberto-de-momento",
-    "name": "Alberto Demomento"
+    "name": "Alberto Demomento",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "aidy-bryant",
-    "name": "Aidy Bryant"
+    "name": "Aidy Bryant",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alex-borstein",
-    "name": "Alex Borstein"
+    "name": "Alex Borstein",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "angel-del-moral",
-    "name": "Ángel Del Moral"
+    "name": "Ángel Del Moral",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "antonia-trivino",
-    "name": "Antonia Triviño"
+    "name": "Antonia Triviño",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bianca-kovacs",
-    "name": "Bianca Kovacs"
+    "name": "Bianca Kovacs",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "billy-eichner",
-    "name": "Billy Eichner"
+    "name": "Billy Eichner",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "slapstick"
+    ]
   },
   {
     "id": "carlos-ballarta",
-    "name": "Carlos Ballarta"
+    "name": "Carlos Ballarta",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "cecily-strong",
-    "name": "Cecily Strong"
+    "name": "Cecily Strong",
+    "subjects": [
+      "american-culture",
+      "current-events",
+      "popular-culture"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "blue-comedy",
+      "satire"
+    ]
   },
   {
     "id": "chris-cotton",
-    "name": "Chris Cotton"
+    "name": "Chris Cotton",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "christpher-guest",
-    "name": "Christopher Guest"
+    "name": "Christopher Guest",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "colectivo-desastre",
-    "name": "Colectivo Desastre"
+    "name": "Colectivo Desastre",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dani-lopez",
-    "name": "Dani López"
+    "name": "Dani López",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "daniel-pistola",
-    "name": "Daniel Pistola"
+    "name": "Daniel Pistola",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "daniela-padron",
-    "name": "Daniela Padrón"
+    "name": "Daniela Padrón",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "facu-diaz",
-    "name": "Facu Díaz"
+    "name": "Facu Díaz",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jenny-slate",
-    "name": "Jenny Slate"
+    "name": "Jenny Slate",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "julian-genisson",
-    "name": "Julian Genisson"
+    "name": "Julian Genisson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "julian-villagran",
-    "name": "Julian Villagrán"
+    "name": "Julian Villagrán",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kristen-schaal",
-    "name": "Kristen Schaal"
+    "name": "Kristen Schaal",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "satire",
+      "political-satire"
+    ]
   },
   {
     "id": "kurt-braunohler",
-    "name": "Kurt Braunohler"
+    "name": "Kurt Braunohler",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kyle-mooney",
-    "name": "Kyle Mooney"
+    "name": "Kyle Mooney",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "larry-charles",
-    "name": "Larry Charles"
+    "name": "Larry Charles",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "liz-miele",
-    "name": "Liz Miele"
+    "name": "Liz Miele",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lorena-iglesias",
-    "name": "Lorena Iglesias"
+    "name": "Lorena Iglesias",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "manu-kas",
-    "name": "Manu Kas"
+    "name": "Manu Kas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "martin-pinol",
-    "name": "Martin Piñol"
+    "name": "Martin Piñol",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "maurizio-cattelan",
-    "name": "Maurizio Cattelan"
+    "name": "Maurizio Cattelan",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mike-ward",
-    "name": "Mike Ward"
+    "name": "Mike Ward",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nerea-garmendia",
-    "name": "Nerea Garmendia"
+    "name": "Nerea Garmendia",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nish-kumar",
-    "name": "Nish Kumar"
+    "name": "Nish Kumar",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paco-gandia",
-    "name": "Paco Gandía"
+    "name": "Paco Gandía",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paco-leon",
-    "name": "Paco León"
+    "name": "Paco León",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paula-poundstone",
-    "name": "Paula Poundstone"
+    "name": "Paula Poundstone",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy",
+      "observational-comedy"
+    ]
   },
   {
     "id": "paula-pua",
-    "name": "Paula Púa"
+    "name": "Paula Púa",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "redd-foxx",
-    "name": "Redd Foxx"
+    "name": "Redd Foxx",
+    "subjects": [
+      "african-american-culture",
+      "human-sexuality",
+      "race-relations",
+      "everyday-life"
+    ],
+    "genres": [
+      "word-play",
+      "observational-comedy",
+      "black-comedy",
+      "blue-comedy",
+      "insult-comedy"
+    ]
   },
   {
     "id": "rocio-quillahuaman",
-    "name": "Rocio Quillahuamán"
+    "name": "Rocio Quillahuamán",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sinacio",
-    "name": "Sinacio"
+    "name": "Sinacio",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "taran-killam",
-    "name": "Taran Killam"
+    "name": "Taran Killam",
+    "subjects": [
+      "american-culture",
+      "current-events",
+      "popular-culture",
+      "media-criticism"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "satire"
+    ]
   },
   {
     "id": "tim-dillon",
-    "name": "Tim Dillon"
+    "name": "Tim Dillon",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tim-minchin",
-    "name": "Tim Minchin"
+    "name": "Tim Minchin",
+    "subjects": [],
+    "genres": [
+      "musical-comedy"
+    ]
   },
   {
     "id": "vanessa-bayer",
-    "name": "Vanessa Bayer"
+    "name": "Vanessa Bayer",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "xavi-daura",
-    "name": "Xavi Daura"
+    "name": "Xavi Daura",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bill-waterson",
-    "name": "Bill Watterson"
+    "name": "Bill Watterson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "carmelo-gonzalez",
-    "name": "Carmelo González"
+    "name": "Carmelo González",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "david-verdaguer",
-    "name": "David Verdaguer"
+    "name": "David Verdaguer",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "george-harris",
-    "name": "George Harris"
+    "name": "George Harris",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "javier-coronas",
-    "name": "Javier Coronas"
+    "name": "Javier Coronas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "joe-pesci",
-    "name": "Joe Pesci"
+    "name": "Joe Pesci",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jose-rafael-guzman",
-    "name": "Jose Rafael Guzmán"
+    "name": "Jose Rafael Guzmán",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "julio-rey",
-    "name": "Julio Rey"
+    "name": "Julio Rey",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lil-rel-howery",
-    "name": "Lil Rel Howery"
+    "name": "Lil Rel Howery",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nick-di-paolo",
-    "name": "Nick Di Paolo"
+    "name": "Nick Di Paolo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "profesor-briceno",
-    "name": "Profesor Briceño"
+    "name": "Profesor Briceño",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ramy-youssef",
-    "name": "Ramy Youssef"
+    "name": "Ramy Youssef",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bruce-vilanch",
-    "name": "Bruce Vilanch"
+    "name": "Bruce Vilanch",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "buster-keaton",
-    "name": "Buster Keaton"
+    "name": "Buster Keaton",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "carmen-lynch",
-    "name": "Carmen Lynch"
+    "name": "Carmen Lynch",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "carrie-fisher",
-    "name": "Carrie Fisher"
+    "name": "Carrie Fisher",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "correy-bell",
-    "name": "Correy Bell"
+    "name": "Correy Bell",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "donnel-rawlings",
-    "name": "Donnell Rawlings"
+    "name": "Donnell Rawlings",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dylan-moran",
-    "name": "Dylan Moran"
+    "name": "Dylan Moran",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "deadpan",
+      "satire",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "elisenda-carod",
-    "name": "Elisenda Carod"
+    "name": "Elisenda Carod",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "harry-rashford",
-    "name": "Harry Ratchford"
+    "name": "Harry Ratchford",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "joey-wells",
-    "name": "Joey Wells"
+    "name": "Joey Wells",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jorge-yorya",
-    "name": "Jorge Yorya"
+    "name": "Jorge Yorya",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "just-nesh",
-    "name": "Just Nesh"
+    "name": "Just Nesh",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kevin-brennan",
-    "name": "Kevin Brennan"
+    "name": "Kevin Brennan",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "laura-marquez",
-    "name": "Laura Márquez"
+    "name": "Laura Márquez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "leslie-jones",
-    "name": "Leslie Jones"
+    "name": "Leslie Jones",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "naim-lynn",
-    "name": "Naim Lynn"
+    "name": "Naim Lynn",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "neil-patrick-harris",
-    "name": "Neil Patrick Harris"
+    "name": "Neil Patrick Harris",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pepe-villuela",
-    "name": "Pepe Villuela"
+    "name": "Pepe Villuela",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "peter-sellers",
-    "name": "Peter Sellers"
+    "name": "Peter Sellers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "prince-t-dub",
-    "name": "Prince T-Dub"
+    "name": "Prince T-Dub",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rita-rudner",
-    "name": "Rita Rudner"
+    "name": "Rita Rudner",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "terry-jones",
-    "name": "Terry Jones"
+    "name": "Terry Jones",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tian-lara",
-    "name": "Tian Lara"
+    "name": "Tian Lara",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tone-x",
-    "name": "Tone-X"
+    "name": "Tone-X",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "will-spank-horton",
-    "name": "Will \"Spank\" Horton"
+    "name": "Will \"Spank\" Horton",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bill-bailey",
-    "name": "Bill Bailey"
+    "name": "Bill Bailey",
+    "subjects": [],
+    "genres": [
+      "surreal-comedy",
+      "musical-comedy",
+      "political-satire"
+    ]
   },
   {
     "id": "tom-papa",
-    "name": "Tom Papa"
+    "name": "Tom Papa",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rubber-bishops",
-    "name": "Rubber Bishops"
+    "name": "Rubber Bishops",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tom-papa",
-    "name": "Tom Papa"
+    "name": "Tom Papa",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "simon-pegg",
-    "name": "Simon Pegg"
+    "name": "Simon Pegg",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dominic-holland",
-    "name": "Dominic Holland"
+    "name": "Dominic Holland",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kristen-wiig",
-    "name": "Kristen Wiig"
+    "name": "Kristen Wiig",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "current-events",
+      "popular-culture",
+      "media-criticism",
+      "news"
+    ],
+    "genres": [
+      "satire",
+      "political-satire",
+      "improvisational-comedy",
+      "sketch-comedy"
+    ]
   },
   {
     "id": "julia-louis-dreyfus",
-    "name": "Julia Louis-Dreyfus"
+    "name": "Julia Louis-Dreyfus",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "elayne-boosler",
-    "name": "Elayne Boosler"
+    "name": "Elayne Boosler",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "steve-lubetkin",
-    "name": "Steve Lubetkin"
+    "name": "Steve Lubetkin",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dick-van-dyke",
-    "name": "Dick Van Dyke"
+    "name": "Dick Van Dyke",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jerry-van-dyke",
-    "name": "Jerry Van Dyke"
+    "name": "Jerry Van Dyke",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mariano-mariano",
-    "name": "Mariano Mariano"
+    "name": "Mariano Mariano",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tony-antonio",
-    "name": "Tony Antonio"
+    "name": "Tony Antonio",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tony-melero",
-    "name": "Tony Melero"
+    "name": "Tony Melero",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sr-corrales",
-    "name": "Sr. Corrales"
+    "name": "Sr. Corrales",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ali-siddiq",
-    "name": "Ali Siddiq"
+    "name": "Ali Siddiq",
+    "subjects": [
+      "everyday-life",
+      "american-politics",
+      "racism",
+      "race-relations"
+    ],
+    "genres": [
+      "storytelling",
+      "observational-comedy",
+      "anecdotal-comedy"
+    ]
   },
   {
     "id": "chris-tucker",
-    "name": "Chris Tucker"
+    "name": "Chris Tucker",
+    "subjects": [],
+    "genres": [
+      "blue-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "observational-comedy"
+    ]
   },
   {
     "id": "rocio-ladron-de-guevara",
-    "name": "Rocío Ladrón De Guevara"
+    "name": "Rocío Ladrón De Guevara",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "silvia-sparks",
-    "name": "Silvia Sparks"
+    "name": "Silvia Sparks",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "el-selu",
-    "name": "El Selu"
+    "name": "El Selu",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "vera-luque",
-    "name": "Vera Luque"
+    "name": "Vera Luque",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "juan-carlos-aragon",
-    "name": "Juan Carlos Aragón"
+    "name": "Juan Carlos Aragón",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "manolo-santander",
-    "name": "Manolo Santander"
+    "name": "Manolo Santander",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "el-yuyu",
-    "name": "El Yuyu"
+    "name": "El Yuyu",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "chelsea-handler",
-    "name": "Chelsea Handler"
+    "name": "Chelsea Handler",
+    "subjects": [
+      "american-culture",
+      "american-politics",
+      "current-events",
+      "popular-culture",
+      "celebrities",
+      "human-interaction",
+      "human-behavior",
+      "social-awkwardness",
+      "sex"
+    ],
+    "genres": [
+      "observational-comedy",
+      "insult-comedy",
+      "blue-comedy",
+      "surreal-comedy",
+      "sketch-comedy",
+      "cringe-humor",
+      "satire"
+    ]
   },
   {
     "id": "george-costanza",
-    "name": "George Costanza"
+    "name": "George Costanza",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jeff-garlin",
-    "name": "Jeff Garlin"
+    "name": "Jeff Garlin",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "surreal-comedy",
+      "satire"
+    ]
   },
   {
     "id": "j-b-smoove",
-    "name": "J. B. Smoove"
+    "name": "J. B. Smoove",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "steve-hughes",
-    "name": "Steve Hughes"
+    "name": "Steve Hughes",
+    "subjects": [
+      "social-issues",
+      "conspiracy-theories",
+      "spirituality",
+      "politics"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "surreal-comedy",
+      "satire"
+    ]
   },
   {
     "id": "stephen-k-amos",
-    "name": "Stephen K Amos"
+    "name": "Stephen K Amos",
+    "subjects": [
+      "australian-culture",
+      "british-culture",
+      "nigerian-culture",
+      "current-events",
+      "sex",
+      "popular-culture",
+      "human-interaction",
+      "racism"
+    ],
+    "genres": [
+      "observational-comedy",
+      "political-satire"
+    ]
   },
   {
     "id": "david-cesar",
-    "name": "David César \"El Cómico Heavy\""
+    "name": "David César \"El Cómico Heavy\"",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "andres-fajngold",
-    "name": "Andres Fajngold"
+    "name": "Andres Fajngold",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "graham-norton",
-    "name": "Graham Norton"
+    "name": "Graham Norton",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jane-fonda",
-    "name": "Jane Fonda"
+    "name": "Jane Fonda",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lily-tomlin",
-    "name": "Lily Tomlin"
+    "name": "Lily Tomlin",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "taylor-tomlinson",
-    "name": "Taylor Tomlinson"
+    "name": "Taylor Tomlinson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dario-adanti",
-    "name": "Dario Adanti"
+    "name": "Dario Adanti",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "glory-meyers",
-    "name": "Glory Meyers"
+    "name": "Glory Meyers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "andrew-oneill",
-    "name": "Andrew O'Neill"
+    "name": "Andrew O'Neill",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "flight-of-the-conchords",
-    "name": "Flight Of The Conchords"
+    "name": "Flight Of The Conchords",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ali-macofsky",
-    "name": "Ali Macofsky"
+    "name": "Ali Macofsky",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "toni-cano",
-    "name": "Toni Cano"
+    "name": "Toni Cano",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "caleb-synan",
-    "name": "Caleb Synan"
+    "name": "Caleb Synan",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sean-hughes",
-    "name": "Sean Hughes"
+    "name": "Sean Hughes",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tom-hanks",
-    "name": "Tom Hanks"
+    "name": "Tom Hanks",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mikel-bermejo",
-    "name": "Mikel Bermejo"
+    "name": "Mikel Bermejo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "gabriel-iglesias",
-    "name": "Gabriel Iglesias"
+    "name": "Gabriel Iglesias",
+    "subjects": [
+      "southern-american-culture",
+      "race-relations",
+      "obesity",
+      "everyday-life",
+      "popular-culture",
+      "human-behavior"
+    ],
+    "genres": [
+      "observational-comedy",
+      "surreal-comedy",
+      "slapstick",
+      "self-deprecation",
+      "satire"
+    ]
   },
   {
     "id": "andrew-schulz",
-    "name": "Andrew Schulz"
+    "name": "Andrew Schulz",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "russel-peters",
-    "name": "Russel Peters"
+    "name": "Russel Peters",
+    "subjects": [
+      "racism",
+      "race-relations",
+      "stereotype",
+      "race-relations",
+      "indian-culture",
+      "asian-culture"
+    ],
+    "genres": [
+      "satire",
+      "observational-comedy",
+      "improvisational-comedy",
+      "black-comedy",
+      "insult-comedy"
+    ]
   },
   {
     "id": "dan-soder",
-    "name": "Dan Soder"
+    "name": "Dan Soder",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jo-koy",
-    "name": "Jo Koy"
+    "name": "Jo Koy",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "pau-escribano",
-    "name": "Pau Escribano"
+    "name": "Pau Escribano",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ann-perello",
-    "name": "Ann Perelló"
+    "name": "Ann Perelló",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "grison",
-    "name": "Grison"
+    "name": "Grison",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "richard-lewis",
-    "name": "Richard Lewis"
+    "name": "Richard Lewis",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "joel-mchale",
-    "name": "Joel McHale"
+    "name": "Joel McHale",
+    "subjects": [
+      "celebrities",
+      "popular-culture",
+      "american-culture"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy"
+    ]
   },
   {
     "id": "roscoe-fatty-arbuckle",
-    "name": "Roscoe 'Fatty' Arbuckle"
+    "name": "Roscoe 'Fatty' Arbuckle",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "adam-carolla",
-    "name": "Adam Carolla"
+    "name": "Adam Carolla",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "derek-and-clive",
-    "name": "Derek & Clive"
+    "name": "Derek & Clive",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "adam-scott",
-    "name": "Adam Scott"
+    "name": "Adam Scott",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "danny-thomas",
-    "name": "Danny Thomas"
+    "name": "Danny Thomas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "amy-sedaris",
-    "name": "Amy Sedaris"
+    "name": "Amy Sedaris",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "charles-grodin",
-    "name": "Charles Grodin"
+    "name": "Charles Grodin",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "andy-daly",
-    "name": "Andy Daly"
+    "name": "Andy Daly",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "max-miller",
-    "name": "Max Miller"
+    "name": "Max Miller",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "peter-waring",
-    "name": "Peter Waring"
+    "name": "Peter Waring",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bernie-mac",
-    "name": "Bernie Mac"
+    "name": "Bernie Mac",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "john-hegley",
-    "name": "John Hegley"
+    "name": "John Hegley",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "this-is-spinal-tap",
-    "name": "This Is Spinal Tap"
+    "name": "This Is Spinal Tap",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bill-irwin",
-    "name": "Bill Irwin"
+    "name": "Bill Irwin",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mamako-yoneyama",
-    "name": "Mamako Yoneyama"
+    "name": "Mamako Yoneyama",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nathan-lane",
-    "name": "Nathan Lane"
+    "name": "Nathan Lane",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bj-novak",
-    "name": "B.j. Novak"
+    "name": "B.j. Novak",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "david-sedaris",
-    "name": "David Sedaris"
+    "name": "David Sedaris",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-credibility-gap",
-    "name": "The Credibility Gap"
+    "name": "The Credibility Gap",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "brad-garrett",
-    "name": "Brad Garrett"
+    "name": "Brad Garrett",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "human-interaction",
+      "gender-differences",
+      "current-events"
+    ],
+    "genres": [
+      "observational-comedy",
+      "prop-comedy",
+      "improvisational-comedy",
+      "insult-comedy",
+      "satire",
+      "cringe-humor"
+    ]
   },
   {
     "id": "john-landis",
-    "name": "John Landis"
+    "name": "John Landis",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "broken-lizard",
-    "name": "Broken Lizard"
+    "name": "Broken Lizard",
+    "subjects": [],
+    "genres": [
+      "slapstick",
+      "gross-out-humor"
+    ]
   },
   {
     "id": "harold-lloyd",
-    "name": "Harold Lloyd"
+    "name": "Harold Lloyd",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "krazy-kat",
-    "name": "Krazy Kat"
+    "name": "Krazy Kat",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "calvin-and-hobbes",
-    "name": "Calvin And Hobbes"
+    "name": "Calvin And Hobbes",
+    "subjects": [
+      "family",
+      "politics",
+      "philosophy"
+    ],
+    "genres": [
+      "satire"
+    ]
   },
   {
     "id": "peanuts",
-    "name": "Peanuts"
+    "name": "Peanuts",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "cantinflas",
-    "name": "Cantinflas"
+    "name": "Cantinflas",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "amos-n-andy",
-    "name": "Amos N Andy"
+    "name": "Amos N Andy",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "charlie-brooker",
-    "name": "Charlie Brooker"
+    "name": "Charlie Brooker",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "fred-karno",
-    "name": "Fred Karno"
+    "name": "Fred Karno",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "chris-elliott",
-    "name": "Chris Elliott"
+    "name": "Chris Elliott",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "richard-jeni",
-    "name": "Richard Jeni"
+    "name": "Richard Jeni",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "cracked-magazine",
-    "name": "Cracked Magazine"
+    "name": "Cracked Magazine",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "craig-robinson",
-    "name": "Craig Robinson"
+    "name": "Craig Robinson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "douglas-adams",
-    "name": "Douglas Adams"
+    "name": "Douglas Adams",
+    "subjects": [],
+    "genres": [
+      "satire"
+    ]
   },
   {
     "id": "music-halls",
-    "name": "Music Halls"
+    "name": "Music Halls",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dara-o-briain",
-    "name": "Dara O'Briain"
+    "name": "Dara O'Briain",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "bugs-bunny",
-    "name": "Bugs Bunny"
+    "name": "Bugs Bunny",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lenny-schultz",
-    "name": "Lenny Schultz"
+    "name": "Lenny Schultz",
+    "subjects": [],
+    "genres": [
+      "alternative-comedy",
+      "improvisational-comedy",
+      "prop-comedy"
+    ]
   },
   {
     "id": "claude-kipnis",
-    "name": "Claude Kipnis"
+    "name": "Claude Kipnis",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "david-shiner",
-    "name": "David Shiner"
+    "name": "David Shiner",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-far-side",
-    "name": "The Far Side"
+    "name": "The Far Side",
+    "subjects": [],
+    "genres": [
+      "satire",
+      "black-comedy",
+      "avant-garde"
+    ]
   },
   {
     "id": "robin-harris",
-    "name": "Robin Harris"
+    "name": "Robin Harris",
+    "subjects": [
+      "african-american-culture",
+      "human-sexuality",
+      "everyday-life",
+      "race-relations"
+    ],
+    "genres": [
+      "satire",
+      "observational-comedy",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "ed-helms",
-    "name": "Ed Helms"
+    "name": "Ed Helms",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "eddie-cantor",
-    "name": "Eddie Cantor"
+    "name": "Eddie Cantor",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "eddie-griffin",
-    "name": "Eddie Griffin"
+    "name": "Eddie Griffin",
+    "subjects": [
+      "african-american-culture",
+      "recreational-drug-use",
+      "human-sexuality",
+      "race-relations",
+      "politics",
+      "racism",
+      "religion",
+      "everyday-life"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "observational-comedy",
+      "blue-comedy",
+      "satire"
+    ]
   },
   {
     "id": "ellie-kemper",
-    "name": "Ellie Kemper"
+    "name": "Ellie Kemper",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tj-and-dave",
-    "name": "Tj & Dave"
+    "name": "Tj & Dave",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "frank-caliendo",
-    "name": "Frank Caliendo"
+    "name": "Frank Caliendo",
+    "subjects": [
+      "popular-culture"
+    ],
+    "genres": [
+      "character-comedy",
+      "observational-comedy"
+    ]
   },
   {
     "id": "fred-willard",
-    "name": "Fred Willard"
+    "name": "Fred Willard",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jerry-lester",
-    "name": "Jerry Lester"
+    "name": "Jerry Lester",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "george-lopez",
-    "name": "George Lopez"
+    "name": "George Lopez",
+    "subjects": [
+      "southern-american-culture",
+      "american-politics",
+      "race-relations",
+      "family",
+      "everyday-life",
+      "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "insult-comedy",
+      "slapstick",
+      "satire"
+    ]
   },
   {
     "id": "george-wallace",
-    "name": "George Wallace"
+    "name": "George Wallace",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "greg-fitzsimmons",
-    "name": "Greg Fitzsimmons"
+    "name": "Greg Fitzsimmons",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "henny-youngman",
-    "name": "Henny Youngman"
+    "name": "Henny Youngman",
+    "subjects": [],
+    "genres": [
+      "one-liners"
+    ]
   },
   {
     "id": "jack-handey",
-    "name": "Jack Handey"
+    "name": "Jack Handey",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jack-paar",
-    "name": "Jack Paar"
+    "name": "Jack Paar",
+    "subjects": [
+      "everyday-life",
+      "american-culture"
+    ],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "chris-evans",
-    "name": "Chris Evans"
+    "name": "Chris Evans",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jason-segel",
-    "name": "Jason Segel"
+    "name": "Jason Segel",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "george-wendt",
-    "name": "George Wendt"
+    "name": "George Wendt",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "david-steinberg",
-    "name": "David Steinberg"
+    "name": "David Steinberg",
+    "subjects": [
+      "religion",
+      "self-deprecation",
+      "everyday-life"
+    ],
+    "genres": [
+      "observational-comedy",
+      "satire"
+    ]
   },
   {
     "id": "jackie-mason",
-    "name": "Jackie Mason"
+    "name": "Jackie Mason",
+    "subjects": [
+      "american-politics",
+      "politics"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "jay-pharoah",
-    "name": "Jay Pharoah"
+    "name": "Jay Pharoah",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bea-arthur",
-    "name": "Bea Arthur"
+    "name": "Bea Arthur",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jean-shepherd",
-    "name": "Jean Shepherd"
+    "name": "Jean Shepherd",
+    "subjects": [],
+    "genres": [
+      "satire"
+    ]
   },
   {
     "id": "jessi-klein",
-    "name": "Jessi Klein"
+    "name": "Jessi Klein",
+    "subjects": [
+      "american-culture",
+      "sex",
+      "everyday-life",
+      "human-behavior",
+      "american-politics",
+      "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy",
+      "satire",
+      "political-satire",
+      "sarcasm"
+    ]
   },
   {
     "id": "jessica-williams",
-    "name": "Jessica Williams"
+    "name": "Jessica Williams",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jimmy-durante",
-    "name": "Jimmy Durante"
+    "name": "Jimmy Durante",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "john-krasinski",
-    "name": "John Krasinski"
+    "name": "John Krasinski",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "spalding-gray",
-    "name": "Spalding Gray"
+    "name": "Spalding Gray",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "desi-arnez",
-    "name": "Desi Arnaz"
+    "name": "Desi Arnaz",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "erin-gibson",
-    "name": "Erin Gibson"
+    "name": "Erin Gibson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jonathan-van-ness",
-    "name": "Jonathan Van Ness"
+    "name": "Jonathan Van Ness",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "james-thurber",
-    "name": "James Thurber"
+    "name": "James Thurber",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "fred-allen",
-    "name": "Fred Allen"
+    "name": "Fred Allen",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "george-burns",
-    "name": "George Burns"
+    "name": "George Burns",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bob-and-ray",
-    "name": "Bob & Ray"
+    "name": "Bob & Ray",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy",
+      "satire"
+    ]
   },
   {
     "id": "jon-lovitz",
-    "name": "Jon Lovitz"
+    "name": "Jon Lovitz",
+    "subjects": [],
+    "genres": [
+      "sketch-comedy",
+      "observational-comedy",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "jordan-klepper",
-    "name": "Jordan Klepper"
+    "name": "Jordan Klepper",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "political-punditry",
+      "popular-culture",
+      "current-events",
+      "media-criticism",
+      "civil-rights"
+    ],
+    "genres": [
+      "political-satire",
+      "improvisational-comedy",
+      "blue-comedy",
+      "sarcasm",
+      "sketch-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "josh-gad",
-    "name": "Josh Gad"
+    "name": "Josh Gad",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "john-mulrooney",
-    "name": "John Mulrooney"
+    "name": "John Mulrooney",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "keegan-michael-key",
-    "name": "Keegan Michael Key"
+    "name": "Keegan Michael Key",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "arthur-askey",
-    "name": "Arthur Askey"
+    "name": "Arthur Askey",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kevin-james",
-    "name": "Kevin James"
+    "name": "Kevin James",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kevin-nealon",
-    "name": "Kevin Nealon"
+    "name": "Kevin Nealon",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "news"
+    ],
+    "genres": [
+      "satire",
+      "political-satire",
+      "observational-comedy"
+    ]
   },
   {
     "id": "albert-brooks",
-    "name": "Albert Brooks"
+    "name": "Albert Brooks",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kevin-pollak",
-    "name": "Kevin Pollak"
+    "name": "Kevin Pollak",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "howard-stern",
-    "name": "Howard Stern"
+    "name": "Howard Stern",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "joan-cusack",
-    "name": "Joan Cusack"
+    "name": "Joan Cusack",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "teri-garr",
-    "name": "Teri Garr"
+    "name": "Teri Garr",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "kristin-chenoweth",
-    "name": "Kristin Chenoweth"
+    "name": "Kristin Chenoweth",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "hugh-grant",
-    "name": "Hugh Grant"
+    "name": "Hugh Grant",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "larry-wilmore",
-    "name": "Larry Wilmore"
+    "name": "Larry Wilmore",
+    "subjects": [
+      "american-politics",
+      "african-american-culture",
+      "popular-culture",
+      "current-events",
+      "racism",
+      "religion"
+    ],
+    "genres": [
+      "observational-comedy",
+      "black-comedy",
+      "sketch-comedy",
+      "satire"
+    ]
   },
   {
     "id": "lena-dunham",
-    "name": "Lena Dunham"
+    "name": "Lena Dunham",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "joe-maini",
-    "name": "Joe Maini"
+    "name": "Joe Maini",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lord-buckley",
-    "name": "Lord Buckley"
+    "name": "Lord Buckley",
+    "subjects": [],
+    "genres": [
+      "character-comedy"
+    ]
   },
   {
     "id": "cedric-the-entertainer",
-    "name": "Cedric The Entertainer"
+    "name": "Cedric The Entertainer",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bill-bellamy",
-    "name": "Bill Bellamy"
+    "name": "Bill Bellamy",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "gracie-allen",
-    "name": "Gracie Allen"
+    "name": "Gracie Allen",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "imogene-coca",
-    "name": "Imogene Coca"
+    "name": "Imogene Coca",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "louie-anderson",
-    "name": "Louie Anderson"
+    "name": "Louie Anderson",
+    "subjects": [],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "jake-johannsen",
-    "name": "Jake Johannsen"
+    "name": "Jake Johannsen",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "carole-lombard",
-    "name": "Carole Lombard"
+    "name": "Carole Lombard",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jackie-vernon",
-    "name": "Jackie Vernon"
+    "name": "Jackie Vernon",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "marcel-marceau",
-    "name": "Marcel Marceau"
+    "name": "Marcel Marceau",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nora-dunn",
-    "name": "Nora Dunn"
+    "name": "Nora Dunn",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jan-hooks",
-    "name": "Jan Hooks"
+    "name": "Jan Hooks",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "artemus-ward",
-    "name": "Artemus Ward"
+    "name": "Artemus Ward",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mark-twain",
-    "name": "Mark Twain"
+    "name": "Mark Twain",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bret-harte",
-    "name": "Bret Harte"
+    "name": "Bret Harte",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "martin-mull",
-    "name": "Martin Mull"
+    "name": "Martin Mull",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "gene-wilder",
-    "name": "Gene Wilder"
+    "name": "Gene Wilder",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "cloris-leachman",
-    "name": "Cloris Leachman"
+    "name": "Cloris Leachman",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "catherine-o-hara",
-    "name": "Catherine O'Hara"
+    "name": "Catherine O'Hara",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "madeline-kahn",
-    "name": "Madeline Kahn"
+    "name": "Madeline Kahn",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "megan-mullally",
-    "name": "Megan Mullally"
+    "name": "Megan Mullally",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-three-stooges",
-    "name": "The Three Stooges"
+    "name": "The Three Stooges",
+    "subjects": [],
+    "genres": [
+      "farce",
+      "slapstick",
+      "musical-comedy"
+    ]
   },
   {
     "id": "mike-myers",
-    "name": "Mike Myers"
+    "name": "Mike Myers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "frank-fay",
-    "name": "Frank Fay"
+    "name": "Frank Fay",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "fawlty-towers",
-    "name": "Fawlty Towers"
+    "name": "Fawlty Towers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mitchell-and-webb",
-    "name": "Mitchell & Webb"
+    "name": "Mitchell & Webb",
+    "subjects": [],
+    "genres": [
+      "sketch-comedy",
+      "black-comedy",
+      "character-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "fry-and-laurie",
-    "name": "Fry & Laurie"
+    "name": "Fry & Laurie",
+    "subjects": [
+      "social-class",
+      "british-culture",
+      "british-politics"
+    ],
+    "genres": [
+      "sketch-comedy",
+      "character-comedy",
+      "slapstick"
+    ]
   },
   {
     "id": "the-goon-show",
-    "name": "The Goon Show"
+    "name": "The Goon Show",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "morecambe-and-wise",
-    "name": "Morecambe & Wise"
+    "name": "Morecambe & Wise",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "flanagan-and-allen",
-    "name": "Flanagan & Allen"
+    "name": "Flanagan & Allen",
+    "subjects": [],
+    "genres": [
+      "musical-comedy"
+    ]
   },
   {
     "id": "john-waters",
-    "name": "John Waters"
+    "name": "John Waters",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mae-west",
-    "name": "Mae West"
+    "name": "Mae West",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nathan-fielder",
-    "name": "Nathan Fielder"
+    "name": "Nathan Fielder",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "anthony-clark",
-    "name": "Anthony Clark"
+    "name": "Anthony Clark",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nick-swardson",
-    "name": "Nick Swardson"
+    "name": "Nick Swardson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dana-gould",
-    "name": "Dana Gould"
+    "name": "Dana Gould",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "noel-fielding",
-    "name": "Noel Fielding"
+    "name": "Noel Fielding",
+    "subjects": [],
+    "genres": [
+      "surreal-comedy",
+      "black-comedy"
+    ]
   },
   {
     "id": "harry-hill",
-    "name": "Harry Hill"
+    "name": "Harry Hill",
+    "subjects": [
+      "everyday-life",
+      "popular-culture",
+      "media-criticism",
+      "world-history"
+    ],
+    "genres": [
+      "improvisational-comedy",
+      "observational-comedy",
+      "insult-comedy",
+      "surreal-comedy",
+      "musical-comedy",
+      "character-comedy"
+    ]
   },
   {
     "id": "blaine-capatch",
-    "name": "Blaine Capatch"
+    "name": "Blaine Capatch",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mark-voyce",
-    "name": "Mark Voyce"
+    "name": "Mark Voyce",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paul-reiser",
-    "name": "Paul Reiser"
+    "name": "Paul Reiser",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paul-rodriguez",
-    "name": "Paul Rodriguez"
+    "name": "Paul Rodriguez",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "freddie-prinze",
-    "name": "Freddie Prinze"
+    "name": "Freddie Prinze",
+    "subjects": [
+      "southern-american-culture",
+      "race-relations",
+      "racism",
+      "recreational-drug-use",
+      "everyday-life"
+    ],
+    "genres": [
+      "observational-comedy",
+      "blue-comedy",
+      "deadpan",
+      "satire"
+    ]
   },
   {
     "id": "pauly-shore",
-    "name": "Pauly Shore"
+    "name": "Pauly Shore",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "dan-leno",
-    "name": "Dan Leno"
+    "name": "Dan Leno",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "phil-hartman",
-    "name": "Phil Hartman"
+    "name": "Phil Hartman",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "phil-silvers",
-    "name": "Phil Silvers"
+    "name": "Phil Silvers",
+    "subjects": [],
+    "genres": [
+      "character-comedy"
+    ]
   },
   {
     "id": "rachel-bloom",
-    "name": "Rachel Bloom"
+    "name": "Rachel Bloom",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy",
+      "sketch-comedy",
+      "black-comedy",
+      "blue-comedy",
+      "musical-comedy",
+      "surreal-comedy",
+      "satire",
+      "cringe-humor"
+    ]
   },
   {
     "id": "larry-miller",
-    "name": "Larry Miller"
+    "name": "Larry Miller",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jennifer-saunders",
-    "name": "Jennifer Saunders"
+    "name": "Jennifer Saunders",
+    "subjects": [],
+    "genres": [
+      "parody"
+    ]
   },
   {
     "id": "rebel-wilson",
-    "name": "Rebel Wilson"
+    "name": "Rebel Wilson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dawn-french",
-    "name": "Dawn French"
+    "name": "Dawn French",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rhys-darby",
-    "name": "Rhys Darby"
+    "name": "Rhys Darby",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "john-clarke",
-    "name": "John Clarke"
+    "name": "John Clarke",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "richard-ayoade",
-    "name": "Richard Ayoade"
+    "name": "Richard Ayoade",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "richard-belzer",
-    "name": "Richard Belzer"
+    "name": "Richard Belzer",
+    "subjects": [
+      "american-culture",
+      "american-politics",
+      "current-events",
+      "media-criticism"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "deadpan"
+    ]
   },
   {
     "id": "david-brenner",
-    "name": "David Brenner"
+    "name": "David Brenner",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "self-deprecation",
+      "satire"
+    ]
   },
   {
     "id": "dick-gregory",
-    "name": "Dick Gregory"
+    "name": "Dick Gregory",
+    "subjects": [
+      "civil-rights",
+      "american-politics",
+      "american-culture",
+      "african-american-culture"
+    ],
+    "genres": []
   },
   {
     "id": "bob-newhart",
-    "name": "Bob Newhart"
+    "name": "Bob Newhart",
+    "subjects": [
+      "american-culture",
+      "american-politics"
+    ],
+    "genres": [
+      "deadpan",
+      "satire"
+    ]
   },
   {
     "id": "mickey-rooney",
-    "name": "Mickey Rooney"
+    "name": "Mickey Rooney",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rip-taylor",
-    "name": "Rip Taylor"
+    "name": "Rip Taylor",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rob-corddry",
-    "name": "Rob Corddry"
+    "name": "Rob Corddry",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rob-delaney",
-    "name": "Rob Delaney"
+    "name": "Rob Delaney",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "spike-milligan",
-    "name": "Spike Milligan"
+    "name": "Spike Milligan",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "harry-secombe",
-    "name": "Harry Secombe"
+    "name": "Harry Secombe",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "joe-ancis",
-    "name": "Joe Ancis"
+    "name": "Joe Ancis",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ron-funches",
-    "name": "Ron Funches"
+    "name": "Ron Funches",
+    "subjects": [
+      "videogames"
+    ],
+    "genres": [
+      "observational-comedy"
+    ]
   },
   {
     "id": "ross-noble",
-    "name": "Ross Noble"
+    "name": "Ross Noble",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy",
+      "surreal-comedy",
+      "slapstick",
+      "observational-comedy"
+    ]
   },
   {
     "id": "olsen-and-johnson",
-    "name": "Olsen & Johnson"
+    "name": "Olsen & Johnson",
+    "subjects": [],
+    "genres": [
+      "slapstick",
+      "musical-comedy"
+    ]
   },
   {
     "id": "dudley-moore",
-    "name": "Dudley Moore"
+    "name": "Dudley Moore",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jonathan-miller",
-    "name": "Jonathan Miller"
+    "name": "Jonathan Miller",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ken-dodd",
-    "name": "Ken Dodd"
+    "name": "Ken Dodd",
+    "subjects": [],
+    "genres": [
+      "one-liners",
+      "musical-comedy"
+    ]
   },
   {
     "id": "roy-chubby-brown",
-    "name": "Roy Chubby Brown"
+    "name": "Roy Chubby Brown",
+    "subjects": [
+      "british-politics",
+      "sex",
+      "celebrities",
+      "culture"
+    ],
+    "genres": [
+      "blue-comedy",
+      "insult-comedy",
+      "political-satire",
+      "sarcasm",
+      "self-deprecation",
+      "one-liners"
+    ]
   },
   {
     "id": "bernard-manning",
-    "name": "Bernard Manning"
+    "name": "Bernard Manning",
+    "subjects": [
+      "race-relations",
+      "stereotype",
+      "minority-group"
+    ],
+    "genres": [
+      "blue-comedy"
+    ]
   },
   {
     "id": "jemaine-clement",
-    "name": "Jemaine Clement"
+    "name": "Jemaine Clement",
+    "subjects": [
+      "race-relations",
+      "human-sexuality"
+    ],
+    "genres": [
+      "observational-comedy",
+      "satire",
+      "black-comedy",
+      "self-deprecation",
+      "cringe-humor",
+      "deadpan"
+    ]
   },
   {
     "id": "bret-mckenzie",
-    "name": "Bret Mckenzie"
+    "name": "Bret Mckenzie",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "russell-peters",
-    "name": "Russell Peters"
+    "name": "Russell Peters",
+    "subjects": [
+      "racism",
+      "race-relations",
+      "stereotype",
+      "race-relations",
+      "indian-culture",
+      "asian-culture"
+    ],
+    "genres": [
+      "satire",
+      "observational-comedy",
+      "improvisational-comedy",
+      "black-comedy",
+      "insult-comedy"
+    ]
   },
   {
     "id": "peter-cook",
-    "name": "Peter Cook"
+    "name": "Peter Cook",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rudy-ray-moore",
-    "name": "Rudy Ray Moore"
+    "name": "Rudy Ray Moore",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "betty-white",
-    "name": "Betty White"
+    "name": "Betty White",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mary-tyler-moore",
-    "name": "Mary Tyler Moore"
+    "name": "Mary Tyler Moore",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paul-mooney",
-    "name": "Paul Mooney"
+    "name": "Paul Mooney",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sandra-bernhard",
-    "name": "Sandra Bernhard"
+    "name": "Sandra Bernhard",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lotus-weinstock",
-    "name": "Lotus Weinstock"
+    "name": "Lotus Weinstock",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "paul-reubens",
-    "name": "Paul Reubens"
+    "name": "Paul Reubens",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "scott-aukerman",
-    "name": "Scott Aukerman"
+    "name": "Scott Aukerman",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lee-cornes",
-    "name": "Lee Cornes"
+    "name": "Lee Cornes",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sean-lock",
-    "name": "Sean Lock"
+    "name": "Sean Lock",
+    "subjects": [
+      "british-culture",
+      "current-events",
+      "human-interaction"
+    ],
+    "genres": [
+      "observational-comedy",
+      "blue-comedy",
+      "cringe-humor",
+      "black-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "dave-allen",
-    "name": "Dave Allen"
+    "name": "Dave Allen",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sesame-street",
-    "name": "Sesame Street"
+    "name": "Sesame Street",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dennis-miller",
-    "name": "Dennis Miller"
+    "name": "Dennis Miller",
+    "subjects": [
+      "american-politics",
+      "american-culture",
+      "american-conservatism",
+      "libertarianism",
+      "human-sexuality",
+      "popular-culture",
+      "current-events"
+    ],
+    "genres": [
+      "political-satire",
+      "observational-comedy",
+      "word-play",
+      "sarcasm",
+      "sketch-comedy"
+    ]
   },
   {
     "id": "pg-wodehouse",
-    "name": "P.G. Wodehouse"
+    "name": "P.G. Wodehouse",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sctv",
-    "name": "SCTV"
+    "name": "SCTV",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "henry-morgan",
-    "name": "Henry Morgan"
+    "name": "Henry Morgan",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "danny-kaye",
-    "name": "Danny Kaye"
+    "name": "Danny Kaye",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "alan-king",
-    "name": "Alan King"
+    "name": "Alan King",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "flip-wilson",
-    "name": "Flip Wilson"
+    "name": "Flip Wilson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sid-caesar",
-    "name": "Sid Caesar"
+    "name": "Sid Caesar",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nipsey-russell",
-    "name": "Nipsey Russell"
+    "name": "Nipsey Russell",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "sj-perelman",
-    "name": "S.J. Perelman"
+    "name": "S.J. Perelman",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "rowan-and-martins-laugh-in",
-    "name": "Rowan & Martin's Laugh In"
+    "name": "Rowan & Martin's Laugh In",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-ritz-brothers",
-    "name": "The Ritz Brothers"
+    "name": "The Ritz Brothers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "mick-napier",
-    "name": "Mick Napier"
+    "name": "Mick Napier",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dean-martin",
-    "name": "Dean Martin"
+    "name": "Dean Martin",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "don-novello",
-    "name": "Don Novello"
+    "name": "Don Novello",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "stephen-lynch",
-    "name": "Stephen Lynch"
+    "name": "Stephen Lynch",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "armando-iannucci",
-    "name": "Armando Iannucci"
+    "name": "Armando Iannucci",
+    "subjects": [],
+    "genres": [
+      "political-satire"
+    ]
   },
   {
     "id": "jacques-tati",
-    "name": "Jacques Tati"
+    "name": "Jacques Tati",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "steve-coogan",
-    "name": "Steve Coogan"
+    "name": "Steve Coogan",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "red-skelton",
-    "name": "Red Skelton"
+    "name": "Red Skelton",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lewis-carroll",
-    "name": "Lewis Carroll"
+    "name": "Lewis Carroll",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jack-benny",
-    "name": "Jack Benny"
+    "name": "Jack Benny",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "cary-grant",
-    "name": "Cary Grant"
+    "name": "Cary Grant",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "steve-allen",
-    "name": "Steve Allen"
+    "name": "Steve Allen",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "milton-berle",
-    "name": "Milton Berle"
+    "name": "Milton Berle",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "jackie-gleason",
-    "name": "Jackie Gleason"
+    "name": "Jackie Gleason",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "barry-crimmins",
-    "name": "Barry Crimmins"
+    "name": "Barry Crimmins",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ted-chippington",
-    "name": "Ted Chippington"
+    "name": "Ted Chippington",
+    "subjects": [],
+    "genres": [
+      "surreal-comedy",
+      "deadpan",
+      "anti-humor"
+    ]
   },
   {
     "id": "the-lonely-island",
-    "name": "The Lonely Island"
+    "name": "The Lonely Island",
+    "subjects": [],
+    "genres": [
+      "comedy-hip-hop",
+      "satire",
+      "surreal-comedy",
+      "black-comedy"
+    ]
   },
   {
     "id": "tenacious-d",
-    "name": "Tenacious D"
+    "name": "Tenacious D",
+    "subjects": [],
+    "genres": [
+      "comedy-rock"
+    ]
   },
   {
     "id": "the-kids-in-the-hall",
-    "name": "The Kids In The Hall"
+    "name": "The Kids In The Hall",
+    "subjects": [],
+    "genres": [
+      "surreal-comedy",
+      "sketch-comedy"
+    ]
   },
   {
     "id": "al-shean",
-    "name": "Al Shean"
+    "name": "Al Shean",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ernie-kovacs",
-    "name": "Ernie Kovacs"
+    "name": "Ernie Kovacs",
+    "subjects": [],
+    "genres": [
+      "character-comedy",
+      "surreal-comedy",
+      "improvisational-comedy",
+      "prop-comedy",
+      "parody",
+      "sketch-comedy"
+    ]
   },
   {
     "id": "pogo",
-    "name": "Pogo"
+    "name": "Pogo",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-muppets",
-    "name": "The Muppets"
+    "name": "The Muppets",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "edgar-bergen",
-    "name": "Edgar Bergen"
+    "name": "Edgar Bergen",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-simpsons",
-    "name": "The Simpsons"
+    "name": "The Simpsons",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "national-lampoon",
-    "name": "National Lampoon"
+    "name": "National Lampoon",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-state",
-    "name": "The State"
+    "name": "The State",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-unknown-comic",
-    "name": "The Unknown Comic"
+    "name": "The Unknown Comic",
+    "subjects": [
+      "american-culture",
+      "everyday-life",
+      "human-behavior",
+      "popular-culture"
+    ],
+    "genres": [
+      "character-comedy",
+      "observational-comedy",
+      "satire",
+      "surreal-comedy",
+      "sarcasm"
+    ]
   },
   {
     "id": "paul-gilbert",
-    "name": "Paul Gilbert"
+    "name": "Paul Gilbert",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-wayans",
-    "name": "The Wayans'"
+    "name": "The Wayans'",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "roger-rabbit",
-    "name": "Roger Rabbit"
+    "name": "Roger Rabbit",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "charles-fleischer",
-    "name": "Charles Fleischer"
+    "name": "Charles Fleischer",
+    "subjects": [],
+    "genres": [
+      "observational-comedy",
+      "clean-comedy",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "amelia-bedelia",
-    "name": "Amelia Bedelia"
+    "name": "Amelia Bedelia",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "chris-morris",
-    "name": "Chris Morris"
+    "name": "Chris Morris",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "look-around-you",
-    "name": "Look Around You"
+    "name": "Look Around You",
+    "subjects": [],
+    "genres": [
+      "parody"
+    ]
   },
   {
     "id": "soupy-sales",
-    "name": "Soupy Sales"
+    "name": "Soupy Sales",
+    "subjects": [],
+    "genres": [
+      "slapstick",
+      "word-play",
+      "improvisational-comedy"
+    ]
   },
   {
     "id": "abbott-and-costello",
-    "name": "Abbott & Costello"
+    "name": "Abbott & Costello",
+    "subjects": [],
+    "genres": [
+      "word-play",
+      "slapstick",
+      "surreal-comedy"
+    ]
   },
   {
     "id": "the-smothers-brothers",
-    "name": "The Smothers Brothers"
+    "name": "The Smothers Brothers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tim-and-eric",
-    "name": "Tim & Eric"
+    "name": "Tim & Eric",
+    "subjects": [],
+    "genres": [
+      "satire",
+      "surreal-comedy",
+      "deadpan",
+      "gross-out-humor",
+      "anti-humor",
+      "cringe-humor",
+      "black-comedy",
+      "alternative-comedy"
+    ]
   },
   {
     "id": "snl",
-    "name": "Saturday Night Live"
+    "name": "Saturday Night Live",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tim-conway",
-    "name": "Tim Conway"
+    "name": "Tim Conway",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "laurel-and-hardy",
-    "name": "Laurel & Hardy"
+    "name": "Laurel & Hardy",
+    "subjects": [],
+    "genres": [
+      "slapstick"
+    ]
   },
   {
     "id": "carol-burnett",
-    "name": "Carol Burnett"
+    "name": "Carol Burnett",
+    "subjects": [],
+    "genres": [
+      "parody",
+      "satire",
+      "slapstick"
+    ]
   },
   {
     "id": "gilda-radner",
-    "name": "Gilda Radner"
+    "name": "Gilda Radner",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tom-green",
-    "name": "Tom Green"
+    "name": "Tom Green",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tommy-davidson",
-    "name": "Tommy Davidson"
+    "name": "Tommy Davidson",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "trey-parker-and-matt-stone",
-    "name": "Trey Parker And Matt Stone"
+    "name": "Trey Parker And Matt Stone",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "norman-lear",
-    "name": "Norman Lear"
+    "name": "Norman Lear",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "concert-saloons",
-    "name": "Concert Saloons"
+    "name": "Concert Saloons",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "dime-museums",
-    "name": "Dime Museums"
+    "name": "Dime Museums",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "minstrel-shows",
-    "name": "Minstrel Shows"
+    "name": "Minstrel Shows",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tony-pastor",
-    "name": "Tony Pastor"
+    "name": "Tony Pastor",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "henry-rollins",
-    "name": "Henry Rollins"
+    "name": "Henry Rollins",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "vaudeville",
-    "name": "Vaudeville"
+    "name": "Vaudeville",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "stan-freberg",
-    "name": "Stan Freberg"
+    "name": "Stan Freberg",
+    "subjects": [],
+    "genres": [
+      "satire"
+    ]
   },
   {
     "id": "spike-jones",
-    "name": "Spike Jones"
+    "name": "Spike Jones",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "tom-lehrer",
-    "name": "Tom Lehrer"
+    "name": "Tom Lehrer",
+    "subjects": [],
+    "genres": [
+      "satire"
+    ]
   },
   {
     "id": "allan-sherman",
-    "name": "Allan Sherman"
+    "name": "Allan Sherman",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "nichols-and-may",
-    "name": "Nichols & May"
+    "name": "Nichols & May",
+    "subjects": [
+      "american-politics",
+      "american-culture"
+    ],
+    "genres": [
+      "satire",
+      "surreal-comedy",
+      "black-comedy",
+      "intellectual-humor"
+    ]
   },
   {
     "id": "will-rogers",
-    "name": "Will Rogers"
+    "name": "Will Rogers",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "george-ade",
-    "name": "George Ade"
+    "name": "George Ade",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "the-marx-brothers",
-    "name": "The Marx Brothers"
+    "name": "The Marx Brothers",
+    "subjects": [],
+    "genres": [
+      "word-play",
+      "slapstick",
+      "musical-comedy",
+      "deadpan"
+    ]
   },
   {
     "id": "wyatt-cenac",
-    "name": "Wyatt Cenac"
+    "name": "Wyatt Cenac",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "lucille-ball",
-    "name": "Lucille Ball"
+    "name": "Lucille Ball",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "wc-fields",
-    "name": "W.c. Fields"
+    "name": "W.c. Fields",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "zucker-abrahams-zucker",
-    "name": "Zucker Abrahams Zucker"
+    "name": "Zucker Abrahams Zucker",
+    "subjects": [],
+    "genres": [
+      "slapstick"
+    ]
   },
   {
     "id": "mad-magazine",
@@ -5093,5 +7788,18 @@
   {
     "id": "ken-shimura",
     "name": "Ken Shimura"
+  },
+  {
+    "name": "Mad Magazine",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "alec-berg",
+    "name": "Alec Berg"
+  },
+  {
+    "id": "bill-hader",
+    "name": "Bill Hader"
   }
 ]

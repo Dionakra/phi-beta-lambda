@@ -199,7 +199,6 @@
     "id": "abortion",
     "name": "Aborto"
   },
-
   {
     "id": "sexism",
     "name": "Sexismo"
@@ -333,7 +332,7 @@
     "name": "Envejecer"
   },
   {
-    "id": "Depression",
+    "id": "depression",
     "name": "Depresión"
   },
   {
@@ -369,127 +368,75 @@
     "name": "Cultura griega"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "news",
+    "name": "Noticias"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "indian-culture",
+    "name": "Cultura india"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "friends",
+    "name": "Amigos"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "body-image",
+    "name": "Imagen corporal"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "childhood",
+    "name": "Infancia"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "world-history",
+    "name": "Historia mundial"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "italian-american-culture",
+    "name": "Cultura italoamericana"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "british-politics",
+    "name": "Política británica"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "social-issues",
+    "name": "Problemas sociales"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "australian-culture",
+    "name": "Australian culture"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "nigerian-culture",
+    "name": "Nigerian culture"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "stereotype",
+    "name": "Estereotipos"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "asian-culture",
+    "name": "Cultura asiática"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "videogames",
+    "name": "Videojuegos"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "culture",
+    "name": "Culture"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "minority-group",
+    "name": "Minorías"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "libertarianism",
+    "name": "Movimientos libertarios"
   },
   {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
+    "id": "american-conservatism",
+    "name": "América conservadora"
   }
 ]

@@ -101,7 +101,7 @@
   },
   {
     "id": "comedy-rock",
-    "name": "Comedia con Rock"
+    "name": "Rock cómico"
   },
   {
     "id": "non-sequitur",
@@ -124,127 +124,59 @@
     "name": "Humor blanco"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "film-actress",
+    "name": "Actriz cómica"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "voice-artist",
+    "name": "Actriz de Doblaje"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "comedy-pop",
+    "name": "Pop cómico"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "comedy-hip-hop",
+    "name": "Hip-Hop cómico"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "parody",
+    "name": "Parodias"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "burlesque",
+    "name": "Burlesque"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "double-entendre",
+    "name": "Dobles sentidos"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "farce",
+    "name": "Farsa"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "detective-fiction",
+    "name": "Ficción detectivesca"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "social-satire",
+    "name": "Sátira social"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "anecdotal-comedy",
+    "name": "Anécdotas"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "gross-out-humor",
+    "name": "Humor grosero"
   },
   {
-    "id": "",
-    "name": ""
+    "id": "avant-garde",
+    "name": "Vanguardista"
   },
   {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
-  },
-  {
-    "id": "",
-    "name": ""
+    "id": "intellectual-humor",
+    "name": "Humor intelectual"
   }
 ]
