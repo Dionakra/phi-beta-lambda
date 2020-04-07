@@ -2,13 +2,15 @@
   <div>
     <h1 class="text-center text-red text-4xl mb-4 -mt-4">{{name}}</h1>
     <div class="ml-2 sm:ml-4 sm:flex sm:flex-inline mx-auto">
-      <div class="w-full sm:w-1/3">
-        <img
-          :src="'/images/comedians/' + id + '.jpg'"
-          :alt="name"
-          :title="name"
-          class="rounded-full mx-auto sm:mx-0 mx-auto"
-        />
+      <div class="w-full md:w-1/3">
+        <div class="mx-auto">
+          <img
+            :src="'/images/comedians/' + id + '.jpg'"
+            :alt="name"
+            :title="name"
+            class="rounded-full mx-auto"
+          />
+        </div>
         <div v-if="genres && genres.length > 0">
           <span class="text-lg">Estilo</span>
           <div class="pb-2 text-xs">
@@ -30,10 +32,8 @@
             >{{subject}}</p>
           </div>
         </div>
-      </div>
 
-      <div class="ml-1 md:ml-2">
-        <div v-if="recommended.length > 0" class="l-1 md:ml-2">
+        <div v-if="recommended.length > 0" class>
           <span class="text-lg">Si te gusta {{name}}, pueden gustarte...</span>
           <div class="flex flex-inline flex-wrap" role="list">
             <div v-for="comedian in recommended" :key="comedian.id" class="w-24 mx-auto sm:mx-0">
@@ -41,7 +41,9 @@
             </div>
           </div>
         </div>
+      </div>
 
+      <div class="ml-1 md:ml-2">
         <div class="ml-1 md:ml-2" role="list">
           <span class="text-lg">Programas en que se le menciona</span>
           <div
