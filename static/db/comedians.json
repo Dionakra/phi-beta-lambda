@@ -3686,5 +3686,13 @@
   {
     "id": "mad-magazine",
     "name": "Mad Magazine"
+  },
+  {
+    "id": "steve-harvey",
+    "name": "Steve Harvey"
+  },
+  {
+    "id": "ken-shimura",
+    "name": "Ken Shimura"
   }
 ]

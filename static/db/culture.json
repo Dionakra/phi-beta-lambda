@@ -2918,5 +2918,45 @@
     "id": "louis-ck-hilarious",
     "title": "Louis CK: Hilarious",
     "type": "comedy-special"
+  },
+  {
+    "id": "louis-ck-sincerely",
+    "title": "Louis CK: Sincerely",
+    "type": "comedy-special"
+  },
+  {
+    "id": "cedric-the-entertainer-live-from-the-ville",
+    "title": "Cedric The Entertainer: Live From The Ville",
+    "type": "comedy-special"
+  },
+  {
+    "id": "kings-of-comedy",
+    "title": "Kings Of Comedy",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-iliza-shlesinger-sketch-show",
+    "title": "The Iliza Shlesinger Sketch Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "arnau-soler-tenemos-que-hablar",
+    "title": "Arnau Soler: Tenemos Que Hablar",
+    "type": "comedy-special"
+  },
+  {
+    "id": "dave-chappelle-the-kennedy-center-mark-twain-price-for-american-humor",
+    "title": "Dave Chappelle: The Kennedy Center Mark Twain Price For American Humor",
+    "type": "tv-show"
+  },
+  {
+    "id": "louis-ck-2017",
+    "title": "Louis CK: 2017",
+    "type": "comedy-special"
+  },
+  {
+    "id": "horace-and-petes",
+    "title": "Horace And Pete's",
+    "type": "tv-showseries"
   }
 ]

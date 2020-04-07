@@ -7102,5 +7102,74 @@
       "louis-ck-hilarious",
       "tom-papa-youre-doing-great"
     ]
+  },
+  {
+    "id": "s02e56",
+    "season": 2,
+    "episode": 56,
+    "title": "Mileniosky",
+    "link": "ASxkVW5GPlQ",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "cedric-the-entertainer"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "louis-ck"
+        ],
+        "culture": "louis-ck-sincerely"
+      }
+    ],
+    "comedians": [
+      "galder-varas",
+      "marc-maron",
+      "steve-harvey",
+      "dl-hughley",
+      "dave-chappelle",
+      "bernie-mac",
+      "richard-pryor",
+      "ruinas-planchuelo",
+      "kaco-forns",
+      "adam-sandler",
+      "taylor-tomlinson",
+      "iliza-shlesinger",
+      "bill-burr",
+      "jim-gaffigan",
+      "dane-cook",
+      "sam-morril",
+      "mel-brooks",
+      "ken-shimura",
+      "arnau-soler",
+      "judd-apatow",
+      "ricky-gervais",
+      "tom-papa"
+    ],
+    "culture": [
+      "def-comedy-jam",
+      "wtf-with-marc-maron",
+      "cedric-the-entertainer-live-from-the-ville",
+      "kings-of-comedy",
+      "in-living-color",
+      "the-iliza-shlesinger-sketch-show",
+      "lady-kana",
+      "splunge",
+      "rick-and-morty",
+      "arnau-soler-tenemos-que-hablar",
+      "dave-chappelle-the-kennedy-center-mark-twain-price-for-american-humor",
+      "louis-ck-2017",
+      "horace-and-petes",
+      "tom-papa-youre-doing-great"
+    ]
   }
 ]
