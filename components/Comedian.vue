@@ -7,10 +7,13 @@
       :alt="'Foto de ' + comedian.name"
       :title="comedian.name"
     />
-    <p
-      v-if="showName"
-      class="text-sm text-gray-700 text-center"
-    >{{alternateName ? alternateName : comedian.name}}</p>
+    <p v-if="showName" class="text-sm text-gray-700 text-center">
+      {{alternateName ? alternateName : comedian.name}}
+      <span
+        v-if="comedian.fitness"
+        class="text-xs"
+      ><br>( {{comedian.fitness }}% )</span>
+    </p>
   </div>
 </template>
 

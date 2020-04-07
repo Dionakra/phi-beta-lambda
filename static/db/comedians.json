@@ -7783,11 +7783,15 @@
   },
   {
     "id": "steve-harvey",
-    "name": "Steve Harvey"
+    "name": "Steve Harvey",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "ken-shimura",
-    "name": "Ken Shimura"
+    "name": "Ken Shimura",
+    "subjects": [],
+    "genres": []
   },
   {
     "name": "Mad Magazine",
@@ -7796,10 +7800,14 @@
   },
   {
     "id": "alec-berg",
-    "name": "Alec Berg"
+    "name": "Alec Berg",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "bill-hader",
-    "name": "Bill Hader"
+    "name": "Bill Hader",
+    "subjects": [],
+    "genres": []
   }
 ]
