@@ -20,6 +20,7 @@
     "vue-infinite-scroll": "^2.0.2"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^1.4.0"
+    "@nuxtjs/tailwindcss": "^1.4.0",
+    "wikijs": "^6.0.1"
   }
 }

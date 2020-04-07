@@ -1,0 +1,442 @@
+[
+  {
+    "id": "everyday-life",
+    "name": "Costumbrismo"
+  },
+  {
+    "id": "american-culture",
+    "name": "Cultura americana"
+  },
+  {
+    "id": "popular-culture",
+    "name": "Cultura popular"
+  },
+  {
+    "id": "human-interaction",
+    "name": "Relaciones humanas"
+  },
+  {
+    "id": "human-behavior",
+    "name": "Comportamientos humanos"
+  },
+  {
+    "id": "self-deprecation",
+    "name": "Autodesprecio"
+  },
+  {
+    "id": "media-criticism",
+    "name": "Crítica a los medios"
+  },
+  {
+    "id": "american-politics",
+    "name": "Política americana"
+  },
+  {
+    "id": "current-events",
+    "name": "Cronista"
+  },
+  {
+    "id": "religion",
+    "name": "Religión"
+  },
+  {
+    "id": "race-relations",
+    "name": "Relaciones entre razas"
+  },
+  {
+    "id": "human-sexuality",
+    "name": "Sexualidad humana"
+  },
+  {
+    "id": "african-american-culture",
+    "name": "Cultura afroamericana"
+  },
+  {
+    "id": "marriage",
+    "name": "Matrimonio"
+  },
+  {
+    "id": "racism",
+    "name": "Racismo"
+  },
+  {
+    "id": "recreational-drug-use",
+    "name": "Uso recreativo de drogas"
+  },
+  {
+    "id": "the-internet",
+    "name": "Internet"
+  },
+  {
+    "id": "the-future",
+    "name": "El futuro"
+  },
+  {
+    "id": "existentialism",
+    "name": "Existencialismo"
+  },
+  {
+    "id": "family",
+    "name": "Familia"
+  },
+  {
+    "id": "sex",
+    "name": "Sexo"
+  },
+  {
+    "id": "society",
+    "name": "Sociedad"
+  },
+  {
+    "id": "psychology",
+    "name": "Psicología"
+  },
+  {
+    "id": "philosophy",
+    "name": "Filosofía"
+  },
+  {
+    "id": "profanity",
+    "name": "Blasfemia"
+  },
+  {
+    "id": "nihilism",
+    "name": "Nihilismo"
+  },
+  {
+    "id": "misanthropy",
+    "name": "Misantropía"
+  },
+  {
+    "id": "language",
+    "name": "Uso del lenguaje"
+  },
+  {
+    "id": "death",
+    "name": "La muerte"
+  },
+  {
+    "id": "masculinity",
+    "name": "Masculinidad"
+  },
+  {
+    "id": "parenting-man",
+    "name": "Ser padre"
+  },
+  {
+    "id": "old-age",
+    "name": "Ser viejo"
+  },
+  {
+    "id": "art-history",
+    "name": "Historia del arte"
+  },
+  {
+    "id": "disfunctional-family",
+    "name": "Familias disfuncionales"
+  },
+  {
+    "id": "homosexuality",
+    "name": "Homosexualidad"
+  },
+  {
+    "id": "homophobia",
+    "name": "Homofobia"
+  },
+  {
+    "id": "mental-illness",
+    "name": "Enfermadades mentales"
+  },
+  {
+    "id": "trauma",
+    "name": "Trauma"
+  },
+  {
+    "id": "food",
+    "name": "Comida"
+  },
+  {
+    "id": "celebrities",
+    "name": "Famosos"
+  },
+  {
+    "id": "british-culture",
+    "name": "Cultura británica"
+  },
+  {
+    "id": "political-punditry",
+    "name": "Conocimiento político"
+  },
+  {
+    "id": "civil-rights",
+    "name": "Derechos civiles"
+  },
+  {
+    "id": "social-identity",
+    "name": "Identidad social"
+  },
+  {
+    "id": "inequality",
+    "name": "Desigualdad"
+  },
+  {
+    "id": "masturbation",
+    "name": "Masturbación"
+  },
+  {
+    "id": "personal-life",
+    "name": "Vida personal"
+  },
+  {
+    "id": "mental-health",
+    "name": "Salud mental"
+  },
+  {
+    "id": "canadian-culture",
+    "name": "Cultura canadiense"
+  },
+  {
+    "id": "abortion",
+    "name": "Aborto"
+  },
+  {
+    "id": "sexism",
+    "name": "Sexismo"
+  },
+  {
+    "id": "interpersonal-relationships",
+    "name": "Relaciones interpersonales"
+  },
+  {
+    "id": "conspiracy-theories",
+    "name": "Teorías de la conspiración"
+  },
+  {
+    "id": "dating",
+    "name": "Citas"
+  },
+  {
+    "id": "feminism",
+    "name": "Feminismo"
+  },
+  {
+    "id": "sports",
+    "name": "Deportes"
+  },
+  {
+    "id": "southern-american-culture",
+    "name": "Cultura sudamericana"
+  },
+  {
+    "id": "spirituality",
+    "name": "Espiritualidad"
+  },
+  {
+    "id": "entheogens",
+    "name": "Enteógenos"
+  },
+  {
+    "id": "consumerism",
+    "name": "Consumismo"
+  },
+  {
+    "id": "drug-culture",
+    "name": "Drogas"
+  },
+  {
+    "id": "scottish-culture",
+    "name": "Cultura escocesa"
+  },
+  {
+    "id": "southern-usa",
+    "name": "Cultura sobre el sur de EEUU"
+  },
+  {
+    "id": "rednecks",
+    "name": "Rednecks"
+  },
+  {
+    "id": "jewish-culture",
+    "name": "Cultura judía"
+  },
+  {
+    "id": "alcoholism",
+    "name": "Alcoholismo"
+  },
+  {
+    "id": "politics",
+    "name": "Política"
+  },
+  {
+    "id": "social-awkwardness",
+    "name": "Torpeza social"
+  },
+  {
+    "id": "gender-differences",
+    "name": "Guerra de sexos"
+  },
+  {
+    "id": "obesity",
+    "name": "Obesidad"
+  },
+  {
+    "id": "political-correctness",
+    "name": "Corrección política"
+  },
+  {
+    "id": "personal-hygiene",
+    "name": "Higiene personal"
+  },
+  {
+    "id": "obscenity",
+    "name": "Obscenidades"
+  },
+  {
+    "id": "islamic-humour",
+    "name": "Humor islámico"
+  },
+  {
+    "id": "islamophobia",
+    "name": "Islamofobia"
+  },
+  {
+    "id": "political-satire",
+    "name": "Sátira política"
+  },
+  {
+    "id": "american-inmigration",
+    "name": "Inmigración americana"
+  },
+  {
+    "id": "geopolitics",
+    "name": "Geopolítica"
+  },
+  {
+    "id": "refugees",
+    "name": "Refugiados"
+  },
+  {
+    "id": "arab-culture",
+    "name": "Cultura árabe"
+  },
+  {
+    "id": "social-class",
+    "name": "Clases sociales"
+  },
+  {
+    "id": "medicine",
+    "name": "Medicina"
+  },
+  {
+    "id": "aging",
+    "name": "Envejecer"
+  },
+  {
+    "id": "depression",
+    "name": "Depresión"
+  },
+  {
+    "id": "impersonations",
+    "name": "Imitaciones"
+  },
+  {
+    "id": "catholicism",
+    "name": "Catolicismo"
+  },
+  {
+    "id": "lgtbq-community",
+    "name": "Comunidad LGTBQ+"
+  },
+  {
+    "id": "irish-american-culture",
+    "name": "Cultura irlandés-americana"
+  },
+  {
+    "id": "cultural-assimilation",
+    "name": "Asimilación cultural"
+  },
+  {
+    "id": "morality",
+    "name": "Moralidad"
+  },
+  {
+    "id": "south-african-culture",
+    "name": "Cultura sudafricana"
+  },
+  {
+    "id": "greek-culture",
+    "name": "Cultura griega"
+  },
+  {
+    "id": "news",
+    "name": "Noticias"
+  },
+  {
+    "id": "indian-culture",
+    "name": "Cultura india"
+  },
+  {
+    "id": "friends",
+    "name": "Amigos"
+  },
+  {
+    "id": "body-image",
+    "name": "Imagen corporal"
+  },
+  {
+    "id": "childhood",
+    "name": "Infancia"
+  },
+  {
+    "id": "world-history",
+    "name": "Historia mundial"
+  },
+  {
+    "id": "italian-american-culture",
+    "name": "Cultura italoamericana"
+  },
+  {
+    "id": "british-politics",
+    "name": "Política británica"
+  },
+  {
+    "id": "social-issues",
+    "name": "Problemas sociales"
+  },
+  {
+    "id": "australian-culture",
+    "name": "Australian culture"
+  },
+  {
+    "id": "nigerian-culture",
+    "name": "Nigerian culture"
+  },
+  {
+    "id": "stereotype",
+    "name": "Estereotipos"
+  },
+  {
+    "id": "asian-culture",
+    "name": "Cultura asiática"
+  },
+  {
+    "id": "videogames",
+    "name": "Videojuegos"
+  },
+  {
+    "id": "culture",
+    "name": "Culture"
+  },
+  {
+    "id": "minority-group",
+    "name": "Minorías"
+  },
+  {
+    "id": "libertarianism",
+    "name": "Movimientos libertarios"
+  },
+  {
+    "id": "american-conservatism",
+    "name": "América conservadora"
+  }
+]
