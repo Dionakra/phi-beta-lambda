@@ -7779,7 +7779,9 @@
   },
   {
     "id": "mad-magazine",
-    "name": "Mad Magazine"
+    "name": "Mad Magazine",
+    "subjects": [],
+    "genres": []
   },
   {
     "id": "steve-harvey",
@@ -7790,11 +7792,6 @@
   {
     "id": "ken-shimura",
     "name": "Ken Shimura",
-    "subjects": [],
-    "genres": []
-  },
-  {
-    "name": "Mad Magazine",
     "subjects": [],
     "genres": []
   },
