@@ -7171,5 +7171,50 @@
       "horace-and-petes",
       "tom-papa-youre-doing-great"
     ]
+  },
+  {
+    "id": "s02e57",
+    "season": 2,
+    "episode": 57,
+    "title": "Chistes y memes, con Nacho Vigalondo",
+    "link": "CbLen8TxPpU",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "nacho-vigalondo"
+    ],
+    "sections": [],
+    "comedians": [
+      "comandante-lara",
+      "arevalo",
+      "mike-birbiglia",
+      "miguel-iribar",
+      "andy-kaufman",
+      "rik-mayall",
+      "adrian-edmondson",
+      "jorge-ponce",
+      "ricardo-castella",
+      "david-broncano",
+      "hitoshi-matsumoto",
+      "miguel-noguera",
+      "reyes-castizo",
+      "harold-lloyd",
+      "buster-keaton",
+      "charles-chaplin"
+    ],
+    "culture": [
+      "man-on-the-moon",
+      "bottom",
+      "the-young-ones",
+      "beavis-and-butthead",
+      "jackass",
+      "la-resistencia",
+      "scabbard-samurai",
+      "safety-last"
+    ]
   }
 ]

@@ -7806,5 +7806,49 @@
     "name": "Bill Hader",
     "subjects": [],
     "genres": []
+  },
+  {
+    "id": "comandante-lara",
+    "name": "Comandante Lara",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "rik-mayall",
+    "name": "Rik Mayall",
+    "subjects": [],
+    "genres": [
+      "alternative-comedy",
+      "subversive-comedy",
+      "slapstick"
+    ]
+  },
+  {
+    "id": "adrian-edmondson",
+    "name": "Adrian Edmondson",
+    "subjects": [],
+    "genres": [
+      "black-comedy",
+      "slapstick",
+      "musical-comedy"
+    ]
+  },
+  {
+    "id": "hitoshi-matsumoto",
+    "name": "Hitoshi Matsumoto",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "reyes-castizo",
+    "name": "Reyes Castizo 'La Yankee'",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "nacho-vigalondo",
+    "name": "Nacho Vigalondo",
+    "subjects": [],
+    "genres": []
   }
 ]

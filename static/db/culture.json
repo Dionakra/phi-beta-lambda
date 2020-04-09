@@ -2957,6 +2957,36 @@
   {
     "id": "horace-and-petes",
     "title": "Horace And Pete's",
-    "type": "tv-showseries"
+    "type": "tv-show-series"
+  },
+  {
+    "id": "bottom",
+    "title": "Bottom",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-young-ones",
+    "title": "The Young Ones",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "beavis-and-butthead",
+    "title": "Beavis And Butthead",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "jackass",
+    "title": "Jackass",
+    "type": "tv-show"
+  },
+  {
+    "id": "scabbard-samurai",
+    "title": "Scabbard Samurai",
+    "type": "movie"
+  },
+  {
+    "id": "safety-last",
+    "title": "Safety Last!",
+    "type": "movie"
   }
 ]
