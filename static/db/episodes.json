@@ -7216,5 +7216,89 @@
       "scabbard-samurai",
       "safety-last"
     ]
+  },
+  {
+    "id": "s02e58",
+    "season": 2,
+    "episode": 58,
+    "title": "A reír, a reír, venga",
+    "link": "oaMTPgsq0sI",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "victoria-wood"
+        ]
+      },
+      {
+        "id": "gira-de-festivales",
+        "comedians": [
+          "ed-mcmahon"
+        ]
+      }
+    ],
+    "comedians": [
+      "jim-carrey",
+      "ricky-gervais",
+      "marta-flich",
+      "urko-vazquez",
+      "conan-obrien",
+      "jerry-seinfeld",
+      "nate-bargatze",
+      "jerrod-carmichael",
+      "john-oliver",
+      "james-corden",
+      "michael-che",
+      "steve-coogan",
+      "rob-brydon",
+      "percebes-y-grelos",
+      "victoria-martin",
+      "nick-offerman",
+      "tig-notaro",
+      "trevor-noah",
+      "craig-ferguson",
+      "andreu-buenafuente",
+      "samantha-bee",
+      "jimmy-kimmel",
+      "jimmy-fallon",
+      "adam-sandler",
+      "vic-henley",
+      "tom-hanks",
+      "john-krasinski",
+      "steve-carell",
+      "johnny-carson"
+    ],
+    "culture": [
+      "dos-tontos-muy-tontos",
+      "housewife-49",
+      "todo-es-mentira",
+      "jerry-seinfeld-23-hours-to-kill",
+      "saturday-night-live",
+      "late-motiv",
+      "last-week-john-oliver",
+      "the-late-late-show-with-james-corden",
+      "jerrod-carmichael-8",
+      "the-trip",
+      "validas",
+      "parks-and-recreation",
+      "devs",
+      "the-daily-show",
+      "full-frontal-with-samantha-bee",
+      "show-jimmy-kimmel",
+      "the-tonight-show",
+      "la-resistencia",
+      "the-office-us",
+      "some-good-news",
+      "buenismo-bien",
+      "la-vida-moderna",
+      "nadie-sabe-nada",
+      "la-lengua-moderna"
+    ]
   }
 ]
