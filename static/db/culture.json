@@ -3018,5 +3018,60 @@
     "id": "some-good-news",
     "title": "Some Good News",
     "type": "tv-show"
+  },
+  {
+    "id": "elif-batuman-la-idiota",
+    "title": "Elif Batuman: La Idiota",
+    "type": "book"
+  },
+  {
+    "id": "keep-scrolling-till-you-feel-something",
+    "title": "Keep Scrolling Till You Feel Something",
+    "type": "book"
+  },
+  {
+    "id": "mcsweeneys",
+    "title": "McSweeney's",
+    "type": "book"
+  },
+  {
+    "id": "unbreakable-kimmy-schmidt",
+    "title": "Unbreakable Kimmy Schmidt",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "derry-girls",
+    "title": "Derry Girls",
+    "type": "tv-show"
+  },
+  {
+    "id": "vamos-juan",
+    "title": "Vamos Juan",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "feel-good",
+    "title": "Feel Good",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "liz-miele-emotionally-exhausting",
+    "title": "Liz Miele: Emotionally Exhausting",
+    "type": "comedy-special"
+  },
+  {
+    "id": "better-call-saul",
+    "title": "Better Call Saul",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "shameless",
+    "title": "Shameless",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "santiago-lorenzo-los-asquerosos",
+    "title": "Santiago Lorenzo: Los Asquerosos",
+    "type": "book"
   }
 ]
