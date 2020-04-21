@@ -3073,5 +3073,30 @@
     "id": "santiago-lorenzo-los-asquerosos",
     "title": "Santiago Lorenzo: Los Asquerosos",
     "type": "book"
+  },
+  {
+    "id": "un-chapuzas-en-casa",
+    "title": "Un Chapuzas En Casa",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "yo-y-el-mundo",
+    "title": "Yo Y El Mundo",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "last-man-standing",
+    "title": "Last Man Standing",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "padres-forzosos",
+    "title": "Padres Forzosos",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "ted-alexandro-stay-at-home",
+    "title": "Ted Alexandro: Stay At Home",
+    "type": "comedy-special"
   }
 ]

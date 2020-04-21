@@ -7358,5 +7358,78 @@
       "todo-es-mentira",
       "santiago-lorenzo-los-asquerosos"
     ]
+  },
+  {
+    "id": "s02e60",
+    "season": 2,
+    "episode": 60,
+    "title": "Coronahawk",
+    "link": "ViAIzt8d_k0",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "tim-allen"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "ted-alexandro"
+        ],
+        "culture": "ted-alexandro-stay-at-home"
+      }
+    ],
+    "comedians": [
+      "johnny-carson",
+      "kaco-forns",
+      "bill-burr",
+      "gilbert-gottfried",
+      "bob-saget",
+      "dani-rovira",
+      "leo-harlem",
+      "pablo-chiappella",
+      "chris-tucker",
+      "ricky-gervais",
+      "tom-hanks",
+      "alvaro-velasco",
+      "bert-kreischer",
+      "richard-karn",
+      "michael-che",
+      "dave-chappelle",
+      "ellen-degeneres",
+      "amy-schumer",
+      "jimmy-fallon",
+      "jimmy-kimmel",
+      "stephen-colbert",
+      "conan-obrien",
+      "gran-wyoming",
+      "andreu-buenafuente",
+      "greg-daniels",
+      "steve-carell",
+      "tig-notaro",
+      "maria-bamford"
+    ],
+    "culture": [
+      "last-call-with-carson-daly",
+      "un-chapuzas-en-casa",
+      "yo-y-el-mundo",
+      "last-man-standing",
+      "padres-forzosos",
+      "hora-punta",
+      "saturday-night-live",
+      "el-intermedio",
+      "parks-and-recreation",
+      "the-office-us",
+      "space-force",
+      "the-office-uk",
+      "ted-alexandro-senior-class-of-earth"
+    ]
   }
 ]
