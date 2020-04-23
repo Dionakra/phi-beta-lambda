@@ -3098,5 +3098,120 @@
     "id": "ted-alexandro-stay-at-home",
     "title": "Ted Alexandro: Stay At Home",
     "type": "comedy-special"
+  },
+  {
+    "id": "algo-pasa-con-mary",
+    "title": "Algo Pasa Con Mary",
+    "type": "movie"
+  },
+  {
+    "id": "vaya-par-de-idiotas",
+    "title": "Vaya Par De Idiotas",
+    "type": "movie"
+  },
+  {
+    "id": "el-color-del-dinero",
+    "title": "El Color Del Dinero",
+    "type": "movie"
+  },
+  {
+    "id": "adventureland",
+    "title": "Adventureland",
+    "type": "movie"
+  },
+  {
+    "id": "bowfinger-el-picaro",
+    "title": "El Pícaro",
+    "type": "movie"
+  },
+  {
+    "id": "freaks-and-geeks",
+    "title": "Freaks And Geeks",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "love-serie",
+    "title": "Love",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "un-par-de-seductores",
+    "title": "Un Par De Seductores",
+    "type": "movie"
+  },
+  {
+    "id": "girls-serie",
+    "title": "Girls",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "judd-apatow-the-return",
+    "title": "Judd Apatow: The Return",
+    "type": "comedy-special"
+  },
+  {
+    "id": "la-pequena-tienda-de-los-horrores",
+    "title": "La Pequeña Tienda De Los Horrores",
+    "type": "movie"
+  },
+  {
+    "id": "da-ali-g-show",
+    "title": "Da Ali-G Show",
+    "type": "movie"
+  },
+  {
+    "id": "agente-contrainteligente",
+    "title": "Agente Contrainteligente",
+    "type": "movie"
+  },
+  {
+    "id": "zoolander",
+    "title": "Zoolander",
+    "type": "movie"
+  },
+  {
+    "id": "los-padres-de-ella",
+    "title": "Los Padres De Ella",
+    "type": "movie"
+  },
+  {
+    "id": "el-jovencito-frankenstein",
+    "title": "El Jovencito Frankenstein",
+    "type": "movie"
+  },
+  {
+    "id": "sillas-de-montar-calientes",
+    "title": "Sillas De Montar Calientes",
+    "type": "movie"
+  },
+  {
+    "id": "maxima-ansiedad",
+    "title": "Máxima Ansiedad",
+    "type": "movie"
+  },
+  {
+    "id": "ace-ventura-operacion-africa",
+    "title": "Ace Ventura: Operación África",
+    "type": "movie"
+  },
+  {
+    "id": "comedy-quest",
+    "title": "Comedy Quest",
+    "type": "videogame"
+  },
+  {
+    "id": "comedy-night",
+    "title": "Comedy Night",
+    "type": "videogame"
+  },
+  {
+    "id": "cherry-tree-high-comedy-club",
+    "title": "Cherry Tree High Comedy Club",
+    "type": "videogame"
+  },
+  {
+    "id": "the-xpress-show-juanma-dupley",
+    "title": "The Xpress Show con Juanma Dupley",
+    "type": "tv-show"
   }
 ]
