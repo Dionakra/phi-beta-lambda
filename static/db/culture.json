@@ -3213,5 +3213,45 @@
     "id": "the-xpress-show-juanma-dupley",
     "title": "The Xpress Show con Juanma Dupley",
     "type": "tv-show"
+  },
+  {
+    "id": "los-picapiedras",
+    "title": "Los Picapiedras",
+    "type": "movie"
+  },
+  {
+    "id": "nip-tuck",
+    "title": "Nip/Tuck",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-midnight-gospel",
+    "title": "The Midnight Gospel",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "futurama",
+    "title": "Futurama",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "chris-delia-no-pain",
+    "title": "Chris D'Elia: No Pain",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bob-saget-here-for-you",
+    "title": "Bob Saget: Here For You",
+    "type": "comedy-special"
+  },
+  {
+    "id": "roast-of-bob-saget-uncensored-extended",
+    "title": "Roast Of Bob Saget: Uncensored Extended",
+    "type": "tv-show"
+  },
+  {
+    "id": "patton-oswalt-i-love-everything",
+    "title": "Patton Oswalt: I Love Everything",
+    "type": "comedy-special"
   }
 ]

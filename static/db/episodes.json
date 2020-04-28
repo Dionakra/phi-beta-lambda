@@ -7518,5 +7518,82 @@
       "validas",
       "the-xpress-show-juanma-dupley"
     ]
+  },
+  {
+    "id": "s02e62",
+    "season": 2,
+    "episode": 62,
+    "title": "Warriors, no worriers",
+    "link": "znrZsqupffE",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "rosie-o-donnell"
+        ]
+      },
+      {
+        "id": "gira-de-festivales",
+        "comedians": [
+          "marcos-mundstock"
+        ]
+      }
+    ],
+    "comedians": [
+      "david-guapo",
+      "lenny-bruce",
+      "larry-david",
+      "elayne-boosler",
+      "susi-caramelo",
+      "patricia-espejo",
+      "vengamonjas",
+      "nacho-garcia",
+      "louis-ck",
+      "joe-rogan",
+      "chris-delia",
+      "jorge-ponce",
+      "bill-burr",
+      "neal-brennan",
+      "donnel-rawlings",
+      "bob-saget",
+      "tim-allen",
+      "patton-oswalt",
+      "pete-davidson",
+      "adam-sandler",
+      "mike-birbiglia",
+      "john-mulaney",
+      "whitney-cummings",
+      "bert-kreischer",
+      "litos",
+      "berta-collado",
+      "les-luthiers",
+      "felix-buenaventura",
+      "dani-ales"
+    ],
+    "culture": [
+      "the-simpsons",
+      "seinfeld",
+      "curb-your-enthusiasm",
+      "los-picapiedras",
+      "nip-tuck",
+      "hora-de-aventuras",
+      "the-midnight-gospel",
+      "futurama",
+      "chris-delia-no-pain",
+      "dave-chappelle-show",
+      "parks-and-recreation",
+      "camera-cafe",
+      "padres-forzosos",
+      "bob-saget-here-for-you",
+      "roast-of-bob-saget-uncensored-extended",
+      "patton-oswalt-i-love-everything",
+      "saturday-night-live"
+    ]
   }
 ]
