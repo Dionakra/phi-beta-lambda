@@ -2675,7 +2675,7 @@
       "yayo",
       "les-luthiers",
       "monty-python",
-      "hermanos-marx",
+      "the-marx-brothers",
       "peter-capusotto",
       "antonio-lorente",
       "chico-requena",
@@ -7624,6 +7624,70 @@
       "camera-cafe",
       "friends",
       "late-motiv"
+    ]
+  },
+  {
+    "id": "s02e64",
+    "season": 2,
+    "episode": 64,
+    "title": "Heyoka",
+    "link": "qYWYaijIXyo",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "mort-sahl"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "sarah-silverman"
+        ],
+        "culture": "sarah-silverman-we-are-miracles"
+      }
+    ],
+    "comedians": [
+      "lenny-bruce",
+      "jonathan-winters",
+      "woody-allen",
+      "adam-devine",
+      "bob-hope",
+      "andreu-buenafuente",
+      "ignatius-farray",
+      "groucho-marx",
+      "robin-williams",
+      "john-stewart",
+      "jorge-ponce",
+      "tomas-fuentes",
+      "will-ferrell",
+      "eddie-murphy",
+      "adam-sandler",
+      "tiffany-haddish",
+      "james-corden",
+      "dave-chappelle",
+      "pete-davidson",
+      "berto-romero",
+      "jimmy-carr",
+      "anthony-jeselnik",
+      "david-suarez",
+      "kevin-hart",
+      "jerry-seinfeld"
+    ],
+    "culture": [
+      "comedy-central-house-party",
+      "parks-and-recreation",
+      "the-late-late-show-with-james-corden",
+      "jesus-is-magic-sarah-silverman",
+      "sarah-silverman-a-speck-of-dust",
+      "100-fresh",
+      "jerry-seinfeld-23-hours-to-kill"
     ]
   }
 ]

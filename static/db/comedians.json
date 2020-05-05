@@ -3886,12 +3886,6 @@
     "genres": []
   },
   {
-    "id": "hermanos-marx",
-    "name": "Hermanos Marx",
-    "subjects": [],
-    "genres": []
-  },
-  {
     "id": "peter-capusotto",
     "name": "Peter Capusotto",
     "subjects": [],
@@ -7736,7 +7730,7 @@
   },
   {
     "id": "the-marx-brothers",
-    "name": "The Marx Brothers",
+    "name": "Los Hermanos Marx",
     "subjects": [],
     "genres": [
       "word-play",
@@ -7954,5 +7948,16 @@
     "name": "Esperanza Pedreño",
     "subjects": [],
     "genres": []
+  },
+  {
+    "id": "groucho-marx",
+    "name": "Groucho Marx",
+    "subjects": [],
+    "genres": [
+      "word-play",
+      "slapstick",
+      "musical-comedy",
+      "deadpan"
+    ]
   }
 ]
