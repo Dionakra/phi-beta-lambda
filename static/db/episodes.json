@@ -7689,5 +7689,57 @@
       "100-fresh",
       "jerry-seinfeld-23-hours-to-kill"
     ]
+  },
+  {
+    "id": "s02e65",
+    "season": 2,
+    "episode": 65,
+    "title": "El Elvis Presley de la comedia española",
+    "link": "GzUZzQebivQ",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": ["goyo-jimenez"],
+    "sections": [
+ 
+    ],
+    "comedians": [
+      "robin-williams",
+      "jim-carrey",
+      "berto-romero",
+      "luis-piedrahita",
+      "dani-ales",
+      "dave-chappelle",
+      "angel-martin",
+      "jose-mota",
+      "tom-hanks",
+      "agustin-jimenez",
+      "patton-oswalt",
+      "louis-ck",
+      "bill-burr",
+      "eddie-izzard",
+      "brian-posehn",
+      "seth-green",
+      "seth-macfarlane",
+      "matthew-senreich",
+      "rick-moranis",
+      "mel-brooks",
+      "carrie-fisher"
+    ],
+    "culture": [
+      "el-club-de-flo",
+      "punchline",
+      "louie",
+      "la-loca-historia-de-las-galaxias",
+      "clerks",
+      "robot-chicken",
+      "padre-de-familia",
+      "george-lucas-in-love",
+      "fanboys",
+      "star-wars-holiday-special"
+    ]
   }
 ]

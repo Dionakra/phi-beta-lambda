@@ -7959,5 +7959,17 @@
       "musical-comedy",
       "deadpan"
     ]
+  },
+  {
+    "id": "seth-green",
+    "name": "Seth Green",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "matthew-senreich",
+    "name": "Matthew Senreich",
+    "subjects": [],
+    "genres": []
   }
 ]
