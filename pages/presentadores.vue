@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl mb-4 -mt-4">Presentadores</h1>
+    <h1 class="text-center text-red text-4xl mb-4 ">Presentadores</h1>
     <div class="px-2">
       <div class="flex flex-wrap -mx-2" v-if="hosts != undefined && hosts.length != 0" role="list">
         <HostCard :host="host" :key="host.id" v-for="host in hosts" />

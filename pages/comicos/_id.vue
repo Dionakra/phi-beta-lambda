@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl mb-4 -mt-4">{{name}}</h1>
+    <h1 class="text-center text-red text-4xl mb-4">{{name}}</h1>
     <div class="ml-2 sm:ml-4 sm:flex sm:flex-inline mx-auto">
       <div class="w-full md:w-1/3">
         <div class="mx-auto">
