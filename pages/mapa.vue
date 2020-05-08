@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl -mt-4">Mapa de la Comedia</h1>
+    <h1 class="text-center text-red text-4xl">Mapa de la Comedia</h1>
     <h6 class="text-center text-red -mt-2 mb-1">Datos provistos por</h6>
 
     <h6 class="text-center text-red -mt-3">

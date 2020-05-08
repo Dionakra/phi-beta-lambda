@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl -mt-4">Secciones</h1>
+    <h1 class="text-center text-red text-4xl">Secciones</h1>
     <div class="flex flex-inline flex-wrap">
       <div
         v-for="section in sections"

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl mb-4 -mt-4">Invitad@s</h1>
+    <h1 class="text-center text-red text-4xl mb-4">Invitad@s</h1>
     <div class="px-2">
       <div class="flex flex-wrap -mx-2" v-if="guests != undefined && guests.length != 0" role="list">
         <GuestCard :guest="guest" :key="guest.id + guest.episode" v-for="guest in guests" />

@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-2{opacity:.15}.cls-4{fill:#513b2c}.cls-5{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:20px}
+    </style>
+  </defs>
+  <path fill="#fff" d="M352 489H148l-28-375h260l-28 375z"/>
+  <path class="cls-2" d="M333 114l-28 375h47l28-375h-47z"/>
+  <path fill="#b3814b" d="M374 411H126l-26-253h300l-26 253z"/>
+  <path class="cls-2" d="M353 158l-26 253h47l26-253h-47z"/>
+  <path class="cls-4" d="M101 64h298v51H101z"/>
+  <path class="cls-2" transform="rotate(180 376 89)" d="M352 64h48v51h-48z"/>
+  <path class="cls-4" d="M362 11H138l-18 53h260l-18-53z"/>
+  <path class="cls-2" d="M362 11h-47l18 53h47l-18-53z"/>
+  <circle class="cls-4" cx="250" cy="278.4" r="67.6"/>
+  <path class="cls-2" d="M282 219a68 68 0 01-91 92 68 68 0 1091-92z"/>
+  <path class="cls-5" d="M374 411H126l-26-253h300l-26 253zM101 64h298v51H101zM362 11H138l-18 53h260l-18-53z"/>
+  <circle class="cls-5" cx="250" cy="278.4" r="67.6"/>
+  <path class="cls-5" d="M377 158l3-44H120l3 44h254zM142 411l6 78h204l6-78H142z"/>
+</svg>

@@ -2,7 +2,7 @@
   <div>
     <!-- TITLE -->
     <h1
-      class="text-center text-red text-4xl mb-4 -mt-4"
+      class="text-center text-red text-4xl mb-4"
     >{{episode.id.toUpperCase()}} - {{episode.title}}</h1>
     <!-- END TITLE -->
 
