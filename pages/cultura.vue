@@ -1,6 +1,5 @@
 <template>
   <div class="mx-auto">
-    <h1 class="text-center text-red text-4xl mb-4">Cultura</h1>
     <div class="md:w-full lg:w-8/12 mx-auto flex flex-wrap justify-between text-sm mb-3">
       <div
         v-for="category in Object.keys(culture).sort((a, b) => a.localeCompare(b))"
@@ -38,7 +37,7 @@ const PAGE = 30;
 export default {
   head() {
     return {
-      title: "Comedia Perpetua - Phi Beta Lambda | Cultura",
+      title: "Phi Beta Lambda - Comedia Perpetua | Cultura",
       meta: [
         {
           hid: "description",

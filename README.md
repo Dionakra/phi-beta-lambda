@@ -1,4 +1,4 @@
-# Comedia Perpetua - Phi Beta Lambda
+# Phi Beta Lambda - Comedia Perpetua
 Web no oficial sobre el programa de radio de **Cadena SER** en la que se muestran pormenorizados los contenidos de comedia (cómic@s, especiales, series, programas, podcasts y películas) referenciados en el programa, creando un índice de cómic@s, sus menciones, contenidos destacados y cualquier contenido multimedia del que se hable en los programas.
 
 ## Desarrollo

@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl mb-4">Invitad@s</h1>
     <div class="px-2">
       <div class="flex flex-wrap -mx-2" v-if="guests != undefined && guests.length != 0" role="list">
         <GuestCard :guest="guest" :key="guest.id + guest.episode" v-for="guest in guests" />
@@ -17,7 +16,7 @@ import GuestCard from "~/components/GuestCard";
 export default {
   head() {
     return {
-      title: 'Comedia Perpetua - Phi Beta Lambda | Invitad@s al programa',
+      title: 'Phi Beta Lambda - Comedia Perpetua | Invitad@s al programa',
       meta: [
         {
           hid: "description",

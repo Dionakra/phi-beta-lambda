@@ -1,12 +1,12 @@
 <template>
-  <div class="mx-auto sm:px-4 md:px-16 font-sans antialiased h-screen">
+  <div class="mx-auto font-sans h-screen">
     <!-- NAVBAR -->
-    <nav class="flex items-center justify-between flex-wrap py-2">
+    <nav class="flex items-center justify-between flex-wrap py-2 sm:px-4 md:px-8 shadow-md">
       <!-- START LOGO -->
-      <div class="items-center text-white">
+      <div class="items-center text-white " ref="logo" >
         <nuxt-link to="/">
           <img
-            src="/icons/logo-desc-min.webp"
+            src="/icons/apple-icon.png"
             class="h-12"
             title="Comedia Perpetua"
             alt="Logo de Comedia Perpetua / Phi Beta Lambda"
@@ -16,7 +16,7 @@
       <!-- END LOGO -->
 
       <!-- START BURGER -->
-      <div class="block sm:hidden">
+      <div class="block md:hidden">
         <button
           @click="toggle"
           class="flex items-center px-3 py-2 mr-3 border rounded text-teal-lighter border-teal-light hover:text-red hover:border-red"
@@ -32,12 +32,12 @@
       <!-- START LINKS -->
       <div
         :class="open ? 'block' : 'hidden'"
-        class="w-full flex-grow sm:flex sm:items-center sm:w-auto"
+        class="w-full flex-grow md:flex md:items-center md:w-auto"
       >
         <!-- START LOCAL PAGES -->
-        <div class="text-sm md:flex-grow">
+        <div class="text-sm md:flex-grow" ref="menu">
           <nuxt-link
-            class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red text-lg md:text-sm ml-1 sm:ml-2"
+            class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red text-lg md:text-sm ml-1 sm:ml-2 border-b-2 border-transparent hover:border-red"
             v-on:click.native="toggle()"
             v-for="menuItem in menu"
             :key="menuItem.route"
@@ -47,7 +47,7 @@
         <!-- END LOCAL PAGES -->
 
         <!-- START SOCIAL NETWORKS -->
-        <div>
+        <div class="flex mt-2 md:mt-0">
           <!-- YOUTUBE -->
           <a
             target="_blank"
@@ -204,10 +204,8 @@
     </nav>
     <!-- END NAVBAR -->
 
-    <hr />
-
     <!-- CONTENT -->
-    <main>
+    <main class="sm:px-4 md:px-8 bg-gray-100 shadow-inner py-1">
       <nuxt />
     </main>
     <!-- END CONTENT -->

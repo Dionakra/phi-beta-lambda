@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl">Mapa de la Comedia</h1>
     <h6 class="text-center text-red -mt-2 mb-1">Datos provistos por</h6>
 
     <h6 class="text-center text-red -mt-3">
@@ -85,7 +84,7 @@ import G6 from "@antv/g6";
 export default {
   head() {
     return {
-      title: "Comedia Perpetua - Phi Beta Lambda | Mapa de la Comedia",
+      title: "Phi Beta Lambda - Comedia Perpetua | Mapa de la Comedia",
       meta: [
         {
           hid: "description",

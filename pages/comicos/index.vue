@@ -1,6 +1,5 @@
 <template>
   <div class="mx-auto">
-    <h1 class="text-center text-red text-4xl mb-4">Cómic@s</h1>
     <div class="md:w-full lg:w-1/2 mx-auto mb-2">
       <input
         class="transition focus:outline-0 border border-transparent focus:bg-white focus:border-red placeholder-gray-600 rounded-lg bg-gray-200 py-2 pr-4 pl-10 block w-full appearance-none leading-normal ds-input"
@@ -76,7 +75,7 @@ const PAGE = 30;
 export default {
   head() {
     return {
-      title: "Comedia Perpetua - Phi Beta Lambda | Cómic@s",
+      title: "Phi Beta Lambda - Comedia Perpetua | Cómic@s",
       meta: [
         {
           hid: "description",
