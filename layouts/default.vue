@@ -1,10 +1,10 @@
 <template>
   <div class="mx-auto font-sans h-screen">
     <!-- NAVBAR -->
-    <nav class="flex items-center justify-between flex-wrap py-2 sm:px-4 md:px-8 shadow-md">
+    <nav class="flex items-center justify-between flex-wrap py-2 mb-2 sm:px-4 md:px-8 shadow-md bg-white">
       <!-- START LOGO -->
-      <div class="items-center text-white " ref="logo" >
-        <nuxt-link to="/">
+      <div class="items-center text-white" ref="logo">
+        <nuxt-link to="/" v-on:click.native="activeItem = ''">
           <img
             src="/icons/apple-icon.png"
             class="h-12"
@@ -37,8 +37,9 @@
         <!-- START LOCAL PAGES -->
         <div class="text-sm md:flex-grow" ref="menu">
           <nuxt-link
-            class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red text-lg md:text-sm ml-1 sm:ml-2 border-b-2 border-transparent hover:border-red"
-            v-on:click.native="toggle()"
+            class="no-underline block mt-auto sm:inline-block sm:mt-0 text-teal-lighter hover:text-red text-lg md:text-sm ml-1 sm:ml-2 border-b-2 border-transparent"
+            :class="activeItem == menuItem.route ? 'border-red' : ' hover:border-red'"
+            v-on:click.native="toggle(); activeItem = menuItem.route"
             v-for="menuItem in menu"
             :key="menuItem.route"
             :to="menuItem.route"
@@ -205,7 +206,7 @@
     <!-- END NAVBAR -->
 
     <!-- CONTENT -->
-    <main class="sm:px-4 md:px-8 bg-gray-100 shadow-inner py-1">
+    <main class="sm:px-4 md:px-8 py-1 h-auto">
       <nuxt />
     </main>
     <!-- END CONTENT -->
@@ -246,7 +247,8 @@ export default {
           route: "/mapa",
           name: "Mapa de la comedia"
         }
-      ]
+      ],
+      activeItem: ""
     };
   },
   methods: {
@@ -285,5 +287,9 @@ export default {
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: 20px;
+}
+
+body {
+  background-color: #F7FAFC;
 }
 </style>
