@@ -5,7 +5,6 @@
 </template>
 
 <script>
-import axios from "axios";
 import HostCard from "~/components/HostCard";
 
 export default {
@@ -24,10 +23,10 @@ export default {
   components: {
     HostCard
   },
-  asyncData() {
-    return axios.get(`/api/hosts.json`).then(res => {
-      return { hosts: res.data };
-    });
+  created() {
+    fetch(`/api/hosts.json`)
+      .then(response => response.json())
+      .then(hosts => (this.hosts = hosts));
   },
   data() {
     return {

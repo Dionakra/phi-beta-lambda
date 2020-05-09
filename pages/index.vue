@@ -14,18 +14,12 @@
 </template>
 
 <script>
-import axios from "axios";
 import EpisodeCard from "~/components/EpisodeCard";
 const PAGE = 6;
 
 export default {
   components: {
     EpisodeCard
-  },
-  async asyncData() {
-    return axios.get("/api/main.json").then(x => {
-      return { episodes: x.data };
-    });
   },
   data() {
     return {
@@ -35,10 +29,15 @@ export default {
       showing: []
     };
   },
-  mounted() {
-    this.searching = true;
-    this.showing = this.episodes.slice(0, PAGE * this.curPage);
-    this.searching = false;
+  created() {
+    fetch("/api/main.json")
+      .then(response => response.json())
+      .then(episodes => {
+        this.episodes = episodes;
+        this.searching = true;
+        this.showing = this.episodes.slice(0, PAGE * this.curPage);
+        this.searching = false;
+      });
   },
   methods: {
     loadMore() {
