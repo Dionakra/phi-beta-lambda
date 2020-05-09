@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto w-full sm:w-1/2 md:w-1/3 lg:w-1/5 xl:w-1/6 px-2 pb-4" role="listitem">
-    <div class="max-w-sm rounded overflow-hidden shadow-lg bm--card-equal-height">
+    <div class="max-w-sm rounded overflow-hidden shadow-lg bm--card-equal-height mx-auto">
       <img
         class="w-full"
         :src="'/images/comedians/' + guest.id + '.jpg'"
