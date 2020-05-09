@@ -24,7 +24,7 @@
             <div class="flex flex-inline flex-wrap justify-center">
               <!-- GUESTS -->
               <div v-if="episode.guests && episode.guests.length > 0">
-                <p class="text-sm text-gray-900">Invitad@s</p>
+                <p class="text-sm text-gray-900 text-center">Invitad@s</p>
                 <div class="flex flex-inline">
                   <Comedian
                     v-for="guest in episode.guests"
