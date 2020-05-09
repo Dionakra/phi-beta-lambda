@@ -1,8 +1,6 @@
 <template>
-  <div class="px-2">
-    <div class="flex flex-wrap" v-if="hosts != undefined && hosts.length != 0" role="list">
-      <HostCard :host="host" :key="host.id" v-for="host in hosts" />
-    </div>
+  <div class="flex flex-wrap" v-if="hosts != undefined && hosts.length != 0" role="list">
+    <HostCard :host="host" :key="host.id" v-for="host in hosts" />
   </div>
 </template>
 

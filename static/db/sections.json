@@ -33,12 +33,12 @@
     "id": "el-mago-roast",
     "name": "Mago Roast",
     "host": "miguel-campos",
-    "description": "En defensa de los magos, Miguel realiza un truco de magia mientras insulta al resto de presentadores"
+    "description": "En defensa de los magos, Miguel realiza un truco de magia mientras insulta al resto de presentadores."
   },
   {
     "id": "gira-de-festivales",
     "name": "Gira de festivales",
     "host": "iggy-rubin",
-    "description": "Sección en la que se dilucida cómo se llegó a la muerte prematura de cómicos y cómicas"
+    "description": "Sección en la que se dilucida cómo se llegó a la muerte prematura de cómicos y cómicas."
   }
 ]

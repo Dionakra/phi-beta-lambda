@@ -1,6 +1,6 @@
 <template>
   <div class="md:w-1/2 lg:w-1/4 px-2 main mx-auto" role="listitem">
-    <div class="max-w-sm rounded overflow-hidden shadow-lg bm--card-equal-height">
+    <div class="max-w-sm rounded overflow-hidden shadow-lg bm--card-equal-height bg-white">
       <img class="w-full" :src="'/images/comedians/' + host.id + '.jpg'" :alt="host.name" />
       <div class="px-6 py-4">
         <p class="text-xl mb-2 subpixel-antialiased">{{ host.name }}</p>
@@ -15,7 +15,7 @@
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 3365 3365"
-            class="h-6 flex sm:inline-flex mr-2"
+            class="w-6 flex sm:inline-flex mr-2"
           >
             <defs>
               <radialGradient
@@ -63,7 +63,7 @@
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 461.8 375.3"
-              class="h-6 flex sm:inline-flex mr-2"
+              class="w-6 flex sm:inline-flex mr-2"
             >
               <path
                 fill="#55ACEE"
@@ -85,9 +85,6 @@ export default {
 </script>
 
 <style scoped>
-.main {
-  margin-bottom: 15px;
-}
 .bm--card-equal-height {
   display: flex;
   flex-direction: column;
