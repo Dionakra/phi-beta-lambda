@@ -23,7 +23,6 @@
 </template>
 
 <script>
-import axios from "axios";
 export default {
   head() {
     return {
@@ -38,10 +37,10 @@ export default {
       ]
     };
   },
-  async asyncData() {
-    return axios.get("/api/sections.json").then(x => {
-      return { sections: x.data };
-    });
+  created() {
+    fetch("/api/sections.json")
+      .then(response => response.json())
+      .then(sections => (this.sections = sections));
   },
   data() {
     return {
