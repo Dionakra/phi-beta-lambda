@@ -6,6 +6,7 @@
         :src="'/images/comedians/' + guest.id + '.jpg'"
         :alt="guest.name"
         :title="guest.name"
+        loading="lazy"
       />
       <div class="px-6 py-2">
         <div class="font-bold text-xl mb-2">{{ guest.name }}</div>

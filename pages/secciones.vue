@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl">Secciones</h1>
     <div class="flex flex-inline flex-wrap">
       <div
         v-for="section in sections"
@@ -28,7 +27,7 @@ import axios from "axios";
 export default {
   head() {
     return {
-      title: "Comedia Perpetua - Phi Beta Lambda | Secciones",
+      title: "Phi Beta Lambda - Comedia Perpetua | Secciones",
       meta: [
         {
           hid: "description",

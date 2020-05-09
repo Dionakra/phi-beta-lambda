@@ -1,10 +1,7 @@
 <template>
-  <div>
-    <h1 class="text-center text-red text-4xl mb-4 ">Presentadores</h1>
-    <div class="px-2">
-      <div class="flex flex-wrap -mx-2" v-if="hosts != undefined && hosts.length != 0" role="list">
-        <HostCard :host="host" :key="host.id" v-for="host in hosts" />
-      </div>
+  <div class="px-2">
+    <div class="flex flex-wrap" v-if="hosts != undefined && hosts.length != 0" role="list">
+      <HostCard :host="host" :key="host.id" v-for="host in hosts" />
     </div>
   </div>
 </template>
@@ -16,13 +13,12 @@ import HostCard from "~/components/HostCard";
 export default {
   head() {
     return {
-      title: "Comedia Perpetua - Phi Beta Lambda | Presentadores",
+      title: "Phi Beta Lambda - Comedia Perpetua | Presentadores",
       meta: [
         {
           hid: "description",
           name: "description",
-          content:
-            "Descripción y rol de los presentadores en el programa"
+          content: "Descripción y rol de los presentadores en el programa"
         }
       ]
     };

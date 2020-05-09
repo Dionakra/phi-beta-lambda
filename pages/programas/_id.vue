@@ -1,9 +1,7 @@
 <template>
   <div>
     <!-- TITLE -->
-    <h1
-      class="text-center text-red text-4xl mb-4"
-    >{{episode.id.toUpperCase()}} - {{episode.title}}</h1>
+    <h1 class="text-center text-red text-4xl mb-4">{{episode.id.toUpperCase()}} - {{episode.title}}</h1>
     <!-- END TITLE -->
 
     <!-- CONTENT -->
@@ -26,12 +24,14 @@
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 20 20"
-              class="youtube h-8 md:h-6 block mt-auto inline-block ml-4 md:ml-1"
+              viewBox="0 0 158 110"
+              class="h-8 md:h-6 block mt-auto inline-block ml-4 md:ml-1"
             >
               <path
-                d="M10 2.3C.172 2.3 0 3.174 0 10s.172 7.7 10 7.7 10-.874 10-7.7-.172-7.7-10-7.7zm3.205 8.034l-4.5 2.096c-.393.182-.715-.022-.715-.456V8.026c0-.433.322-.638.715-.456l4.5 2.096c.393.184.393.484 0 .668z"
+                fill="red"
+                d="M154 18c-1-7-7-12-13-14-13-3-62-3-62-3S31 0 18 4C12 5 5 11 3 18 0 30 0 55 0 55s0 25 3 38c2 6 9 12 15 14 13 3 61 3 61 3s48 0 61-3c6-2 13-8 14-14 4-13 4-38 4-38s0-25-4-37z"
               />
+              <path fill="#fff" d="M64 79l39-24-39-24z" />
             </svg>
             <span class="align-middle">Ver en YouTube</span>
           </a>
@@ -68,7 +68,11 @@
           </div>
 
           <!-- SECTIONS -->
-          <div class="flex flex-inline flex-wrap align-top mt-4" role="list" v-if="episode.sections && episode.sections.length > 0">
+          <div
+            class="flex flex-inline flex-wrap align-top mt-4"
+            role="list"
+            v-if="episode.sections && episode.sections.length > 0"
+          >
             <div
               class="align-top ml-3 mx-auto text-center"
               v-for="section in episode.sections"
@@ -103,11 +107,7 @@
     <div class v-if="episode.comedians && episode.comedians.length > 0">
       <span class="text-lg text-red">Cómic@s mencionados ({{episode.comedians.length}})</span>
       <div class="flex flex-inline flex-wrap" role="list">
-        <div
-          v-for="comedian in episode.comedians"
-          :key="comedian.id"
-          class="w-24 mx-auto sm:mx-0"
-        >
+        <div v-for="comedian in episode.comedians" :key="comedian.id" class="w-24 mx-auto sm:mx-0">
           <ComedianLink :comedian="comedian" />
         </div>
       </div>
@@ -138,7 +138,7 @@ import Comedian from "~/components/Comedian";
 export default {
   head() {
     return {
-      title: "Comedia Perpetua - Phi Beta Lambda | " + this.episode.title,
+      title: "Phi Beta Lambda - Comedia Perpetua | " + this.episode.title,
       meta: [
         {
           hid: "description",

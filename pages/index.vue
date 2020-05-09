@@ -1,6 +1,5 @@
 <template>
   <div class="md:flex md:flex-wrap">
-    <h1 class="text-center text-red text-4xl mb-4 mx-auto">Lista de Programas</h1>
     <div
       class="mx-auto"
       v-infinite-scroll="loadMore"

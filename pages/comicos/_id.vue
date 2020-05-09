@@ -75,7 +75,7 @@ export default {
   },
   head() {
     return {
-      title: "Comedia Perpetua - Phi Beta Lambda | " + this.name,
+      title: "Phi Beta Lambda - Comedia Perpetua | " + this.name,
       meta: [
         {
           hid: "description",

@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1 class="text-center text-red text-4xl mb-4">Estadísticas</h1>
     <div class="flex flex-inline flex-wrap">
       <chart class="w-full md:w-1/2 h-64 mt-6" :options="comediansPerEpisode" autoresize />
       <chart class="w-full md:w-1/2 h-64 mt-6" :options="culturePerEpisode" autoresize />
@@ -33,7 +32,7 @@ const TRANS = {
 export default {
   head() {
     return {
-      title: "Comedia Perpetua - Phi Beta Lambda | Estadísticas",
+      title: "Phi Beta Lambda - Comedia Perpetua | Estadísticas",
       meta: [
         {
           hid: "description",

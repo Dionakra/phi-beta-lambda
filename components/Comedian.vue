@@ -6,6 +6,7 @@
       :src="'/images/comedians/' + comedian.id+ '_128.jpg'"
       :alt="'Foto de ' + comedian.name"
       :title="comedian.name"
+      loading="lazy"
     />
     <p v-if="showName" class="text-sm text-gray-700 text-center">
       {{alternateName ? alternateName : comedian.name}}

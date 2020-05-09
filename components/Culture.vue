@@ -10,6 +10,7 @@
         :src="'/images/culture/' + culture.id+ '.jpg'"
         :alt="'Portada de ' + culture.title"
         :title="culture.title"
+        loading="lazy"
       />
     </div>
     <p class="text-sm text-gray-700 text-center mt-1 break-words">{{culture.title}}</p>

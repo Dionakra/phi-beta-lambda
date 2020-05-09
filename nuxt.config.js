@@ -1,13 +1,13 @@
 export default {
-  render: {
-    resourceHints: false
+  router: {
+    prefetchLinks: false
   },
   mode: 'spa',
   /*
   ** Headers of the page
   */
   head: {
-    title: 'Comedia Perpetua - Phi Beta Lambda',
+    title: 'Phi Beta Lambda - Comedia Perpetua',
     htmlAttrs: {
       lang: 'es'
     },
@@ -18,15 +18,15 @@ export default {
       { name: 'msapplication-TileColor', content: '#91230D' },
       { name: 'msapplication-TileImage', content: '~/icons/ms-icon-144x144.png' },
       { name: 'theme-color', content: '#91230D' },
-      { name: 'apple-mobile-web-app-title', content: 'Comedia Perpetua - Phi Beta Lambda' },
+      { name: 'apple-mobile-web-app-title', content: 'Phi Beta Lambda - Comedia Perpetua' },
       {
         property: 'og:title',
-        content: 'Comedia Perpetua - Phi Beta Lambda',
+        content: 'Phi Beta Lambda - Comedia Perpetua',
         vmid: 'og:title'
       },
       {
         property: 'og:site_name',
-        content: 'Comedia Perpetua - Phi Beta Lambda',
+        content: 'Phi Beta Lambda - Comedia Perpetua',
         vmid: 'og:site_name'
       },
       {
@@ -42,7 +42,7 @@ export default {
       },
       {
         property: 'og:description',
-        content: 'Comedia Perpetua - Phi Beta Lambda | Página no oficial',
+        content: 'Phi Beta Lambda - Comedia Perpetua | Página no oficial',
         vmid: 'og:description'
       }
     ],
