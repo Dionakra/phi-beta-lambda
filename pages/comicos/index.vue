@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto">
-    <div class="md:w-full lg:w-1/2 mx-auto mb-2">
+    <div class="md:w-full lg:w-4/6 mx-auto mb-2">
       <input
         class="transition focus:outline-0 border border-transparent focus:bg-white focus:border-red placeholder-gray-600 rounded-lg bg-gray-200 py-2 pr-4 pl-10 block w-full appearance-none leading-normal ds-input"
         type="text"
@@ -13,43 +13,47 @@
       />
     </div>
 
-    <div class="md:w-full lg:w-1/2 mx-auto flex justify-between md:justify-around text-sm mb-3">
+    <div class="md:w-full lg:w-4/6 mx-auto flex justify-between text-sm mb-3">
       <div>
-        <p class="text-red text-xs -mt-1">Ordenar por</p>
+        <p class="text-red text-xs">Mostrar...</p>
         <button
-          class="hover:bg-red text-white py-1 px-2 rounded-full"
-          :class="orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
-          @click="
-            orderByName = true;
-            updateList();
-          "
-        >Nombre</button>
+          class="hover:bg-red text-white py-1 px-1 rounded-full"
+          :class="comedianOfTheDay ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="comedianOfTheDay = !comedianOfTheDay; updateList()"
+        >Cómic@ del día</button>
         <button
-          class="hover:bg-red text-white py-1 px-2 rounded-full"
-          :class="!orderByName ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
-          @click="
-            orderByName = false;
-            updateList();
-          "
-        >Menciones</button>
+          class="hover:bg-red text-white py-1 px-1 rounded-full"
+          :class="thankYou ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="thankYou = !thankYou; updateList()"
+        >Thank you...</button>
+        <button
+          class="hover:bg-red text-white py-1 px-1 rounded-full"
+          :class="giraFestivales ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="giraFestivales = !giraFestivales; updateList()"
+        >Gira de festivales</button>
+        <button
+          class="hover:bg-red text-white py-1 px-1 rounded-full"
+          :class="mostRecent ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="mostRecent = !mostRecent; mostMentions = !(!mostRecent || mostMentions); updateList()"
+        >Más recientes</button>
+        <button
+          class="hover:bg-red text-white py-1 px-1 rounded-full"
+          :class="mostMentions ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="mostMentions = !mostMentions; mostRecent = !(!mostMentions || mostRecent); updateList()"
+        >Más menciones</button>
       </div>
+
       <div>
-        <p class="text-red text-xs -mt-1">Órden</p>
+        <p class="text-red text-xs">Órden alfabético</p>
         <button
-          class="hover:bg-red text-white py-1 px-2 rounded-full"
-          :class="ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
-          @click="
-              ascending = true;
-              updateList();
-            "
+          class="hover:bg-red text-white py-1 px-1 rounded-full"
+          :class="ascending === true ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="ascending = true; updateList()"
         >Ascendente</button>
         <button
-          class="hover:bg-red text-white py-1 px-2 rounded-full"
-          :class="!ascending ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
-          @click="
-              ascending = false;
-              updateList();
-            "
+          class="hover:bg-red text-white py-1 px-1 rounded-full"
+          :class="ascending === false ? 'bg-red' : 'bg-transparent text-red border border-red hover:text-white'"
+          @click="ascending = false; updateList()"
         >Descendente</button>
       </div>
     </div>
@@ -68,7 +72,6 @@
 </template>
 
 <script>
-import axios from "axios";
 import ComedianCard from "~/components/ComedianCard";
 const PAGE = 30;
 
@@ -89,24 +92,28 @@ export default {
   components: {
     ComedianCard
   },
-  async asyncData() {
-    return axios.get("/api/comedians.json").then(x => {
-      return { comedians: x.data };
-    });
-  },
   data() {
     return {
       comedians: [],
-      ascending: true,
-      orderByName: true,
       searchTerm: "",
       searching: true,
       curPage: 1,
-      showing: []
+      showing: [],
+      ascending: undefined,
+      thankYou: false,
+      comedianOfTheDay: false,
+      mostRecent: true,
+      mostMentions: false,
+      giraFestivales: false
     };
   },
   mounted() {
-    this.showing = this.showComedians().slice(0, PAGE * this.curPage);
+    fetch("/api/comedians.json")
+      .then(response => response.json())
+      .then(comedians => {
+        this.comedians = comedians;
+        this.showing = this.showComedians().slice(0, PAGE * this.curPage);
+      });
   },
   methods: {
     showComedians() {
@@ -114,30 +121,43 @@ export default {
 
       const res = this.comedians
         .filter(x => {
-          if (this.searchTerm.trim().length != 0) {
-            return x.name
-              .toLowerCase()
-              .includes(this.searchTerm.toLowerCase());
-          } else {
-            return true;
+          let valid = true;
+          if (this.thankYou) {
+            valid = valid && x.tags.includes("#ThankYouForThisBeautifulComedy");
           }
+          if (this.comedianOfTheDay) {
+            valid = valid && x.tags.includes("#Cómic@DelDía");
+          }
+          if (this.giraFestivales) {
+            valid = valid && x.tags.includes("#GiraDeFestivales");
+          }
+          if (this.searchTerm.trim().length != 0) {
+            valid =
+              valid &&
+              x.name.toLowerCase().includes(this.searchTerm.toLowerCase());
+          }
+
+          return valid;
         })
         .sort((a, b) => {
-          if (this.orderByName) {
-            if (this.ascending) {
-              return a.name.localeCompare(b.name);
+          let order = 0;
+
+          if (this.mostRecent) {
+            order = 1;
+          } else if (this.mostMentions) {
+            order = b.mentions - a.mentions;
+          }
+
+          if (order == 0) {
+            if (this.ascending == undefined || this.ascending == true) {
+              order = a.name.localeCompare(b.name);
             } else {
-              return b.name.localeCompare(a.name);
-            }
-          } else {
-            if (this.ascending) {
-              return a.mentions - b.mentions;
-            } else {
-              return b.mentions - a.mentions;
+              order = b.name.localeCompare(a.name);
             }
           }
-        });
 
+          return order;
+        });
       this.searching = false;
 
       return res;
