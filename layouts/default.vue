@@ -240,7 +240,7 @@ export default {
           name: "Cultura"
         },
         {
-          route: "/estadísticas",
+          route: "/estadisticas",
           name: "Estadísticas"
         },
         {

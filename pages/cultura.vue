@@ -69,13 +69,14 @@ export default {
       selectedCategory: "",
       trans: {
         documentary: "Documentales",
-        "comedy-special": "Especiales de comedia",
-        book: "Libros",
-        movie: "Películas",
+        "comedy-special": "Especial de comedia",
+        book: "Libro",
+        movie: "Película",
         "tv-show": "Programa TV",
         "radio-show": "Radio / Podcast",
-        "tv-show-series": "Series",
-        "comic-strip": "Cómic"
+        "tv-show-series": "Serie",
+        "comic-strip": "Cómic",
+        "videogame": "Videojuego"
       }
     };
   },
