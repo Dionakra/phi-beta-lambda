@@ -187,7 +187,19 @@ export default {
   mounted() {
     fetch(`/api/episodes/${this.$route.params.id}.json`)
       .then(response => response.json())
-      .then(episode => (this.episode = episode));
+      .then(episode => {
+        this.episode = episode;
+        let img = new Image();
+        img.onload = () => {
+          if (img.height === 90) {
+            this.$refs.thumbnail.srcset = this.$refs.thumbnail.srcset.replace(
+              "maxresdefault",
+              "mqdefault"
+            );
+          }
+        };
+        img.src = `https://i.ytimg.com/vi_webp/${this.episode.link}/maxresdefault.webp`;
+      });
   },
   data() {
     return {

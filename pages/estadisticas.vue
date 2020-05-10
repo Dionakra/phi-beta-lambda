@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="flex flex-inline flex-wrap">
-      <chart class="w-full md:w-1/2 h-64 mt-6" :options="comediansPerEpisode" autoresize />
-      <chart class="w-full md:w-1/2 h-64 mt-6" :options="culturePerEpisode" autoresize />
+      <chart class="w-full h-64" :options="comediansPerEpisode" autoresize />
+      <chart class="w-full h-64 mt-6" :options="culturePerEpisode" autoresize />
     </div>
   </div>
 </template>
@@ -73,7 +73,7 @@ export default {
     ];
 
     this.comediansPerEpisode = this.getChartOptions(
-      "Referencias culturales por episodio",
+      "Menciones a cómicos por episodio",
       this.stats.axis,
       comediansSeries
     );
