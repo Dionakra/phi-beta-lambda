@@ -7741,5 +7741,94 @@
       "fanboys",
       "star-wars-holiday-special"
     ]
+  },
+  {
+    "id": "s02e66",
+    "season": 2,
+    "episode": 66,
+    "title": "Yo estoy peor que tú",
+    "link": "dQ3TDZD_wSs",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "caroline-rhea"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "jerry-seinfeld"
+        ],
+        "culture": "jerry-seinfeld-23-hours-to-kill"
+      }
+    ],
+    "comedians": [
+      "danny-boy",
+      "luis-alvaro",
+      "felix-buenaventura",
+      "quique-macias",
+      "miguel-lago",
+      "larry-david",
+      "rosie-o-donnell",
+      "ellen-degeneres",
+      "jay-leno",
+      "joan-rivers",
+      "mary-tyler-moore",
+      "johnny-carson",
+      "lorena-castell",
+      "nacho-garcia",
+      "yonyi-arenas",
+      "tomas-fuentes",
+      "patton-oswalt",
+      "louis-ck",
+      "steve-carell",
+      "greg-daniels",
+      "aziz-ansari",
+      "pilar-de-francisco",
+      "galder-varas",
+      "urko-vazquez",
+      "mike-birbiglia",
+      "jim-gaffigan",
+      "pete-davidson",
+      "dave-chappelle",
+      "wanda-sykes",
+      "taylor-tomlinson",
+      "marc-maron"
+    ],
+    "culture": [
+      "conan-obrian-show",
+      "el-intermedio",
+      "sabrina-cosas-de-bruja",
+      "just-the-funny-parts-book",
+      "curb-your-enthusiasm",
+      "the-rosie-o-donnell-show",
+      "the-caroline-rhea-show",
+      "the-joan-rivers-show",
+      "just-for-laughs",
+      "patton-oswalt-i-love-everything",
+      "saturday-night-live",
+      "space-force",
+      "parks-and-recreation",
+      "the-office-us",
+      "seinfeld",
+      "camera-cafe",
+      "los-hombres-de-paco",
+      "los-serrano",
+      "late-motiv",
+      "national-lampoon",
+      "comedians-in-cars-getting-coffee",
+      "jerry-before-seinfeld",
+      "pete-davidson-alive-from-new-york",
+      "wtf-with-marc-maron",
+      "good-one-podcast",
+      "last-comic-standing"
+    ]
   }
 ]

@@ -3283,5 +3283,45 @@
     "id": "star-wars-holiday-special",
     "title": "Star Wars Holiday Special",
     "type": "movie"
+  },
+  {
+    "id": "sabrina-cosas-de-bruja",
+    "title": "Sabrina Cosas De Bruja",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-rosie-o-donnell-show",
+    "title": "The Rosie O'Donnell Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-caroline-rhea-show",
+    "title": "The Caroline Rhea Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-joan-rivers-show",
+    "title": "The Joan Rivers Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "los-hombres-de-paco",
+    "title": "Los Hombres De Paco",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "los-serrano",
+    "title": "Los Serrano",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "national-lampoon",
+    "title": "National Lampoon's",
+    "type": "movie"
+  },
+  {
+    "id": "jerry-before-seinfeld",
+    "title": "Jerry Seinfeld: Jerry Before Seinfeld",
+    "type": "comedy-special"
   }
 ]
