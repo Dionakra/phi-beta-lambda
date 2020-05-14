@@ -7830,5 +7830,70 @@
       "good-one-podcast",
       "last-comic-standing"
     ]
+  },
+  {
+    "id": "s02e67",
+    "season": 2,
+    "episode": 67,
+    "title": "Chiringuito de Seinfeld",
+    "link": "K85WCxKO-AA",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "adolfo-valor"
+    ],
+    "sections": [],
+    "comedians": [
+      "jerry-seinfeld",
+      "urko-vazquez",
+      "david-letterman",
+      "julia-louis-dreyfus",
+      "sebastian-maniscalco",
+      "john-mulaney",
+      "larry-david",
+      "george-carlin",
+      "mike-birbiglia",
+      "patton-oswalt",
+      "ricky-gervais",
+      "ellen-degeneres",
+      "james-corden",
+      "trevor-noah",
+      "judd-apatow",
+      "pete-davidson",
+      "adam-sandler",
+      "conan-obrien",
+      "seth-rogen",
+      "simon-rich",
+      "robin-williams",
+      "louis-ck",
+      "chris-rock",
+      "margaret-cho",
+      "dave-chappelle"
+    ],
+    "culture": [
+      "jerry-seinfeld-23-hours-to-kill",
+      "jerry-before-seinfeld",
+      "comedians-in-cars-getting-coffee",
+      "comedian-documentary",
+      "the-last-dance",
+      "curb-your-enthusiasm",
+      "seinfeld",
+      "patton-oswalt-i-love-everything",
+      "talking-funny-hbo",
+      "ellen-degeneres-relatable",
+      "friends",
+      "the-office-us",
+      "the-office-uk",
+      "south-park",
+      "funny-people-judd-apatow",
+      "the-king-of-staten-island",
+      "saturday-night-live",
+      "conan-needs-a-friend",
+      "an-american-pickle"
+    ]
   }
 ]

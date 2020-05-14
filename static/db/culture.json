@@ -3323,5 +3323,20 @@
     "id": "jerry-before-seinfeld",
     "title": "Jerry Seinfeld: Jerry Before Seinfeld",
     "type": "comedy-special"
+  },
+  {
+    "id": "the-last-dance",
+    "title": "The Last Dance",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-king-of-staten-island",
+    "title": "The King Of Staten Island",
+    "type": "movie"
+  },
+  {
+    "id": "an-american-pickle",
+    "title": "An American Pickle",
+    "type": "movie"
   }
 ]
