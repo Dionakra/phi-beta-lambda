@@ -6703,7 +6703,7 @@
       "larry-david",
       "louis-ck",
       "jerry-seinfeld",
-      "george-costanza",
+      "jason-alexander",
       "alfredo-diaz",
       "jorge-yorya",
       "vengamonjas",
@@ -7894,6 +7894,105 @@
       "saturday-night-live",
       "conan-needs-a-friend",
       "an-american-pickle"
+    ]
+  },
+  {
+    "id": "s02e68",
+    "season": 2,
+    "episode": 68,
+    "title": "El capítulo de la gente que muere",
+    "link": "w71gea43ttc",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "jamie-foxx"
+        ]
+      },
+      {
+        "id": "gira-de-festivales",
+        "comedians": [
+          "jerry-stiller"
+        ]
+      }
+    ],
+    "comedians": [
+      "redd-foxx",
+      "jerry-seinfeld",
+      "joe-rogan",
+      "dani-rovira",
+      "luis-piedrahita",
+      "joaquin-reyes",
+      "kumail-nanjiani",
+      "steve-martin",
+      "cristobal-garrido",
+      "adolfo-valor",
+      "borja-sumozas",
+      "eva-soriano",
+      "fred-willard",
+      "bill-murray",
+      "marc-maron",
+      "pete-holmes",
+      "patton-oswalt",
+      "eric-andre",
+      "david-cross",
+      "bob-odenkirk",
+      "hannah-gadsby",
+      "stephen-colbert",
+      "maria-bamford",
+      "mark-normand",
+      "andy-kindler",
+      "jim-gaffigan",
+      "neal-brennan",
+      "jimmy-fallon",
+      "jimmy-kimmel",
+      "hugh-laurie",
+      "ricky-gervais",
+      "dave-chappelle",
+      "ben-stiller",
+      "jason-alexander",
+      "jeff-ross",
+      "larry-david",
+      "susie-essman",
+      "freddie-roman",
+      "juan-carlos-cordoba"
+    ],
+    "culture": [
+      "jamie-foxx-i-might-need-security",
+      "seinfeld",
+      "django-desencadenado",
+      "jerry-maguire",
+      "comedians-in-cars-getting-coffee",
+      "jumanji",
+      "promocion-fantasma",
+      "once-upon-a-time-in-hollywood",
+      "modern-family",
+      "anchorman",
+      "dos-colgaos-muy-fumaos",
+      "glow",
+      "wtf-with-marc-maron",
+      "eric-andre-legalize-everything",
+      "better-call-saul",
+      "mr-show",
+      "hannah-gadsby-douglas",
+      "nanette",
+      "andy-kindler-hence-the-humour",
+      "mark-normand-out-to-lunch",
+      "just-for-laughs",
+      "the-tonight-show",
+      "show-jimmy-kimmel",
+      "late-show-with-stephen-colbert",
+      "three-mics",
+      "dave-chappelle-show",
+      "ed-sullivan-show",
+      "the-king-of-queens",
+      "curb-your-enthusiasm"
     ]
   }
 ]

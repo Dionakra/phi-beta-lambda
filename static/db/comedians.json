@@ -5533,12 +5533,6 @@
     ]
   },
   {
-    "id": "george-costanza",
-    "name": "George Costanza",
-    "subjects": [],
-    "genres": []
-  },
-  {
     "id": "jeff-garlin",
     "name": "Jeff Garlin",
     "subjects": [],
@@ -7981,6 +7975,39 @@
   {
     "id": "yonyi-arenas",
     "name": "Yonyi Arenas",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "andy-kindler",
+    "name": "Andy Kindler",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "jerry-stiller",
+    "name": "Jerry Stiller",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "freddie-roman",
+    "name": "Freddie Roman",
+    "subjects": [],
+    "genres": [
+      "jewish-humor",
+      "observational-comedy"
+    ]
+  },
+  {
+    "id": "susie-essman",
+    "name": "Susie Essman",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "jason-alexander",
+    "name": "Jason Alexander",
     "subjects": [],
     "genres": []
   }

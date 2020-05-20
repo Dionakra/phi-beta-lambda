@@ -3338,5 +3338,45 @@
     "id": "an-american-pickle",
     "title": "An American Pickle",
     "type": "movie"
+  },
+  {
+    "id": "jamie-foxx-i-might-need-security",
+    "title": "Jamie Foxx: I Might Need Security",
+    "type": "comedy-special"
+  },
+  {
+    "id": "jumanji",
+    "title": "Jumanji",
+    "type": "movie"
+  },
+  {
+    "id": "promocion-fantasma",
+    "title": "Promoción Fantasma",
+    "type": "movie"
+  },
+  {
+    "id": "dos-colgaos-muy-fumaos",
+    "title": "Dos Colgaos Muy Fumaos",
+    "type": "movie"
+  },
+  {
+    "id": "eric-andre-legalize-everything",
+    "title": "Eric Andre: Legalize Everything",
+    "type": "comedy-special"
+  },
+  {
+    "id": "andy-kindler-hence-the-humour",
+    "title": "Andy Kindler: Hence The Humour",
+    "type": "comedy-special"
+  },
+  {
+    "id": "mark-normand-out-to-lunch",
+    "title": "Mark Normand: Out To Lunch",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-king-of-queens",
+    "title": "The King Of Queens",
+    "type": "tv-show-series"
   }
 ]
