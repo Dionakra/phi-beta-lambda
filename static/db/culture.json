@@ -3378,5 +3378,20 @@
     "id": "the-king-of-queens",
     "title": "The King Of Queens",
     "type": "tv-show-series"
+  },
+  {
+    "id": "malena-pichot-estupidez-compleja",
+    "title": "Malena Pichot: Estupidez Compleja",
+    "type": "comedy-special"
+  },
+  {
+    "id": "el-emperador-y-sus-locuras",
+    "title": "El Emperador Y Sus Locuras",
+    "type": "movie"
+  },
+  {
+    "id": "el-emperador-y-sus-locuras-2-las-locuras-de-kronk",
+    "title": "El Emperador Y Sus Locuras 2: Las Locuras De Kronk",
+    "type": "movie"
   }
 ]

@@ -7994,5 +7994,53 @@
       "the-king-of-queens",
       "curb-your-enthusiasm"
     ]
+  },
+  {
+    "id": "s02e69",
+    "season": 2,
+    "episode": 69,
+    "title": "Cupcake Covid",
+    "link": "FRfYAfF1vos",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "mer"
+    ],
+    "sections": [],
+    "comedians": [
+      "adolfo-valor",
+      "guille-aquino",
+      "fred-armisen",
+      "carrie-brownstein",
+      "larry-david",
+      "malena-pichot",
+      "charo-lopez",
+      "ana-carolina",
+      "vanesa-strauch",
+      "felix-buenaventura",
+      "jerry-seinfeld",
+      "ricardo-castella",
+      "david-broncano",
+      "patton-oswalt",
+      "manu-sanchez",
+      "louis-ck",
+      "lenny-bruce"
+    ],
+    "culture": [
+      "portlandia",
+      "curb-your-enthusiasm",
+      "malena-pichot-estupidez-compleja",
+      "jerry-seinfeld-23-hours-to-kill",
+      "comedians-in-cars-getting-coffee",
+      "saturday-night-live",
+      "la-resistencia",
+      "patton-oswalt-i-love-everything",
+      "el-emperador-y-sus-locuras",
+      "el-emperador-y-sus-locuras-2-las-locuras-de-kronk"
+    ]
   }
 ]
