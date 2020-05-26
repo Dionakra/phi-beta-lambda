@@ -8022,5 +8022,49 @@
     "name": "Guille Aquino",
     "subjects": [],
     "genres": []
+  },
+  {
+    "id": "paula-galimberti",
+    "name": "Paula Galimberti",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "javier-pastor",
+    "name": "Javier Pastor",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "ben-schwartz",
+    "name": "Ben Schwartz",
+    "subjects": [],
+    "genres": [
+      "improvisational-comedy"
+    ]
+  },
+  {
+    "id": "thomas-middleditch",
+    "name": "Thomas Middleditch",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "anne-meara",
+    "name": "Anne Meara",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "del-close",
+    "name": "Del Close",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "bob-rubin",
+    "name": "Bob Rubin",
+    "subjects": [],
+    "genres": []
   }
 ]

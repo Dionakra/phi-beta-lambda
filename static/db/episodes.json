@@ -8042,5 +8042,104 @@
       "el-emperador-y-sus-locuras",
       "el-emperador-y-sus-locuras-2-las-locuras-de-kronk"
     ]
+  },
+  {
+    "id": "s02e70",
+    "season": 2,
+    "episode": 70,
+    "title": "Oswaldo Patán",
+    "link": "I9tAIHKuqRo",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "nichols-and-may"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "patton-oswalt"
+        ],
+        "culture": "patton-oswalt-i-love-everything"
+      }
+    ],
+    "comedians": [
+      "shelley-berman",
+      "jerry-stiller",
+      "del-close",
+      "anne-meara",
+      "sid-caesar",
+      "imogene-coca",
+      "phyllis-diller",
+      "jack-paar",
+      "woody-allen",
+      "paco-leon",
+      "dani-rovira",
+      "ana-morgade",
+      "thomas-middleditch",
+      "ben-schwartz",
+      "javier-pastor",
+      "david-suarez",
+      "sergio-bezos",
+      "litos",
+      "lalo-tenorio",
+      "john-mulaney",
+      "paula-galimberti",
+      "robin-williams",
+      "paco-calavera",
+      "chelsea-handler",
+      "john-krasinski",
+      "hannah-gadsby",
+      "david-broncano",
+      "miguel-noguera",
+      "joe-rogan",
+      "marc-maron",
+      "amy-schumer",
+      "miguel-iribar",
+      "adolfo-valor",
+      "will-ferrell",
+      "tina-fey",
+      "adam-sandler",
+      "bob-rubin",
+      "ignatius-farray",
+      "conan-obrien",
+      "dave-chappelle",
+      "mark-normand",
+      "maria-bamford"
+    ],
+    "culture": [
+      "el-graduado",
+      "saturday-night-live",
+      "la-verdad-en-la-comedia",
+      "the-tonight-show",
+      "granujas-de-medio-pelo",
+      "parks-and-recreation",
+      "middleditch-and-schwartz",
+      "jabberwocky",
+      "primary-colors",
+      "jaula-de-grillos",
+      "el-cielo-puede-esperar",
+      "tootsie",
+      "improvisations-to-music",
+      "an-evening-with-mike-nichols-and-elaine-may",
+      "mike-nichols-and-elaine-may-examine-doctors",
+      "quien-teme-a-virginia-woolf",
+      "closer",
+      "hola-soy-el-vodka-esta-chelsea-si-soy-yo",
+      "some-good-news",
+      "hannah-gadsby-douglas",
+      "eurovision-song-contest-the-story-of-fire-saga",
+      "uncut-gems",
+      "la-resistencia",
+      "conan-needs-a-friend",
+      "patton-oswalt-silver-screen-fiend"
+    ]
   }
 ]
