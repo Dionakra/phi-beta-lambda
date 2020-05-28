@@ -8066,5 +8066,28 @@
     "name": "Bob Rubin",
     "subjects": [],
     "genres": []
+  },
+  {
+    "id": "jeff-dunham",
+    "name": "Jeff Dunham",
+    "subjects": [],
+    "genres": [
+      "ventriloquism",
+      "observational-comedy",
+      "black-comedy",
+      "prop-comedy"
+    ]
+  },
+  {
+    "id": "little-esther",
+    "name": "Little Esther",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "pepin-tre",
+    "name": "Pepín Tre",
+    "subjects": [],
+    "genres": []
   }
 ]

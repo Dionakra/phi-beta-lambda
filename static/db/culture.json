@@ -3473,5 +3473,15 @@
     "id": "eurovision-song-contest-the-story-of-fire-saga",
     "title": "Eurovision Song Contest: The Story Of Fire Saga",
     "type": "movie"
+  },
+  {
+    "id": "estirando-el-chicle",
+    "title": "Estirando El Chicle",
+    "type": "radio-show"
+  },
+  {
+    "id": "mr-bean",
+    "title": "Mr. Bean",
+    "type": "tv-show-series"
   }
 ]
