@@ -8211,5 +8211,92 @@
       "mr-bean",
       "la-resistencia"
     ]
+  },
+  {
+    "id": "s02e72",
+    "season": 2,
+    "episode": 72,
+    "title": "¿Quiere borsa?",
+    "link": "ZhTjDk9KOMk",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": ["raul-massana"],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "bob-newhart"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "hannah-gadsby"
+        ],
+        "culture": "hannah-gadsby-douglas"
+      }
+    ],
+    "comedians": [
+      "shelley-berman",
+      "arevalo",
+      "redd-foxx",
+      "gila",
+      "george-jessel",
+      "denny-horror",
+      "luis-alvaro",
+      "martes-y-trece",
+      "eugenio",
+      "antonio-castejo",
+      "conan-obrien",
+      "lenny-bruce",
+      "johnny-carson",
+      "jerry-stiller",
+      "emilio-aragon",
+      "chevy-chase",
+      "goyo-jimenez",
+      "tip-y-coll",
+      "jj-vaquero",
+      "paula-pua",
+      "jimmy-fallon",
+      "dave-chappelle",
+      "chemi-moreno",
+      "jandro",
+      "miguel-lago",
+      "quique-peinado",
+      "manuel-burque",
+      "miguel-maldonado",
+      "barbosa",
+      "dani-mateo"
+    ],
+    "culture": [
+      "denny-horror-un-paseo-por-el-lado-oscuro",
+      "luis-alvaro-una-superestrella-de-la-comedia",
+      "conan-needs-a-friend",
+      "the-button-down-mind-of-bob-newhart",
+      "the-tonight-show",
+      "the-big-bang-theory",
+      "the-bob-newhart-show",
+      "newhart-tv-series",
+      "los-serrano",
+      "saturday-night-live",
+      "7-vidas",
+      "friends",
+      "seinfeld",
+      "the-larry-sanders-show",
+      "the-office-uk",
+      "the-simpsons",
+      "dave-chappelle-the-kennedy-center-mark-twain-price-for-american-humor",
+      "todo-es-mentira",
+      "buenismo-bien",
+      "la-vida-moderna",
+      "el-grupo",
+      "si-si-o-si-no",
+      "las-noches-de-ortega",
+      "nadie-sabe-nada",
+      "nanette"
+    ]
   }
 ]

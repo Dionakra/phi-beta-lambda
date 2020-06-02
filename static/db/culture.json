@@ -3483,5 +3483,50 @@
     "id": "mr-bean",
     "title": "Mr. Bean",
     "type": "tv-show-series"
+  },
+  {
+    "id": "denny-horror-un-paseo-por-el-lado-oscuro",
+    "title": "Denny Horror: Un Paseo Por El Lado Oscuro",
+    "type": "comedy-special"
+  },
+  {
+    "id": "luis-alvaro-una-superestrella-de-la-comedia",
+    "title": "Luis Álvaro: Una Superestrella De La Comedia",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-button-down-mind-of-bob-newhart",
+    "title": "The Button-Down Mind of Bob Newhart",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-bob-newhart-show",
+    "title": "The Bob Newhart Show",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "newhart-tv-series",
+    "title": "Newhart",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "7-vidas",
+    "title": "7 Vidas",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "el-grupo",
+    "title": "El Grupo",
+    "type": "radio-show"
+  },
+  {
+    "id": "si-si-o-si-no",
+    "title": "Si sí o si no",
+    "type": "radio-show"
+  },
+  {
+    "id": "las-noches-de-ortega",
+    "title": "Las Noches De Ortega",
+    "type": "radio-show"
   }
 ]

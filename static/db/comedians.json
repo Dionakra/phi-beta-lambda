@@ -8089,5 +8089,41 @@
     "name": "Pepín Tre",
     "subjects": [],
     "genres": []
+  },
+  {
+    "id": "martes-y-trece",
+    "name": "Martes y Trece",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "george-jessel",
+    "name": "George Jessel",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "raul-massana",
+    "name": "Raúl Massana",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "chemi-moreno",
+    "name": "Chemi Moreno",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "barbosa",
+    "name": "Barbosa",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "miguel-maldonado",
+    "name": "Miguel Maldonado",
+    "subjects": [],
+    "genres": []
   }
 ]
