@@ -3528,5 +3528,45 @@
     "id": "las-noches-de-ortega",
     "title": "Las Noches De Ortega",
     "type": "radio-show"
+  },
+  {
+    "id": "el-efecto-f",
+    "title": "El Efecto F",
+    "type": "tv-show"
+  },
+  {
+    "id": "medico-de-familia",
+    "title": "Médico De Familia",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "lo-mas-plus",
+    "title": "Lo + Plus",
+    "type": "tv-show"
+  },
+  {
+    "id": "maldita-la-hora",
+    "title": "Maldita La Hora",
+    "type": "tv-show"
+  },
+  {
+    "id": "no-le-digas-a-mama-que-trabajo-en-la-tele",
+    "title": "No Le Digas A Mamá Que Trabajo En La Tele",
+    "type": "tv-show"
+  },
+  {
+    "id": "se-lo-que-hicisteis",
+    "title": "Sé Lo Que Hicisteis",
+    "type": "tv-show"
+  },
+  {
+    "id": "uau",
+    "title": "Uau!",
+    "type": "tv-show"
+  },
+  {
+    "id": "whose-line-is-it-anyway",
+    "title": "Whose Line Is It Anyway",
+    "type": "tv-show"
   }
 ]

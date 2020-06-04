@@ -8223,7 +8223,9 @@
       "miguel-campos",
       "iggy-rubin"
     ],
-    "guests": ["raul-massana"],
+    "guests": [
+      "raul-massana"
+    ],
     "sections": [
       {
         "id": "comedian-of-the-day",
@@ -8297,6 +8299,48 @@
       "las-noches-de-ortega",
       "nadie-sabe-nada",
       "nanette"
+    ]
+  },
+  {
+    "id": "s02e73",
+    "season": 2,
+    "episode": 73,
+    "title": "Programas que se la pegaron",
+    "link": "dyxS6AWn7YE",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "antonio-trashorras"
+    ],
+    "sections": [],
+    "comedians": [
+      "florentino-fernandez",
+      "emilio-aragon",
+      "david-broncano",
+      "dani-rovira",
+      "txabi-franquesa",
+      "leo-harlem",
+      "goyo-jimenez",
+      "ellen-degeneres",
+      "drew-carey",
+      "jorge-ponce",
+      "george-carlin"
+    ],
+    "culture": [
+      "el-efecto-f",
+      "medico-de-familia",
+      "la-resistencia",
+      "lo-mas-plus",
+      "maldita-la-hora",
+      "no-le-digas-a-mama-que-trabajo-en-la-tele",
+      "se-lo-que-hicisteis",
+      "uau",
+      "whose-line-is-it-anyway",
+      "validas"
     ]
   }
 ]
