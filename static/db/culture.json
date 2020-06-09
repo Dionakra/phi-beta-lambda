@@ -3568,5 +3568,40 @@
     "id": "whose-line-is-it-anyway",
     "title": "Whose Line Is It Anyway",
     "type": "tv-show"
+  },
+  {
+    "id": "bridesmaids",
+    "title": "Bridesmaids",
+    "type": "movie"
+  },
+  {
+    "id": "pitch-perfect",
+    "title": "Pitch Perfect",
+    "type": "movie"
+  },
+  {
+    "id": "isnt-it-romantic",
+    "title": "Isn't It Romantic",
+    "type": "movie"
+  },
+  {
+    "id": "kung-fu-panda",
+    "title": "Kung Fu Panda",
+    "type": "movie"
+  },
+  {
+    "id": "arkansas",
+    "title": "Arkansas",
+    "type": "movie"
+  },
+  {
+    "id": "scott-pilgrim-contra-el-mundo",
+    "title": "Scott Pilgrim Contra El Mundo",
+    "type": "movie"
+  },
+  {
+    "id": "judge-priest",
+    "title": "Judge Priest",
+    "type": "movie"
   }
 ]

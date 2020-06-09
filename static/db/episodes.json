@@ -8342,5 +8342,91 @@
       "whose-line-is-it-anyway",
       "validas"
     ]
+  },
+  {
+    "id": "s02e74",
+    "season": 2,
+    "episode": 74,
+    "title": "Señoría, soy inocente",
+    "link": "7WnEn1xjTVA",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [
+      
+    ],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "rebel-wilson"
+        ]
+      },
+      {
+        "id": "gira-de-festivales",
+        "comedians": [
+          "will-rogers"
+        ]
+      }
+    ],
+    "comedians": [
+      "david-broncano",
+      "adolfo-valor",
+      "james-corden",
+      "judd-apatow",
+      "jack-black",
+      "adam-devine",
+      "melissa-mccarthy",
+      "arevalo",
+      "michael-cera",
+      "clark-duke",
+      "santi-alveru",
+      "jeff-ross",
+      "don-rickles",
+      "conan-obrien",
+      "robert-smigel",
+      "jorge-ponce",
+      "dave-chappelle",
+      "neal-brennan",
+      "sarah-cooper",
+      "jerry-seinfeld",
+      "mark-normand",
+      "bill-cosby",
+      "michael-che",
+      "john-mulaney",
+      "arturo-gonzalez-campos",
+      "queque",
+      "chevy-chase",
+      "bill-murray",
+      "john-belushi",
+      "norm-macdonald",
+      "chris-kattan",
+      "joan-rivers",
+      "chelsea-handler",
+      "david-cross",
+      "larry-the-cable-guy",
+      "david-guapo",
+      "toni-moog",
+      "fred-willard",
+      "dani-ales",
+      "miguel-lago"
+    ],
+    "culture": [
+      "la-resistencia",
+      "bridesmaids",
+      "pitch-perfect",
+      "isnt-it-romantic",
+      "kung-fu-panda",
+      "arkansas",
+      "scott-pilgrim-contra-el-mundo",
+      "conan-obrian-show",
+      "half-baked",
+      "dave-chappelle-show",
+      "saturday-night-live",
+      "show-howard-stern",
+      "judge-priest"
+    ]
   }
 ]
