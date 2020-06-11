@@ -8354,9 +8354,7 @@
       "miguel-campos",
       "iggy-rubin"
     ],
-    "guests": [
-      
-    ],
+    "guests": [],
     "sections": [
       {
         "id": "comedian-of-the-day",
@@ -8427,6 +8425,64 @@
       "saturday-night-live",
       "show-howard-stern",
       "judge-priest"
+    ]
+  },
+  {
+    "id": "s02e75",
+    "season": 2,
+    "episode": 75,
+    "title": "Preguntas de las phienas Vol. 3",
+    "link": "Br75JKDo_Vc",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [],
+    "sections": [],
+    "comedians": [
+      "elsa-ruiz",
+      "paco-paez",
+      "urko-vazquez",
+      "pilar-de-francisco",
+      "jorge-ponce",
+      "dani-rovira",
+      "enrique-san-francisco",
+      "juan-munoz",
+      "jose-mota",
+      "angel-garo",
+      "carlos-faemino",
+      "javier-cansado",
+      "florentino-fernandez",
+      "chiquito-de-la-calzada",
+      "dani-mateo",
+      "raul-cimas",
+      "jim-gaffigan",
+      "felix-buenaventura",
+      "denny-horror",
+      "luis-alvaro",
+      "esther-gimeno",
+      "pablo-ibarburu",
+      "jose-rafael-guzman",
+      "michelle-wolf",
+      "quique-macias",
+      "carlos-ramos",
+      "carolina-noriega",
+      "david-lillo",
+      "alex-navarro",
+      "pantomima-full",
+      "ajajojejo",
+      "maria-bamford",
+      "sarah-silverman",
+      "daniel-pistola"
+    ],
+    "culture": [
+      "la-resistencia",
+      "la-hora-chanante",
+      "seinfeld",
+      "el-intermedio",
+      "todo-es-mentira"
     ]
   }
 ]
