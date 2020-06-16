@@ -3603,5 +3603,70 @@
     "id": "judge-priest",
     "title": "Judge Priest",
     "type": "movie"
+  },
+  {
+    "id": "diary-of-a-young-comic",
+    "title": "Diary Of A Young Comic",
+    "type": "movie"
+  },
+  {
+    "id": "anything-but-love",
+    "title": "Anything But Love",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "richard-lewis-im-in-pain",
+    "title": "Richard Lewis: I'm In Pain",
+    "type": "comedy-special"
+  },
+  {
+    "id": "richard-lewis-im-exhausted",
+    "title": "Richard Lewis: I'm Exhausted",
+    "type": "comedy-special"
+  },
+  {
+    "id": "richard-lewis-im-doomed",
+    "title": "Richard Lewis: I'm Doomed",
+    "type": "comedy-special"
+  },
+  {
+    "id": "100-greatest-stand-ups-of-all-time",
+    "title": "100 Greatest Stand-Ups Of All Time",
+    "type": "tv-show"
+  },
+  {
+    "id": "dave-chappelle-8-46",
+    "title": "Dave Chappelle: 8:46",
+    "type": "comedy-special"
+  },
+  {
+    "id": "little-britain",
+    "title": "Little Britain",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "its-always-sunny-in-philadelphia",
+    "title": "Its Always Sunny In Philadelphia",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "the-mighty-boosh",
+    "title": "The Mighty Boosh",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "me-duele-la-cabeza-podcast",
+    "title": "Me Duele La Cabeza Podcast",
+    "type": "radio-show"
+  },
+  {
+    "id": "un-bigote-para-dos",
+    "title": "Un Bigote Para Dos",
+    "type": "movie"
+  },
+  {
+    "id": "whitmer-thomas-the-golden-one",
+    "title": "Whitmer Thomas: The Golden One",
+    "type": "comedy-special"
   }
 ]

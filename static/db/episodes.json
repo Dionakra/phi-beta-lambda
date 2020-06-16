@@ -8484,5 +8484,95 @@
       "el-intermedio",
       "todo-es-mentira"
     ]
+  },
+  {
+    "id": "s02e76",
+    "season": 2,
+    "episode": 76,
+    "title": "Boom",
+    "link": "HdJdhnE23IY",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "richard-lewis"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "whitmer-thomas"
+        ],
+        "culture": "whitmer-thomas-the-golden-one"
+      }
+    ],
+    "comedians": [
+      "chris-rock",
+      "raul-cimas",
+      "berto-romero",
+      "andreu-buenafuente",
+      "larry-david",
+      "valeria-ros",
+      "adolfo-valor",
+      "pablo-ibarburu",
+      "kaco-forns",
+      "gustavo-biosca",
+      "la-prados",
+      "ricardo-moya",
+      "dave-chappelle",
+      "mark-normand",
+      "pete-davidson",
+      "jerry-seinfeld",
+      "marc-maron",
+      "don-rickles",
+      "shelley-berman",
+      "garry-shandling",
+      "judd-apatow",
+      "vengamonjas",
+      "lorena-iglesias",
+      "julian-genisson",
+      "fer-bleda",
+      "ajajojejo",
+      "bill-hicks",
+      "drew-carey",
+      "bo-burnham",
+      "drew-michael",
+      "lil-rel-howery",
+      "adam-sandler",
+      "ignatius-farray"
+    ],
+    "culture": [
+      "curb-your-enthusiasm",
+      "saturday-night-live",
+      "diary-of-a-young-comic",
+      "show-david-letterman",
+      "last-call-with-carson-daly",
+      "show-jimmy-kimmel",
+      "anything-but-love",
+      "la-lengua-moderna",
+      "richard-lewis-im-in-pain",
+      "richard-lewis-im-exhausted",
+      "richard-lewis-im-doomed",
+      "100-greatest-stand-ups-of-all-time",
+      "dave-chappelle-8-46",
+      "little-britain",
+      "its-always-sunny-in-philadelphia",
+      "the-mighty-boosh",
+      "the-office-us",
+      "the-king-of-staten-island",
+      "wtf-with-marc-maron",
+      "the-zen-diaries",
+      "me-duele-la-cabeza-podcast",
+      "un-bigote-para-dos",
+      "drew-michael",
+      "live-in-crenshaw-lil-rel-howery",
+      "el-fin-de-la-comedia"
+    ]
   }
 ]
