@@ -3668,5 +3668,20 @@
     "id": "whitmer-thomas-the-golden-one",
     "title": "Whitmer Thomas: The Golden One",
     "type": "comedy-special"
+  },
+  {
+    "id": "el-club-de-la-comedia",
+    "title": "El Club De La Comedia",
+    "type": "tv-show"
+  },
+  {
+    "id": "high-maintenance",
+    "title": "High Maintenance",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "constitucion-mundo-today",
+    "title": "EL MUNDO TODAY | La Constitución Española. Edición ampliada y corregida.",
+    "type": "book"
   }
 ]
