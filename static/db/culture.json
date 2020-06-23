@@ -3683,5 +3683,70 @@
     "id": "constitucion-mundo-today",
     "title": "EL MUNDO TODAY | La Constitución Española. Edición ampliada y corregida.",
     "type": "book"
+  },
+  {
+    "id": "love-actually",
+    "title": "Love Actually",
+    "type": "movie"
+  },
+  {
+    "id": "hello-privilege-its-me-chelsea",
+    "title": "Hello, Privilege. It's Me, Chelsea",
+    "type": "tv-show"
+  },
+  {
+    "id": "chelsea",
+    "title": "Chelsea",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-degenerates",
+    "title": "The Degenerates",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-church-of-whats-happening-now",
+    "title": "The Church Of What's Happening Now",
+    "type": "radio-show"
+  },
+  {
+    "id": "george-lopez-well-do-it-for-half",
+    "title": "George Lopez: We'll Do It For Half",
+    "type": "comedy-special"
+  },
+  {
+    "id": "doug-stanhope-the-dying-of-a-last-breed",
+    "title": "Doug Stanhope: The Dying Of A Last Breed",
+    "type": "comedy-special"
+  },
+  {
+    "id": "ilina-glazer-the-planet-is-burning",
+    "title": "Ilina Glazer: The Planet Is Burning",
+    "type": "comedy-special"
+  },
+  {
+    "id": "hannibal-buress-miami-nights",
+    "title": "Hannibal Buress: Miami Nights",
+    "type": "comedy-special"
+  },
+  {
+    "id": "hannibal-buress-comedy-camisado",
+    "title": "Hannibal Buress: Comedy Camisado",
+    "type": "comedy-special"
+  },
+  {
+    "id": "pepon-es-guay",
+    "title": "Pepón Es Guay",
+    "type":  "movie"
+  },
+  {
+    "id": "broad-city",
+    "title": "Broad City",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "upright-citizens-brigade",
+    "title": "Upright Citizens Brigade",
+    "type": "tv-show-series"
   }
 ]

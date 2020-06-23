@@ -8203,5 +8203,37 @@
     "name": "Whitmer Thomas",
     "subjects": [],
     "genres": []
+  },
+  {
+    "id": "brad-williams",
+    "name": "Brad Williams",
+    "subjects": [
+      "everyday-life",
+      "sex",
+      "identity-politics",
+      "current-events",
+      "popular-culture"
+    ],
+    "genres": [
+      "observational-comedy"
+    ]
+  },
+  {
+    "id": "joey-diaz",
+    "name": "Joey Díaz",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "ilana-glazer",
+    "name": "Ilana Glazer",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "kike-garcia",
+    "name": "Kike García",
+    "subjects": [],
+    "genres": []
   }
 ]

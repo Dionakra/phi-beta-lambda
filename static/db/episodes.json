@@ -8634,5 +8634,103 @@
       "the-honeymoon-standup-special",
       "comedians-in-cars-getting-coffee"
     ]
+  },
+  {
+    "id": "s02e78",
+    "season": 2,
+    "episode": 78,
+    "title": "¿Tú qué crees que debería hacer?",
+    "link": "yOkJX97QUP0",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "chelsea-handler"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "ilana-glazer"
+        ],
+        "culture": "ilina-glazer-the-planet-is-burning"
+      }
+    ],
+    "comedians": [
+      "whitney-cummings",
+      "angel-martin",
+      "joan-rivers",
+      "sarah-silverman",
+      "kevin-hart",
+      "tiffany-haddish",
+      "ali-wong",
+      "natasha-leggero",
+      "wanda-sykes",
+      "iliza-shlesinger",
+      "ricardo-moya",
+      "gustavo-biosca",
+      "chris-delia",
+      "jeff-ross",
+      "joe-rogan",
+      "joey-diaz",
+      "bill-burr",
+      "carlos-mencia",
+      "bert-kreischer",
+      "ari-shaffir",
+      "brad-williams",
+      "david-suarez",
+      "jim-gaffigan",
+      "george-lopez",
+      "conan-obrien",
+      "doug-stanhope",
+      "jimmy-kimmel",
+      "hannibal-buress",
+      "bill-cosby",
+      "dave-chappelle",
+      "helena-pozuelo",
+      "galder-varas",
+      "eva-soriano",
+      "valeria-ros",
+      "danny-boy",
+      "paula-pua",
+      "jose-cabrera",
+      "kike-garcia",
+      "tomas-fuentes",
+      "charlie-pee",
+      "pepon-fuentes"
+    ],
+    "culture": [
+      "rick-and-morty",
+      "love-actually",
+      "chelsea-lately",
+      "se-lo-que-hicisteis",
+      "hola-soy-el-vodka-esta-chelsea-si-soy-yo",
+      "hello-privilege-its-me-chelsea",
+      "chelsea",
+      "todo-es-mentira",
+      "zapeando",
+      "the-degenerates",
+      "joe-rogan-experience",
+      "the-church-of-whats-happening-now",
+      "30-rock",
+      "the-office-us",
+      "camera-cafe",
+      "george-lopez-well-do-it-for-half",
+      "doug-stanhope-the-dying-of-a-last-breed",
+      "hannibal-buress-miami-nights",
+      "hannibal-buress-comedy-camisado",
+      "entourage",
+      "monologamia",
+      "pepon-es-guay",
+      "girls-serie",
+      "broad-city",
+      "upright-citizens-brigade"
+    ]
   }
 ]
