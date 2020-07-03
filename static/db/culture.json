@@ -3758,5 +3758,85 @@
     "id": "palm-springs",
     "title": "Palm Springs",
     "type": "movie"
+  },
+  {
+    "id": "dick-cavett-brief-encounters",
+    "title": "Dick Cavett: Brief Encounters",
+    "type": "book"
+  },
+  {
+    "id": "hercules",
+    "title": "Hércules",
+    "type": "movie"
+  },
+  {
+    "id": "lilo-y-stitch",
+    "title": "Lilo Y Stitch",
+    "type": "movie"
+  },
+  {
+    "id": "the-arsenio-hall-show",
+    "title": "The Arsenio Hall Show",
+    "type": "tv-show"
+  },
+  {
+    "id": "bobcat-goldthwait-share-the-warmth",
+    "title": "Bobcat Goldthwait: Share The Warmth",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bobcat-goldthwait-is-he-like-that-all-the-time",
+    "title": "Bobcat Goldthwait: Is He Like That All The Time?",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bobcat-goldthwait-i-dont-mean-to-insult-you-but-but-you-look-like-bobcat-goldthwait",
+    "title": "Bobcat Goldthwait: I Don't Mean To Insult You But But You Look Like Bobcat Goldthwait",
+    "type": "comedy-special"
+  },
+  {
+    "id": "un-detective-diferente",
+    "title": "Ace Ventura: Un Detective Diferente",
+    "type": "movie"
+  },
+  {
+    "id": "eugene-mirman-im-sorry-youre-welcome",
+    "title": "Eugene Mirman: I'm Sorry (You're Welcome)",
+    "type": "comedy-special"
+  },
+  {
+    "id": "bobcat-goldthwait-misfits-and-monsters",
+    "title": "Bobcat Goldthwait's Misfits And Monsters",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "woody-allen-apropos-of-nothing",
+    "title": "Woody Allen: Apropos Of Nothing",
+    "type": "book"
+  },
+  {
+    "id": "jim-jefferies-intolerant",
+    "title": "Jim Jefferies: Intolerant",
+    "type": "comedy-special"
+  },
+  {
+    "id": "caramelo",
+    "title": "Caramelo",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-doug-stanhop-podcast",
+    "title": "The Doug Stanhope Podcast",
+    "type": "radio-show"
+  },
+  {
+    "id": "popov-vodka-presents-an-evening-with-doug-stanhope",
+    "title": "Doug Stanhope: Popov Vodka Presents: An Evening With Doug Stanhope",
+    "type": "comedy-special"
+  },
+  {
+    "id": "the-man-show",
+    "title": "The Man Show",
+    "type": "tv-show"
   }
 ]

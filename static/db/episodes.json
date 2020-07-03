@@ -8810,5 +8810,87 @@
       "el-dia-de-la-marmota",
       "palm-springs"
     ]
+  },
+  {
+    "id": "s02e80",
+    "season": 2,
+    "episode": 80,
+    "title": "Tú no miras tu mierda cuando cagas",
+    "link": "WkNnb6-SGAk",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin"
+    ],
+    "guests": [],
+    "sections": [
+      {
+        "id": "comedian-of-the-day",
+        "comedians": [
+          "bobcat-goldthwait"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "comedians": [
+          "doug-stanhope"
+        ],
+        "culture": "doug-stanhope-the-dying-of-a-last-breed"
+      }
+    ],
+    "comedians": [
+      "david-letterman",
+      "david-broncano",
+      "jay-leno",
+      "arsenio-hall",
+      "jerry-seinfeld",
+      "seth-macfarlane",
+      "andrew-dice-clay",
+      "pete-davidson",
+      "barry-crimmins",
+      "patton-oswalt",
+      "eugene-mirman",
+      "gustavo-biosca",
+      "andy-samberg",
+      "woody-allen",
+      "borja-sumozas",
+      "jim-jeffries",
+      "susi-caramelo",
+      "joe-rogan",
+      "louis-ck",
+      "anthony-jeselnik"
+    ],
+    "culture": [
+      "show-david-letterman",
+      "dick-cavett-brief-encounters",
+      "la-vida-moderna",
+      "hercules",
+      "lilo-y-stitch",
+      "the-arsenio-hall-show",
+      "bobcat-goldthwait-share-the-warmth",
+      "bobcat-goldthwait-is-he-like-that-all-the-time",
+      "comedians-in-cars-getting-coffee",
+      "seinfeld",
+      "bobcat-goldthwait-i-dont-mean-to-insult-you-but-but-you-look-like-bobcat-goldthwait",
+      "un-detective-diferente",
+      "show-jimmy-kimmel",
+      "dave-chappelle-show",
+      "community",
+      "patton-oswalt-annihilation",
+      "eugene-mirman-im-sorry-youre-welcome",
+      "bobcat-goldthwait-misfits-and-monsters",
+      "padre-de-familia",
+      "the-simpsons",
+      "brooklyn-99",
+      "woody-allen-apropos-of-nothing",
+      "jim-jefferies-intolerant",
+      "caramelo",
+      "uau",
+      "entourage",
+      "the-doug-stanhop-podcast",
+      "popov-vodka-presents-an-evening-with-doug-stanhope",
+      "the-man-show",
+      "fire-in-the-maternity-ward"
+    ]
   }
 ]
