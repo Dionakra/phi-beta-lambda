@@ -11,16 +11,16 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@antv/g6": "^3.4.4",
-    "@nuxtjs/axios": "^5.9.7",
-    "echarts": "^4.7.0",
+    "@antv/g6": "^3.5.9",
+    "@nuxtjs/axios": "^5.11.0",
+    "echarts": "^4.8.0",
     "lodash": "^4.17.15",
-    "nuxt": "^2.12.2",
+    "nuxt": "^2.13.3",
     "vue-echarts": "^5.0.0-beta.0",
     "vue-infinite-scroll": "^2.0.2"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^1.4.0",
+    "@nuxtjs/tailwindcss": "^1.4.1",
     "wikijs": "^6.0.1"
   }
 }

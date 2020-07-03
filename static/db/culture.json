@@ -3737,7 +3737,7 @@
   {
     "id": "pepon-es-guay",
     "title": "Pepón Es Guay",
-    "type":  "movie"
+    "type": "movie"
   },
   {
     "id": "broad-city",
@@ -3748,5 +3748,15 @@
     "id": "upright-citizens-brigade",
     "title": "Upright Citizens Brigade",
     "type": "tv-show-series"
+  },
+  {
+    "id": "mash",
+    "title": "M*A*S*H",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "palm-springs",
+    "title": "Palm Springs",
+    "type": "movie"
   }
 ]

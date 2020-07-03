@@ -8235,5 +8235,41 @@
     "name": "Kike García",
     "subjects": [],
     "genres": []
+  },
+  {
+    "id": "rabo-parmesano",
+    "name": "Rabo Parmesano",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "jamsito",
+    "name": "Jamsito",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "arnau-garcia",
+    "name": "Arnau García",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "pablo-laran",
+    "name": "Pablo Larán",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "benny-rives",
+    "name": "Benny Rives",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "ana-bravo",
+    "name": "Ana Bravo",
+    "subjects": [],
+    "genres": []
   }
 ]
