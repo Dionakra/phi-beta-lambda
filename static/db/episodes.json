@@ -8892,5 +8892,46 @@
       "the-man-show",
       "fire-in-the-maternity-ward"
     ]
+  },
+  {
+    "id": "s02e81",
+    "season": 2,
+    "episode": 81,
+    "title": "En la calle el Ché, en casa Masterchef",
+    "link": "PTOoJxbN8yA",
+    "hosts": [
+      "antonio-castelo",
+      "miguel-campos",
+      "iggy-rubin",
+      "jorge-yorya"
+    ],
+    "guests": [
+      "laura-marquez"
+    ],
+    "sections": [],
+    "comedians": [
+      "andreu-buenafuente",
+      "raul-cimas",
+      "kaco-forns",
+      "david-martos",
+      "danny-boy",
+      "berto-romero",
+      "david-suarez",
+      "nacho-garcia",
+      "goyo-jimenez",
+      "dani-piqueras",
+      "pilar-de-francisco",
+      "borja-sumozas",
+      "moshe-kasher"
+    ],
+    "culture": [
+      "late-motiv",
+      "el-club-de-la-comedia",
+      "show-jimmy-kimmel",
+      "que-grandes-son",
+      "the-pete-holmes-show",
+      "the-simpsons",
+      "futurama"
+    ]
   }
 ]

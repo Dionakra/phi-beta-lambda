@@ -3838,5 +3838,10 @@
     "id": "the-man-show",
     "title": "The Man Show",
     "type": "tv-show"
+  },
+  {
+    "id": "the-pete-holmes-show",
+    "title": "The Pete Holmes Show",
+    "type": "tv-show"
   }
 ]
