@@ -758,7 +758,8 @@
     "id": "nacho-garcia",
     "name": "Nacho García",
     "subjects": [],
-    "genres": []
+    "genres": [],
+    "covid": true
   },
   {
     "id": "nick-kroll",
@@ -2387,7 +2388,8 @@
     "id": "yunez-chaib",
     "name": "Yunez Chaib",
     "subjects": [],
-    "genres": []
+    "genres": [],
+    "covid": true
   },
   {
     "id": "sacha-baron-cohen",
@@ -5242,7 +5244,8 @@
     "id": "jorge-yorya",
     "name": "Jorge Yorya",
     "subjects": [],
-    "genres": []
+    "genres": [],
+    "covid": true
   },
   {
     "id": "just-nesh",
@@ -8269,6 +8272,36 @@
   {
     "id": "ana-bravo",
     "name": "Ana Bravo",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "blanche-gardin",
+    "name": "Blanche Gardin",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "jack-whitehall",
+    "name": "Jack Whitehall",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "fernando-erre",
+    "name": "Fernando Erre",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "ramon-gomez-de-la-serna",
+    "name": "Ramón Gómez De La Serna",
+    "subjects": [],
+    "genres": []
+  },
+  {
+    "id": "rob-reiner",
+    "name": "Rob Reiner",
     "subjects": [],
     "genres": []
   }

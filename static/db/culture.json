@@ -3843,5 +3843,100 @@
     "id": "the-pete-holmes-show",
     "title": "The Pete Holmes Show",
     "type": "tv-show"
+  },
+  {
+    "id": "oceans-eleven",
+    "title": "Ocean's Eleven",
+    "type": "movie"
+  },
+  {
+    "id": "oceans-twelve",
+    "title": "Ocean's Twelve",
+    "type": "movie"
+  },
+  {
+    "id": "el-lobo-de-wall-street",
+    "title": "El Lobo De Wall Street",
+    "type": "movie"
+  },
+  {
+    "id": "la-princesa-prometida",
+    "title": "La Princesa Prometida",
+    "type": "movie"
+  },
+  {
+    "id": "the-jerk",
+    "title": "The Jerk",
+    "type": "movie"
+  },
+  {
+    "id": "humor-absurdo-en-espana",
+    "title": "Humor Absurdo En España",
+    "type": "book"
+  },
+  {
+    "id": "como-tener-exito-escribiendo-sketches",
+    "title": "Cómo Tener Éxito Escribiendo Sketches",
+    "type": "book"
+  },
+  {
+    "id": "vaya-semanita",
+    "title": "Vaya Semanita",
+    "type": "tv-show"
+  },
+  {
+    "id": "jack-whitehall-im-only-joking",
+    "title": "Jack Whitehall: I'm Only Joking",
+    "type": "comedy-special"
+  },
+  {
+    "id": "jim-gaffigan-the-pale-tourist",
+    "title": "Jim Gaffigan: The Pale Tourist",
+    "type": "comedy-special"
+  },
+  {
+    "id": "john-cleese-there-is-no-hope",
+    "title": "John Cleese: There Is No Hope",
+    "type": "comedy-special"
+  },
+  {
+    "id": "long-distance-relationship",
+    "title": "Long-Distance Relationship",
+    "type": "radio-show"
+  },
+  {
+    "id": "casa-de-mi-padre",
+    "title": "Casa De Mi Padre",
+    "type": "movie"
+  },
+  {
+    "id": "esta-passant",
+    "title": "Està Passant",
+    "type": "tv-show"
+  },
+  {
+    "id": "drama",
+    "title": "Drama",
+    "type": "tv-show-series"
+  },
+  {
+    "id": "rory-scovel-tries-standup-for-the-first-time",
+    "title": "Rory Scovel: Tries Standup For The First Time",
+    "type": "comedy-special"
+  },
+  {
+    "id": "rory-scovel-the-charleston-special",
+    "title": "Rory Scovel: The Charleston Special",
+    "type": "comedy-special"
+  },
+  {
+    "id": "polonia",
+    "title": "Polònia",
+    "type": "tv-show"
+  },
+  {
+    "id": "the-eric-andre-show",
+    "title": "The Eric Andre Show",
+    "type": "tv-show"
   }
 ]
